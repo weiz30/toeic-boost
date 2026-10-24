@@ -113,6 +113,31 @@ function speak(text, opts = {}) {
   return u;
 }
 
+/* 真人-ish 發音：直接串有道詞典的發音檔（免費、不用 key、不佔網站空間）
+   失敗（離線／被擋／429）就退回瀏覽器內建語音。 */
+let audioEl = null;
+const sayCache = new Set();
+function sayExternal(text) {
+  const t = String(text || '').trim();
+  if (!state.sound || !t) return null;
+  try {
+    if (audioEl) { audioEl.pause(); audioEl = null; }
+    window.speechSynthesis?.cancel();
+    const url = 'https://dict.youdao.com/dictvoice?type=2&audio=' + encodeURIComponent(t);
+    const a = new Audio(url);
+    a.preload = 'auto';
+    audioEl = a;
+    const fallback = () => { speak(t, { rate: 0.9 }); };
+    a.addEventListener('error', fallback, { once: true });
+    const p = a.play();
+    if (p && typeof p.catch === 'function') p.catch(fallback);
+    sayCache.add(url);
+    return a;
+  } catch (e) {
+    return speak(t, { rate: 0.9 });
+  }
+}
+
 /* ------------------------------------------------------------------ 資料 */
 let CURR = { meta: {}, days: [] };
 let INDEX = new Map();        // word(lower) → { day, item, theme, level }
@@ -737,14 +762,14 @@ function bindEvents() {
   // 每日課程
   $('#wordSpeak').addEventListener('click', () => {
     const it = dayOf(dayView.n).items[dayView.i];
-    if (it) speak(`${it.word}. ${(it.ex?.[0]?.[0]) || ''}`, { rate: 0.9 });
+    if (it) sayExternal(it.word);
   });
   $('#exList').addEventListener('click', (e) => {
     const b = e.target.closest('[data-ex]');
     if (!b) return;
     const it = dayOf(dayView.n).items[dayView.i];
     const p = it?.ex?.[+b.dataset.ex];
-    if (p) speak(p[0], { rate: 0.9 });
+    if (p) sayExternal(p[0]);
   });
   $('#wordKnow').addEventListener('click', () => markWord(true));
   $('#wordHazy').addEventListener('click', () => markWord(false));
@@ -789,7 +814,7 @@ function bindEvents() {
   $('#reviewShow').addEventListener('click', showAnswer);
   $('#reviewSpeak').addEventListener('click', () => {
     const it = lookup(review.queue[review.i])?.item;
-    if (it) speak(`${it.word}. ${(it.ex?.[0]?.[0]) || ''}`, { rate: 0.9 });
+    if (it) sayExternal(it.word);
   });
   $('#reviewGrade').addEventListener('click', (e) => {
     const b = e.target.closest('[data-grade]');
@@ -810,7 +835,12 @@ function bindEvents() {
   $('#qSkip').addEventListener('click', () => { session.idx = Math.min(session.idx + 1, session.queue.length); nextQuestion(); });
   $('#qPlay').addEventListener('click', () => {
     const q = session.queue[session.idx];
-    if (q) autoPlay(q);
+    if (!q) return;
+    const wrap = $('#qAudioWrap');
+    wrap.classList.add('is-playing');
+    const a = sayExternal(q.audio);
+    if (a) a.addEventListener('ended', () => wrap.classList.remove('is-playing'), { once: true });
+    else setTimeout(() => wrap.classList.remove('is-playing'), 1200);
   });
 
   // 模考
@@ -823,7 +853,7 @@ function bindEvents() {
   $('#examQuit').addEventListener('click', endExam);
   $('#examPlay').addEventListener('click', () => {
     const q = exam.list[exam.idx];
-    if (q && q.audio) speak(q.audio, { rate: 0.92 });
+    if (q && q.audio) sayExternal(q.audio);
   });
 
   // 進度
