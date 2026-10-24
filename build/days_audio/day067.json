@@ -401,24 +401,24 @@
    ]
   },
   {
-   "word": "on one zone",
+   "word": "have access to",
    "ph": "",
-   "pos": "phr. 在某人的區域",
-   "zh": "在區域內",
-   "colloc": "work on one zone 在某區域工作 | stay on one zone 待在區域內",
-   "distinct": "in a zone 在區域中 | out of zone 超出範圍",
+   "pos": "phr. 有權使用；可進入",
+   "zh": "存取；使用",
+   "colloc": "have access to information 獲取資訊 | have access to resources 使用資源",
+   "distinct": "approach 靠近 | approach 方法",
    "ex": [
     [
-     "Each salesperson is assigned to focus on one zone.",
-     "每位銷售人員都被分配負責專注於一個區域。"
+     "Employees have access to the company database from home.",
+     "員工可以從家中存取公司資料庫。"
     ],
     [
-     "We are currently working on one zone to improve efficiency.",
-     "我們目前正在特定區域工作以提升效率。"
+     "Only authorized staff have access to this secured area.",
+     "僅有授權員工能進入此安全區域。"
     ],
     [
-     "Please ensure all equipment stays on one zone for inventory.",
-     "請確保所有設備都留在同一個區域以便盤點。"
+     "We all have access to the latest market research reports.",
+     "我們都能獲取最新的市場研究報告。"
     ]
    ]
   },

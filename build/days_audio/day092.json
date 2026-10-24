@@ -27,24 +27,24 @@
    ]
   },
   {
-   "word": "over price",
+   "word": "overprice",
    "ph": "",
-   "pos": "v. 把價格定得過高",
-   "zh": "標價過高；定價過高",
-   "colloc": "over price the product 把產品定價過高 | avoid over pricing 避免定價過高",
-   "distinct": "overcharge 索價過高 | inflate price 哄抬價格",
+   "pos": "v. 定價過高",
+   "zh": "定價過高",
+   "colloc": "grossly overpriced 嚴重定價過高 | overpriced product 定價過高的產品",
+   "distinct": "overcharge 收費過高 | expensive 昂貴的",
    "ex": [
     [
-     "Do not over price the items in our new catalog.",
-     "別把我們新目錄中的商品定價過高。"
+     "The company overpriced its new software product.",
+     "這家公司將其新軟體產品定價過高。"
     ],
     [
-     "They tend to over price their services during the peak season.",
-     "他們傾向在旺季將服務定價過高。"
+     "Consumers feel the items are slightly overpriced.",
+     "消費者覺得這些商品價格稍顯過高。"
     ],
     [
-     "If you over price the inventory, sales will likely decline.",
-     "如果你將庫存定價過高，銷售量可能會下降。"
+     "We shouldn't overprice our services this season.",
+     "我們這個季度不應該將服務定價過高。"
     ]
    ]
   },

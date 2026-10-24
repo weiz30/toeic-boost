@@ -379,24 +379,24 @@
    ]
   },
   {
-   "word": "get alone",
+   "word": "get along",
    "ph": "",
-   "pos": "phr. 獨處",
-   "zh": "獨自相處",
-   "colloc": "get alone well 獨處得好 | time to get alone 需要獨處時間",
-   "distinct": "be alone 獨自一人 | get along 相處融洽",
+   "pos": "phr. 相處",
+   "zh": "相處融洽；進展",
+   "colloc": "get along well 相處得很好 | get along with colleagues 與同事相處",
+   "distinct": "get on 進行（與 get along 同義）| interact 互動",
    "ex": [
     [
-     "Sometimes I need time to get alone and focus on work.",
-     "有時我需要時間獨處並專注於工作。"
+     "She gets along well with her team members.",
+     "她與團隊成員相處得很融洽。"
     ],
     [
-     "She prefers to get alone in the library to study.",
-     "她偏好在圖書館獨處進行研究。"
+     "It is important to get along in the office.",
+     "在辦公室裡保持良好相處很重要。"
     ],
     [
-     "Finding space to get alone in a busy office is difficult.",
-     "在忙碌的辦公室中找空間獨處很困難。"
+     "How are you getting along with the project?",
+     "你那個專案進行得如何？"
     ]
    ]
   },

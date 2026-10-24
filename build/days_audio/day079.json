@@ -5,24 +5,24 @@
  "kind": "phrase",
  "items": [
   {
-   "word": "make forecast",
+   "word": "make a forecast",
    "ph": "",
-   "pos": "phr. 做出預測",
-   "zh": "做出預測",
-   "colloc": "make an accurate forecast 精確預測 | make a sales forecast 做出銷售預測",
-   "distinct": "predict 預測（動詞） | projection 預估值",
+   "pos": "phr. 進行預測",
+   "zh": "預測；預估",
+   "colloc": "make a sales forecast 進行銷售預測 | make a market forecast 進行市場預測",
+   "distinct": "predict 預測（動詞）| projection 預估值",
    "ex": [
     [
-     "The analyst will make forecast for the next quarter.",
-     "分析師將為下一季做出預測。"
+     "The firm will make a forecast for next year.",
+     "該公司將對明年進行預測。"
     ],
     [
-     "It is difficult to make forecast during market volatility.",
-     "在市場波動期間很難做出預測。"
+     "It is hard to make a forecast right now.",
+     "現在很難做出預測。"
     ],
     [
-     "Our team needs to make forecast regarding annual revenue.",
-     "我們的團隊需要對年度營收做出預測。"
+     "Analysts make a forecast based on recent data.",
+     "分析師根據近期數據進行預測。"
     ]
    ]
   },

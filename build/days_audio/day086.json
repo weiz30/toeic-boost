@@ -269,24 +269,24 @@
    ]
   },
   {
-   "word": "deep and",
+   "word": "in terms of",
    "ph": "",
-   "pos": "adj. 深度的；廣泛的",
-   "zh": "深度的；廣泛的",
-   "colloc": "deep and thorough analysis 深入詳盡的分析 | deep and meaningful conversation 有深度的對話",
-   "distinct": "profound 深奧的 | extensive 廣泛的",
+   "pos": "phr. 就...而言",
+   "zh": "就...而言；在...方面",
+   "colloc": "in terms of quality 就品質而言 | in terms of price 就價格而言",
+   "distinct": "regarding 關於 | with respect to 關於；對於",
    "ex": [
     [
-     "They conducted a deep and detailed review.",
-     "他們進行了一項深入且詳盡的審查。"
+     "The job is ideal in terms of salary.",
+     "就薪資而言，這份工作很理想。"
     ],
     [
-     "The project requires a deep and clear vision.",
-     "該專案需要深入且清晰的願景。"
+     "How is the plan in terms of feasibility?",
+     "就可行性而言，這個計畫如何？"
     ],
     [
-     "A deep and honest discussion is needed.",
-     "我們需要一場深入且誠懇的討論。"
+     "We evaluate success in terms of growth.",
+     "我們以成長的角度來評估成功。"
     ]
    ]
   },

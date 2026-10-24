@@ -225,24 +225,24 @@
    ]
   },
   {
-   "word": "in the finance of",
+   "word": "run into",
    "ph": "",
-   "pos": "phr. 在…的財務中",
-   "zh": "財務方面；資金方面",
-   "colloc": "manage the finance of 管理...的財務 | oversee the finance of 監督...的資金",
-   "distinct": "in the field of 在...領域 | regarding the finance of 關於...的財務",
+   "pos": "phr. 偶遇；撞見；遇到（困難）",
+   "zh": "偶遇；遭遇",
+   "colloc": "run into a problem 遇到問題 | run into a colleague 巧遇同事",
+   "distinct": "bump into 撞見 | run across 無意間發現",
    "ex": [
     [
-     "We need to be transparent in the finance of this venture.",
-     "我們在這次創投的財務上必須保持透明。"
+     "We ran into some technical issues during the software update.",
+     "我們在軟體更新期間遇到了技術問題。"
     ],
     [
-     "He plays a key role in the finance of large-scale projects.",
-     "他在大型專案的財務方面扮演關鍵角色。"
+     "I ran into my former boss at the airport yesterday.",
+     "我昨天在機場巧遇我以前的老闆。"
     ],
     [
-     "Significant changes occurred in the finance of the public sector.",
-     "公共部門的財務方面發生了重大變革。"
+     "The marketing team ran into unexpected delays this week.",
+     "行銷團隊這週遇到了意料之外的延誤。"
     ]
    ]
   },
@@ -335,24 +335,24 @@
    ]
   },
   {
-   "word": "make a conclusion",
+   "word": "keep in mind",
    "ph": "",
-   "pos": "phr. 下結論",
-   "zh": "作出結論；總結",
-   "colloc": "make a logical conclusion 作出合乎邏輯的結論 | fail to make a conclusion 未能得出結論",
-   "distinct": "come to a conclusion 得出結論 | draw a conclusion 歸納結論",
+   "pos": "phr. 記住；考慮到",
+   "zh": "記住；留意",
+   "colloc": "keep in mind the deadline 記住截止日期 | keep in mind the budget 考慮預算",
+   "distinct": "bear in mind 銘記 | hold in mind 放在心上",
    "ex": [
     [
-     "It is too early to make a conclusion about the survey results.",
-     "現在就針對調查結果下結論還太早。"
+     "Please keep in mind that the office closes at five.",
+     "請記住辦公室五點就會關門。"
     ],
     [
-     "The committee will make a conclusion after reviewing the evidence.",
-     "委員會在審閱證據後將會作出結論。"
+     "You should keep in mind our client's specific requirements.",
+     "你應該要將客戶的特殊要求放在心上。"
     ],
     [
-     "He refused to make a conclusion without further market data.",
-     "在沒有進一步市場數據的情況下，他拒絕下結論。"
+     "Keep in mind the importance of quality in every task.",
+     "請務必記住每項工作中品質的重要性。"
     ]
    ]
   },

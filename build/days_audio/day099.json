@@ -115,24 +115,24 @@
    ]
   },
   {
-   "word": "give a in advance",
+   "word": "go over",
    "ph": "",
-   "pos": "phr. 事先告知；預付",
-   "zh": "事先告知；預付",
-   "colloc": "payment in advance 預付款 | notice in advance 事先通知",
-   "distinct": "ahead of time 提前 | beforehand 事先",
+   "pos": "phr. 檢閱；仔細檢查；複習",
+   "zh": "檢閱；檢查；複習",
+   "colloc": "go over the details 仔細檢查細節 | go over the report 複習報告",
+   "distinct": "examine 調查 | review 複習",
    "ex": [
     [
-     "Please give a notice in advance for absence.",
-     "請假請事先告知。"
+     "Let us go over the contract terms again carefully.",
+     "讓我們再次仔細檢查合約條款。"
     ],
     [
-     "We require the deposit to be given in advance.",
-     "我們要求預付訂金。"
+     "The manager wants to go over the budget proposal.",
+     "經理想要檢查這份預算提案。"
     ],
     [
-     "It is better to give an answer in advance.",
-     "最好能事先給予答覆。"
+     "We need to go over the agenda before starting.",
+     "我們開始前需要先過一遍議程。"
     ]
    ]
   },
@@ -203,24 +203,24 @@
    ]
   },
   {
-   "word": "have a round",
+   "word": "come across",
    "ph": "",
-   "pos": "phr. 進行一輪（賽事或談判）",
-   "zh": "進行一輪",
-   "colloc": "have a second round 進行第二輪 | have a round of negotiations 進行一輪談判",
-   "distinct": "a round of drinks 一輪飲料 | a round of applause 一陣掌聲",
+   "pos": "phr. 偶然遇見；給人...印象",
+   "zh": "偶然遇見；印象",
+   "colloc": "come across as professional 給人專業的印象 | come across an error 偶然發現錯誤",
+   "distinct": "encounter 遭遇 | seem 似乎",
    "ex": [
     [
-     "We will have a round of discussions later.",
-     "我們稍後會進行一輪討論。"
+     "I happened to come across this interesting document.",
+     "我偶然發現了這份有趣的文件。"
     ],
     [
-     "The team will have a round of interviews.",
-     "團隊將會進行一輪面試。"
+     "She comes across as a very experienced leader.",
+     "她給人一種經驗非常豐富的領導者印象。"
     ],
     [
-     "They decided to have a round of talks.",
-     "他們決定進行一輪會談。"
+     "We might come across some issues during testing.",
+     "我們在測試期間可能會偶然遇到一些問題。"
     ]
    ]
   },

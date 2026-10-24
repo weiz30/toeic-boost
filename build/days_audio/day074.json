@@ -357,24 +357,24 @@
    ]
   },
   {
-   "word": "be influenced by appearance",
+   "word": "be responsible for",
    "ph": "",
-   "pos": "phr. 受外表影響",
-   "zh": "受外觀影響；以貌取人",
-   "colloc": "be heavily influenced 被嚴重影響 | appearance matters 外表很重要",
-   "distinct": "be affected by 受某事影響 | focus on appearance 專注於外觀",
+   "pos": "phr. 負責",
+   "zh": "負責；承擔責任",
+   "colloc": "be responsible for the project 負責該專案 | be responsible for safety 負責安全",
+   "distinct": "be in charge of 主管；掌管 | take responsibility 承擔責任",
    "ex": [
     [
-     "One should not be influenced by appearance during the interview.",
-     "面試時不應該受到外表的影響。"
+     "Mr. Chen is responsible for the marketing budget.",
+     "陳先生負責行銷預算。"
     ],
     [
-     "The decision was clearly influenced by the product's appearance.",
-     "這項決策明顯受到了產品外觀的影響。"
+     "Who is responsible for checking these reports?",
+     "誰負責核對這些報告？"
     ],
     [
-     "Do not let yourself be influenced by appearance alone.",
-     "別讓自己僅僅被外表所影響。"
+     "She is responsible for training new employees.",
+     "她負責訓練新進員工。"
     ]
    ]
   },

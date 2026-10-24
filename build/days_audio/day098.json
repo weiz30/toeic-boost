@@ -93,24 +93,24 @@
    ]
   },
   {
-   "word": "down size",
+   "word": "downsize",
    "ph": "",
    "pos": "v. 裁員；縮小規模",
-   "zh": "裁減人力；縮減規模",
-   "colloc": "downsize the workforce 裁減員工 | forced to downsize 被迫縮減規模",
-   "distinct": "lay off 解僱 | restructure 重組",
+   "zh": "裁員；縮小規模",
+   "colloc": "downsize the workforce 精簡人力 | forced to downsize 被迫縮減規模",
+   "distinct": "lay off 解雇 | restructure 重組",
    "ex": [
     [
-     "The corporation had to downsize due to falling profits.",
-     "由於利潤下降，該公司不得不縮減規模。"
+     "The firm had to downsize to remain profitable.",
+     "為了保持獲利，該公司不得不縮減規模。"
     ],
     [
-     "Many firms downsize to remain profitable in tough markets.",
-     "許多公司為了在嚴峻市場中保持獲利而裁員。"
+     "Management decided to downsize the marketing department.",
+     "管理層決定縮減行銷部門的規模。"
     ],
     [
-     "Management decided to downsize the department next month.",
-     "管理層決定下個月縮減該部門的人力。"
+     "Will the company downsize during the economic downturn?",
+     "公司會在經濟不景氣時進行裁員嗎？"
     ]
    ]
   },
@@ -159,46 +159,46 @@
    ]
   },
   {
-   "word": "dressed in suit",
+   "word": "dressed in a suit",
    "ph": "",
    "pos": "phr. 穿著西裝",
-   "zh": "身著西裝",
-   "colloc": "be dressed in a suit 穿著西裝 | appear dressed in a suit 以西裝造型現身",
-   "distinct": "wear a suit 穿著西裝 | in a suit 穿著西裝",
+   "zh": "穿著西裝",
+   "colloc": "professionally dressed in a suit 專業地穿著西裝 | be dressed in a suit 穿著西裝",
+   "distinct": "wearing a suit 穿著西裝（動態） | formal attire 正式服裝",
    "ex": [
     [
-     "The executive was dressed in a suit during the presentation.",
-     "那位高階主管在簡報時穿著西裝。"
+     "He arrived at the meeting dressed in a suit.",
+     "他穿著西裝出席了這次會議。"
     ],
     [
-     "All candidates arrived dressed in suits for the interview.",
-     "所有應徵者都穿著西裝抵達面試現場。"
+     "All candidates must be dressed in a suit today.",
+     "今天所有候選人都必須穿著西裝。"
     ],
     [
-     "He is always dressed in a suit when visiting clients.",
-     "他拜訪客戶時總是一身西裝打扮。"
+     "The manager is dressed in a suit for the interview.",
+     "經理為了這次面試特地穿著西裝。"
     ]
    ]
   },
   {
-   "word": "driving direction",
+   "word": "driving directions",
    "ph": "",
-   "pos": "n. 開車路線指南",
-   "zh": "開車指引；駕駛方向",
-   "colloc": "provide driving directions 提供開車路線 | follow the driving directions 按照開車指引",
-   "distinct": "navigation 導航 | route map 路線圖",
+   "pos": "n. 開車導航路線",
+   "zh": "開車導航路線",
+   "colloc": "clear driving directions 清晰的路線指示 | provide driving directions 提供導航路線",
+   "distinct": "map 地圖 | navigation system 導航系統",
    "ex": [
     [
-     "Could you send me the driving directions to your office?",
-     "你可以把去你辦公室的開車路線寄給我嗎？"
+     "Could you send me the driving directions please?",
+     "可以請你傳送開車路線給我嗎？"
     ],
     [
-     "The website provides clear driving directions for visitors.",
-     "該網站為訪客提供了清晰的開車路線指引。"
+     "The website provides accurate driving directions to us.",
+     "該網站為我們提供了準確的開車路線。"
     ],
     [
-     "We lost our way, so we checked the driving directions.",
-     "我們迷路了，所以查看了開車路線指引。"
+     "I followed the driving directions to the factory.",
+     "我按照開車路線指示抵達了工廠。"
     ]
    ]
   },

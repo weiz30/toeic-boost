@@ -357,24 +357,24 @@
    ]
   },
   {
-   "word": "disease healing",
+   "word": "as a result of",
    "ph": "",
-   "pos": "phr. 疾病治癒",
-   "zh": "疾病治癒",
-   "colloc": "promote disease healing 促進疾病治癒 | process of disease healing 疾病治癒過程",
-   "distinct": "disease prevention 疾病預防 | recovery 恢復（健康）",
+   "pos": "phr. 因為...的結果",
+   "zh": "由於；因為",
+   "colloc": "as a result of the delay 因為延誤 | as a result of the policy 因為這項政策",
+   "distinct": "due to 由於（常接名詞）| because of 因為（連接詞引導原因）",
    "ex": [
     [
-     "The medical team is researching new methods for disease healing.",
-     "醫療團隊正在研究疾病治癒的新方法。"
+     "The flight was canceled as a result of the storm.",
+     "由於暴風雨，航班被取消了。"
     ],
     [
-     "Proper nutrition plays a key role in the disease healing process.",
-     "良好的營養在疾病治癒過程中扮演關鍵角色。"
+     "Sales rose as a result of the new campaign.",
+     "由於新的促銷活動，銷售額上升了。"
     ],
     [
-     "Modern technology has significantly improved the rates of disease healing.",
-     "現代技術顯著提升了疾病的治癒率。"
+     "Production stopped as a result of the strike.",
+     "由於罷工，生產停止了。"
     ]
    ]
   },

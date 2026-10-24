@@ -27,24 +27,24 @@
    ]
   },
   {
-   "word": "in experience",
+   "word": "on short notice",
    "ph": "",
-   "pos": "phr. 在經驗中",
-   "zh": "在經驗中；憑藉經驗",
-   "colloc": "gain in experience 累積經驗 | grow in experience 增長經驗",
-   "distinct": "inexperience 缺乏經驗（名詞） | inexperienced 未經世面的（形容詞）",
+   "pos": "phr. 在極短時間通知下",
+   "zh": "臨時；通知很倉促",
+   "colloc": "at short notice 臨時 | on very short notice 在非常臨時的情況下",
+   "distinct": "at the last minute 在最後一刻 | impromptu 即興的",
    "ex": [
     [
-     "Young employees grow in experience through challenging tasks.",
-     "年輕員工透過挑戰性任務累積經驗。"
+     "He had to travel on short notice yesterday.",
+     "他昨天臨時被派去出差。"
     ],
     [
-     "Managers improve in experience by handling various crises.",
-     "經理人藉由處理各種危機提升經驗值。"
+     "It is difficult to arrange on short notice.",
+     "要在短時間通知下安排是很困難的。"
     ],
     [
-     "Staff gain in experience during the internship program.",
-     "員工在實習計畫期間獲得經驗。"
+     "They canceled the event on short notice.",
+     "他們在很倉促的情況下取消了活動。"
     ]
    ]
   },
@@ -313,24 +313,24 @@
    ]
   },
   {
-   "word": "keep a up to date",
+   "word": "keep up to date",
    "ph": "",
-   "pos": "phr. 保持最新狀態",
-   "zh": "保持更新",
-   "colloc": "keep a up to date with trends 跟上趨勢 | keep a up to date with news 掌握最新消息",
-   "distinct": "up to date 最新的 | keep informed 隨時獲悉",
+   "pos": "phr. 保持最新",
+   "zh": "保持最新；更新",
+   "colloc": "keep up to date with trends 跟上趨勢 | keep up to date with news 更新新聞",
+   "distinct": "stay current 保持時新 | update 更新",
    "ex": [
     [
-     "The manager wants to keep a up to date status report.",
-     "經理希望保持狀態報告更新。"
+     "Please keep up to date with the schedule.",
+     "請隨時更新並留意行程表。"
     ],
     [
-     "We try to keep a up to date inventory list.",
-     "我們試著保持庫存清單的更新。"
+     "It helps to keep up to date with technology.",
+     "隨時掌握科技趨勢很有幫助。"
     ],
     [
-     "It is vital to keep a up to date client database.",
-     "保持客戶資料庫的更新至關重要。"
+     "We must keep up to date with new regulations.",
+     "我們必須隨時掌握新的法規。"
     ]
    ]
   },
@@ -423,24 +423,24 @@
    ]
   },
   {
-   "word": "lead down to",
+   "word": "lead to",
    "ph": "",
-   "pos": "phr. 通往；導致",
-   "zh": "通往；導致",
-   "colloc": "path lead down to 通往...的路徑 | lead down to a result 導致結果",
-   "distinct": "result in 導致 | head towards 朝向...前進",
+   "pos": "phr. 導致",
+   "zh": "導致；引起；通往",
+   "colloc": "lead to success 導致成功 | lead to a problem 導致問題",
+   "distinct": "cause 導致（動詞）| result in 導致；產生結果",
    "ex": [
     [
-     "The small corridor will lead down to the lobby.",
-     "這條小走廊將通往大廳。"
+     "Poor planning often leads to many delays.",
+     "計畫不周往往會導致許多延誤。"
     ],
     [
-     "Internal issues eventually lead down to lower profits.",
-     "內部問題最終導致利潤下降。"
+     "These actions will lead to better results.",
+     "這些行動將會帶來更好的成果。"
     ],
     [
-     "This narrow path will lead down to the beach.",
-     "這條狹窄小徑將通往海灘。"
+     "What led to the decision to resign?",
+     "是什麼導致了辭職的決定？"
     ]
    ]
   }

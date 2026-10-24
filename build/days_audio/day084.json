@@ -181,46 +181,46 @@
    ]
   },
   {
-   "word": "be close to the public",
+   "word": "be closed to the public",
    "ph": "",
-   "pos": "phr. 對大眾親近；接近民眾",
-   "zh": "對大眾親近；接近民眾",
-   "colloc": "stay close to the public 與民眾保持聯繫 | remain close to the public 親近大眾",
-   "distinct": "be open to the public 對大眾開放 | be accessible to the public 易於大眾接近",
+   "pos": "phr. 不對外開放",
+   "zh": "不對外開放",
+   "colloc": "remain closed to the public 持續不對外開放 | temporarily closed to the public 暫時不對外開放",
+   "distinct": "private 私人的 | restricted access 限制進入",
    "ex": [
     [
-     "The brand aims to be close to the public.",
-     "該品牌目標是親近大眾。"
+     "The building is closed to the public today.",
+     "該大樓今天不對外開放。"
     ],
     [
-     "We strive to be close to the public.",
-     "我們致力於與民眾保持聯繫。"
+     "That area is permanently closed to the public.",
+     "那個區域永久不對外開放。"
     ],
     [
-     "The policy intends to be close to the public.",
-     "這項政策意在貼近民意。"
+     "The gallery is closed to the public for repairs.",
+     "畫廊因維修而不對外開放。"
     ]
    ]
   },
   {
-   "word": "be close to traffic",
+   "word": "break down",
    "ph": "",
-   "pos": "phr. 靠近車流；靠近交通要道",
-   "zh": "靠近車流；靠近交通要道",
-   "colloc": "located close to traffic 位於交通繁忙處 | stay close to traffic 靠近車道",
-   "distinct": "be near the road 靠近道路 | be in heavy traffic 處於交通擁塞中",
+   "pos": "phr. 故障；崩潰；分類",
+   "zh": "故障；損壞；崩潰",
+   "colloc": "the machine broke down 機器故障 | the negotiation broke down 談判破裂",
+   "distinct": "malfunction 失靈；故障 | fail 失敗；故障",
    "ex": [
     [
-     "The office is located close to traffic.",
-     "辦公室位於交通要道旁。"
+     "The printer broke down during the meeting.",
+     "會議期間印表機故障了。"
     ],
     [
-     "This area is too close to traffic.",
-     "這個區域太靠近車流了。"
+     "Talks broke down over the pricing issue.",
+     "談判因價格問題而破裂。"
     ],
     [
-     "The site is not close to traffic noise.",
-     "該場地離交通噪音不遠。"
+     "Our delivery truck broke down this morning.",
+     "我們的貨車今天早上故障了。"
     ]
    ]
   },

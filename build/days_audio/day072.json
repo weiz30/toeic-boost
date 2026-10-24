@@ -115,24 +115,24 @@
    ]
   },
   {
-   "word": "an pay",
+   "word": "put off",
    "ph": "",
-   "pos": "n. 薪資",
-   "zh": "薪水；報酬",
-   "colloc": "monthly pay 月薪 | pay raise 加薪",
-   "distinct": "salary 固定薪水 | wage 時薪或週薪",
+   "pos": "phr. 推遲",
+   "zh": "推遲；延後",
+   "colloc": "put off a meeting 推遲會議 | put off the decision 延後決定",
+   "distinct": "postpone 推遲（正式用語）| delay 延遲（指時間上的拖延）",
    "ex": [
     [
-     "Your pay will be deposited on the fifth.",
-     "您的薪資將於五號存入帳戶。"
+     "We decided to put off the launch date.",
+     "我們決定推遲發表日期。"
     ],
     [
-     "The position offers competitive pay and benefits.",
-     "該職位提供具競爭力的薪資與福利。"
+     "Don't put off responding to the client's email.",
+     "不要推遲回覆客戶的電子郵件。"
     ],
     [
-     "Employees are demanding higher pay this year.",
-     "員工們今年要求提高薪資。"
+     "The board meeting was put off until Friday.",
+     "董事會會議被推遲到週五。"
     ]
    ]
   },
@@ -291,24 +291,24 @@
    ]
   },
   {
-   "word": "keep add",
+   "word": "in accordance with",
    "ph": "",
-   "pos": "phr. 繼續增加",
-   "zh": "不斷增加；持續加入",
-   "colloc": "keep adding more 持續增加更多 | keep adding items 持續加入項目",
-   "distinct": "continue adding 持續增加 | keep increasing 保持成長",
+   "pos": "phr. 與…一致；依照",
+   "zh": "依照；根據",
+   "colloc": "in accordance with rules 依照規則 | in accordance with regulations 根據規定",
+   "distinct": "according to 根據 | in line with 符合",
    "ex": [
     [
-     "We should keep add new features to the app.",
-     "我們應該持續為應用程式增加新功能。"
+     "The work was completed in accordance with the contract terms.",
+     "工作是按照合約條款完成的。"
     ],
     [
-     "The manager will keep add names to the list.",
-     "經理會不斷將名字加入名單中。"
+     "We handle all requests in accordance with company policy.",
+     "我們皆依照公司政策處理所有請求。"
     ],
     [
-     "Please keep add relevant data to the report.",
-     "請持續將相關數據加入到報告中。"
+     "Please fill out the form in accordance with these instructions.",
+     "請依照這些說明填寫表格。"
     ]
    ]
   },
@@ -379,24 +379,24 @@
    ]
   },
   {
-   "word": "seals target",
+   "word": "sales target",
    "ph": "",
-   "pos": "phr. 鎖定目標",
-   "zh": "確立目標；鎖定目標",
-   "colloc": "meet a target 達成目標 | set a target 設定目標",
-   "distinct": "fix target 設定目標 | achieve goal 達成目標",
+   "pos": "n. 銷售目標",
+   "zh": "銷售目標；業績指標",
+   "colloc": "meet the sales target 達到銷售目標 | exceed the sales target 超過銷售目標",
+   "distinct": "sales quota 銷售配額 | sales forecast 銷售預測",
    "ex": [
     [
-     "The marketing team seals target for this quarter.",
-     "行銷團隊確立了本季度的目標。"
+     "The team reached its quarterly sales target early.",
+     "團隊提前達成了季度銷售目標。"
     ],
     [
-     "He seals target to double the company sales.",
-     "他鎖定了將公司銷售額翻倍的目標。"
+     "We need to adjust our annual sales target.",
+     "我們需要調整年度銷售目標。"
     ],
     [
-     "Everyone works hard once the manager seals target.",
-     "一旦經理確立了目標，每個人都會努力工作。"
+     "Setting a realistic sales target is crucial.",
+     "制定切合實際的銷售目標至關重要。"
     ]
    ]
   },

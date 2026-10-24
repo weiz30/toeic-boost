@@ -27,24 +27,24 @@
    ]
   },
   {
-   "word": "take a seriously",
+   "word": "be in charge of",
    "ph": "",
-   "pos": "phr. 認真看待",
-   "zh": "認真看待；嚴肅對待",
-   "colloc": "take a matter seriously 認真看待某事 | take a threat seriously 嚴肅看待威脅",
-   "distinct": "consider carefully 謹慎考慮 | treat with respect 尊重對待",
+   "pos": "phr. 負責；掌管",
+   "zh": "負責；管理",
+   "colloc": "be in charge of the team 負責團隊 | be in charge of sales 負責銷售",
+   "distinct": "take charge of 接管 | responsible for 對…負責",
    "ex": [
     [
-     "Management takes these safety regulations very seriously.",
-     "管理層非常認真看待這些安全規範。"
+     "Mr. Chen is in charge of the new marketing project.",
+     "陳先生負責這項新的行銷專案。"
     ],
     [
-     "Please take the feedback from our clients seriously.",
-     "請認真看待來自客戶的回饋意見。"
+     "She will be in charge of the office relocation process.",
+     "她將負責辦公室搬遷的流程。"
     ],
     [
-     "We must take the budget deficit issue seriously this quarter.",
-     "我們本季必須認真看待預算赤字問題。"
+     "Who is currently in charge of this department's budget?",
+     "目前是誰在掌管這個部門的預算？"
     ]
    ]
   },

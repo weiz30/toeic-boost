@@ -159,90 +159,90 @@
    ]
   },
   {
-   "word": "a custom",
+   "word": "look forward to",
    "ph": "",
-   "pos": "n. 習俗；習慣",
-   "zh": "習俗；習慣",
-   "colloc": "local custom 當地習俗 | business custom 商業習慣",
-   "distinct": "habit 個人習慣 | tradition 傳統",
+   "pos": "phr. 期待",
+   "zh": "期待；盼望",
+   "colloc": "look forward to hearing from you 期待收到您的回信 | look forward to working with you 期待與您合作",
+   "distinct": "anticipate 預期（較正式或指預感）| expect 預期（指認定會發生）",
    "ex": [
     [
-     "It is a custom to exchange business cards politely.",
-     "有禮貌地交換名片是一種商業習慣。"
+     "I look forward to our meeting next week.",
+     "我期待下週與您會面。"
     ],
     [
-     "The company respects every local custom abroad.",
-     "該公司尊重在國外的每一項當地習俗。"
+     "The team looks forward to finishing the project.",
+     "團隊很期待完成這個專案。"
     ],
     [
-     "Understanding business customs helps with international negotiations.",
-     "了解商業習慣有助於國際談判。"
+     "We look forward to your attendance at the gala.",
+     "我們期待您出席晚宴。"
     ]
    ]
   },
   {
-   "word": "a point",
+   "word": "point out",
    "ph": "",
-   "pos": "n. 重點；觀點；分數",
-   "zh": "重點；觀點；分數",
-   "colloc": "make a point 強調；主張 | the main point 主要重點",
-   "distinct": "viewpoint 觀點 | argument 論點",
+   "pos": "phr. 指出",
+   "zh": "指出；提出說明",
+   "colloc": "point out a mistake 指出錯誤 | point out a problem 指出問題",
+   "distinct": "indicate 表明；標示 | remark 評論；談論",
    "ex": [
     [
-     "That is a good point for our next meeting.",
-     "那是我們下次會議的一個好觀點。"
+     "The manager pointed out a flaw in the plan.",
+     "經理指出了計畫中的一個瑕疵。"
     ],
     [
-     "He made a point of arriving early for work.",
-     "他特別注意提早抵達工作崗位。"
+     "She pointed out that the deadline was near.",
+     "她指出截止日期快到了。"
     ],
     [
-     "Please get straight to the point of your request.",
-     "請直接進入你請求的重點。"
+     "He pointed out several errors in the report.",
+     "他指出了報告中的幾處錯誤。"
     ]
    ]
   },
   {
-   "word": "a fix",
+   "word": "deal with",
    "ph": "",
-   "pos": "n. 修理；解決方案",
-   "zh": "修理；解決方案",
-   "colloc": "a quick fix 權宜之計 | a permanent fix 永久解決方案",
-   "distinct": "repair 修理 | solution 解決方案",
+   "pos": "phr. 處理",
+   "zh": "處理；應付；解決",
+   "colloc": "deal with a complaint 處理投訴 | deal with a crisis 處理危機",
+   "distinct": "handle 處理（指操作或應對）| address 處理（指對問題採取行動）",
    "ex": [
     [
-     "We need a long-term fix for the software bug.",
-     "我們需要針對軟體錯誤提出長期的解決方案。"
+     "Our department deals with all customer inquiries.",
+     "我們部門處理所有客戶諮詢。"
     ],
     [
-     "That is just a quick fix for the problem.",
-     "那只是該問題的一個權宜之計。"
+     "How will you deal with this sudden change?",
+     "你打算如何處理這個突發變更？"
     ],
     [
-     "The technician provided a fix for the broken printer.",
-     "技術人員為故障的印表機提供了修理方案。"
+     "He is experienced in dealing with difficult clients.",
+     "他很有處理困難客戶的經驗。"
     ]
    ]
   },
   {
-   "word": "a journey",
+   "word": "carry out",
    "ph": "",
-   "pos": "n. 旅行；歷程",
-   "zh": "旅行；歷程",
-   "colloc": "a long journey 長途旅行 | start a journey 開始旅程",
-   "distinct": "trip 短程旅行 | voyage 海上航行",
+   "pos": "phr. 執行",
+   "zh": "執行；實行；進行",
+   "colloc": "carry out research 進行研究 | carry out a task 執行任務",
+   "distinct": "execute 執行（指令或計畫）| implement 實施（政策或系統）",
    "ex": [
     [
-     "The business journey to Tokyo was very productive.",
-     "前往東京的商務旅程非常有成效。"
+     "The agency will carry out a market survey.",
+     "該代理商將進行一項市場調查。"
     ],
     [
-     "Our company began its journey over ten years ago.",
-     "我們公司是在十多年前開始發展歷程的。"
+     "Staff members carry out instructions from the CEO.",
+     "員工們執行執行長的指示。"
     ],
     [
-     "It was a long journey from the office to the factory.",
-     "從辦公室到工廠是一段漫長的旅程。"
+     "We must carry out the safety protocols correctly.",
+     "我們必須正確執行安全規範。"
     ]
    ]
   },
@@ -313,46 +313,46 @@
    ]
   },
   {
-   "word": "in title",
+   "word": "take part in",
    "ph": "",
-   "pos": "phr. 名義上；稱謂上",
-   "zh": "名義上；稱謂上",
-   "colloc": "in title only 僅有名義 | formal title 正式頭銜",
-   "distinct": "by name 以名字 | on paper 在文件上",
+   "pos": "phr. 參與",
+   "zh": "參與；參加",
+   "colloc": "take part in the meeting 參加會議 | take part in the project 參與專案",
+   "distinct": "participate in 參與（正式）| join 加入（社團/活動）",
    "ex": [
     [
-     "He is the manager in title but has no authority.",
-     "他名義上是經理，但並沒有實權。"
+     "All department heads will take part in the strategy meeting.",
+     "所有部門主管都將參加策略會議。"
     ],
     [
-     "The position exists in title but remains vacant.",
-     "該職位僅有名義存在，但仍處於空缺狀態。"
+     "We encourage employees to take part in the training program.",
+     "我們鼓勵員工參與這項培訓計畫。"
     ],
     [
-     "She is the owner in title of this small firm.",
-     "她名義上是這家小公司的負責人。"
+     "She decided to take part in the annual business conference.",
+     "她決定參加年度商業研討會。"
     ]
    ]
   },
   {
-   "word": "miss place",
+   "word": "misplace",
    "ph": "",
-   "pos": "v. 亂放；找不到",
-   "zh": "亂放；找不到",
-   "colloc": "misplace a file 弄丟文件 | misplace the key 弄丟鑰匙",
-   "distinct": "lose 遺失 | mislay 隨手放錯",
+   "pos": "v. 隨意放置",
+   "zh": "隨意放置；弄丟",
+   "colloc": "misplace a file 弄丟文件 | misplace an item 弄丟物品",
+   "distinct": "lose 遺失（指完全找不著）| mislay 隨手放置到找不到",
    "ex": [
     [
-     "I seem to have misplaced the signed contract copy.",
-     "我似乎把簽署過的合約副本弄丟了。"
+     "I must have misplaced the important document.",
+     "我一定是把那份重要文件弄丟了。"
     ],
     [
-     "Please do not misplace the important project documents.",
-     "請不要弄丟重要的專案文件。"
+     "Please do not misplace the login credentials.",
+     "請不要把登入憑證隨意放置。"
     ],
     [
-     "He often misplaces his glasses during busy work hours.",
-     "他在忙碌工作時經常弄丟眼鏡。"
+     "She realized she had misplaced her office key.",
+     "她發現她弄丟了辦公室鑰匙。"
     ]
    ]
   },
@@ -401,46 +401,46 @@
    ]
   },
   {
-   "word": "get your",
+   "word": "work out",
    "ph": "",
-   "pos": "phr. 取得你的；得到你的",
-   "zh": "取得你的；得到你的",
-   "colloc": "get your feedback 取得你的回饋 | get your approval 得到你的批准",
-   "distinct": "receive 收到 | acquire 取得",
+   "pos": "phr. 解決；計算出；健身",
+   "zh": "解決；算出；健身",
+   "colloc": "work out a solution 想出解決方案 | work out the details 釐清細節",
+   "distinct": "solve 解決（指難題）| figure out 理解；算出",
    "ex": [
     [
-     "I need to get your signature on this document.",
-     "我需要你在這份文件上簽名。"
+     "We need to work out a new budget plan.",
+     "我們需要制定一份新的預算計畫。"
     ],
     [
-     "Please get your reports ready by tomorrow morning.",
-     "請在明天早上前準備好你的報告。"
+     "The accountants are working out the total costs.",
+     "會計師們正在計算總成本。"
     ],
     [
-     "I want to get your opinion on the new design.",
-     "我想聽聽你對新設計的看法。"
+     "Things will work out if we stay focused.",
+     "如果我們保持專注，事情會有轉機。"
     ]
    ]
   },
   {
-   "word": "in voice",
+   "word": "be subject to",
    "ph": "",
-   "pos": "n. 發票；發貨單",
-   "zh": "發票；發貨單",
-   "colloc": "issue an invoice 開發票 | settle the invoice 付清發票金額",
-   "distinct": "receipt 收據 | bill 帳單",
+   "pos": "phr. 易受…影響；需服從於",
+   "zh": "受制於；有待於",
+   "colloc": "be subject to change 需待更改 | be subject to approval 需經批准",
+   "distinct": "be prone to 易於（負面）| be liable to 有風險的",
    "ex": [
     [
-     "Please send the invoice to our accounting department.",
-     "請將發票寄給我們的會計部門。"
+     "This project schedule is subject to change without prior notice.",
+     "本專案行程表可能隨時更改，不另行通知。"
     ],
     [
-     "The invoice must match the total order amount.",
-     "發票金額必須與訂單總額相符。"
+     "All purchase orders are subject to manager approval first.",
+     "所有採購單皆須先經過經理批准。"
     ],
     [
-     "I received the invoice for the supplies today.",
-     "我今天收到了這些物資的發票。"
+     "The company policy is subject to review every six months.",
+     "公司政策每半年需進行審查一次。"
     ]
    ]
   }

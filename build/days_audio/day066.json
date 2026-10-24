@@ -5,24 +5,24 @@
  "kind": "phrase",
  "items": [
   {
-   "word": "this regard",
+   "word": "at short notice",
    "ph": "",
-   "pos": "phr. 關於這一點",
-   "zh": "關於這一點；就此而言",
-   "colloc": "in this regard 在這方面 | with regard to 關於",
-   "distinct": "in this respect 在這方面 | as for... 至於...",
+   "pos": "phr. 在短時間通知下",
+   "zh": "臨時；及時通知",
+   "colloc": "at short notice 臨時決定 | without short notice 沒有事先通知",
+   "distinct": "on short notice 臨時 | on the spot 當場",
    "ex": [
     [
-     "We have no information in this regard.",
-     "我們關於這一點沒有任何資訊。"
+     "The CEO had to travel abroad at short notice today.",
+     "執行長今天必須臨時出國差旅。"
     ],
     [
-     "Please advise us in this regard immediately.",
-     "請就此事盡快給予我們建議。"
+     "It is difficult to arrange a flight at short notice.",
+     "要在短時間內安排航班非常困難。"
     ],
     [
-     "No further action is needed in this regard.",
-     "關於這一點無需採取進一步行動。"
+     "They called a meeting at short notice this morning.",
+     "他們今天早上臨時召開了一場會議。"
     ]
    ]
   },

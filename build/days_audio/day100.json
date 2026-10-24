@@ -181,24 +181,24 @@
    ]
   },
   {
-   "word": "like confidence",
+   "word": "be eligible for",
    "ph": "",
-   "pos": "phr. 缺乏信心",
-   "zh": "缺乏信心；沒有自信",
-   "colloc": "show a lack of confidence 表現出缺乏信心 | suffer from a lack of confidence 因缺乏信心而苦惱",
-   "distinct": "lack of confidence (拼寫修正) | low self-esteem 自尊心低",
+   "pos": "phr. 有資格獲得",
+   "zh": "具備資格；合格",
+   "colloc": "be eligible for promotion 有資格升遷 | be eligible for a refund 可申請退款",
+   "distinct": "qualified for 有能力勝任 | entitled to 有權利享有",
    "ex": [
     [
-     "The applicant showed a lack of confidence during the interview.",
-     "申請人在面試時表現出缺乏信心。"
+     "Employees are eligible for a bonus after one year.",
+     "員工在職滿一年後即有資格領取獎金。"
     ],
     [
-     "Lack of confidence can hinder your professional growth.",
-     "缺乏信心會阻礙你的職涯成長。"
+     "You may be eligible for the employee discount program.",
+     "你或許有資格參加員工優惠方案。"
     ],
     [
-     "The team’s lack of confidence resulted in poor project results.",
-     "團隊缺乏信心導致了糟糕的專案成果。"
+     "Only full-time staff are eligible for health insurance.",
+     "僅有全職員工才有資格享有健康保險。"
     ]
    ]
   },
@@ -335,46 +335,46 @@
    ]
   },
   {
-   "word": "lose one self in",
+   "word": "lose oneself in",
    "ph": "",
    "pos": "phr. 埋首於；沉浸在",
-   "zh": "埋首於；專注於；沉浸在",
-   "colloc": "lose oneself in work 沉浸於工作中 | lose oneself in a task 埋首於任務",
-   "distinct": "immerse in 沉浸於 | focus on 專注於",
+   "zh": "埋首於；沉浸在",
+   "colloc": "lose oneself in work 埋首工作 | lose oneself in a project 沉浸在專案中",
+   "distinct": "focus on 專注於 | be absorbed in 全神貫注",
    "ex": [
     [
-     "He often loses himself in complex data analysis tasks.",
-     "他經常埋首於複雜的數據分析任務中。"
+     "He would often lose oneself in his complex reports.",
+     "他經常埋首於他那些複雜的報告中。"
     ],
     [
-     "She tends to lose herself in projects that require creativity.",
-     "她傾向於沉浸在需要創造力的專案中。"
+     "She likes to lose oneself in her creative designs.",
+     "她喜歡沉浸在她的創意設計中。"
     ],
     [
-     "It is easy to lose oneself in the details of the budget.",
-     "人很容易沉浸在預算的細節中而忽略重點。"
+     "It is easy to lose oneself in the daily tasks.",
+     "人們很容易埋首於每日的例行工作中。"
     ]
    ]
   },
   {
-   "word": "lost in delivery",
+   "word": "take advantage of",
    "ph": "",
-   "pos": "phr. 運送遺失",
-   "zh": "運送中遺失；寄丟",
-   "colloc": "the package was lost in delivery 包裹在運送中遺失 | report an item lost in delivery 回報物品運送遺失",
-   "distinct": "delayed in transit 運送延遲 | undelivered 未送達",
+   "pos": "phr. 利用；佔便宜",
+   "zh": "利用；善用",
+   "colloc": "take advantage of an opportunity 善用機會 | take advantage of a sale 利用特賣",
+   "distinct": "make use of 使用 | exploit 剝削（負面）",
    "ex": [
     [
-     "The client claimed that the parcel was lost in delivery.",
-     "客戶聲稱包裹在運送過程中遺失了。"
+     "You should take advantage of the free training seminars.",
+     "你應該善用這些免費的培訓講座。"
     ],
     [
-     "We apologize that your order was lost in delivery.",
-     "我們很抱歉您的訂單在運送中遺失。"
+     "We took advantage of the low interest rates last month.",
+     "我們利用了上個月的低利率機會。"
     ],
     [
-     "Check the tracking status if your shipment is lost in delivery.",
-     "如果您的貨物在運送中遺失，請檢查追蹤狀態。"
+     "Don't take advantage of your colleagues' kindness at work.",
+     "不要在職場上佔同事善良的便宜。"
     ]
    ]
   },
