@@ -56,7 +56,7 @@ kbd{
   background:var(--ink);color:var(--paper);overflow:hidden;
   border-bottom:var(--line);font-size:13px;letter-spacing:.06em;
 }
-.ticker__track{display:flex;gap:40px;white-space:nowrap;padding:6px 0;will-change:transform;animation:slide 42s linear infinite}
+.ticker__track{display:flex;gap:40px;white-space:nowrap;padding:6px 0;will-change:transform;animation:slide 120s linear infinite}
 .ticker__track span{display:inline-flex;gap:8px;align-items:center}
 .ticker__track b{color:var(--lime)}
 .ticker__track i{color:var(--coral);font-style:normal}

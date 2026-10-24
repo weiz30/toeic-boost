@@ -122,7 +122,13 @@ const byPart = (n) => DRILLS.filter((q) => q.part === n);
 function renderTicker() {
   const words = shuffle(VOCAB).slice(0, 14);
   const bits = words.map((w) => `<span><b>${esc(w.w)}</b> <i>${esc(w.zh.split('；')[0])}</i></span>`).join('<span aria-hidden="true">·</span>');
-  $('#tickerTrack').innerHTML = bits + '<span aria-hidden="true">·</span>' + bits;
+  const track = $('#tickerTrack');
+  track.innerHTML = bits + '<span aria-hidden="true">·</span>' + bits;
+  // 依實際寬度定速：固定每秒 38px，內容再長也不會變快
+  requestAnimationFrame(() => {
+    const half = track.scrollWidth / 2;
+    if (half > 0) track.style.animationDuration = (half / 38).toFixed(1) + 's';
+  });
 }
 
 /* ------------------------------------------------------------------ 今日 */
