@@ -1,0 +1,448 @@
+{
+ "day": 31,
+ "theme": "教材字彙・基礎 550–650 第 31 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "securely",
+   "ph": "/sɪˈkjʊrli/",
+   "pos": "adv. 安全地；牢固地",
+   "zh": "安全地；牢固地",
+   "colloc": "fastened securely 牢固地繫上 | stored securely 安全地存放",
+   "distinct": "safely 安全地（指無危險）| firmly 堅固地（指結構）",
+   "ex": [
+    [
+     "Please ensure the files are stored securely.",
+     "請確保檔案被安全地存放。"
+    ],
+    [
+     "The heavy boxes were fastened securely.",
+     "沈重的箱子已被牢固地繫好。"
+    ],
+    [
+     "Data must be backed up securely online.",
+     "資料必須安全地備份在線上。"
+    ]
+   ]
+  },
+  {
+   "word": "separately",
+   "ph": "/ˈseprətli/",
+   "pos": "adv. 分開地；個別地",
+   "zh": "分開地；個別地",
+   "colloc": "billed separately 分開計費 | packed separately 分開包裝",
+   "distinct": "individually 個別地（強調個人）| apart 分離（空間距離）",
+   "ex": [
+    [
+     "Please pack the fragile items separately.",
+     "請將易碎品分開包裝。"
+    ],
+    [
+     "These two services are billed separately.",
+     "這兩項服務是分開計費的。"
+    ],
+    [
+     "The departments work quite separately now.",
+     "各部門現在是分開運作的。"
+    ]
+   ]
+  },
+  {
+   "word": "severely",
+   "ph": "/sɪˈvɪrli/",
+   "pos": "adv. 嚴重地；嚴厲地",
+   "zh": "嚴重地；嚴厲地",
+   "colloc": "severely damaged 嚴重受損 | severely criticized 嚴厲批評",
+   "distinct": "strictly 嚴格地（強調規定）| harshly 嚴苛地（強調態度）",
+   "ex": [
+    [
+     "The building was severely damaged by fire.",
+     "這棟建築因火災嚴重受損。"
+    ],
+    [
+     "Budget cuts have severely affected operations.",
+     "預算刪減已嚴重影響運作。"
+    ],
+    [
+     "Management was severely criticized by staff.",
+     "管理層受到了員工嚴厲的批評。"
+    ]
+   ]
+  },
+  {
+   "word": "share",
+   "ph": "/ʃer/",
+   "pos": "v. 分享；分擔 | n. 股份；份額",
+   "zh": "分享；分擔；股份",
+   "colloc": "market share 市場佔有率 | share information 分享資訊",
+   "distinct": "portion 一部分（量）| stock 股票（總稱）",
+   "ex": [
+    [
+     "We need to share the workload equally.",
+     "我們需要平均分擔工作量。"
+    ],
+    [
+     "Our company increased its market share.",
+     "本公司提升了市場佔有率。"
+    ],
+    [
+     "Please share your feedback with us.",
+     "請與我們分享您的回饋。"
+    ]
+   ]
+  },
+  {
+   "word": "significantly",
+   "ph": "/sɪɡˈnɪfɪkəntli/",
+   "pos": "adv. 顯著地；相當地",
+   "zh": "顯著地；相當地",
+   "colloc": "increased significantly 顯著增加 | significantly lower 顯著較低",
+   "distinct": "largely 大體上 | dramatically 戲劇性地",
+   "ex": [
+    [
+     "Our profits increased significantly this year.",
+     "我們今年的利潤顯著成長。"
+    ],
+    [
+     "The new policy significantly changed procedures.",
+     "新政策顯著改變了作業流程。"
+    ],
+    [
+     "This design is significantly more efficient.",
+     "這個設計顯著地更有效率。"
+    ]
+   ]
+  },
+  {
+   "word": "summary",
+   "ph": "/ˈsʌməri/",
+   "pos": "n. 摘要；總結",
+   "zh": "摘要；總結",
+   "colloc": "executive summary 執行摘要 | provide a summary 提供摘要",
+   "distinct": "abstract 摘要（學術論文）| outline 大綱",
+   "ex": [
+    [
+     "Please read the executive summary first.",
+     "請先閱讀執行摘要。"
+    ],
+    [
+     "The report ends with a brief summary.",
+     "這份報告以簡短的總結結尾。"
+    ],
+    [
+     "Can you provide a summary of meetings?",
+     "你可以提供會議摘要嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "supply",
+   "ph": "/səˈplaɪ/",
+   "pos": "v. 供應；提供 | n. 供給；庫存",
+   "zh": "供應；提供；庫存",
+   "colloc": "office supplies 辦公用品 | supply chain 供應鏈",
+   "distinct": "provide 提供（抽象或具體）| offer 給予（主動提供）",
+   "ex": [
+    [
+     "They supply parts to many factories.",
+     "他們為許多工廠供應零件。"
+    ],
+    [
+     "We are running low on office supplies.",
+     "我們的辦公用品快用完了。"
+    ],
+    [
+     "The supply chain was delayed recently.",
+     "供應鏈近期出現了延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "term",
+   "ph": "/tɜːrm/",
+   "pos": "n. 術語；期限；條件",
+   "zh": "術語；期限；條件",
+   "colloc": "long-term 長期的 | payment terms 付款條件",
+   "distinct": "jargon 行話 | condition 條件（情況）",
+   "ex": [
+    [
+     "I am not familiar with this technical term.",
+     "我不熟悉這個技術術語。"
+    ],
+    [
+     "The contract has a three-year term.",
+     "這份合約有三年的期限。"
+    ],
+    [
+     "Please review the payment terms carefully.",
+     "請仔細審閱付款條件。"
+    ]
+   ]
+  },
+  {
+   "word": "management",
+   "ph": "/ˈmænɪdʒmənt/",
+   "pos": "n. 管理；管理階層",
+   "zh": "管理；管理階層",
+   "colloc": "senior management 高階管理層 | management team 管理團隊",
+   "distinct": "administration 行政（部門）| leadership 領導力",
+   "ex": [
+    [
+     "The management team is meeting today.",
+     "管理團隊今天正在開會。"
+    ],
+    [
+     "Effective time management is essential here.",
+     "有效率的時間管理在這裡很重要。"
+    ],
+    [
+     "Senior management approved the new budget.",
+     "高階管理層批准了新預算。"
+    ]
+   ]
+  },
+  {
+   "word": "arrange",
+   "ph": "/əˈreɪndʒ/",
+   "pos": "v. 安排；整理；籌備",
+   "zh": "安排；整理；籌備",
+   "colloc": "arrange a meeting 安排會議 | arrange travel 安排差旅",
+   "distinct": "organize 組織（系統化）| plan 規劃（構思）",
+   "ex": [
+    [
+     "I will arrange a meeting for tomorrow.",
+     "我會為明天安排一場會議。"
+    ],
+    [
+     "She helped arrange the travel details.",
+     "她協助安排差旅細節。"
+    ],
+    [
+     "Please arrange these files by date.",
+     "請按日期整理這些檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "affect",
+   "ph": "/əˈfekt/",
+   "pos": "v. 影響；對...產生作用",
+   "zh": "影響",
+   "colloc": "negatively affect 負面影響 | affect performance 影響表現",
+   "distinct": "effect 效果（名詞）| influence 影響（深遠影響）",
+   "ex": [
+    [
+     "The new tax will affect our sales.",
+     "新稅制將會影響我們的銷售。"
+    ],
+    [
+     "Poor weather may affect the delivery.",
+     "惡劣天氣可能會影響配送。"
+    ],
+    [
+     "Your positive attitude affects the team.",
+     "你積極的態度會影響團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "appear",
+   "ph": "/əˈpɪr/",
+   "pos": "v. 出現；似乎；看起來",
+   "zh": "出現；似乎",
+   "colloc": "appear to be 似乎是 | appear on the list 出現在名單上",
+   "distinct": "seem 似乎（心理感受）| emerge 浮現（明顯出現）",
+   "ex": [
+    [
+     "The error does not appear on screen.",
+     "錯誤訊息沒有出現在螢幕上。"
+    ],
+    [
+     "He appears to be very busy today.",
+     "他今天看起來非常忙碌。"
+    ],
+    [
+     "New opportunities appear in the market.",
+     "市場上出現了新的商機。"
+    ]
+   ]
+  },
+  {
+   "word": "appoint",
+   "ph": "/əˈpɔɪnt/",
+   "pos": "v. 任命；委派",
+   "zh": "任命；委派",
+   "colloc": "appoint a manager 任命經理 | newly appointed 新任命的",
+   "distinct": "assign 指派（工作）| elect 選舉（投票）",
+   "ex": [
+    [
+     "The board will appoint a new CEO.",
+     "董事會將任命一位新執行長。"
+    ],
+    [
+     "She was appointed as the project head.",
+     "她被任命為專案負責人。"
+    ],
+    [
+     "They appointed him to lead the team.",
+     "他們任命他來領導團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "buy",
+   "ph": "/baɪ/",
+   "pos": "v. 購買；買入 | n. 購買",
+   "zh": "購買",
+   "colloc": "buy in bulk 大量購買 | buy shares 買入股份",
+   "distinct": "purchase 購買（正式）| acquire 收購",
+   "ex": [
+    [
+     "We need to buy new office furniture.",
+     "我們需要購買新的辦公家具。"
+    ],
+    [
+     "It is cheaper to buy in bulk.",
+     "大量購買會比較便宜。"
+    ],
+    [
+     "Many investors buy shares during dips.",
+     "許多投資人在低點買入股份。"
+    ]
+   ]
+  },
+  {
+   "word": "cheque",
+   "ph": "/tʃek/",
+   "pos": "n. 支票",
+   "zh": "支票",
+   "colloc": "sign a cheque 簽支票 | cash a cheque 兌現支票",
+   "distinct": "cash 現金 | draft 匯票",
+   "ex": [
+    [
+     "Please write the cheque to the company.",
+     "請將支票抬頭寫給本公司。"
+    ],
+    [
+     "I need to deposit this cheque today.",
+     "我今天需要存入這張支票。"
+    ],
+    [
+     "He paid the outstanding balance by cheque.",
+     "他用支票支付了未結餘額。"
+    ]
+   ]
+  },
+  {
+   "word": "cost",
+   "ph": "/kɔːst/",
+   "pos": "n. 成本；費用 | v. 花費",
+   "zh": "成本；費用；花費",
+   "colloc": "cut costs 削減成本 | high cost 高成本",
+   "distinct": "price 價格（標價）| expense 開銷",
+   "ex": [
+    [
+     "We must find ways to cut costs.",
+     "我們必須想辦法削減成本。"
+    ],
+    [
+     "The total cost includes shipping fees.",
+     "總費用包含了運費。"
+    ],
+    [
+     "This project will cost a lot.",
+     "這個專案將花費很多。"
+    ]
+   ]
+  },
+  {
+   "word": "emergency",
+   "ph": "/iˈmɜːrdʒənsi/",
+   "pos": "n. 緊急狀況；突發事件",
+   "zh": "緊急狀況；突發事件",
+   "colloc": "emergency exit 緊急出口 | emergency meeting 緊急會議",
+   "distinct": "crisis 危機（嚴重情勢）| urgency 緊急性",
+   "ex": [
+    [
+     "We called an emergency meeting today.",
+     "我們今天召開了緊急會議。"
+    ],
+    [
+     "Please locate the nearest emergency exit.",
+     "請找出最近的緊急出口。"
+    ],
+    [
+     "The system failed during an emergency.",
+     "系統在緊急狀況下故障了。"
+    ]
+   ]
+  },
+  {
+   "word": "exam",
+   "ph": "/ɪɡˈzæm/",
+   "pos": "n. 考試；測驗",
+   "zh": "考試",
+   "colloc": "take an exam 參加考試 | pass an exam 通過考試",
+   "distinct": "test 測試（一般）| certification 認證",
+   "ex": [
+    [
+     "She is preparing for the final exam.",
+     "她正在準備期末考試。"
+    ],
+    [
+     "I need to take a proficiency exam.",
+     "我需要參加一場能力測驗。"
+    ],
+    [
+     "Many staff members passed the exam.",
+     "許多員工都通過了考試。"
+    ]
+   ]
+  },
+  {
+   "word": "include",
+   "ph": "/ɪnˈkluːd/",
+   "pos": "v. 包含；包括",
+   "zh": "包含",
+   "colloc": "include tax 包含稅費 | include details 包含細節",
+   "distinct": "contain 含有（容器內）| involve 涉及",
+   "ex": [
+    [
+     "The price does not include service fees.",
+     "這個價格不包含服務費。"
+    ],
+    [
+     "The report should include all sales data.",
+     "這份報告應包含所有銷售資料。"
+    ],
+    [
+     "Please include your contact info below.",
+     "請在下方包含您的聯絡資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "mountain",
+   "ph": "/ˈmaʊntn/",
+   "pos": "n. 山；山脈",
+   "zh": "山；山脈",
+   "colloc": "mountain range 山脈 | mountain resort 山區度假村",
+   "distinct": "hill 小山 | peak 山峰",
+   "ex": [
+    [
+     "We held our retreat at a mountain resort.",
+     "我們在山區度假村舉辦了靜修。"
+    ],
+    [
+     "The hotel overlooks a beautiful mountain.",
+     "這家飯店可以眺望美麗的山景。"
+    ],
+    [
+     "They hiked up the mountain this morning.",
+     "他們今天早上健行上山。"
+    ]
+   ]
+  }
+ ]
+}

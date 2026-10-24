@@ -1,0 +1,448 @@
+{
+ "day": 69,
+ "theme": "教材片語・進階 650–750 第 5 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "business class",
+   "ph": "",
+   "pos": "phr. 商務艙",
+   "zh": "商務艙",
+   "colloc": "book business class 預訂商務艙 | upgrade to business class 升等至商務艙",
+   "distinct": "economy class 經濟艙 | first class 頭等艙",
+   "ex": [
+    [
+     "The executive prefers flying business class for long trips.",
+     "主管偏好在長途旅行時搭乘商務艙。"
+    ],
+    [
+     "Our company policy covers business class for international flights.",
+     "公司政策支付國際航班的商務艙費用。"
+    ],
+    [
+     "Business class seats offer extra legroom and better service.",
+     "商務艙座位提供額外的腿部空間與更好的服務。"
+    ]
+   ]
+  },
+  {
+   "word": "business hours",
+   "ph": "",
+   "pos": "phr. 營業時間；辦公時間",
+   "zh": "營業時間；辦公時間",
+   "colloc": "during business hours 在營業時間內 | outside business hours 非辦公時間",
+   "distinct": "office hours 辦公時間 | opening hours 開放時間",
+   "ex": [
+    [
+     "Please call our office during regular business hours.",
+     "請在正常的辦公時間內致電我們辦公室。"
+    ],
+    [
+     "We respond to all customer emails within business hours.",
+     "我們會在營業時間內回覆所有客戶的電子郵件。"
+    ],
+    [
+     "The delivery will arrive during standard business hours.",
+     "快遞將會在標準營業時間內抵達。"
+    ]
+   ]
+  },
+  {
+   "word": "conference room",
+   "ph": "",
+   "pos": "phr. 會議室",
+   "zh": "會議室",
+   "colloc": "book a conference room 預訂會議室 | reserve the conference room 保留會議室",
+   "distinct": "meeting room 會議室（小型） | boardroom 董事會議室",
+   "ex": [
+    [
+     "The marketing team is meeting in the main conference room.",
+     "行銷團隊正在主要會議室開會。"
+    ],
+    [
+     "Please reserve the conference room for our afternoon presentation.",
+     "請為我們下午的簡報預訂會議室。"
+    ],
+    [
+     "Is the large conference room available for the training session?",
+     "大型會議室有空檔供培訓課程使用嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "conflict with",
+   "ph": "",
+   "pos": "phr. 與…衝突；與…時間重疊",
+   "zh": "與…衝突；與…時間重疊",
+   "colloc": "scheduling conflict 時間衝突 | avoid conflict 避免衝突",
+   "distinct": "disagree with 不同意 | clash with 衝突（更強烈）",
+   "ex": [
+    [
+     "This appointment might conflict with your existing schedule.",
+     "這個預約可能會與您現有的行程衝突。"
+    ],
+    [
+     "The new project timeline does not conflict with the deadline.",
+     "新的專案時程表與截止日期並不衝突。"
+    ],
+    [
+     "My client meeting will conflict with the team building event.",
+     "我的客戶會議將與團隊建設活動時間重疊。"
+    ]
+   ]
+  },
+  {
+   "word": "dry dishes",
+   "ph": "",
+   "pos": "phr. 擦乾碗盤",
+   "zh": "擦乾碗盤",
+   "colloc": "wash and dry dishes 洗滌並擦乾碗盤 | help dry dishes 幫忙擦碗盤",
+   "distinct": "do the dishes 洗碗 | drain dishes 瀝乾碗盤",
+   "ex": [
+    [
+     "We need to wash and dry dishes after the company lunch.",
+     "公司午餐後我們需要清洗並擦乾碗盤。"
+    ],
+    [
+     "Could you please help dry dishes in the pantry?",
+     "你可以幫忙在茶水間擦乾碗盤嗎？"
+    ],
+    [
+     "The staff will dry dishes before storing them in cabinets.",
+     "員工會在將碗盤收進櫥櫃前將其擦乾。"
+    ]
+   ]
+  },
+  {
+   "word": "fashion photographer",
+   "ph": "",
+   "pos": "phr. 時尚攝影師",
+   "zh": "時尚攝影師",
+   "colloc": "hired a fashion photographer 聘請時尚攝影師 | famous fashion photographer 知名時尚攝影師",
+   "distinct": "press photographer 新聞攝影師 | portrait photographer 人像攝影師",
+   "ex": [
+    [
+     "The magazine hired a famous fashion photographer for the shoot.",
+     "雜誌社聘請了一位知名時尚攝影師進行拍攝。"
+    ],
+    [
+     "Working as a fashion photographer requires a creative eye.",
+     "擔任時尚攝影師需要具備創造性的眼光。"
+    ],
+    [
+     "Our company interviewed a fashion photographer for the campaign.",
+     "我們公司為這項宣傳活動面試了一位時尚攝影師。"
+    ]
+   ]
+  },
+  {
+   "word": "film festival",
+   "ph": "",
+   "pos": "phr. 電影節",
+   "zh": "電影節",
+   "colloc": "attend a film festival 參加電影節 | host a film festival 主辦電影節",
+   "distinct": "movie premiere 電影首映 | awards ceremony 頒獎典禮",
+   "ex": [
+    [
+     "Our department will sponsor the upcoming annual film festival.",
+     "我們部門將贊助即將到來的年度電影節。"
+    ],
+    [
+     "Many international directors will attend this year's film festival.",
+     "許多國際導演將參加今年的電影節。"
+    ],
+    [
+     "The film festival attracts thousands of cinema enthusiasts annually.",
+     "電影節每年吸引數千名電影愛好者。"
+    ]
+   ]
+  },
+  {
+   "word": "for free",
+   "ph": "",
+   "pos": "phr. 免費地",
+   "zh": "免費地",
+   "colloc": "get it for free 免費取得 | offer for free 免費提供",
+   "distinct": "at no cost 免費（正式） | complimentary 免費贈送（禮貌）",
+   "ex": [
+    [
+     "New customers can download the software trial for free.",
+     "新客戶可以免費下載軟體試用版。"
+    ],
+    [
+     "The company provided extra training sessions for free.",
+     "公司免費提供了額外的培訓課程。"
+    ],
+    [
+     "We are offering a consultation session for free this month.",
+     "我們本月提供免費的諮詢服務。"
+    ]
+   ]
+  },
+  {
+   "word": "give a call",
+   "ph": "",
+   "pos": "phr. 打電話",
+   "zh": "打電話",
+   "colloc": "give me a call 給我打電話 | give a call later 之後再打",
+   "distinct": "make a call 撥打電話 | return a call 回電",
+   "ex": [
+    [
+     "Please give a call if you have any further questions.",
+     "如果您有任何進一步的問題，請打電話給我們。"
+    ],
+    [
+     "I will give a call to the supplier to confirm delivery.",
+     "我會打電話給供應商確認送貨事宜。"
+    ],
+    [
+     "Feel free to give a call before visiting our office.",
+     "前來我們辦公室之前，歡迎隨時打電話。"
+    ]
+   ]
+  },
+  {
+   "word": "hand out",
+   "ph": "",
+   "pos": "phr. 分發；散發",
+   "zh": "分發；散發",
+   "colloc": "hand out flyers 分發傳單 | hand out documents 分發文件",
+   "distinct": "distribute 分配（正式） | pass out 昏倒或發放",
+   "ex": [
+    [
+     "The assistant will hand out the agendas before the meeting.",
+     "助理將在會議前分發議程表。"
+    ],
+    [
+     "Please hand out these brochures to all the participants.",
+     "請將這些手冊分發給所有參與者。"
+    ],
+    [
+     "It is standard procedure to hand out name tags at registration.",
+     "在報到處分發名牌是標準程序。"
+    ]
+   ]
+  },
+  {
+   "word": "in the direction of",
+   "ph": "",
+   "pos": "phr. 朝…的方向",
+   "zh": "朝…的方向",
+   "colloc": "move in the direction of 朝…方向移動 | look in the direction of 看向…的方向",
+   "distinct": "towards 朝向 | in the way of 以…方式",
+   "ex": [
+    [
+     "The warehouse is located in the direction of the airport.",
+     "倉庫位於朝向機場的方向。"
+    ],
+    [
+     "Please walk in the direction of the main lobby entrance.",
+     "請往主大廳入口的方向走。"
+    ],
+    [
+     "He pointed in the direction of the new office building.",
+     "他指向新辦公大樓的方向。"
+    ]
+   ]
+  },
+  {
+   "word": "in the past",
+   "ph": "",
+   "pos": "phr. 在過去；往昔",
+   "zh": "在過去；往昔",
+   "colloc": "in the past few years 在過去幾年 | look into the past 回顧過去",
+   "distinct": "in the future 在未來 | at present 目前",
+   "ex": [
+    [
+     "In the past, our company relied solely on print ads.",
+     "在過去，我們公司完全依賴平面廣告。"
+    ],
+    [
+     "The procedures were quite complicated in the past.",
+     "這些程序在過去相當複雜。"
+    ],
+    [
+     "We have faced similar challenges in the past successfully.",
+     "我們在過去曾成功面對過類似的挑戰。"
+    ]
+   ]
+  },
+  {
+   "word": "nice looking",
+   "ph": "",
+   "pos": "phr. 好看的；美觀的",
+   "zh": "好看的；美觀的",
+   "colloc": "nice looking design 美觀的設計 | nice looking office 看起來不錯的辦公室",
+   "distinct": "attractive 有吸引力的 | professional 專業的",
+   "ex": [
+    [
+     "This is a very nice looking layout for our presentation.",
+     "這份簡報的排版看起來非常美觀。"
+    ],
+    [
+     "The new product packaging is quite nice looking.",
+     "新產品的包裝看起來很不錯。"
+    ],
+    [
+     "She selected a nice looking desk for the reception area.",
+     "她為接待區選了一張好看的辦公桌。"
+    ]
+   ]
+  },
+  {
+   "word": "on foot",
+   "ph": "",
+   "pos": "phr. 步行",
+   "zh": "步行",
+   "colloc": "travel on foot 步行旅遊 | reach by foot 步行抵達",
+   "distinct": "by car 開車 | by public transport 搭乘大眾運輸",
+   "ex": [
+    [
+     "The office is close enough to reach on foot.",
+     "辦公室距離很近，可以步行抵達。"
+    ],
+    [
+     "Many employees prefer to explore the city on foot.",
+     "許多員工偏好步行探索這座城市。"
+    ],
+    [
+     "We decided to travel on foot to the nearby restaurant.",
+     "我們決定步行去附近的餐廳。"
+    ]
+   ]
+  },
+  {
+   "word": "pick up packages",
+   "ph": "",
+   "pos": "phr. 領取包裹",
+   "zh": "領取包裹",
+   "colloc": "go to pick up packages 去領取包裹 | pick up packages at the desk 在櫃台領取包裹",
+   "distinct": "deliver packages 運送包裹 | receive packages 收到包裹",
+   "ex": [
+    [
+     "I need to go to the post office to pick up packages.",
+     "我需要去郵局領取包裹。"
+    ],
+    [
+     "Please pick up packages from the mail room this afternoon.",
+     "請今天下午到郵件室領取包裹。"
+    ],
+    [
+     "The courier left a notice to pick up packages today.",
+     "快遞員留下通知要求今天領取包裹。"
+    ]
+   ]
+  },
+  {
+   "word": "request form",
+   "ph": "",
+   "pos": "phr. 申請表格",
+   "zh": "申請表格",
+   "colloc": "fill out a request form 填寫申請表 | submit a request form 提交申請表",
+   "distinct": "application form 報名表；申請書 | feedback form 回饋表",
+   "ex": [
+    [
+     "You must submit a request form for extra office supplies.",
+     "你必須為額外的辦公用品提交申請表。"
+    ],
+    [
+     "Please complete the request form to change your password.",
+     "請填寫此申請表以變更您的密碼。"
+    ],
+    [
+     "The HR department requires a signed request form.",
+     "人資部門需要一份簽署過的申請表格。"
+    ]
+   ]
+  },
+  {
+   "word": "shake hands",
+   "ph": "",
+   "pos": "phr. 握手",
+   "zh": "握手",
+   "colloc": "shake hands with someone 與某人握手 | a firm shake hands 堅定的握手",
+   "distinct": "bow 鞠躬 | wave 手勢揮動",
+   "ex": [
+    [
+     "It is common to shake hands during business introductions.",
+     "在商務介紹過程中握手是很常見的。"
+    ],
+    [
+     "The two CEOs decided to shake hands after the deal.",
+     "兩位執行長決定在交易達成後握手。"
+    ],
+    [
+     "Always make eye contact when you shake hands.",
+     "握手時請務必保持眼神接觸。"
+    ]
+   ]
+  },
+  {
+   "word": "store opening",
+   "ph": "",
+   "pos": "phr. 商店開幕",
+   "zh": "商店開幕",
+   "colloc": "attend the store opening 參加商店開幕 | store opening ceremony 商店開幕典禮",
+   "distinct": "grand opening 盛大開幕 | store closing 商店歇業",
+   "ex": [
+    [
+     "We are preparing for the grand store opening next month.",
+     "我們正在為下個月的盛大商店開幕做準備。"
+    ],
+    [
+     "The store opening attracted many local shoppers.",
+     "商店開幕吸引了許多當地顧客。"
+    ],
+    [
+     "Management invited key investors to the store opening.",
+     "管理階層邀請重要投資人參加商店開幕。"
+    ]
+   ]
+  },
+  {
+   "word": "take a vacation",
+   "ph": "",
+   "pos": "phr. 度假",
+   "zh": "度假",
+   "colloc": "plan to take a vacation 計畫去度假 | take a vacation leave 請假去度假",
+   "distinct": "go on holiday 去度假（英式） | take time off 請假",
+   "ex": [
+    [
+     "The manager decided to take a vacation in July.",
+     "經理決定在七月去度假。"
+    ],
+    [
+     "Employees are encouraged to take a vacation to recharge.",
+     "我們鼓勵員工度假以恢復元氣。"
+    ],
+    [
+     "I will take a vacation after completing this project.",
+     "完成這個專案後我會去度假。"
+    ]
+   ]
+  },
+  {
+   "word": "tool belt",
+   "ph": "",
+   "pos": "phr. 工具腰帶",
+   "zh": "工具腰帶",
+   "colloc": "wear a tool belt 穿戴工具腰帶 | heavy tool belt 厚重的工具腰帶",
+   "distinct": "tool box 工具箱 | tool kit 工具組",
+   "ex": [
+    [
+     "The technician wears a tool belt for easy access.",
+     "技術人員佩戴工具腰帶以便拿取工具。"
+    ],
+    [
+     "Maintenance workers must keep their tool belt organized.",
+     "維修人員必須保持工具腰帶整理有序。"
+    ],
+    [
+     "A sturdy tool belt is essential for the construction crew.",
+     "堅固的工具腰帶對建築團隊來說至關重要。"
+    ]
+   ]
+  }
+ ]
+}

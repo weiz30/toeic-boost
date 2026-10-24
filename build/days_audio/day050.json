@@ -1,0 +1,448 @@
+{
+ "day": 50,
+ "theme": "教材字彙・中高階 750–850 第 50 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "continued",
+   "ph": "/kənˈtɪn.juːd/",
+   "pos": "adj. 持續不斷的 | 連續的",
+   "zh": "持續的；不斷的",
+   "colloc": "continued support 持續的支持 | continued growth 持續增長",
+   "distinct": "continuous 連續不斷的（無中斷）| continual 頻繁重複的（有間隔）",
+   "ex": [
+    [
+     "The company needs continued investment to expand.",
+     "公司需要持續的投資來擴展。"
+    ],
+    [
+     "We appreciate your continued support for our brand.",
+     "感謝您對我們品牌持續的支持。"
+    ],
+    [
+     "This region has seen continued economic development lately.",
+     "該地區近期見證了持續的經濟發展。"
+    ]
+   ]
+  },
+  {
+   "word": "credit",
+   "ph": "/ˈkred.ɪt/",
+   "pos": "n. 信用；賒帳 | v. 把錢存入帳戶；歸功於",
+   "zh": "信用；存款；功勞",
+   "colloc": "credit card 信用卡 | give credit to 歸功於",
+   "distinct": "debit 借記；扣款 | loan 貸款",
+   "ex": [
+    [
+     "The refund was credited to your account yesterday.",
+     "退款昨日已匯入您的帳戶。"
+    ],
+    [
+     "She deserves credit for the project success.",
+     "專案的成功應歸功於她。"
+    ],
+    [
+     "Maintaining a good credit score is very important.",
+     "維持良好的信用評分非常重要。"
+    ]
+   ]
+  },
+  {
+   "word": "criticize",
+   "ph": "/ˈkrɪt.ɪ.saɪz/",
+   "pos": "v. 批評；指責；評論",
+   "zh": "批評；指責；評論",
+   "colloc": "heavily criticize 強烈批評 | publicly criticize 公開批評",
+   "distinct": "critique 對藝術作品的專業評論 | scold 責罵（上對下）",
+   "ex": [
+    [
+     "Management was criticized for the poor decision.",
+     "管理層因該決策失當而受到批評。"
+    ],
+    [
+     "It is easy to criticize but hard to suggest.",
+     "批評很容易，但提出建議卻很難。"
+    ],
+    [
+     "The report criticized the lack of safety measures.",
+     "報告批評了安全措施的不足。"
+    ]
+   ]
+  },
+  {
+   "word": "deliberate",
+   "ph": "/dɪˈlɪb.ər.ət/",
+   "pos": "adj. 蓄意的；謹慎的 | v. 深思熟慮",
+   "zh": "蓄意的；深思熟慮的",
+   "colloc": "deliberate attempt 蓄意嘗試 | deliberate action 謹慎的行動",
+   "distinct": "intentional 意圖的 | spontaneous 自發的",
+   "ex": [
+    [
+     "The mistake was a deliberate act of sabotage.",
+     "這次錯誤是蓄意的破壞行為。"
+    ],
+    [
+     "The board deliberated on the merger for hours.",
+     "董事會針對合併案深思熟慮了數小時。"
+    ],
+    [
+     "He made a deliberate choice to leave early.",
+     "他做出了謹慎的決定提早離開。"
+    ]
+   ]
+  },
+  {
+   "word": "delicate",
+   "ph": "/ˈdel.ɪ.kət/",
+   "pos": "adj. 精緻的；脆弱的；棘手的",
+   "zh": "精緻的；微妙的；脆弱的",
+   "colloc": "delicate balance 微妙的平衡 | delicate issue 棘手的問題",
+   "distinct": "fragile 易碎的 | subtle 微妙且難以察覺的",
+   "ex": [
+    [
+     "The negotiation requires a delicate touch today.",
+     "這場談判今天需要謹慎微妙的處理。"
+    ],
+    [
+     "We handled the delicate equipment with great care.",
+     "我們非常小心地處理這些精緻設備。"
+    ],
+    [
+     "This is a delicate situation for the firm.",
+     "這對公司來說是一個棘手的局面。"
+    ]
+   ]
+  },
+  {
+   "word": "devoted",
+   "ph": "/dɪˈvoʊ.t̬ɪd/",
+   "pos": "adj. 專注的；熱心的；忠實的",
+   "zh": "專注的；忠實的",
+   "colloc": "be devoted to 致力於 | devoted staff 忠誠的員工",
+   "distinct": "committed 承諾投入的 | loyal 忠誠的",
+   "ex": [
+    [
+     "She is devoted to improving client satisfaction levels.",
+     "她致力於提升客戶滿意度。"
+    ],
+    [
+     "The team is devoted to meeting every deadline.",
+     "該團隊致力於達成每一個截止期限。"
+    ],
+    [
+     "He is a devoted employee with ten years experience.",
+     "他是一位擁有十年經驗的忠實員工。"
+    ]
+   ]
+  },
+  {
+   "word": "discipline",
+   "ph": "/ˈdɪs.ə.plɪn/",
+   "pos": "n. 紀律；訓練 | v. 懲戒；訓練",
+   "zh": "紀律；訓練；懲戒",
+   "colloc": "self-discipline 自律 | strict discipline 嚴格的紀律",
+   "distinct": "punishment 懲罰 | regulation 規章",
+   "ex": [
+    [
+     "Employees must maintain discipline during business hours.",
+     "員工在上班時間必須遵守紀律。"
+    ],
+    [
+     "The manager had to discipline the rude staff.",
+     "經理必須懲戒那位粗魯的員工。"
+    ],
+    [
+     "Great success requires a high level of self-discipline.",
+     "巨大的成功需要高度的自律。"
+    ]
+   ]
+  },
+  {
+   "word": "drag",
+   "ph": "/dræɡ/",
+   "pos": "v. 拖曳；拖延 | n. 累贅；阻力",
+   "zh": "拖延；拖累；阻力",
+   "colloc": "drag on 拖延 | be a drag 成為阻礙",
+   "distinct": "pull 拉 | delay 延誤",
+   "ex": [
+    [
+     "The meeting dragged on for three long hours.",
+     "會議拖延了整整三個小時。"
+    ],
+    [
+     "Slow systems act as a drag on productivity.",
+     "緩慢的系統會拖累工作效率。"
+    ],
+    [
+     "He tried to drag the heavy box aside.",
+     "他試圖把沉重的箱子拖到一旁。"
+    ]
+   ]
+  },
+  {
+   "word": "dumping",
+   "ph": "/ˈdʌm.pɪŋ/",
+   "pos": "n. 傾銷；傾倒",
+   "zh": "傾銷；傾倒",
+   "colloc": "illegal dumping 非法傾倒 | anti-dumping 反傾銷",
+   "distinct": "export 出口 | wholesale 批發",
+   "ex": [
+    [
+     "The government imposed duties against cheap dumping.",
+     "政府對廉價傾銷徵收了關稅。"
+    ],
+    [
+     "The factory was fined for illegal waste dumping.",
+     "工廠因非法傾倒廢棄物被罰款。"
+    ],
+    [
+     "Market competition suffered due to foreign dumping.",
+     "市場競爭因外國傾銷而受損。"
+    ]
+   ]
+  },
+  {
+   "word": "election",
+   "ph": "/iˈlek.ʃən/",
+   "pos": "n. 選舉；當選",
+   "zh": "選舉；當選",
+   "colloc": "general election 全面選舉 | hold an election 舉辦選舉",
+   "distinct": "selection 挑選 | vote 投票",
+   "ex": [
+    [
+     "The election results will be announced this evening.",
+     "選舉結果將於今晚公布。"
+    ],
+    [
+     "Many citizens went to vote in the election.",
+     "許多市民前往投票參與選舉。"
+    ],
+    [
+     "He prepared his speech for the upcoming election.",
+     "他為即將到來的選舉準備了演講稿。"
+    ]
+   ]
+  },
+  {
+   "word": "encounter",
+   "ph": "/ɪnˈkaʊn.t̬ɚ/",
+   "pos": "v. 遭遇；遇到 | n. 相遇；邂逅",
+   "zh": "遭遇；遇到",
+   "colloc": "encounter difficulty 遇到困難 | unexpected encounter 意外的相遇",
+   "distinct": "face 面對 | experience 經歷",
+   "ex": [
+    [
+     "We might encounter some delays in shipping today.",
+     "我們今天在運送過程中可能會遇到延誤。"
+    ],
+    [
+     "Did you encounter any problems with the software?",
+     "你在使用軟體時有遇到任何問題嗎？"
+    ],
+    [
+     "The manager encountered the client in the lobby.",
+     "經理在大廳遇見了那位客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "enjoyable",
+   "ph": "/ɪnˈdʒɔɪ.ə.bəl/",
+   "pos": "adj. 令人愉快的；有趣的",
+   "zh": "愉快的；有趣的",
+   "colloc": "enjoyable experience 愉快的經驗 | highly enjoyable 非常愉快的",
+   "distinct": "pleasant 舒適的 | entertaining 有娛樂性的",
+   "ex": [
+    [
+     "It was an enjoyable meeting with the partners.",
+     "這是一場與合作夥伴愉快的會議。"
+    ],
+    [
+     "We aim to make work life more enjoyable.",
+     "我們致力於讓工作生活更愉快。"
+    ],
+    [
+     "The business trip was surprisingly enjoyable for us.",
+     "這趟出差對我們來說出奇地愉快。"
+    ]
+   ]
+  },
+  {
+   "word": "enormous",
+   "ph": "/ɪˈnɔːr.məs/",
+   "pos": "adj. 巨大的；龐大的",
+   "zh": "巨大的；龐大的",
+   "colloc": "enormous amount 巨大的數量 | enormous impact 巨大的影響",
+   "distinct": "huge 巨大的 | vast 廣大的",
+   "ex": [
+    [
+     "The project requires an enormous amount of capital.",
+     "該專案需要龐大的資本投入。"
+    ],
+    [
+     "She made an enormous effort to finish early.",
+     "她為了提早完成付出了巨大的努力。"
+    ],
+    [
+     "The new store had an enormous impact on sales.",
+     "新店鋪對銷售產生了巨大的影響。"
+    ]
+   ]
+  },
+  {
+   "word": "enthusiastic",
+   "ph": "/ɪnˌθuː.ziˈæs.tɪk/",
+   "pos": "adj. 熱心的；熱情的",
+   "zh": "熱情的；熱心的",
+   "colloc": "enthusiastic response 熱烈的反應 | be enthusiastic about 對...熱衷",
+   "distinct": "passionate 熱情的（情感強烈）| energetic 有活力的",
+   "ex": [
+    [
+     "We received an enthusiastic response to our proposal.",
+     "我們針對提案收到了熱烈的回應。"
+    ],
+    [
+     "He is very enthusiastic about the new marketing plan.",
+     "他對於新的行銷計畫感到非常熱衷。"
+    ],
+    [
+     "The staff showed enthusiastic support for the changes.",
+     "員工對這些變革展現了熱情的支持。"
+    ]
+   ]
+  },
+  {
+   "word": "exclude",
+   "ph": "/ɪkˈskluːd/",
+   "pos": "v. 排除；不包括",
+   "zh": "排除；不包括",
+   "colloc": "exclude from 排除在外 | completely exclude 完全排除",
+   "distinct": "remove 移除 | reject 拒絕",
+   "ex": [
+    [
+     "The price does not exclude the shipping costs.",
+     "價格並不包含運費在內。"
+    ],
+    [
+     "We cannot exclude the possibility of a mistake.",
+     "我們無法排除出錯的可能性。"
+    ],
+    [
+     "New members were excluded from the private group.",
+     "新成員被排除在這個私人小組之外。"
+    ]
+   ]
+  },
+  {
+   "word": "exhibit",
+   "ph": "/ɪɡˈzɪb.ɪt/",
+   "pos": "v. 展示；顯示 | n. 展覽；展品",
+   "zh": "展示；展覽",
+   "colloc": "exhibit a talent 展現天賦 | trade exhibit 貿易展",
+   "distinct": "display 陳列 | reveal 顯露",
+   "ex": [
+    [
+     "The gallery will exhibit paintings by local artists.",
+     "畫廊將會展出當地藝術家的畫作。"
+    ],
+    [
+     "He exhibits great leadership in every project.",
+     "他在每個專案中都展現了卓越的領導力。"
+    ],
+    [
+     "The company will have an exhibit at the fair.",
+     "公司將在展會中設置一個展示位。"
+    ]
+   ]
+  },
+  {
+   "word": "federal",
+   "ph": "/ˈfed.ər.əl/",
+   "pos": "adj. 聯邦的；聯邦制的",
+   "zh": "聯邦的",
+   "colloc": "federal government 聯邦政府 | federal law 聯邦法律",
+   "distinct": "local 當地的 | national 全國的",
+   "ex": [
+    [
+     "The agency operates under federal regulations.",
+     "該機構在聯邦法規下運作。"
+    ],
+    [
+     "She works for a federal office in the capital.",
+     "她在首都的一間聯邦辦公室工作。"
+    ],
+    [
+     "Federal tax must be filed by the deadline.",
+     "聯邦稅必須在截止日期前申報。"
+    ]
+   ]
+  },
+  {
+   "word": "flat",
+   "ph": "/flæt/",
+   "pos": "adj. 平坦的；平穩的 | adv. 直接地 | n. 公寓",
+   "zh": "平坦的；平穩的",
+   "colloc": "flat rate 固定費率 | flat surface 平坦表面",
+   "distinct": "level 水平的 | apartment 公寓（美式）",
+   "ex": [
+    [
+     "We offer a flat rate for all consulting services.",
+     "我們針對所有諮詢服務提供固定費率。"
+    ],
+    [
+     "Sales remained flat during the last two quarters.",
+     "過去兩季銷售額保持平穩。"
+    ],
+    [
+     "The new office is located in a flat area.",
+     "新辦公室位於平坦的區域。"
+    ]
+   ]
+  },
+  {
+   "word": "gradual",
+   "ph": "/ˈɡrædʒ.u.əl/",
+   "pos": "adj. 逐漸的；平緩的",
+   "zh": "逐漸的；平緩的",
+   "colloc": "gradual increase 逐漸增加 | gradual change 逐漸的變化",
+   "distinct": "sudden 突然的 | steady 穩定的",
+   "ex": [
+    [
+     "We expect a gradual recovery of the economy.",
+     "我們預期經濟將會逐漸復甦。"
+    ],
+    [
+     "There has been a gradual decline in paper use.",
+     "紙張使用量出現了逐漸下降的趨勢。"
+    ],
+    [
+     "The slope provides a gradual climb to the top.",
+     "坡度提供了平緩通往頂部的路徑。"
+    ]
+   ]
+  },
+  {
+   "word": "hesitate",
+   "ph": "/ˈhez.ə.teɪt/",
+   "pos": "v. 猶豫；遲疑",
+   "zh": "猶豫；遲疑",
+   "colloc": "hesitate to do 猶豫去做 | without hesitation 毫不猶豫",
+   "distinct": "delay 延遲 | wait 等待",
+   "ex": [
+    [
+     "Please do not hesitate to contact our staff.",
+     "請不要猶豫，隨時聯繫我們的工作人員。"
+    ],
+    [
+     "She hesitated before signing the legal contract.",
+     "她在簽署法律合約前遲疑了一下。"
+    ],
+    [
+     "The client hesitated because the price was high.",
+     "客戶因為價格過高而猶豫不決。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 99,
+ "theme": "教材片語・中高階 750–850 第 35 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "for business",
+   "ph": "",
+   "pos": "phr. 因公；為了業務",
+   "zh": "因公；為了業務",
+   "colloc": "travel for business 因公出差 | trip for business 商務旅行",
+   "distinct": "on business 出差 | for pleasure 為了娛樂",
+   "ex": [
+    [
+     "He is traveling to Tokyo for business next week.",
+     "他下週要前往東京出差。"
+    ],
+    [
+     "Is this phone call for business or personal?",
+     "這通電話是公事還是私事？"
+    ],
+    [
+     "The manager is away for business until Friday.",
+     "經理因公外出直到週五。"
+    ]
+   ]
+  },
+  {
+   "word": "for sale",
+   "ph": "",
+   "pos": "phr. 待售；出售",
+   "zh": "待售；出售",
+   "colloc": "up for sale 出售中 | items for sale 待售商品",
+   "distinct": "on sale 特價中 | for rent 出租",
+   "ex": [
+    [
+     "This office building is currently for sale.",
+     "這棟辦公大樓目前正在出售。"
+    ],
+    [
+     "Are these computer accessories for sale?",
+     "這些電腦配件有在販售嗎？"
+    ],
+    [
+     "The old equipment is listed for sale online.",
+     "舊設備已在網路上架出售。"
+    ]
+   ]
+  },
+  {
+   "word": "get a permit",
+   "ph": "",
+   "pos": "phr. 取得許可證",
+   "zh": "取得許可證",
+   "colloc": "apply for a permit 申請許可 | obtain a permit 獲得許可",
+   "distinct": "get a license 取得執照 | get approval 獲得批准",
+   "ex": [
+    [
+     "You need to get a permit before building.",
+     "施工前你需要先取得許可證。"
+    ],
+    [
+     "Did the contractor get a permit for repairs?",
+     "承包商取得維修許可了嗎？"
+    ],
+    [
+     "It is difficult to get a permit quickly.",
+     "要快速取得許可證很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "get back in touch",
+   "ph": "",
+   "pos": "phr. 重新聯絡",
+   "zh": "重新聯絡；恢復聯繫",
+   "colloc": "get back in touch soon 儘快聯絡 | reach out to get back in touch 聯繫以恢復溝通",
+   "distinct": "keep in touch 保持聯繫 | lose touch 失聯",
+   "ex": [
+    [
+     "I will get back in touch after the meeting.",
+     "會議結束後我會再跟你聯絡。"
+    ],
+    [
+     "Please get back in touch if you need help.",
+     "如果你需要協助，請再與我聯繫。"
+    ],
+    [
+     "We should get back in touch with the supplier.",
+     "我們應該與供應商恢復聯繫。"
+    ]
+   ]
+  },
+  {
+   "word": "give a hand",
+   "ph": "",
+   "pos": "phr. 幫忙；協助",
+   "zh": "幫忙；協助",
+   "colloc": "give a hand with 協助處理 | need a hand 需要幫忙",
+   "distinct": "lend a hand 伸出援手 | give a helping hand 施予援手",
+   "ex": [
+    [
+     "Could you give a hand with this report?",
+     "你能幫我處理這份報告嗎？"
+    ],
+    [
+     "He is always willing to give a hand.",
+     "他總是樂於提供協助。"
+    ],
+    [
+     "Let me give a hand to finish the task.",
+     "讓我幫忙完成這項任務吧。"
+    ]
+   ]
+  },
+  {
+   "word": "give a in advance",
+   "ph": "",
+   "pos": "phr. 事先告知；預付",
+   "zh": "事先告知；預付",
+   "colloc": "payment in advance 預付款 | notice in advance 事先通知",
+   "distinct": "ahead of time 提前 | beforehand 事先",
+   "ex": [
+    [
+     "Please give a notice in advance for absence.",
+     "請假請事先告知。"
+    ],
+    [
+     "We require the deposit to be given in advance.",
+     "我們要求預付訂金。"
+    ],
+    [
+     "It is better to give an answer in advance.",
+     "最好能事先給予答覆。"
+    ]
+   ]
+  },
+  {
+   "word": "give a presentation",
+   "ph": "",
+   "pos": "phr. 進行簡報",
+   "zh": "進行簡報",
+   "colloc": "give a presentation on 關於…進行簡報 | prepare to give a presentation 準備簡報",
+   "distinct": "make a speech 發表演說 | hold a meeting 召開會議",
+   "ex": [
+    [
+     "She will give a presentation about new products.",
+     "她將針對新產品進行簡報。"
+    ],
+    [
+     "We need to give a presentation to the client.",
+     "我們需要向客戶進行簡報。"
+    ],
+    [
+     "He gave a presentation that impressed everyone.",
+     "他所做的簡報讓大家都印象深刻。"
+    ]
+   ]
+  },
+  {
+   "word": "had better do",
+   "ph": "",
+   "pos": "phr. 最好…（建議）",
+   "zh": "最好…；應該…",
+   "colloc": "had better not do 最好不要做 | had better finish 最好完成",
+   "distinct": "should 應該 | ought to 應當",
+   "ex": [
+    [
+     "You had better submit the form by noon.",
+     "你最好在中午前遞交表格。"
+    ],
+    [
+     "We had better not delay the shipment again.",
+     "我們最好不要再延遲出貨了。"
+    ],
+    [
+     "He had better follow the company regulations.",
+     "他最好遵守公司規定。"
+    ]
+   ]
+  },
+  {
+   "word": "hand in",
+   "ph": "",
+   "pos": "phr. 繳交；提交",
+   "zh": "繳交；提交",
+   "colloc": "hand in a report 繳交報告 | hand in one's notice 提出辭呈",
+   "distinct": "turn in 繳交 | submit 提交（正式）",
+   "ex": [
+    [
+     "Did you hand in your weekly report yet?",
+     "你已經繳交週報了嗎？"
+    ],
+    [
+     "Please hand in all documents by Friday.",
+     "請在週五前提交所有文件。"
+    ],
+    [
+     "He had to hand in his resignation today.",
+     "他今天必須提出辭呈。"
+    ]
+   ]
+  },
+  {
+   "word": "have a round",
+   "ph": "",
+   "pos": "phr. 進行一輪（賽事或談判）",
+   "zh": "進行一輪",
+   "colloc": "have a second round 進行第二輪 | have a round of negotiations 進行一輪談判",
+   "distinct": "a round of drinks 一輪飲料 | a round of applause 一陣掌聲",
+   "ex": [
+    [
+     "We will have a round of discussions later.",
+     "我們稍後會進行一輪討論。"
+    ],
+    [
+     "The team will have a round of interviews.",
+     "團隊將會進行一輪面試。"
+    ],
+    [
+     "They decided to have a round of talks.",
+     "他們決定進行一輪會談。"
+    ]
+   ]
+  },
+  {
+   "word": "have a tendency to do",
+   "ph": "",
+   "pos": "phr. 傾向於做…",
+   "zh": "傾向於…；容易…",
+   "colloc": "have a tendency to increase 傾向於增加 | have a tendency to overestimate 容易高估",
+   "distinct": "be prone to 易於 | be inclined to 傾向於",
+   "ex": [
+    [
+     "New staff have a tendency to make mistakes.",
+     "新進員工傾向於犯錯。"
+    ],
+    [
+     "Prices have a tendency to rise in summer.",
+     "價格在夏天有上漲的趨勢。"
+    ],
+    [
+     "Consumers have a tendency to choose cheaper goods.",
+     "消費者傾向於選擇較便宜的商品。"
+    ]
+   ]
+  },
+  {
+   "word": "head up",
+   "ph": "",
+   "pos": "phr. 領導；負責",
+   "zh": "領導；負責",
+   "colloc": "head up a project 負責專案 | head up the department 領導部門",
+   "distinct": "be in charge of 負責 | run the show 主導",
+   "ex": [
+    [
+     "She was asked to head up the new team.",
+     "她被要求領導這個新團隊。"
+    ],
+    [
+     "He will head up the research department soon.",
+     "他很快就會負責研發部門。"
+    ],
+    [
+     "Who is going to head up the marketing campaign?",
+     "誰要來負責這次的行銷活動？"
+    ]
+   ]
+  },
+  {
+   "word": "heart attack",
+   "ph": "",
+   "pos": "n. 心臟病發作",
+   "zh": "心臟病發作",
+   "colloc": "suffer a heart attack 心臟病發作 | risk of heart attack 心臟病風險",
+   "distinct": "stroke 中風 | cardiac arrest 心跳停止",
+   "ex": [
+    [
+     "The stress of work can lead to a heart attack.",
+     "工作壓力可能會導致心臟病發作。"
+    ],
+    [
+     "He suffered a mild heart attack last night.",
+     "他昨晚輕微心臟病發作。"
+    ],
+    [
+     "Employees should avoid triggers for heart attacks.",
+     "員工應避免心臟病發作的誘因。"
+    ]
+   ]
+  },
+  {
+   "word": "import license",
+   "ph": "",
+   "pos": "n. 進口許可證",
+   "zh": "進口許可證",
+   "colloc": "apply for an import license 申請進口許可 | hold an import license 持有進口執照",
+   "distinct": "export license 出口許可證 | business license 營業執照",
+   "ex": [
+    [
+     "You must obtain an import license for these goods.",
+     "你必須為這些貨物取得進口許可證。"
+    ],
+    [
+     "The company lacks a valid import license.",
+     "該公司缺乏有效的進口許可證。"
+    ],
+    [
+     "Processing the import license takes two weeks.",
+     "辦理進口許可證需要兩週時間。"
+    ]
+   ]
+  },
+  {
+   "word": "in a hurry",
+   "ph": "",
+   "pos": "phr. 匆忙地；趕時間",
+   "zh": "匆忙地；趕時間",
+   "colloc": "be in a hurry to do 趕著做 | in a big hurry 非常匆忙",
+   "distinct": "in a rush 趕忙 | at a glance 一眼看去",
+   "ex": [
+    [
+     "I am in a hurry to catch my flight.",
+     "我趕著去搭飛機。"
+    ],
+    [
+     "Don't make decisions when you are in a hurry.",
+     "不要在匆忙時做決定。"
+    ],
+    [
+     "He left the office in a hurry today.",
+     "他今天匆匆忙忙地離開辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "in a moment",
+   "ph": "",
+   "pos": "phr. 立刻；馬上",
+   "zh": "立刻；馬上",
+   "colloc": "back in a moment 等一下回來 | start in a moment 馬上開始",
+   "distinct": "at the moment 此刻 | for a moment 片刻",
+   "ex": [
+    [
+     "The meeting will begin in a moment.",
+     "會議馬上就要開始了。"
+    ],
+    [
+     "I will be with you in a moment, sir.",
+     "先生，我馬上就來協助您。"
+    ],
+    [
+     "We will have the results in a moment.",
+     "我們很快就會有結果了。"
+    ]
+   ]
+  },
+  {
+   "word": "in a pile",
+   "ph": "",
+   "pos": "phr. 成堆地",
+   "zh": "成堆地",
+   "colloc": "in a pile of papers 一堆文件中 | leave in a pile 堆放在一起",
+   "distinct": "in a stack 疊放 | in a heap 堆積",
+   "ex": [
+    [
+     "There are files in a pile on my desk.",
+     "我的桌上有一堆文件。"
+    ],
+    [
+     "Please do not leave inventory in a pile.",
+     "請不要將庫存隨意堆放。"
+    ],
+    [
+     "I found the mail in a pile by the door.",
+     "我在門邊發現一堆郵件。"
+    ]
+   ]
+  },
+  {
+   "word": "in flight",
+   "ph": "",
+   "pos": "phr. 飛行中；航行中",
+   "zh": "飛行中；航行中",
+   "colloc": "in flight service 機上服務 | in flight entertainment 機上娛樂",
+   "distinct": "on board 在飛機上 | during the flight 在飛行期間",
+   "ex": [
+    [
+     "The flight attendant served drinks in flight.",
+     "空服員在飛行中提供了飲料。"
+    ],
+    [
+     "The in-flight entertainment system is broken.",
+     "機上娛樂系統壞掉了。"
+    ],
+    [
+     "We experienced some turbulence while in flight.",
+     "我們在飛行途中遇到了亂流。"
+    ]
+   ]
+  },
+  {
+   "word": "in luck",
+   "ph": "",
+   "pos": "phr. 走運；幸運",
+   "zh": "走運；幸運",
+   "colloc": "be in luck today 今天很走運 | if you are in luck 如果你運氣好",
+   "distinct": "good luck 好運 | out of luck 倒楣",
+   "ex": [
+    [
+     "You are in luck, we have one left.",
+     "你運氣真好，我們還剩最後一個。"
+    ],
+    [
+     "We were in luck to find an open store.",
+     "我們很幸運找到一家還在營業的店。"
+    ],
+    [
+     "If you are in luck, you will get the promotion.",
+     "如果你運氣好的話，就會升職。"
+    ]
+   ]
+  },
+  {
+   "word": "in place",
+   "ph": "",
+   "pos": "phr. 就位；準備就緒；適當的",
+   "zh": "就位；準備就緒；適當的",
+   "colloc": "have a system in place 建立制度 | everything in place 一切就緒",
+   "distinct": "in position 在位置上 | out of place 不適當",
+   "ex": [
+    [
+     "We have safety measures in place now.",
+     "我們現在已經採取了安全措施。"
+    ],
+    [
+     "Make sure all documents are in place.",
+     "確保所有文件都準備就緒。"
+    ],
+    [
+     "The new policy will be in place next month.",
+     "新政策將於下個月開始實施。"
+    ]
+   ]
+  }
+ ]
+}

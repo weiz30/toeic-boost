@@ -1,0 +1,448 @@
+{
+ "day": 91,
+ "theme": "教材片語・中高階 750–850 第 27 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "make repairs",
+   "ph": "",
+   "pos": "phr. 進行維修",
+   "zh": "進行維修；修復",
+   "colloc": "make urgent repairs 緊急維修 | make minor repairs 小修",
+   "distinct": "conduct repairs 執行維修 | perform maintenance 執行保養",
+   "ex": [
+    [
+     "Technicians will make repairs to the faulty equipment tomorrow.",
+     "技術人員明天將對故障設備進行維修。"
+    ],
+    [
+     "The landlord refused to make repairs on the leaking roof.",
+     "房東拒絕維修漏水的屋頂。"
+    ],
+    [
+     "It is necessary to make repairs before we open the store.",
+     "我們開店前必須進行維修。"
+    ]
+   ]
+  },
+  {
+   "word": "make the bed",
+   "ph": "",
+   "pos": "phr. 鋪床",
+   "zh": "鋪床",
+   "colloc": "properly make the bed 把床鋪好 | forget to make the bed 忘記鋪床",
+   "distinct": "clean the room 打掃房間 | tidy up the room 整理房間",
+   "ex": [
+    [
+     "Hotel staff are required to make the bed daily.",
+     "飯店員工必須每天鋪床。"
+    ],
+    [
+     "I usually make the bed as soon as I wake up.",
+     "我通常起床後馬上就鋪床。"
+    ],
+    [
+     "The housekeeping service will make the bed during your stay.",
+     "住宿期間客房服務會為您鋪床。"
+    ]
+   ]
+  },
+  {
+   "word": "make up for",
+   "ph": "",
+   "pos": "phr. 補償；彌補",
+   "zh": "補償；彌補",
+   "colloc": "make up for lost time 補回時間 | make up for the loss 彌補損失",
+   "distinct": "compensate for 賠償 | make amends for 賠罪",
+   "ex": [
+    [
+     "He worked overtime to make up for his absence last week.",
+     "他加班以彌補上週的缺席。"
+    ],
+    [
+     "The company offered a discount to make up for the delay.",
+     "公司提供折扣以彌補延誤。"
+    ],
+    [
+     "Nothing can make up for the loss of his reputation.",
+     "沒有什麼能彌補他失去的名譽。"
+    ]
+   ]
+  },
+  {
+   "word": "move ahead with",
+   "ph": "",
+   "pos": "phr. 推進；繼續進行",
+   "zh": "推進；繼續進行",
+   "colloc": "move ahead with the plan 推進計畫 | move ahead with the project 繼續專案",
+   "distinct": "proceed with 繼續進行 | carry on with 繼續做",
+   "ex": [
+    [
+     "Management decided to move ahead with the expansion plan.",
+     "管理層決定繼續推進擴張計畫。"
+    ],
+    [
+     "We are ready to move ahead with the new software installation.",
+     "我們準備開始安裝新軟體。"
+    ],
+    [
+     "The board will move ahead with the merger next month.",
+     "董事會下個月將推進合併事宜。"
+    ]
+   ]
+  },
+  {
+   "word": "move over one seat",
+   "ph": "",
+   "pos": "phr. 往旁邊挪一個位子",
+   "zh": "往旁邊挪一個位子",
+   "colloc": "kindly move over one seat 請往旁邊挪一個位子 | move over one seat please 請往旁邊移動一個座位",
+   "distinct": "change seats 換位子 | switch seats 交換位子",
+   "ex": [
+    [
+     "Could you please move over one seat to the left?",
+     "您可以往左邊挪一個位子嗎？"
+    ],
+    [
+     "She asked the passenger to move over one seat.",
+     "她請那位乘客往旁邊挪一個位子。"
+    ],
+    [
+     "Please move over one seat so my friend can sit down.",
+     "請往旁邊挪一個位子讓我朋友坐下。"
+    ]
+   ]
+  },
+  {
+   "word": "need monitoring",
+   "ph": "",
+   "pos": "phr. 需要監控",
+   "zh": "需要監控",
+   "colloc": "constant need monitoring 持續需要監控 | urgent need monitoring 緊急需要監控",
+   "distinct": "require observation 需要觀察 | demand supervision 需要督導",
+   "ex": [
+    [
+     "The performance of the new server will need monitoring.",
+     "新伺服器的效能需要進行監控。"
+    ],
+    [
+     "Patient vital signs will need monitoring during the procedure.",
+     "手術期間病人的生命徵象需要監控。"
+    ],
+    [
+     "This investment strategy will need monitoring every quarter.",
+     "這項投資策略每季都需要監控。"
+    ]
+   ]
+  },
+  {
+   "word": "net income",
+   "ph": "",
+   "pos": "phr. 淨收入；淨利",
+   "zh": "淨收入；淨利",
+   "colloc": "report net income 報告淨利 | exceed net income 超過淨利",
+   "distinct": "gross income 毛利 | total revenue 總營收",
+   "ex": [
+    [
+     "The company reported a record high net income this year.",
+     "公司今年報告了創紀錄的淨利。"
+    ],
+    [
+     "Our net income decreased due to rising production costs.",
+     "由於生產成本上升，我們的淨利減少了。"
+    ],
+    [
+     "Investors focus on the annual net income of the corporation.",
+     "投資者關注該公司的年度淨利。"
+    ]
+   ]
+  },
+  {
+   "word": "night shift",
+   "ph": "",
+   "pos": "phr. 夜班",
+   "zh": "夜班",
+   "colloc": "work the night shift 上夜班 | night shift allowance 夜班津貼",
+   "distinct": "day shift 日班 | graveyard shift 大夜班",
+   "ex": [
+    [
+     "He has been working the night shift for three years.",
+     "他已經上夜班三年了。"
+    ],
+    [
+     "Employees on the night shift receive a higher hourly wage.",
+     "上夜班的員工領取較高的時薪。"
+    ],
+    [
+     "She prefers the night shift because it is quieter.",
+     "她比較喜歡夜班，因為環境比較安靜。"
+    ]
+   ]
+  },
+  {
+   "word": "no later than",
+   "ph": "",
+   "pos": "phr. 不晚於；在…之前",
+   "zh": "不晚於；在…之前",
+   "colloc": "no later than Friday 不晚於週五 | no later than noon 不晚於中午",
+   "distinct": "by 在…之前 | before 在…之前",
+   "ex": [
+    [
+     "Please submit your expense report no later than Friday.",
+     "請在週五之前提交您的費用報告。"
+    ],
+    [
+     "All applications must be received no later than closing time.",
+     "所有申請必須在截止時間前收到。"
+    ],
+    [
+     "The shipment will arrive no later than next Wednesday.",
+     "貨物將不晚於下週三送達。"
+    ]
+   ]
+  },
+  {
+   "word": "noise and air pollution",
+   "ph": "",
+   "pos": "phr. 噪音與空氣污染",
+   "zh": "噪音與空氣污染",
+   "colloc": "reduce noise and air pollution 減少噪音與空氣污染 | cause noise and air pollution 造成噪音與空氣污染",
+   "distinct": "environmental damage 環境破壞 | industrial waste 工業廢棄物",
+   "ex": [
+    [
+     "The factory faces complaints about noise and air pollution.",
+     "這家工廠面臨關於噪音與空氣污染的投訴。"
+    ],
+    [
+     "City officials are working to lower noise and air pollution.",
+     "市政府官員正致力於降低噪音與空氣污染。"
+    ],
+    [
+     "Strict regulations help control noise and air pollution levels.",
+     "嚴格的規定有助於控制噪音與空氣污染水平。"
+    ]
+   ]
+  },
+  {
+   "word": "office supplies",
+   "ph": "",
+   "pos": "phr. 辦公用品",
+   "zh": "辦公用品",
+   "colloc": "order office supplies 訂購辦公用品 | stock of office supplies 辦公用品庫存",
+   "distinct": "stationery 文具 | office equipment 辦公設備",
+   "ex": [
+    [
+     "We need to restock our office supplies every month.",
+     "我們每個月都需要補充辦公用品。"
+    ],
+    [
+     "Please include the cost of office supplies in the budget.",
+     "請將辦公用品的費用納入預算中。"
+    ],
+    [
+     "The purchasing department handles all office supplies orders.",
+     "採購部門負責所有的辦公用品訂單。"
+    ]
+   ]
+  },
+  {
+   "word": "on a business trip",
+   "ph": "",
+   "pos": "phr. 出差中",
+   "zh": "出差中",
+   "colloc": "be on a business trip 去出差 | send on a business trip 派去出差",
+   "distinct": "on vacation 度假中 | on a mission 出任務",
+   "ex": [
+    [
+     "The manager is currently on a business trip in Japan.",
+     "經理目前正在日本出差。"
+    ],
+    [
+     "I will be on a business trip for the entire week.",
+     "我整個星期都會在出差。"
+    ],
+    [
+     "You can email me while I am on a business trip.",
+     "我出差時可以透過電子郵件聯絡我。"
+    ]
+   ]
+  },
+  {
+   "word": "on an empty stomach",
+   "ph": "",
+   "pos": "phr. 空腹；沒吃東西",
+   "zh": "空腹；沒吃東西",
+   "colloc": "exercise on an empty stomach 空腹運動 | take medicine on an empty stomach 空腹吃藥",
+   "distinct": "on a full stomach 吃飽後 | on a light stomach 肚子不太餓",
+   "ex": [
+    [
+     "It is not advisable to exercise on an empty stomach.",
+     "不建議在空腹的情況下運動。"
+    ],
+    [
+     "He felt dizzy because he worked on an empty stomach.",
+     "因為空腹工作，他感到頭暈。"
+    ],
+    [
+     "The doctor instructed me to take pills on an empty stomach.",
+     "醫生指示我空腹服用藥丸。"
+    ]
+   ]
+  },
+  {
+   "word": "on business",
+   "ph": "",
+   "pos": "phr. 因公；出差",
+   "zh": "因公；出差",
+   "colloc": "travel on business 因公出差 | be away on business 因公外出",
+   "distinct": "for pleasure 為了遊玩 | for personal reasons 基於個人原因",
+   "ex": [
+    [
+     "He is visiting Seoul on business next month.",
+     "他下個月因公去首爾拜訪。"
+    ],
+    [
+     "Are you in this city on business or for vacation?",
+     "您在這座城市是出差還是度假？"
+    ],
+    [
+     "Many executives travel on business throughout the year.",
+     "許多主管整年都在因公奔波。"
+    ]
+   ]
+  },
+  {
+   "word": "on delivery",
+   "ph": "",
+   "pos": "phr. 在交貨時；貨到時",
+   "zh": "在交貨時；貨到時",
+   "colloc": "pay on delivery 貨到付款 | check on delivery 交貨時檢查",
+   "distinct": "upon arrival 到達時 | at the time of purchase 購買時",
+   "ex": [
+    [
+     "You must make the payment on delivery of the goods.",
+     "貨到時您必須進行付款。"
+    ],
+    [
+     "Please inspect the package carefully on delivery.",
+     "請在交貨時仔細檢查包裹。"
+    ],
+    [
+     "The courier will collect the fee on delivery.",
+     "快遞員將在交貨時收取費用。"
+    ]
+   ]
+  },
+  {
+   "word": "on duty",
+   "ph": "",
+   "pos": "phr. 值班；在崗位上",
+   "zh": "值班；在崗位上",
+   "colloc": "be on duty 值班中 | while on duty 值班期間",
+   "distinct": "off duty 下班 | on call 待命",
+   "ex": [
+    [
+     "Security guards are on duty throughout the night.",
+     "保全人員整晚都在值班。"
+    ],
+    [
+     "He is not allowed to use his phone while on duty.",
+     "他在值班期間不准使用手機。"
+    ],
+    [
+     "The doctor on duty will assist you shortly.",
+     "值班醫生稍後會協助您。"
+    ]
+   ]
+  },
+  {
+   "word": "on loan",
+   "ph": "",
+   "pos": "phr. 借出的；出借的",
+   "zh": "借出的；出借的",
+   "colloc": "be on loan 借出中 | get items on loan 借用物品",
+   "distinct": "for sale 待售 | in stock 現貨",
+   "ex": [
+    [
+     "That painting is currently on loan to the city museum.",
+     "那幅畫目前正出借給市立博物館。"
+    ],
+    [
+     "The equipment is on loan from another department.",
+     "這項設備是從其他部門借來的。"
+    ],
+    [
+     "Books on loan must be returned by the due date.",
+     "借出的書籍必須在期限前歸還。"
+    ]
+   ]
+  },
+  {
+   "word": "on purpose",
+   "ph": "",
+   "pos": "phr. 故意地；有意地",
+   "zh": "故意地；有意地",
+   "colloc": "do something on purpose 故意做某事 | not do it on purpose 不是故意的",
+   "distinct": "by accident 意外地 | by mistake 錯誤地",
+   "ex": [
+    [
+     "I did not break your mug on purpose.",
+     "我不是故意打破你的馬克杯。"
+    ],
+    [
+     "He was late on purpose to avoid the meeting.",
+     "他是故意遲到的，為了避開會議。"
+    ],
+    [
+     "She did it on purpose to get my attention.",
+     "她是故意這樣做來吸引我的注意。"
+    ]
+   ]
+  },
+  {
+   "word": "on schedule",
+   "ph": "",
+   "pos": "phr. 準時；按進度",
+   "zh": "準時；按進度",
+   "colloc": "finish on schedule 按時完成 | keep on schedule 保持進度",
+   "distinct": "ahead of schedule 超前進度 | behind schedule 落後進度",
+   "ex": [
+    [
+     "The construction project is expected to finish on schedule.",
+     "這項建築工程預計會按時完成。"
+    ],
+    [
+     "We are working hard to keep the project on schedule.",
+     "我們正努力讓專案保持在進度上。"
+    ],
+    [
+     "The train arrived exactly on schedule this morning.",
+     "火車今天早上準時抵達。"
+    ]
+   ]
+  },
+  {
+   "word": "out of order",
+   "ph": "",
+   "pos": "phr. 故障；損壞",
+   "zh": "故障；損壞",
+   "colloc": "be out of order 故障 | remain out of order 處於故障狀態",
+   "distinct": "in working order 運作正常 | out of stock 缺貨",
+   "ex": [
+    [
+     "The elevator is out of order, please use the stairs.",
+     "電梯故障了，請走樓梯。"
+    ],
+    [
+     "This vending machine has been out of order for weeks.",
+     "這台自動販賣機已經故障好幾週了。"
+    ],
+    [
+     "All the printers are out of order today.",
+     "今天所有的印表機都故障了。"
+    ]
+   ]
+  }
+ ]
+}

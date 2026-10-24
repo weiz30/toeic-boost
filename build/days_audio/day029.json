@@ -1,0 +1,448 @@
+{
+ "day": 29,
+ "theme": "教材字彙・基礎 550–650 第 29 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "raise",
+   "ph": "/reɪz/",
+   "pos": "v. 提升；籌募 | n. 加薪",
+   "zh": "提升；籌募；加薪",
+   "colloc": "raise money 募款 | get a raise 獲得加薪",
+   "distinct": "rise 上升（不及物）| lift 舉起（物理動作）",
+   "ex": [
+    [
+     "Management decided to raise the minimum wage.",
+     "管理層決定提高最低薪資。"
+    ],
+    [
+     "We need to raise funds for the campaign.",
+     "我們需要為活動籌募資金。"
+    ],
+    [
+     "She asked her boss for a salary raise.",
+     "她向老闆要求加薪。"
+    ]
+   ]
+  },
+  {
+   "word": "reference",
+   "ph": "/ˈrefərəns/",
+   "pos": "n. 參考；推薦信；提及",
+   "zh": "參考；推薦信；提及",
+   "colloc": "job reference 工作推薦人 | for future reference 供日後參考",
+   "distinct": "preference 偏好 | reverence 尊敬",
+   "ex": [
+    [
+     "Please keep this file for future reference.",
+     "請保留此檔案供日後參考。"
+    ],
+    [
+     "The candidate provided excellent professional references.",
+     "該候選人提供了優秀的專業推薦人。"
+    ],
+    [
+     "He made a brief reference to the new policy.",
+     "他簡短地提及了新政策。"
+    ]
+   ]
+  },
+  {
+   "word": "regular",
+   "ph": "/ˈreɡjələr/",
+   "pos": "adj. 定期的；規律的；普通的",
+   "zh": "定期的；規律的；普通的",
+   "colloc": "regular basis 定期地 | regular customer 常客",
+   "distinct": "frequent 頻繁的 | constant 持續不斷的",
+   "ex": [
+    [
+     "We hold regular meetings every Tuesday morning.",
+     "我們每週二早上舉行定期會議。"
+    ],
+    [
+     "She is a regular customer at this coffee shop.",
+     "她是這家咖啡店的常客。"
+    ],
+    [
+     "Maintenance checks are done on a regular basis.",
+     "維護檢查是定期進行的。"
+    ]
+   ]
+  },
+  {
+   "word": "release",
+   "ph": "/rɪˈliːs/",
+   "pos": "v. 發布；釋放 | n. 發行",
+   "zh": "發布；釋放；發行",
+   "colloc": "press release 新聞稿 | release a product 發布產品",
+   "distinct": "publish 出版 | announce 宣告",
+   "ex": [
+    [
+     "The company will release the report tomorrow.",
+     "公司將於明天發布該報告。"
+    ],
+    [
+     "A new version of the software was released.",
+     "該軟體的新版本已經發布了。"
+    ],
+    [
+     "Please issue a press release to the media.",
+     "請對媒體發布一份新聞稿。"
+    ]
+   ]
+  },
+  {
+   "word": "reserved",
+   "ph": "/rɪˈzɜːrvd/",
+   "pos": "adj. 預訂的；保留的；矜持的",
+   "zh": "預訂的；保留的；矜持的",
+   "colloc": "reserved seat 預留座位 | reserved for 專供...",
+   "distinct": "conserved 保存的 | preserved 保存的（食物）",
+   "ex": [
+    [
+     "All seats for the gala are reserved.",
+     "晚宴的所有座位都已預訂。"
+    ],
+    [
+     "This parking space is reserved for visitors.",
+     "此停車位是保留給訪客使用的。"
+    ],
+    [
+     "The manager has a reserved attitude toward the plan.",
+     "經理對這項計畫態度較為保留。"
+    ]
+   ]
+  },
+  {
+   "word": "resource",
+   "ph": "/ˈriːsɔːrs/",
+   "pos": "n. 資源；財力；對策",
+   "zh": "資源；財力；對策",
+   "colloc": "human resources 人力資源 | natural resources 天然資源",
+   "distinct": "source 來源 | resort 手段；避難所",
+   "ex": [
+    [
+     "We lack the resources to finish this project.",
+     "我們缺乏完成此專案的資源。"
+    ],
+    [
+     "The human resources department handles staff training.",
+     "人力資源部負責員工培訓。"
+    ],
+    [
+     "Time is our most valuable resource right now.",
+     "時間是我們目前最寶貴的資源。"
+    ]
+   ]
+  },
+  {
+   "word": "response",
+   "ph": "/rɪˈspɑːns/",
+   "pos": "n. 回應；回覆；反應",
+   "zh": "回應；回覆；反應",
+   "colloc": "in response to 回應 | quick response 快速反應",
+   "distinct": "answer 答案；回答 | reaction 反應",
+   "ex": [
+    [
+     "I am waiting for his response to the email.",
+     "我正在等他回覆電子郵件。"
+    ],
+    [
+     "Customer response to the new product was positive.",
+     "顧客對新產品的反應是正面的。"
+    ],
+    [
+     "They sent a letter in response to our inquiry.",
+     "他們寄了一封信回應我們的詢問。"
+    ]
+   ]
+  },
+  {
+   "word": "return",
+   "ph": "/rɪˈtɜːrn/",
+   "pos": "v. 回來；歸還；回報 | n. 回報；收益",
+   "zh": "回來；歸還；回報",
+   "colloc": "return policy 退貨政策 | return on investment 投資報酬",
+   "distinct": "refund 退款 | repay 償還",
+   "ex": [
+    [
+     "Please return the borrowed items by Friday.",
+     "請在週五前歸還借用的物品。"
+    ],
+    [
+     "The company expects a high return on this project.",
+     "公司預期此專案會有高收益。"
+    ],
+    [
+     "She will return to the office after her trip.",
+     "她出差後將回到辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "reveal",
+   "ph": "/rɪˈviːl/",
+   "pos": "v. 揭露；洩漏；展現",
+   "zh": "揭露；洩漏；展現",
+   "colloc": "reveal the truth 揭露真相 | reveal a plan 透露計畫",
+   "distinct": "uncover 發現 | disclose 公開",
+   "ex": [
+    [
+     "The survey will reveal the customer's true needs.",
+     "這項調查將揭露顧客的真實需求。"
+    ],
+    [
+     "He refused to reveal the details of the contract.",
+     "他拒絕透露合約的細節。"
+    ],
+    [
+     "The new design reveals a modern business style.",
+     "新設計展現出摩登的商務風格。"
+    ]
+   ]
+  },
+  {
+   "word": "sale",
+   "ph": "/seɪl/",
+   "pos": "n. 銷售；拍賣；減價",
+   "zh": "銷售；拍賣；減價",
+   "colloc": "on sale 特價中 | annual sale 年度特賣",
+   "distinct": "sell 賣（動詞）| salary 薪水",
+   "ex": [
+    [
+     "Our sales figures increased significantly this quarter.",
+     "我們本季的銷售額大幅成長。"
+    ],
+    [
+     "The winter items are currently on sale.",
+     "冬季商品目前正在特價中。"
+    ],
+    [
+     "We need to boost our sales before the year ends.",
+     "我們需要在年底前提升業績。"
+    ]
+   ]
+  },
+  {
+   "word": "satisfied",
+   "ph": "/ˈsætɪsfaɪd/",
+   "pos": "adj. 感到滿意的；滿足的",
+   "zh": "感到滿意的；滿足的",
+   "colloc": "customer satisfied 顧客滿意 | feel satisfied with 對...感到滿意",
+   "distinct": "satisfying 令人滿意的 | content 滿足的",
+   "ex": [
+    [
+     "We want to keep our clients fully satisfied.",
+     "我們希望讓客戶完全滿意。"
+    ],
+    [
+     "Are you satisfied with the current service level?",
+     "你對目前的服務水準感到滿意嗎？"
+    ],
+    [
+     "He was satisfied with the final project result.",
+     "他對最終的專案成果感到滿意。"
+    ]
+   ]
+  },
+  {
+   "word": "select",
+   "ph": "/sɪˈlekt/",
+   "pos": "v. 選擇；挑選 | adj. 精選的",
+   "zh": "選擇；挑選；精選的",
+   "colloc": "select a candidate 挑選候選人 | carefully select 精心挑選",
+   "distinct": "choose 選擇（通用）| elect 選舉",
+   "ex": [
+    [
+     "Management will select the best team for the task.",
+     "管理層將挑選最棒的團隊負責此任務。"
+    ],
+    [
+     "We need to select a date for the launch event.",
+     "我們需要選定發表會的日期。"
+    ],
+    [
+     "Please select your preferred language from the menu.",
+     "請從選單中選擇你偏好的語言。"
+    ]
+   ]
+  },
+  {
+   "word": "ship",
+   "ph": "/ʃɪp/",
+   "pos": "v. 運送；出貨 | n. 船",
+   "zh": "運送；出貨；船",
+   "colloc": "ship goods 出貨 | shipping cost 運費",
+   "distinct": "deliver 遞送 | transport 運輸",
+   "ex": [
+    [
+     "We will ship your order within three days.",
+     "我們將在三天內出貨您的訂單。"
+    ],
+    [
+     "The shipping department is busy today.",
+     "出貨部門今天很忙碌。"
+    ],
+    [
+     "How long does it take to ship to Taiwan?",
+     "運送到台灣需要多久時間？"
+    ]
+   ]
+  },
+  {
+   "word": "sleep",
+   "ph": "/sliːp/",
+   "pos": "v. 睡覺 | n. 睡眠",
+   "zh": "睡覺；睡眠",
+   "colloc": "get enough sleep 獲得充足睡眠 | sleep on it 考慮一下",
+   "distinct": "nap 小睡 | doze 打瞌睡",
+   "ex": [
+    [
+     "Make sure you get enough sleep before the trip.",
+     "出差前請確保有充足的睡眠。"
+    ],
+    [
+     "He needs to sleep on the offer before deciding.",
+     "他需要考慮一下這個提議再決定。"
+    ],
+    [
+     "It is difficult to sleep when working late hours.",
+     "在深夜工作時很難入睡。"
+    ]
+   ]
+  },
+  {
+   "word": "spare",
+   "ph": "/sper/",
+   "pos": "v. 撥出；節省 | adj. 多餘的；備用的",
+   "zh": "撥出；節省；多餘的；備用的",
+   "colloc": "spare time 空閒時間 | spare parts 備用零件",
+   "distinct": "extra 額外的 | reserve 保留的",
+   "ex": [
+    [
+     "Can you spare a moment to discuss this?",
+     "你能撥出一點時間討論這件事嗎？"
+    ],
+    [
+     "The technician brought some spare parts for repair.",
+     "技術員帶了一些備用零件來維修。"
+    ],
+    [
+     "I have no spare cash to invest this month.",
+     "我這個月沒有多餘的現金可以投資。"
+    ]
+   ]
+  },
+  {
+   "word": "substitute",
+   "ph": "/ˈsʌbstɪtuːt/",
+   "pos": "n. 代替品；代理人 | v. 代替",
+   "zh": "代替品；代理人；代替",
+   "colloc": "substitute for 代替... | perfect substitute 完美替代品",
+   "distinct": "replace 取代 | alternate 交替",
+   "ex": [
+    [
+     "You can use butter as a substitute for oil.",
+     "你可以用奶油作為油的替代品。"
+    ],
+    [
+     "The manager will substitute for the director today.",
+     "經理今天將代理總監的職務。"
+    ],
+    [
+     "There is no substitute for hard work and experience.",
+     "努力工作與經驗是無可替代的。"
+    ]
+   ]
+  },
+  {
+   "word": "suggest",
+   "ph": "/səɡˈdʒest/",
+   "pos": "v. 建議；提議；暗示",
+   "zh": "建議；提議；暗示",
+   "ex": [
+    [
+     "I suggest that we move the meeting to Friday.",
+     "我建議將會議改到週五。"
+    ],
+    [
+     "Could you suggest a good place for lunch?",
+     "你可以推薦一個吃午餐的好地方嗎？"
+    ],
+    [
+     "The data suggests a decline in market interest.",
+     "數據顯示市場興趣有下降趨勢。"
+    ]
+   ],
+   "colloc": "strongly suggest 強烈建議 | suggest a solution 提出解決方案",
+   "distinct": "propose 提議（更正式）| recommend 推薦"
+  },
+  {
+   "word": "uncomfortable",
+   "ph": "/ʌnˈkʌmftəbl/",
+   "pos": "adj. 不舒服的；不自在的",
+   "zh": "不舒服的；不自在的",
+   "colloc": "feel uncomfortable 感到不自在 | uncomfortable chair 不舒服的椅子",
+   "distinct": "awkward 尷尬的 | uneasy 心神不寧的",
+   "ex": [
+    [
+     "The office chair makes me feel quite uncomfortable.",
+     "辦公椅讓我坐起來很不舒服。"
+    ],
+    [
+     "He looked uncomfortable during the performance review.",
+     "他在績效評估期間看起來很不自在。"
+    ],
+    [
+     "It is uncomfortable to sit in this small room.",
+     "待在這個小房間裡讓人很不舒服。"
+    ]
+   ]
+  },
+  {
+   "word": "understanding",
+   "ph": "/ˌʌndərˈstændɪŋ/",
+   "pos": "n. 理解；諒解 | adj. 善解人意的",
+   "zh": "理解；諒解；善解人意的",
+   "colloc": "mutual understanding 相互理解 | clear understanding 清晰的理解",
+   "distinct": "comprehension 理解力 | interpretation 解釋",
+   "ex": [
+    [
+     "We reached an understanding about the budget.",
+     "我們對於預算達成了諒解。"
+    ],
+    [
+     "Thank you for your understanding regarding this delay.",
+     "感謝您對這次延遲的體諒。"
+    ],
+    [
+     "Having a good understanding of the market is key.",
+     "對市場有透徹的理解是關鍵。"
+    ]
+   ]
+  },
+  {
+   "word": "wage",
+   "ph": "/weɪdʒ/",
+   "pos": "n. 工資；薪水",
+   "zh": "工資；薪水",
+   "colloc": "minimum wage 最低工資 | hourly wage 時薪",
+   "distinct": "salary 薪資（月薪/年薪）| income 收入",
+   "ex": [
+    [
+     "The company increased the hourly wage for staff.",
+     "公司提高了員工的時薪。"
+    ],
+    [
+     "He is satisfied with his current weekly wage.",
+     "他對目前的週薪感到滿意。"
+    ],
+    [
+     "Most workers are fighting for a living wage.",
+     "大多數工人都在爭取基本生活工資。"
+    ]
+   ]
+  }
+ ]
+}

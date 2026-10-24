@@ -1,0 +1,448 @@
+{
+ "day": 53,
+ "theme": "教材字彙・中高階 750–850 第 53 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "technically",
+   "ph": "/ˈteknɪkli/",
+   "pos": "adv. 技術上地；嚴格來說",
+   "zh": "技術上地；嚴格來說",
+   "colloc": "technically speaking 嚴格來說 | technically possible 技術上可行",
+   "distinct": "practically 實際上 | theoretically 理論上",
+   "ex": [
+    [
+     "The software is technically compatible with our system.",
+     "該軟體技術上與我們的系統相容。"
+    ],
+    [
+     "Technically speaking, the contract expired yesterday.",
+     "嚴格來說，合約昨天就到期了。"
+    ],
+    [
+     "This device is technically difficult to manufacture.",
+     "這項裝置在技術上很難製造。"
+    ]
+   ]
+  },
+  {
+   "word": "transparent",
+   "ph": "/trænsˈpærənt/",
+   "pos": "adj. 透明的；公開的；易懂的",
+   "zh": "透明的；公開的",
+   "colloc": "transparent process 透明的流程 | highly transparent 高度透明",
+   "distinct": "translucent 半透明的 | clear 清楚的",
+   "ex": [
+    [
+     "We aim for a transparent hiring process.",
+     "我們致力於公開透明的招聘流程。"
+    ],
+    [
+     "The company policy lacks transparent communication.",
+     "公司政策缺乏透明的溝通。"
+    ],
+    [
+     "Management insists on transparent financial reporting.",
+     "管理層堅持財務報告要透明。"
+    ]
+   ]
+  },
+  {
+   "word": "unload",
+   "ph": "/ˌʌnˈloʊd/",
+   "pos": "v. 卸下；退貨；傾銷",
+   "zh": "卸貨；卸下",
+   "colloc": "unload the cargo 卸貨 | unload a truck 卸下卡車",
+   "distinct": "load 裝載 | offload 卸載",
+   "ex": [
+    [
+     "The workers started to unload the supplies.",
+     "工人們開始卸下物資。"
+    ],
+    [
+     "It takes two hours to unload the ship.",
+     "卸下這艘船的貨物需要兩小時。"
+    ],
+    [
+     "Drivers must unload items at the designated bay.",
+     "司機必須在指定區域卸貨。"
+    ]
+   ]
+  },
+  {
+   "word": "value",
+   "ph": "/ˈvæljuː/",
+   "pos": "n. 價值；價格 | v. 重視；估價",
+   "zh": "價值；重視",
+   "colloc": "add value 增加價值 | good value 物超所值",
+   "distinct": "price 價格 | worth 價值（內在）",
+   "ex": [
+    [
+     "Our clients value our commitment to quality.",
+     "客戶重視我們對品質的承諾。"
+    ],
+    [
+     "This service provides great value for money.",
+     "這項服務非常物超所值。"
+    ],
+    [
+     "We need to add value to our products.",
+     "我們需要為產品增加價值。"
+    ]
+   ]
+  },
+  {
+   "word": "way",
+   "ph": "/weɪ/",
+   "pos": "n. 方法；路徑；方向",
+   "zh": "方法；路徑",
+   "colloc": "in a way 在某種程度上 | by way of 經由",
+   "distinct": "method 方法（較正式） | approach 手段",
+   "ex": [
+    [
+     "There is no easy way to solve this.",
+     "沒有簡單的方法解決這個問題。"
+    ],
+    [
+     "Please suggest a better way to proceed.",
+     "請建議一個更好的進行方式。"
+    ],
+    [
+     "We found a new way to reduce costs.",
+     "我們找到一個降低成本的新方法。"
+    ]
+   ]
+  },
+  {
+   "word": "broadcast",
+   "ph": "/ˈbrɔːdkæst/",
+   "pos": "v. 廣播；播放 | n. 廣播節目",
+   "zh": "廣播；播放",
+   "colloc": "broadcast live 現場直播 | news broadcast 新聞廣播",
+   "distinct": "transmit 傳送 | announce 宣佈",
+   "ex": [
+    [
+     "The company will broadcast the seminar online.",
+     "公司將在網路上直播研討會。"
+    ],
+    [
+     "This message is broadcast to all employees.",
+     "這則訊息已向全體員工廣播。"
+    ],
+    [
+     "The news broadcast starts at six sharp.",
+     "新聞廣播在六點準時開始。"
+    ]
+   ]
+  },
+  {
+   "word": "carelessly",
+   "ph": "/ˈkerləsli/",
+   "pos": "adv. 粗心地；不小心地",
+   "zh": "粗心地",
+   "colloc": "act carelessly 行事粗心 | handle carelessly 粗心處理",
+   "distinct": "negligently 疏忽地 | recklessly 魯莽地",
+   "ex": [
+    [
+     "He carelessly left the important file open.",
+     "他粗心地把重要檔案開著。"
+    ],
+    [
+     "Data was carelessly entered into the system.",
+     "資料被粗心地輸入到系統中。"
+    ],
+    [
+     "Do not handle the fragile equipment carelessly.",
+     "不要粗心處理易碎設備。"
+    ]
+   ]
+  },
+  {
+   "word": "chase",
+   "ph": "/tʃeɪs/",
+   "pos": "v. 追逐；追趕 | n. 追逐",
+   "zh": "追逐；追趕",
+   "colloc": "chase potential clients 爭取潛在客戶 | wild goose chase 白費力氣",
+   "distinct": "pursue 追求（目標） | track 追蹤",
+   "ex": [
+    [
+     "Sales teams often chase new business leads.",
+     "業務團隊常爭取新的商業線索。"
+    ],
+    [
+     "We spent all day chasing missing invoices.",
+     "我們花了一整天追蹤遺失的發票。"
+    ],
+    [
+     "He is chasing a promotion this year.",
+     "他今年正追求升遷。"
+    ]
+   ]
+  },
+  {
+   "word": "circumstances",
+   "ph": "/ˈsɜːrkəmstænsɪz/",
+   "pos": "n. 情況；境遇；情勢",
+   "zh": "情況；情勢",
+   "colloc": "under the circumstances 在這種情況下 | due to circumstances 由於情況",
+   "distinct": "situation 處境 | condition 條件",
+   "ex": [
+    [
+     "Under the circumstances, we must cancel the trip.",
+     "在這種情況下，我們必須取消行程。"
+    ],
+    [
+     "Unforeseen circumstances delayed the project completion.",
+     "無法預見的情況延遲了專案完工。"
+    ],
+    [
+     "We adapt quickly to changing market circumstances.",
+     "我們迅速適應變化的市場情勢。"
+    ]
+   ]
+  },
+  {
+   "word": "collapse",
+   "ph": "/kəˈlæps/",
+   "pos": "v. 倒塌；崩潰；暴跌 | n. 倒塌；崩潰",
+   "zh": "倒塌；崩潰",
+   "colloc": "financial collapse 財政崩潰 | market collapse 市場崩盤",
+   "distinct": "fail 失敗 | drop 下降",
+   "ex": [
+    [
+     "The stock market faced a sudden collapse.",
+     "股市面臨了突然的崩盤。"
+    ],
+    [
+     "Their negotiations collapsed due to low trust.",
+     "由於信任不足，談判破裂了。"
+    ],
+    [
+     "The old warehouse might collapse next winter.",
+     "那座舊倉庫明年冬天可能會倒塌。"
+    ]
+   ]
+  },
+  {
+   "word": "confusion",
+   "ph": "/kənˈfjuːʒn/",
+   "pos": "n. 混亂；困惑；混淆",
+   "zh": "混亂；困惑",
+   "colloc": "cause confusion 造成混亂 | avoid confusion 避免混淆",
+   "distinct": "disorder 雜亂 | misunderstanding 誤解",
+   "ex": [
+    [
+     "Lack of instructions caused much confusion.",
+     "缺乏說明造成了許多困惑。"
+    ],
+    [
+     "We apologize for the confusion regarding dates.",
+     "我們對日期方面的混淆深表歉意。"
+    ],
+    [
+     "The new policy led to internal confusion.",
+     "新政策導致了內部的混亂。"
+    ]
+   ]
+  },
+  {
+   "word": "construct",
+   "ph": "/kənˈstrʌkt/",
+   "pos": "v. 建造；構建 | n. 構念",
+   "zh": "建造；構建",
+   "colloc": "construct a building 蓋建築 | construct a plan 制定計畫",
+   "distinct": "build 蓋（通俗） | establish 建立",
+   "ex": [
+    [
+     "They will construct a new office tower.",
+     "他們將建造一座新的辦公大樓。"
+    ],
+    [
+     "We need to construct a better marketing strategy.",
+     "我們需要構建更好的行銷策略。"
+    ],
+    [
+     "The team is constructing a test model.",
+     "團隊正在構建一個測試模型。"
+    ]
+   ]
+  },
+  {
+   "word": "curve",
+   "ph": "/kɜːrv/",
+   "pos": "n. 曲線；彎曲處 | v. 彎曲",
+   "zh": "曲線；彎曲",
+   "colloc": "learning curve 學習曲線 | growth curve 成長曲線",
+   "distinct": "arc 弧線 | bent 彎曲的",
+   "ex": [
+    [
+     "The graph shows a steep growth curve.",
+     "圖表顯示出陡峭的成長曲線。"
+    ],
+    [
+     "Mastering this software has a learning curve.",
+     "精通這套軟體需要一段學習時間。"
+    ],
+    [
+     "The road curves ahead near the office.",
+     "辦公室前面的道路轉彎了。"
+    ]
+   ]
+  },
+  {
+   "word": "defeat",
+   "ph": "/dɪˈfiːt/",
+   "pos": "v. 擊敗；挫敗 | n. 失敗；擊敗",
+   "zh": "擊敗；失敗",
+   "colloc": "accept defeat 接受失敗 | suffer a defeat 遭受失敗",
+   "distinct": "failure 失敗（結果） | loss 損失",
+   "ex": [
+    [
+     "Our team was defeated in the final round.",
+     "我們的團隊在決賽中被擊敗。"
+    ],
+    [
+     "They refused to accept defeat so easily.",
+     "他們拒絕如此輕易地接受失敗。"
+    ],
+    [
+     "The motion was defeated by the board.",
+     "該提案被董事會否決了。"
+    ]
+   ]
+  },
+  {
+   "word": "depressing",
+   "ph": "/dɪˈpresɪŋ/",
+   "pos": "adj. 令人沮喪的；蕭條的",
+   "zh": "令人沮喪的",
+   "colloc": "depressing news 令人沮喪的消息 | depressing atmosphere 悶的氣氛",
+   "distinct": "depressed 感到沮喪的 | sad 悲傷的",
+   "ex": [
+    [
+     "The sales report is quite depressing today.",
+     "今天的銷售報告相當令人沮喪。"
+    ],
+    [
+     "It is depressing to see profits decline.",
+     "看到利潤下滑令人感到沮喪。"
+    ],
+    [
+     "The office has a depressing atmosphere today.",
+     "辦公室今天有一種悶悶的氣氛。"
+    ]
+   ]
+  },
+  {
+   "word": "disappointing",
+   "ph": "/ˌdɪsəˈpɔɪntɪŋ/",
+   "pos": "adj. 令人失望的",
+   "zh": "令人失望的",
+   "colloc": "disappointing result 令人失望的結果 | disappointing performance 表現不佳",
+   "distinct": "disappointed 感到失望的 | unsatisfactory 不滿意的",
+   "ex": [
+    [
+     "The quarterly results were quite disappointing.",
+     "本季的財務結果相當令人失望。"
+    ],
+    [
+     "We had a disappointing meeting this morning.",
+     "我們今天早上開了一場令人失望的會議。"
+    ],
+    [
+     "Such a low turnout is very disappointing.",
+     "出席率如此之低非常令人失望。"
+    ]
+   ]
+  },
+  {
+   "word": "dislike",
+   "ph": "/dɪsˈlaɪk/",
+   "pos": "v. 不喜歡；厭惡 | n. 不喜歡",
+   "zh": "不喜歡",
+   "colloc": "strong dislike 強烈反感 | express dislike 表達不滿",
+   "distinct": "hate 憎恨 | resent 憤恨",
+   "ex": [
+    [
+     "I dislike working in a noisy environment.",
+     "我不喜歡在吵雜的環境中工作。"
+    ],
+    [
+     "Management dislikes constant delays in reporting.",
+     "管理層不喜歡報告時常延遲。"
+    ],
+    [
+     "She makes her dislike for the plan clear.",
+     "她清楚表達了對該計畫的不喜歡。"
+    ]
+   ]
+  },
+  {
+   "word": "distinguished",
+   "ph": "/dɪˈstɪŋɡwɪʃt/",
+   "pos": "adj. 傑出的；卓越的；著名的",
+   "zh": "傑出的；卓越的",
+   "colloc": "distinguished career 卓越的職業生涯 | distinguished guest 貴賓",
+   "distinct": "famous 著名的 | excellent 極佳的",
+   "ex": [
+    [
+     "He has a distinguished career in finance.",
+     "他在金融界有著卓越的職業生涯。"
+    ],
+    [
+     "We invited a distinguished speaker for today.",
+     "我們邀請了一位傑出的演講者。"
+    ],
+    [
+     "She received an award for distinguished service.",
+     "她因卓越的服務而獲得獎項。"
+    ]
+   ]
+  },
+  {
+   "word": "dominate",
+   "ph": "/ˈdɑːmɪneɪt/",
+   "pos": "v. 支配；主導；佔優勢",
+   "zh": "支配；主導",
+   "colloc": "dominate the market 主導市場 | dominate the conversation 主導對話",
+   "distinct": "control 控制 | influence 影響",
+   "ex": [
+    [
+     "Our firm continues to dominate the market.",
+     "我們公司持續主導市場。"
+    ],
+    [
+     "The project requirements dominate our time now.",
+     "專案需求目前佔用了我們大量的時間。"
+    ],
+    [
+     "Large corporations often dominate this industry.",
+     "大型企業常在這行業佔據優勢。"
+    ]
+   ]
+  },
+  {
+   "word": "effectively",
+   "ph": "/ɪˈfektɪvli/",
+   "pos": "adv. 有效地；實際上",
+   "zh": "有效地；實際上",
+   "colloc": "work effectively 有效地工作 | operate effectively 有效地運作",
+   "distinct": "efficiently 高效率地 | successfully 成功地",
+   "ex": [
+    [
+     "We need to communicate more effectively.",
+     "我們需要更有效地溝通。"
+    ],
+    [
+     "The new policy is effectively in place.",
+     "新政策實際上已經生效了。"
+    ],
+    [
+     "Managers should lead their teams effectively.",
+     "主管應有效地帶領他們的團隊。"
+    ]
+   ]
+  }
+ ]
+}

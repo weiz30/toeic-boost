@@ -1,0 +1,447 @@
+{
+ "day": 24,
+ "theme": "教材字彙・基礎 550–650 第 24 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "personal",
+   "ph": "/ˈpɜːrsənl/",
+   "pos": "adj. 個人的 | 私人的",
+   "zh": "個人的；私人的",
+   "colloc": "personal information 個人資訊 | personal belongings 個人物品",
+   "distinct": "personnel 人事部門 | private 私人的（側重不公開）",
+   "ex": [
+    [
+     "Please keep your personal items in the locker.",
+     "請將個人物品放置在置物櫃。"
+    ],
+    [
+     "She prefers not to discuss personal matters at work.",
+     "她不喜歡在公司討論私事。"
+    ],
+    [
+     "You need to update your personal contact details.",
+     "你需要更新個人的聯絡資料。"
+    ]
+   ]
+  },
+  {
+   "word": "pleased",
+   "ph": "/pliːzd/",
+   "pos": "adj. 高興的 | 滿意的",
+   "zh": "高興的；滿意的",
+   "colloc": "be pleased with 對...感到滿意 | be pleased to do 樂意做某事",
+   "distinct": "pleasant 令人愉快的 | pleasing 討人喜歡的",
+   "ex": [
+    [
+     "The manager was pleased with the team's performance.",
+     "經理對團隊的表現感到滿意。"
+    ],
+    [
+     "We are pleased to announce the new partnership.",
+     "我們很高興宣佈這項新的合作夥伴關係。"
+    ],
+    [
+     "Are you pleased with the results of the project?",
+     "你對專案的成果感到滿意嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "position",
+   "ph": "/pəˈzɪʃn/",
+   "pos": "n. 位置 | 職位 | v. 安置",
+   "zh": "位置；職位；安置",
+   "colloc": "apply for a position 應徵職位 | hold a position 擔任職務",
+   "distinct": "post 工作崗位 | job 工作",
+   "ex": [
+    [
+     "He is applying for a senior management position.",
+     "他正在應徵一個高階管理職位。"
+    ],
+    [
+     "The company is well positioned in the market.",
+     "該公司在市場上佔有優勢地位。"
+    ],
+    [
+     "Please indicate your current job position on the form.",
+     "請在表格上註明你目前的職位。"
+    ]
+   ]
+  },
+  {
+   "word": "process",
+   "ph": "/ˈprɑːses/",
+   "pos": "n. 過程 | 程序 | v. 處理",
+   "zh": "過程；程序；處理",
+   "colloc": "application process 申請程序 | processing fee 手續費",
+   "distinct": "procedure 步驟（較正式） | method 方法",
+   "ex": [
+    [
+     "The recruitment process will take two weeks.",
+     "招募程序將需要兩週時間。"
+    ],
+    [
+     "We need to process the payment by Friday.",
+     "我們需要在週五前處理這筆款項。"
+    ],
+    [
+     "The manufacturing process is highly automated.",
+     "製造過程是高度自動化的。"
+    ]
+   ]
+  },
+  {
+   "word": "produce",
+   "ph": "/prəˈduːs/",
+   "pos": "v. 生產 | 製造 | n. 農產品",
+   "zh": "生產；製造；農產品",
+   "colloc": "produce goods 生產商品 | local produce 當地農產品",
+   "distinct": "product 產品 | production 生產量",
+   "ex": [
+    [
+     "This factory can produce five hundred units daily.",
+     "這家工廠每天能生產五百個單位。"
+    ],
+    [
+     "They produce high-quality organic goods for export.",
+     "他們生產用於出口的高品質有機商品。"
+    ],
+    [
+     "The farm sells fresh local produce every morning.",
+     "該農場每天早上販售新鮮的當地農產品。"
+    ]
+   ]
+  },
+  {
+   "word": "profit",
+   "ph": "/ˈprɑːfɪt/",
+   "pos": "n. 利潤 | 獲利 | v. 受益",
+   "zh": "利潤；獲利；益處",
+   "colloc": "make a profit 獲利 | net profit 淨利",
+   "distinct": "revenue 營業額（未扣成本） | income 收入",
+   "ex": [
+    [
+     "The company reported a record profit this quarter.",
+     "公司在本季報告了創紀錄的利潤。"
+    ],
+    [
+     "Our main goal is to increase profit margins.",
+     "我們的主要目標是提高利潤率。"
+    ],
+    [
+     "He hoped to profit from the latest market trends.",
+     "他希望能從最新的市場趨勢中獲利。"
+    ]
+   ]
+  },
+  {
+   "word": "prompt",
+   "ph": "/prɑːmpt/",
+   "pos": "adj. 準時的 | 迅速的 | v. 促使",
+   "zh": "準時的；迅速的；促使",
+   "colloc": "prompt delivery 快速交貨 | prompt response 立即回覆",
+   "distinct": "punctual 準時的（強調時間） | quick 快的",
+   "ex": [
+    [
+     "We appreciate your prompt response to our email.",
+     "我們感謝您對我們郵件的迅速回覆。"
+    ],
+    [
+     "Please ensure prompt payment of your monthly invoice.",
+     "請確保準時支付您的每月帳單。"
+    ],
+    [
+     "The email prompted him to reschedule the meeting.",
+     "該郵件促使他重新安排會議時間。"
+    ]
+   ]
+  },
+  {
+   "word": "propose",
+   "ph": "/prəˈpoʊz/",
+   "pos": "v. 提議 | 建議 | 打算",
+   "zh": "提議；建議；打算",
+   "colloc": "propose a plan 提出計畫 | propose a budget 提議預算",
+   "distinct": "suggest 建議（語氣較輕） | offer 提供",
+   "ex": [
+    [
+     "The board will propose a new policy next week.",
+     "董事會將在下週提出一項新政策。"
+    ],
+    [
+     "I propose that we increase our advertising budget.",
+     "我建議我們增加廣告預算。"
+    ],
+    [
+     "They proposed an alternative solution to the problem.",
+     "他們針對該問題提出了替代方案。"
+    ]
+   ]
+  },
+  {
+   "word": "proposed",
+   "ph": "/prəˈpoʊzd/",
+   "pos": "adj. 被提議的 | 計畫中的",
+   "zh": "被提議的；計畫中的",
+   "colloc": "proposed budget 擬議中的預算 | proposed changes 計畫中的變更",
+   "distinct": "planned 已規劃的 | suggested 被建議的",
+   "ex": [
+    [
+     "The proposed merger has been delayed by regulators.",
+     "擬議中的合併案已被監管機構延後。"
+    ],
+    [
+     "Have you reviewed the proposed schedule for April?",
+     "你有看過四月份的預定行程表嗎？"
+    ],
+    [
+     "The proposed site for the office is downtown.",
+     "辦公室的預定地點在市中心。"
+    ]
+   ]
+  },
+  {
+   "word": "quarter",
+   "ph": "/ˈkwɔːrtər/",
+   "pos": "n. 四分之一 | 季度",
+   "zh": "四分之一；季度",
+   "colloc": "first quarter 第一季 | fiscal quarter 會計季度",
+   "distinct": "semester 學期 | term 學期",
+   "ex": [
+    [
+     "Sales increased significantly in the third quarter.",
+     "第三季的銷售額大幅成長。"
+    ],
+    [
+     "The annual report covers the final financial quarter.",
+     "年度報告涵蓋了最後一個財務季度。"
+    ],
+    [
+     "He expects a growth in the coming quarter.",
+     "他預期下一季會有成長。"
+    ]
+   ]
+  },
+  {
+   "word": "quote",
+   "ph": "/kwoʊt/",
+   "pos": "n. 報價 | 引述 | v. 報價",
+   "zh": "報價；引述",
+   "colloc": "price quote 價格報價 | request a quote 要求報價",
+   "distinct": "estimate 估價 | offer 報價（較廣義）",
+   "ex": [
+    [
+     "Please provide a written quote for the repairs.",
+     "請提供維修的書面報價。"
+    ],
+    [
+     "The supplier quoted a lower price for bulk orders.",
+     "供應商為大量訂單報了較低的價格。"
+    ],
+    [
+     "He quoted the CEO in his latest article.",
+     "他在最新的文章中引述了執行長的話。"
+    ]
+   ]
+  },
+  {
+   "word": "research",
+   "ph": "/rɪˈsɜːrtʃ/",
+   "pos": "n. 研究 | 調查 | v. 研究",
+   "zh": "研究；調查",
+   "colloc": "conduct research 進行研究 | market research 市場研究",
+   "distinct": "survey 問卷調查 | analysis 分析",
+   "ex": [
+    [
+     "They are conducting market research on consumer habits.",
+     "他們正在進行關於消費者習慣的市場調查。"
+    ],
+    [
+     "Her research shows a decline in local sales.",
+     "她的研究顯示當地銷售額下滑。"
+    ],
+    [
+     "We need to research potential suppliers in Asia.",
+     "我們需要調查亞洲的潛在供應商。"
+    ]
+   ]
+  },
+  {
+   "word": "residents",
+   "ph": "/ˈrezɪdənts/",
+   "pos": "n. 居民 | 住戶",
+   "zh": "居民；住戶",
+   "colloc": "local residents 當地居民 | apartment residents 住戶",
+   "distinct": "citizens 公民 | inhabitants 居住者",
+   "ex": [
+    [
+     "Local residents complained about the noisy construction.",
+     "當地居民對吵雜的施工提出抱怨。"
+    ],
+    [
+     "The survey was sent to all building residents.",
+     "問卷已發送給所有大樓住戶。"
+    ],
+    [
+     "Most residents prefer the new public park area.",
+     "大多數居民喜歡這個新的公共公園區。"
+    ]
+   ]
+  },
+  {
+   "word": "result",
+   "ph": "/rɪˈzʌlt/",
+   "pos": "n. 結果 | 成績 | v. 導致",
+   "zh": "結果；成績；導致",
+   "colloc": "positive result 正面結果 | as a result 因此",
+   "distinct": "outcome 結果（結局） | consequence 後果（負面）",
+   "ex": [
+    [
+     "The test results will be available tomorrow morning.",
+     "測試結果將於明天早上公佈。"
+    ],
+    [
+     "Poor marketing resulted in lower sales figures.",
+     "糟糕的行銷導致了較低的銷售數字。"
+    ],
+    [
+     "The final result met our expectations perfectly.",
+     "最終結果完全符合我們的預期。"
+    ]
+   ]
+  },
+  {
+   "word": "reverse",
+   "ph": "/rɪˈvɜːrs/",
+   "pos": "n. 相反 | 倒退 | v. 逆轉 | 撤銷",
+   "zh": "相反；逆轉；撤銷",
+   "colloc": "reverse the decision 撤銷決定 | in reverse 倒轉",
+   "distinct": "undo 取消 | cancel 取消",
+   "ex": [
+    [
+     "The company decided to reverse its previous policy.",
+     "公司決定撤銷之前的政策。"
+    ],
+    [
+     "We hope to reverse the current downward trend.",
+     "我們希望逆轉目前的下滑趨勢。"
+    ],
+    [
+     "The process cannot be reversed once it starts.",
+     "這個程序一旦開始就無法撤銷。"
+    ]
+   ]
+  },
+  {
+   "word": "revise",
+   "ph": "/rɪˈvaɪz/",
+   "pos": "v. 修訂 | 修改",
+   "zh": "修訂；修改",
+   "colloc": "revise a contract 修訂合約 | revise a report 修改報告",
+   "distinct": "edit 編輯 | amend 修法或合約",
+   "ex": [
+    [
+     "The manager asked me to revise the proposal.",
+     "經理請我修改這份提案。"
+    ],
+    [
+     "We need to revise our sales forecast for Q4.",
+     "我們需要修訂第四季的銷售預測。"
+    ],
+    [
+     "Please revise the document before sending it out.",
+     "請在寄出前修訂這份文件。"
+    ]
+   ]
+  },
+  {
+   "word": "selection",
+   "ph": "/sɪˈlekʃn/",
+   "pos": "n. 選擇 | 精選商品",
+   "zh": "選擇；精選商品",
+   "colloc": "a wide selection of 各式各樣的選擇 | careful selection 謹慎挑選",
+   "distinct": "choice 選擇 | preference 偏好",
+   "ex": [
+    [
+     "The shop offers a wide selection of office supplies.",
+     "這家店提供各式各樣的辦公用品。"
+    ],
+    [
+     "Their selection process for new hires is rigorous.",
+     "他們的新進員工甄選過程非常嚴格。"
+    ],
+    [
+     "You have a great selection of colors to choose from.",
+     "你有很棒的顏色選擇可以挑選。"
+    ]
+   ]
+  },
+  {
+   "word": "seriously",
+   "ph": "/ˈsɪriəsli/",
+   "pos": "adv. 認真地 | 嚴重地",
+   "zh": "認真地；嚴重地",
+   "colloc": "take something seriously 認真看待某事 | seriously damaged 嚴重受損",
+   "distinct": "severely 嚴厲地 | earnestly 真誠地",
+   "ex": [
+    [
+     "We take all customer complaints very seriously.",
+     "我們非常認真地看待所有客戶抱怨。"
+    ],
+    [
+     "The shipment was seriously damaged during transit.",
+     "貨物在運輸過程中嚴重受損。"
+    ],
+    [
+     "He is seriously considering the job offer.",
+     "他正在認真考慮這份工作機會。"
+    ]
+   ]
+  },
+  {
+   "word": "slightly",
+   "ph": "/ˈslaɪtli/",
+   "pos": "adv. 輕微地 | 稍微地",
+   "zh": "輕微地；稍微地",
+   "colloc": "slightly higher 稍微高一點 | slightly different 稍微不同",
+   "distinct": "slowly 緩慢地 | somewhat 有點兒",
+   "ex": [
+    [
+     "The price is slightly higher than we expected.",
+     "價格比我們預期的稍微高了一點。"
+    ],
+    [
+     "We need to adjust the schedule slightly.",
+     "我們需要稍微調整一下行程。"
+    ],
+    [
+     "The two products are slightly different in size.",
+     "這兩款產品在尺寸上稍微有些不同。"
+    ]
+   ]
+  },
+  {
+   "word": "specifically",
+   "ph": "/spəˈsɪfɪkli/",
+   "pos": "adv. 特別地 | 明確地 | 針對地",
+   "zh": "特別地；明確地；針對地",
+   "colloc": "specifically designed 特別設計的 | specifically for 專門為了",
+   "ex": [
+    [
+     "This software was specifically designed for accountants.",
+     "這套軟體是專門為會計師設計的。"
+    ],
+    [
+     "I specifically asked for the report to be emailed.",
+     "我明確要求將報告用郵件寄送。"
+    ],
+    [
+     "These funds are specifically for the new project.",
+     "這些資金是專門用於新專案的。"
+    ]
+   ]
+  }
+ ]
+}

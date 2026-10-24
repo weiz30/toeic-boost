@@ -1,0 +1,448 @@
+{
+ "day": 19,
+ "theme": "教材字彙・基礎 550–650 第 19 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "divide",
+   "ph": "/dɪˈvaɪd/",
+   "pos": "v. 分開；分配 | n. 分歧",
+   "zh": "分開；分配",
+   "colloc": "divide into 分成 | divide equally 平均分配",
+   "distinct": "distribute 分發；配送 | separate 分隔",
+   "ex": [
+    [
+     "The manager will divide the team into two groups.",
+     "經理將把團隊分成兩組。"
+    ],
+    [
+     "We need to divide the budget among departments.",
+     "我們需要將預算分配給各部門。"
+    ],
+    [
+     "This policy divides opinions within the company.",
+     "這項政策在公司內部引發了意見分歧。"
+    ]
+   ]
+  },
+  {
+   "word": "exchange",
+   "ph": "/ɪksˈtʃeɪndʒ/",
+   "pos": "v. 交換；兌換 | n. 交換；交易所",
+   "zh": "交換；兌換",
+   "colloc": "exchange rate 匯率 | in exchange for 以...作為交換",
+   "distinct": "replace 取代 | substitute 代替",
+   "ex": [
+    [
+     "I would like to exchange these dollars for euros.",
+     "我想把這些美元兌換成歐元。"
+    ],
+    [
+     "The two companies decided to exchange technical expertise.",
+     "兩家公司決定交換技術專業知識。"
+    ],
+    [
+     "She received a gift in exchange for her help.",
+     "她因為幫忙而收到了一份禮物。"
+    ]
+   ]
+  },
+  {
+   "word": "lend",
+   "ph": "/lend/",
+   "pos": "v. 借出；提供（幫助、權威）",
+   "zh": "借出；提供",
+   "colloc": "lend money 借錢 | lend support 提供支持",
+   "distinct": "borrow 借入 | rent 租借",
+   "ex": [
+    [
+     "Could you lend me your laptop for the meeting?",
+     "會議時你可以借我筆電嗎？"
+    ],
+    [
+     "The bank refused to lend funds to the startup.",
+     "銀行拒絕提供資金給這家新創公司。"
+    ],
+    [
+     "Her presence lends credibility to the new project.",
+     "她的出席為這個新專案提供了可信度。"
+    ]
+   ]
+  },
+  {
+   "word": "manufacturer",
+   "ph": "/ˌmænjuˈfæktʃərər/",
+   "pos": "n. 製造商",
+   "zh": "製造商",
+   "colloc": "leading manufacturer 主要製造商 | local manufacturer 當地製造商",
+   "distinct": "retailer 零售商 | wholesaler 批發商",
+   "ex": [
+    [
+     "They are the largest manufacturer of electronic parts.",
+     "他們是最大的電子零件製造商。"
+    ],
+    [
+     "Please contact the manufacturer regarding the product defect.",
+     "請針對產品瑕疵聯繫製造商。"
+    ],
+    [
+     "The manufacturer offers a full warranty for buyers.",
+     "該製造商為買家提供全面保固。"
+    ]
+   ]
+  },
+  {
+   "word": "possible",
+   "ph": "/ˈpɑːsəbl/",
+   "pos": "adj. 可能的；合適的",
+   "zh": "可能的；合適的",
+   "colloc": "as soon as possible 盡快 | make it possible 使...成為可能",
+   "distinct": "potential 潛在的 | probable 很可能的",
+   "ex": [
+    [
+     "Please finish the report as soon as possible.",
+     "請盡快完成那份報告。"
+    ],
+    [
+     "We need to explore all possible solutions today.",
+     "我們今天需要探討所有可能的解決方案。"
+    ],
+    [
+     "New technology makes remote work possible for us.",
+     "新技術使我們能夠進行遠距工作。"
+    ]
+   ]
+  },
+  {
+   "word": "power",
+   "ph": "/ˈpaʊər/",
+   "pos": "n. 權力；電力；能量",
+   "zh": "權力；電力；能量",
+   "colloc": "power outage 停電 | negotiating power 談判權",
+   "distinct": "force 武力；力量 | energy 能源；精力",
+   "ex": [
+    [
+     "The power went out during the afternoon conference.",
+     "下午會議期間停電了。"
+    ],
+    [
+     "She has the power to sign off on contracts.",
+     "她有權力簽署合約。"
+    ],
+    [
+     "This machine requires a lot of power to run.",
+     "這台機器運作需要大量電力。"
+    ]
+   ]
+  },
+  {
+   "word": "prefer",
+   "ph": "/prɪˈfɜːr/",
+   "pos": "v. 偏好；更喜歡",
+   "zh": "偏好；更喜歡",
+   "colloc": "prefer A to B 喜歡A勝過B | would prefer 想要",
+   "distinct": "favor 偏愛 | choose 選擇",
+   "ex": [
+    [
+     "Many employees prefer to work from home today.",
+     "許多員工今天偏好在家工作。"
+    ],
+    [
+     "Do you prefer a digital or a paper copy?",
+     "你偏好數位版還是紙本？"
+    ],
+    [
+     "I would prefer to review the document later.",
+     "我比較想晚點再審閱文件。"
+    ]
+   ]
+  },
+  {
+   "word": "rapid",
+   "ph": "/ˈræpɪd/",
+   "pos": "adj. 快速的；急促的",
+   "zh": "快速的；急促的",
+   "colloc": "rapid growth 快速成長 | rapid change 快速變動",
+   "distinct": "quick 迅速的（短時間） | swift 敏捷的；迅速的",
+   "ex": [
+    [
+     "The company saw rapid growth in the last quarter.",
+     "公司在上一季經歷了快速成長。"
+    ],
+    [
+     "We must react to the rapid market changes.",
+     "我們必須對快速的市場變化做出反應。"
+    ],
+    [
+     "Rapid progress was made on the construction site.",
+     "工地取得了快速的進展。"
+    ]
+   ]
+  },
+  {
+   "word": "react",
+   "ph": "/riˈækt/",
+   "pos": "v. 反應；回應",
+   "zh": "反應；回應",
+   "colloc": "react to 對...做出反應 | react negatively 反應負面",
+   "distinct": "respond 回覆；應答 | reply 回答",
+   "ex": [
+    [
+     "Investors did not react well to the news.",
+     "投資人對這項消息反應不佳。"
+    ],
+    [
+     "It is important to react quickly to complaints.",
+     "對客訴做出快速回應很重要。"
+    ],
+    [
+     "How did the board react to your proposal?",
+     "董事會對你的提案有何反應？"
+    ]
+   ]
+  },
+  {
+   "word": "recent",
+   "ph": "/ˈriːsnt/",
+   "pos": "adj. 最近的；近期的",
+   "zh": "最近的；近期的",
+   "colloc": "recent survey 最近的調查 | recent development 近期發展",
+   "distinct": "late 遲的；晚的 | latest 最新的",
+   "ex": [
+    [
+     "Please review the recent financial reports carefully.",
+     "請仔細審閱近期的財務報告。"
+    ],
+    [
+     "This is based on a recent market study.",
+     "這是基於一項最近的市場研究。"
+    ],
+    [
+     "There have been many recent changes in policy.",
+     "政策近期有了許多變動。"
+    ]
+   ]
+  },
+  {
+   "word": "regard",
+   "ph": "/rɪˈɡɑːrd/",
+   "pos": "v. 視為；尊重 | n. 關注；尊敬",
+   "zh": "視為；尊重；關注",
+   "colloc": "regard as 視為 | in regard to 關於",
+   "distinct": "respect 尊敬 | consider 考慮",
+   "ex": [
+    [
+     "We regard quality as our top priority here.",
+     "我們將品質視為這裡的首要任務。"
+    ],
+    [
+     "Please call me in regard to the new contract.",
+     "請就新合約相關事宜打電話給我。"
+    ],
+    [
+     "He is highly regarded by all his colleagues.",
+     "他受到所有同事的高度敬重。"
+    ]
+   ]
+  },
+  {
+   "word": "remarkable",
+   "ph": "/rɪˈmɑːrkəbl/",
+   "pos": "adj. 顯著的；非凡的",
+   "zh": "顯著的；非凡的",
+   "colloc": "remarkable achievement 非凡成就 | remarkable progress 顯著進步",
+   "distinct": "noticeable 明顯的 | exceptional 例外的；傑出的",
+   "ex": [
+    [
+     "The team made remarkable progress this month.",
+     "團隊本月取得了顯著進展。"
+    ],
+    [
+     "It was a remarkable achievement for the company.",
+     "這對公司而言是一項非凡的成就。"
+    ],
+    [
+     "She showed a remarkable ability to solve problems.",
+     "她展現了解決問題的非凡能力。"
+    ]
+   ]
+  },
+  {
+   "word": "remove",
+   "ph": "/rɪˈmuːv/",
+   "pos": "v. 移除；消除；免職",
+   "zh": "移除；消除；免職",
+   "colloc": "remove from 從...移除 | remove obstacles 排除障礙",
+   "distinct": "delete 刪除 | eliminate 淘汰；根除",
+   "ex": [
+    [
+     "We need to remove the outdated software programs.",
+     "我們需要移除過時的軟體程式。"
+    ],
+    [
+     "The technician will remove the broken part today.",
+     "技術人員今天會移除損壞的零件。"
+    ],
+    [
+     "She managed to remove all barriers to entry.",
+     "她成功消除了所有的進入門檻。"
+    ]
+   ]
+  },
+  {
+   "word": "typically",
+   "ph": "/ˈtɪpɪkli/",
+   "pos": "adv. 通常；典型地",
+   "zh": "通常；典型地",
+   "colloc": "typically occur 通常發生 | typically involve 通常涉及",
+   "distinct": "usually 通常 | normally 正常地",
+   "ex": [
+    [
+     "Our meetings typically start at nine o'clock.",
+     "我們的會議通常在九點開始。"
+    ],
+    [
+     "This error typically occurs during system updates.",
+     "這個錯誤通常發生在系統更新期間。"
+    ],
+    [
+     "Such projects typically require a large budget.",
+     "這類專案通常需要大筆預算。"
+    ]
+   ]
+  },
+  {
+   "word": "variety",
+   "ph": "/vəˈraɪəti/",
+   "pos": "n. 多樣化；種類",
+   "zh": "多樣化；種類",
+   "colloc": "a variety of 各式各樣的 | wide variety 各種各樣",
+   "distinct": "diversity 多樣性 | range 範圍",
+   "ex": [
+    [
+     "The store offers a wide variety of office supplies.",
+     "這家店提供各式各樣的辦公用品。"
+    ],
+    [
+     "We have a variety of options to choose from.",
+     "我們有各種各樣的選擇可以挑選。"
+    ],
+    [
+     "The task requires a variety of different skills.",
+     "這項工作需要各種不同的技能。"
+    ]
+   ]
+  },
+  {
+   "word": "dramatic",
+   "ph": "/drəˈmætɪk/",
+   "pos": "adj. 戲劇性的；顯著的",
+   "zh": "戲劇性的；顯著的",
+   "colloc": "dramatic increase 劇增 | dramatic change 戲劇性變化",
+   "distinct": "drastic 激烈的；猛烈的 | dynamic 動態的",
+   "ex": [
+    [
+     "Sales saw a dramatic increase after the ad.",
+     "廣告播出後銷售額顯著增加。"
+    ],
+    [
+     "There was a dramatic change in market demand.",
+     "市場需求發生了戲劇性的變化。"
+    ],
+    [
+     "The new policy had a dramatic impact today.",
+     "新政策今天產生了巨大的影響。"
+    ]
+   ]
+  },
+  {
+   "word": "market",
+   "ph": "/ˈmɑːrkɪt/",
+   "pos": "n. 市場 | v. 行銷",
+   "zh": "市場；行銷",
+   "colloc": "market share 市佔率 | market research 市場研究",
+   "distinct": "supermarket 超級市場 | mall 購物中心",
+   "ex": [
+    [
+     "We are trying to expand into the global market.",
+     "我們正試圖擴展到全球市場。"
+    ],
+    [
+     "The team will market the new product online.",
+     "團隊將在網路上行銷這項新產品。"
+    ],
+    [
+     "Market research shows customers want better quality.",
+     "市場研究顯示客戶想要更好的品質。"
+    ]
+   ]
+  },
+  {
+   "word": "matter",
+   "ph": "/ˈmætər/",
+   "pos": "n. 事件；問題 | v. 要緊；有關係",
+   "zh": "事件；問題；要緊",
+   "colloc": "as a matter of fact 事實上 | important matter 重要事務",
+   "distinct": "issue 議題；爭議 | subject 主題",
+   "ex": [
+    [
+     "It is a private matter between the partners.",
+     "這是合夥人之間的私事。"
+    ],
+    [
+     "Does it matter if the report is late?",
+     "報告遲交有關係嗎？"
+    ],
+    [
+     "They discussed several urgent matters this morning.",
+     "他們今天早上討論了幾件緊急事務。"
+    ]
+   ]
+  },
+  {
+   "word": "transfer",
+   "ph": "/trænsˈfɜːr/",
+   "pos": "v. 轉移；調職 | n. 轉移",
+   "zh": "轉移；調職",
+   "colloc": "transfer to 調職到 | bank transfer 銀行轉帳",
+   "distinct": "transport 運輸 | shift 轉移；移動",
+   "ex": [
+    [
+     "He requested a transfer to the branch office.",
+     "他申請調職到分公司。"
+    ],
+    [
+     "Please transfer the funds to our savings account.",
+     "請將資金轉入我們的儲蓄帳戶。"
+    ],
+    [
+     "The company will transfer the project files soon.",
+     "公司很快會轉移專案檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "accounting",
+   "ph": "/əˈkaʊntɪŋ/",
+   "pos": "n. 會計；會計學",
+   "zh": "會計；會計學",
+   "colloc": "accounting department 會計部門 | accounting firm 會計師事務所",
+   "distinct": "account 帳戶 | accountant 會計師",
+   "ex": [
+    [
+     "She works in the accounting department at headquarters.",
+     "她在總公司的會計部門工作。"
+    ],
+    [
+     "The accounting records must be kept up to date.",
+     "會計紀錄必須保持更新。"
+    ],
+    [
+     "He is studying accounting at the local university.",
+     "他正在當地大學研讀會計學。"
+    ]
+   ]
+  }
+ ]
+}

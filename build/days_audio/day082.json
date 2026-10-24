@@ -1,0 +1,448 @@
+{
+ "day": 82,
+ "theme": "教材片語・中高階 750–850 第 18 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "take a course",
+   "ph": "",
+   "pos": "phr. 修習課程",
+   "zh": "修習課程；參加課程",
+   "colloc": "take a course in 參加...課程 | enroll in a course 報名課程",
+   "distinct": "take a class 上課 | attend a seminar 參加研討會",
+   "ex": [
+    [
+     "I plan to take a course in data analysis next month.",
+     "我計畫下個月參加資料分析課程。"
+    ],
+    [
+     "Many employees take a course to improve their professional skills.",
+     "許多員工透過修習課程來提升專業技能。"
+    ],
+    [
+     "You should take a course before starting the certification exam.",
+     "在參加認證考試前，你應該先修習相關課程。"
+    ]
+   ]
+  },
+  {
+   "word": "take a seriously",
+   "ph": "",
+   "pos": "phr. 認真看待",
+   "zh": "認真看待；嚴肅對待",
+   "colloc": "take a matter seriously 認真看待某事 | take a threat seriously 嚴肅看待威脅",
+   "distinct": "consider carefully 謹慎考慮 | treat with respect 尊重對待",
+   "ex": [
+    [
+     "Management takes these safety regulations very seriously.",
+     "管理層非常認真看待這些安全規範。"
+    ],
+    [
+     "Please take the feedback from our clients seriously.",
+     "請認真看待來自客戶的回饋意見。"
+    ],
+    [
+     "We must take the budget deficit issue seriously this quarter.",
+     "我們本季必須認真看待預算赤字問題。"
+    ]
+   ]
+  },
+  {
+   "word": "take a tour",
+   "ph": "",
+   "pos": "phr. 參觀；旅遊",
+   "zh": "參觀；導覽；旅遊",
+   "colloc": "take a tour of 參觀... | take a guided tour 參加導覽",
+   "distinct": "visit 拜訪 | sightseeing 觀光",
+   "ex": [
+    [
+     "We will take a tour of the new manufacturing facility.",
+     "我們將會參觀新的製造設施。"
+    ],
+    [
+     "The client wants to take a tour of our headquarters.",
+     "客戶想要參觀我們的總部。"
+    ],
+    [
+     "Feel free to take a tour around the office building.",
+     "請隨意參觀這棟辦公大樓。"
+    ]
+   ]
+  },
+  {
+   "word": "take after",
+   "ph": "",
+   "pos": "phr. 與...相像",
+   "zh": "與...相像；長得像",
+   "colloc": "take after one's father 長得像父親 | take after a parent 像父母親",
+   "distinct": "resemble 看起來像 | look like 看起來像",
+   "ex": [
+    [
+     "He really takes after his father in his management style.",
+     "他的管理風格真的很像他父親。"
+    ],
+    [
+     "Does the new employee take after any of the executives?",
+     "新員工長得有像哪位高階主管嗎？"
+    ],
+    [
+     "She takes after her mother in terms of her artistic talent.",
+     "她在藝術天分上很像她的母親。"
+    ]
+   ]
+  },
+  {
+   "word": "take an examination",
+   "ph": "",
+   "pos": "phr. 參加考試",
+   "zh": "參加考試；進行測驗",
+   "colloc": "take an examination in 參加...考試 | pass an examination 通過考試",
+   "distinct": "sit for an exam 應試 | take a test 參加測驗",
+   "ex": [
+    [
+     "All applicants must take an examination before the interview.",
+     "所有申請人面試前都必須參加考試。"
+    ],
+    [
+     "I need to take an examination to obtain the license.",
+     "我需要參加考試以取得執照。"
+    ],
+    [
+     "The company requires staff to take an examination periodically.",
+     "公司要求員工定期參加測驗。"
+    ]
+   ]
+  },
+  {
+   "word": "take an order",
+   "ph": "",
+   "pos": "phr. 接單",
+   "zh": "接單；受理訂單",
+   "colloc": "take an order for 接下...的訂單 | be ready to take an order 準備接單",
+   "distinct": "place an order 下訂單 | process an order 處理訂單",
+   "ex": [
+    [
+     "The waiter is coming to take an order from your table.",
+     "服務生正要過來為你們這桌點餐。"
+    ],
+    [
+     "Our sales team is busy taking an order from the overseas client.",
+     "我們的銷售團隊正忙著處理海外客戶的訂單。"
+    ],
+    [
+     "Can you take an order for twenty units of this model?",
+     "你可以接下這款機型二十台的訂單嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "take down",
+   "ph": "",
+   "pos": "phr. 記下；拆除",
+   "zh": "記下；拆除；寫下",
+   "colloc": "take down notes 記下重點 | take down a structure 拆除結構",
+   "distinct": "write down 寫下 | dismantle 拆解",
+   "ex": [
+    [
+     "Please take down the main points during the meeting.",
+     "開會時請記下討論重點。"
+    ],
+    [
+     "The construction crew will take down the temporary office.",
+     "施工人員將會拆除臨時辦公室。"
+    ],
+    [
+     "Did you take down the contact information for the vendor?",
+     "你有記下供應商的聯絡資訊嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "take notes",
+   "ph": "",
+   "pos": "phr. 做筆記",
+   "zh": "做筆記；紀錄要點",
+   "colloc": "take notes during a lecture 上課做筆記 | take notes on a topic 針對主題做紀錄",
+   "distinct": "keep records 保存紀錄 | jot down 隨手記下",
+   "ex": [
+    [
+     "It is helpful to take notes during the training session.",
+     "在培訓期間做筆記很有幫助。"
+    ],
+    [
+     "She likes to take notes on her tablet computer.",
+     "她喜歡在平板電腦上做筆記。"
+    ],
+    [
+     "Make sure to take notes on the new product specifications.",
+     "務必針對新產品規格做筆記。"
+    ]
+   ]
+  },
+  {
+   "word": "take out a loan",
+   "ph": "",
+   "pos": "phr. 貸款",
+   "zh": "貸款；借貸",
+   "colloc": "take out a loan from a bank 向銀行貸款 | take out a business loan 申請商業貸款",
+   "distinct": "apply for a loan 申請貸款 | borrow money 借錢",
+   "ex": [
+    [
+     "The small business decided to take out a loan for expansion.",
+     "這家小企業決定貸款以進行擴張。"
+    ],
+    [
+     "You need good credit to take out a loan today.",
+     "你現在需要良好的信用才能申請貸款。"
+    ],
+    [
+     "We had to take out a loan to purchase the new machinery.",
+     "為了購買新機器，我們不得不貸款。"
+    ]
+   ]
+  },
+  {
+   "word": "take steps",
+   "ph": "",
+   "pos": "phr. 採取行動",
+   "zh": "採取行動；採取步驟",
+   "colloc": "take steps to do something 採取措施做某事 | take necessary steps 採取必要步驟",
+   "distinct": "take action 採取行動 | implement measures 實施措施",
+   "ex": [
+    [
+     "We must take steps to improve our customer service quality.",
+     "我們必須採取行動來提升客戶服務品質。"
+    ],
+    [
+     "The management team will take steps to reduce operational costs.",
+     "管理團隊將採取步驟以降低營運成本。"
+    ],
+    [
+     "Have you taken steps to resolve the technical issue yet?",
+     "你已經採取行動解決這個技術問題了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "take the place of",
+   "ph": "",
+   "pos": "phr. 取代",
+   "zh": "取代；代替",
+   "colloc": "take the place of someone 代替某人 | take the place of something 取代某物",
+   "distinct": "replace 取代 | substitute for 替代",
+   "ex": [
+    [
+     "This new software will take the place of the old system.",
+     "這套新軟體將會取代舊系統。"
+    ],
+    [
+     "She will take the place of the manager during his absence.",
+     "經理不在時，她將會代理其職務。"
+    ],
+    [
+     "Nothing can take the place of hard work for achieving success.",
+     "沒有什麼能取代努力工作來獲得成功。"
+    ]
+   ]
+  },
+  {
+   "word": "take turns",
+   "ph": "",
+   "pos": "phr. 輪流",
+   "zh": "輪流；交替",
+   "colloc": "take turns doing something 輪流做某事 | take turns at the task 輪流執行任務",
+   "distinct": "alternate 交替 | rotate 輪替",
+   "ex": [
+    [
+     "We should take turns presenting our reports to the team.",
+     "我們應該輪流向團隊報告我們的簡報。"
+    ],
+    [
+     "The staff take turns working on the weekends.",
+     "員工們輪流在週末上班。"
+    ],
+    [
+     "Let us take turns to speak during the brainstorming session.",
+     "讓我們在腦力激盪會議中輪流發言。"
+    ]
+   ]
+  },
+  {
+   "word": "think over",
+   "ph": "",
+   "pos": "phr. 仔細考慮",
+   "zh": "仔細考慮；深思熟慮",
+   "colloc": "think over the proposal 仔細考慮提議 | think over the offer 考慮出價",
+   "distinct": "consider 考慮 | deliberate 斟酌",
+   "ex": [
+    [
+     "Please think over the contract terms before signing it.",
+     "請在簽約前仔細考慮合約條款。"
+    ],
+    [
+     "I need some time to think over the job offer.",
+     "我需要一些時間仔細考慮這份工作邀約。"
+    ],
+    [
+     "Think over the strategy carefully before we present it.",
+     "在我們展示策略之前，請先仔細考慮一下。"
+    ]
+   ]
+  },
+  {
+   "word": "to be honest with you",
+   "ph": "",
+   "pos": "phr. 老實說",
+   "zh": "老實說；坦白說",
+   "colloc": "to be honest with you, ... 老實說，... | to be honest with you, I think... 老實說，我覺得...",
+   "distinct": "frankly speaking 坦白說 | honestly 誠實地",
+   "ex": [
+    [
+     "To be honest with you, the project is behind schedule.",
+     "老實說，這個專案進度落後了。"
+    ],
+    [
+     "To be honest with you, I am not sure about this plan.",
+     "老實說，我不確定這個計畫是否可行。"
+    ],
+    [
+     "To be honest with you, we need a better marketing strategy.",
+     "老實說，我們需要一個更好的行銷策略。"
+    ]
+   ]
+  },
+  {
+   "word": "to start with",
+   "ph": "",
+   "pos": "phr. 首先",
+   "zh": "首先；一開始",
+   "colloc": "to start with, ... 首先，... | for a start 作為開始",
+   "distinct": "firstly 第一 | initially 最初",
+   "ex": [
+    [
+     "To start with, let us review the quarterly sales results.",
+     "首先，讓我們檢視本季的銷售成績。"
+    ],
+    [
+     "There were only three employees to start with.",
+     "一開始只有三名員工。"
+    ],
+    [
+     "To start with, you should verify the data accuracy.",
+     "首先，你應該先核對資料的正確性。"
+    ]
+   ]
+  },
+  {
+   "word": "top of the line",
+   "ph": "",
+   "pos": "phr. 頂級的",
+   "zh": "頂級的；最高級的",
+   "colloc": "top of the line equipment 頂級設備 | top of the line product 頂級產品",
+   "distinct": "first-class 一流的 | state-of-the-art 最先進的",
+   "ex": [
+    [
+     "The company purchased top of the line computers for the staff.",
+     "公司為員工購買了頂級電腦。"
+    ],
+    [
+     "These are top of the line products in the electronics industry.",
+     "這些是電子產業中的頂級產品。"
+    ],
+    [
+     "Our facility features top of the line manufacturing technology.",
+     "我們的工廠擁有頂級的製造技術。"
+    ]
+   ]
+  },
+  {
+   "word": "touch up a photograph",
+   "ph": "",
+   "pos": "phr. 修飾照片",
+   "zh": "修飾照片；潤色照片",
+   "colloc": "touch up a photograph for a client 為客戶修飾照片 | touch up a digital photo 修飾數位照片",
+   "distinct": "edit a photo 編輯照片 | photoshop 修圖",
+   "ex": [
+    [
+     "Could you please touch up a photograph for the website?",
+     "你可以幫忙修飾一下網站用的照片嗎？"
+    ],
+    [
+     "The graphic designer needs to touch up a photograph of the product.",
+     "平面設計師需要修飾產品照片。"
+    ],
+    [
+     "It is easy to touch up a photograph using this app.",
+     "使用這個應用程式修飾照片很容易。"
+    ]
+   ]
+  },
+  {
+   "word": "traffic jam",
+   "ph": "",
+   "pos": "n. 塞車",
+   "zh": "塞車；交通堵塞",
+   "colloc": "stuck in a traffic jam 卡在塞車中 | cause a traffic jam 造成交通堵塞",
+   "distinct": "heavy traffic 車流量大 | congestion 擁擠",
+   "ex": [
+    [
+     "I am running late because of a major traffic jam.",
+     "因為嚴重的塞車，我快遲到了。"
+    ],
+    [
+     "There is a traffic jam on the main highway this morning.",
+     "今天早上主要高速公路發生了塞車。"
+    ],
+    [
+     "Avoid the downtown area to escape the afternoon traffic jam.",
+     "避開市中心以躲避下午的塞車潮。"
+    ]
+   ]
+  },
+  {
+   "word": "travel arrangement",
+   "ph": "",
+   "pos": "n. 出差安排",
+   "zh": "出差安排；旅遊規劃",
+   "colloc": "make travel arrangements 安排行程 | confirm travel arrangements 確認行程",
+   "distinct": "itinerary 行程表 | travel plan 旅行計畫",
+   "ex": [
+    [
+     "The secretary is busy making travel arrangements for the CEO.",
+     "秘書正忙著為執行長安排出差事宜。"
+    ],
+    [
+     "Please send me your travel arrangements by Friday afternoon.",
+     "請在週五下午前將你的出差安排寄給我。"
+    ],
+    [
+     "All travel arrangements have been confirmed for the conference.",
+     "會議的所有出差安排都已確認。"
+    ]
+   ]
+  },
+  {
+   "word": "try on",
+   "ph": "",
+   "pos": "phr. 試穿",
+   "zh": "試穿；試戴",
+   "colloc": "try on a suit 試穿西裝 | try on a new pair of shoes 試穿新鞋",
+   "distinct": "try out 試用 | test 測試",
+   "ex": [
+    [
+     "Feel free to try on the uniform before you buy it.",
+     "購買制服前請隨意試穿。"
+    ],
+    [
+     "The customer wants to try on the new safety gear.",
+     "客戶想要試穿新的安全裝備。"
+    ],
+    [
+     "You should try on the glasses to see if they fit.",
+     "你應該試戴眼鏡看看是否合適。"
+    ]
+   ]
+  }
+ ]
+}

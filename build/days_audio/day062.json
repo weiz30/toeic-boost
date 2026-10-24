@@ -1,0 +1,448 @@
+{
+ "day": 62,
+ "theme": "教材字彙・中高階 750–850 第 62 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "keep",
+   "ph": "/kiːp/",
+   "pos": "v. 保持 | 繼續 | 保存",
+   "zh": "保持；保存；經營",
+   "colloc": "keep track of 追蹤 | keep in touch 保持聯繫",
+   "distinct": "retain 保留（正式） | maintain 維持",
+   "ex": [
+    [
+     "Please keep the office clean and tidy.",
+     "請保持辦公室乾淨整潔。"
+    ],
+    [
+     "The company keeps records of all sales.",
+     "公司保存了所有銷售紀錄。"
+    ],
+    [
+     "We must keep focusing on our main goal.",
+     "我們必須持續專注於主要目標。"
+    ]
+   ]
+  },
+  {
+   "word": "liquid",
+   "ph": "/ˈlɪkwɪd/",
+   "pos": "n. 液體 | adj. 液體的 | 流動的",
+   "zh": "液體；流動性",
+   "colloc": "liquid asset 流動資產 | liquid soap 洗手乳",
+   "distinct": "fluid 流體（包含氣體） | solution 溶液",
+   "ex": [
+    [
+     "Make sure no liquid spills on the device.",
+     "確保沒有液體潑灑到裝置上。"
+    ],
+    [
+     "The firm has sufficient liquid assets now.",
+     "這間公司目前有充足的流動資產。"
+    ],
+    [
+     "Oil is a liquid used for industrial fuel.",
+     "石油是用於工業燃料的液體。"
+    ]
+   ]
+  },
+  {
+   "word": "loss",
+   "ph": "/lɔːs/",
+   "pos": "n. 損失 | 虧損 | 喪失",
+   "zh": "損失；虧損；喪失",
+   "colloc": "financial loss 財務損失 | at a loss 虧損",
+   "distinct": "lose 動詞形式 | damage 損害",
+   "ex": [
+    [
+     "The company reported a major financial loss.",
+     "公司報告了重大的財務損失。"
+    ],
+    [
+     "We want to prevent any loss of data.",
+     "我們想要防止任何資料喪失。"
+    ],
+    [
+     "Cutting costs will help reduce the net loss.",
+     "削減成本將有助於減少淨虧損。"
+    ]
+   ]
+  },
+  {
+   "word": "meal",
+   "ph": "/miːl/",
+   "pos": "n. 餐 | 一餐",
+   "zh": "餐；一餐",
+   "colloc": "business meal 商務餐 | meal plan 餐飲計畫",
+   "distinct": "dish 一道菜 | cuisine 烹飪風格",
+   "ex": [
+    [
+     "We discussed the contract during our meal.",
+     "我們在用餐時討論了合約。"
+    ],
+    [
+     "Please provide a meal for the guest.",
+     "請為那位賓客準備一份餐點。"
+    ],
+    [
+     "The hotel package includes a daily meal.",
+     "飯店套裝行程包含每日一餐。"
+    ]
+   ]
+  },
+  {
+   "word": "model",
+   "ph": "/ˈmɑːdl/",
+   "pos": "n. 模型 | 模式 | 模特兒",
+   "zh": "模型；模式；典範",
+   "colloc": "business model 商業模式 | role model 榜樣",
+   "distinct": "pattern 圖案/規律 | prototype 原型",
+   "ex": [
+    [
+     "This new business model is very effective.",
+     "這個新的商業模式非常有效。"
+    ],
+    [
+     "They built a model of the new factory.",
+     "他們製作了新工廠的模型。"
+    ],
+    [
+     "She is a model of professional behavior.",
+     "她是職業表現的典範。"
+    ]
+   ]
+  },
+  {
+   "word": "parliament",
+   "ph": "/ˈpɑːrləmənt/",
+   "pos": "n. 議會 | 國會",
+   "zh": "議會；國會",
+   "colloc": "member of parliament 國會議員 | parliament building 議會大樓",
+   "distinct": "congress 美國國會 | council 地方議會",
+   "ex": [
+    [
+     "The parliament debated the new tax law.",
+     "議會辯論了新的稅務法案。"
+    ],
+    [
+     "Several members of parliament attended the event.",
+     "幾位國會議員出席了該活動。"
+    ],
+    [
+     "Legislation must be passed by parliament first.",
+     "法規必須先由國會通過。"
+    ]
+   ]
+  },
+  {
+   "word": "peace",
+   "ph": "/piːs/",
+   "pos": "n. 和平 | 安寧",
+   "zh": "和平；安寧",
+   "colloc": "peace treaty 和平條約 | keep the peace 維持和平",
+   "distinct": "peaceful 和平的 | piece 碎片",
+   "ex": [
+    [
+     "Both nations signed a long-term peace treaty.",
+     "兩國簽署了一份長期和平條約。"
+    ],
+    [
+     "Working in peace helps increase our productivity.",
+     "在安寧環境工作有助於提升生產力。"
+    ],
+    [
+     "The goal is to ensure lasting peace here.",
+     "目標是確保此處長久的和平。"
+    ]
+   ]
+  },
+  {
+   "word": "persuade",
+   "ph": "/pərˈsweɪd/",
+   "pos": "v. 說服 | 勸說",
+   "zh": "說服；勸說",
+   "colloc": "persuade someone to do 說服某人去做 | try to persuade 試圖說服",
+   "distinct": "convince 使確信 | influence 影響",
+   "ex": [
+    [
+     "He tried to persuade them to invest now.",
+     "他試圖說服他們現在進行投資。"
+    ],
+    [
+     "Can you persuade the client to sign it?",
+     "你能說服客戶簽署它嗎？"
+    ],
+    [
+     "The manager persuaded the team to work late.",
+     "經理說服團隊加班工作。"
+    ]
+   ]
+  },
+  {
+   "word": "plate",
+   "ph": "/pleɪt/",
+   "pos": "n. 盤子 | 盤裝食物 | 金屬板",
+   "zh": "盤子；金屬板",
+   "colloc": "dinner plate 餐盤 | license plate 車牌",
+   "distinct": "bowl 碗 | platter 大淺盤",
+   "ex": [
+    [
+     "Please put the documents on the metal plate.",
+     "請將文件放在金屬板上。"
+    ],
+    [
+     "The waiter brought a plate of fresh fruit.",
+     "服務生端來一盤新鮮水果。"
+    ],
+    [
+     "Each plate should be cleaned after use.",
+     "每個盤子用完後都應清洗。"
+    ]
+   ]
+  },
+  {
+   "word": "pot",
+   "ph": "/pɑːt/",
+   "pos": "n. 鍋 | 壺 | 罐",
+   "zh": "鍋；壺；罐",
+   "colloc": "coffee pot 咖啡壺 | flower pot 花盆",
+   "distinct": "pan 平底鍋 | kettle 水壺",
+   "ex": [
+    [
+     "He put the pot on the stove immediately.",
+     "他立刻把鍋子放到爐子上。"
+    ],
+    [
+     "There is a pot of coffee in the room.",
+     "房間裡有一壺咖啡。"
+    ],
+    [
+     "The clay pot is used for storing herbs.",
+     "這個陶罐是用來存放藥草的。"
+    ]
+   ]
+  },
+  {
+   "word": "prized",
+   "ph": "/praɪzd/",
+   "pos": "adj. 珍貴的 | 被高度重視的",
+   "zh": "珍貴的；受重視的",
+   "colloc": "prized possession 珍藏品 | highly prized 高度重視的",
+   "distinct": "valuable 有價值的 | precious 寶貴的",
+   "ex": [
+    [
+     "This award is one of his most prized items.",
+     "這個獎項是他最珍貴的收藏之一。"
+    ],
+    [
+     "The company has a highly prized reputation.",
+     "該公司擁有極受重視的聲譽。"
+    ],
+    [
+     "She keeps her prized watch in a safe.",
+     "她把珍貴的手錶放在保險箱裡。"
+    ]
+   ]
+  },
+  {
+   "word": "prove",
+   "ph": "/pruːv/",
+   "pos": "v. 證明 | 證實 | 結果是",
+   "zh": "證明；證實；結果是",
+   "colloc": "prove to be 證明是 | provide evidence 證明",
+   "distinct": "verify 核實 | justify 為…辯護",
+   "ex": [
+    [
+     "The data will prove that our strategy works.",
+     "數據將證明我們的策略是有效的。"
+    ],
+    [
+     "This meeting proved to be very productive today.",
+     "今天的會議結果證明非常富有成效。"
+    ],
+    [
+     "We need more evidence to prove his point.",
+     "我們需要更多證據來證實他的論點。"
+    ]
+   ]
+  },
+  {
+   "word": "range",
+   "ph": "/reɪndʒ/",
+   "pos": "n. 範圍 | 一系列 | v. 變化 | 排列",
+   "zh": "範圍；一系列；變化",
+   "colloc": "a wide range of 各種各樣的 | price range 價格範圍",
+   "distinct": "scope 領域/範疇 | variety 各式各樣",
+   "ex": [
+    [
+     "We offer a wide range of office supplies.",
+     "我們提供各式各樣的辦公用品。"
+    ],
+    [
+     "Prices range from fifty to two hundred dollars.",
+     "價格範圍從五十到兩百美元不等。"
+    ],
+    [
+     "The study covers a full range of topics.",
+     "這項研究涵蓋了一系列的主題。"
+    ]
+   ]
+  },
+  {
+   "word": "refrigerator",
+   "ph": "/rɪˈfrɪdʒəreɪtər/",
+   "pos": "n. 電冰箱",
+   "zh": "電冰箱",
+   "colloc": "office refrigerator 辦公室冰箱 | keep in the refrigerator 冷藏",
+   "distinct": "fridge 冰箱（口語） | freezer 冷凍庫",
+   "ex": [
+    [
+     "Please put your lunch in the refrigerator.",
+     "請把你的午餐放入電冰箱。"
+    ],
+    [
+     "The office refrigerator is cleaned every Friday.",
+     "辦公室冰箱每週五都會清理。"
+    ],
+    [
+     "Some items must be stored in a refrigerator.",
+     "有些物品必須存放在冰箱內。"
+    ]
+   ]
+  },
+  {
+   "word": "regional",
+   "ph": "/ˈriːdʒənl/",
+   "pos": "adj. 地區的 | 區域性的",
+   "zh": "地區的；區域性的",
+   "colloc": "regional manager 地區經理 | regional office 地區辦公室",
+   "distinct": "local 當地的 | national 全國的",
+   "ex": [
+    [
+     "He is the new regional manager for Asia.",
+     "他是亞洲區的新任地區經理。"
+    ],
+    [
+     "They are planning a regional sales meeting.",
+     "他們正在規劃一場區域銷售會議。"
+    ],
+    [
+     "Regional offices report to the headquarters daily.",
+     "地區辦公室每天向總部回報。"
+    ]
+   ]
+  },
+  {
+   "word": "reputation",
+   "ph": "/ˌrepjʊˈteɪʃn/",
+   "pos": "n. 名聲 | 信譽",
+   "zh": "名聲；信譽",
+   "colloc": "build a reputation 建立名聲 | good reputation 好名聲",
+   "distinct": "fame 名氣 | prestige 聲望",
+   "ex": [
+    [
+     "The firm has a reputation for quality work.",
+     "這家公司以高品質的工作享有盛譽。"
+    ],
+    [
+     "Building a reputation takes a long time.",
+     "建立名聲需要很長的時間。"
+    ],
+    [
+     "Their reputation was damaged by the scandal.",
+     "他們的信譽因醜聞而受損。"
+    ]
+   ]
+  },
+  {
+   "word": "serving",
+   "ph": "/ˈsɜːrvɪŋ/",
+   "pos": "n. 一份（食物） | 服務 | adj. 現任的",
+   "zh": "一份（食物）；服務",
+   "colloc": "a serving of 一份 | serving suggestion 食用建議",
+   "distinct": "portion 分量 | service 服務",
+   "ex": [
+    [
+     "One serving contains two hundred calories.",
+     "一份含有兩百卡路里。"
+    ],
+    [
+     "The restaurant provides a generous serving size.",
+     "這家餐廳提供的分量很大。"
+    ],
+    [
+     "Each serving of this meal is very healthy.",
+     "這道菜的每一份都非常健康。"
+    ]
+   ]
+  },
+  {
+   "word": "sort",
+   "ph": "/sɔːrt/",
+   "pos": "n. 種類 | 類型 | v. 分類 | 整理",
+   "zh": "種類；分類",
+   "colloc": "sort out 整理/解決 | all sorts of 各種各樣",
+   "distinct": "type 類型 | category 範疇",
+   "ex": [
+    [
+     "Please sort these files by date today.",
+     "請今天將這些檔案按日期分類。"
+    ],
+    [
+     "We need to sort out the schedule issues.",
+     "我們需要解決行程表的問題。"
+    ],
+    [
+     "What sort of equipment do you need now?",
+     "你現在需要哪種類型的設備？"
+    ]
+   ]
+  },
+  {
+   "word": "supermarket",
+   "ph": "/ˈsuːpərmɑːrkɪt/",
+   "pos": "n. 超級市場",
+   "zh": "超級市場",
+   "colloc": "local supermarket 當地超市 | supermarket chain 連鎖超市",
+   "distinct": "market 市場 | grocery store 雜貨店",
+   "ex": [
+    [
+     "I bought some coffee at the supermarket.",
+     "我在超級市場買了一些咖啡。"
+    ],
+    [
+     "The supermarket chain is opening new branches.",
+     "那家連鎖超市正在開設新分店。"
+    ],
+    [
+     "We usually shop at the nearby supermarket.",
+     "我們通常在附近的超級市場購物。"
+    ]
+   ]
+  },
+  {
+   "word": "weight",
+   "ph": "/weɪt/",
+   "pos": "n. 重量 | 體重 | 負擔",
+   "zh": "重量；負擔",
+   "colloc": "lose weight 減重 | weight limit 重量限制",
+   "distinct": "heavy 重的（形容詞） | measure 測量",
+   "ex": [
+    [
+     "The package exceeds the maximum weight limit.",
+     "這個包裹超過了最高重量限制。"
+    ],
+    [
+     "Please check the weight of the shipment.",
+     "請檢查這批貨物的重量。"
+    ],
+    [
+     "The heavy workload is a weight on him.",
+     "沉重的工作量對他來說是一種負擔。"
+    ]
+   ]
+  }
+ ]
+}

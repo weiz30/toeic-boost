@@ -1,0 +1,448 @@
+{
+ "day": 85,
+ "theme": "教材片語・中高階 750–850 第 21 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "billing information",
+   "ph": "",
+   "pos": "n. 帳單資訊",
+   "zh": "帳單資訊；付款資料",
+   "colloc": "update billing information 更新帳單資訊 | verify billing information 核對帳單資訊",
+   "distinct": "payment method 付款方式 | shipping address 寄送地址",
+   "ex": [
+    [
+     "Please update your billing information online.",
+     "請在線上更新您的帳單資訊。"
+    ],
+    [
+     "The system requires valid billing information.",
+     "系統需要有效的帳單資訊。"
+    ],
+    [
+     "Check your billing information before submitting.",
+     "送出前請檢查您的帳單資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "bother to do",
+   "ph": "",
+   "pos": "phr. 費心去做；特意去做",
+   "zh": "費心去做；特意去做",
+   "colloc": "bother to check 費心檢查 | bother to attend 撥冗參加",
+   "distinct": "make an effort 努力 | take the trouble 費事",
+   "ex": [
+    [
+     "He didn't bother to check the report.",
+     "他沒費心去檢查那份報告。"
+    ],
+    [
+     "Did you bother to email the client?",
+     "你有特意發郵件給客戶嗎？"
+    ],
+    [
+     "They didn't bother to attend the meeting.",
+     "他們沒費心去參加會議。"
+    ]
+   ]
+  },
+  {
+   "word": "box office",
+   "ph": "",
+   "pos": "n. 售票處；票房",
+   "zh": "售票處；票房",
+   "colloc": "box office hit 票房熱賣 | box office records 票房紀錄",
+   "distinct": "ticket counter 櫃檯 | window 窗口",
+   "ex": [
+    [
+     "Tickets are available at the box office.",
+     "票可以在售票處購買。"
+    ],
+    [
+     "The film was a huge box office success.",
+     "這部電影在票房上非常成功。"
+    ],
+    [
+     "Please pick up tickets at the box office.",
+     "請到售票處領取票券。"
+    ]
+   ]
+  },
+  {
+   "word": "breaking news",
+   "ph": "",
+   "pos": "n. 突發新聞；快訊",
+   "zh": "突發新聞；快訊",
+   "colloc": "cover breaking news 報導突發新聞 | hear breaking news 聽到突發新聞",
+   "distinct": "headline 頭條新聞 | current events 時事",
+   "ex": [
+    [
+     "We have some breaking news to report.",
+     "我們有一些突發新聞要報導。"
+    ],
+    [
+     "The channel interrupted with breaking news.",
+     "該頻道中斷節目播放突發快訊。"
+    ],
+    [
+     "Everyone was shocked by the breaking news.",
+     "大家都被那則突發新聞震驚了。"
+    ]
+   ]
+  },
+  {
+   "word": "bring on",
+   "ph": "",
+   "pos": "phr. 導致；引起",
+   "zh": "導致；引起；帶來",
+   "colloc": "bring on changes 帶來改變 | bring on problems 引起問題",
+   "distinct": "cause 導致 | result in 導致",
+   "ex": [
+    [
+     "Stress can bring on serious health issues.",
+     "壓力會導致嚴重的健康問題。"
+    ],
+    [
+     "What brought on such a sudden decision?",
+     "是什麼導致了這麼突然的決定？"
+    ],
+    [
+     "Poor planning brought on the project delay.",
+     "計畫不周導致了專案延遲。"
+    ]
+   ]
+  },
+  {
+   "word": "bring out",
+   "ph": "",
+   "pos": "phr. 出版；推出；引發",
+   "zh": "出版；推出；發揮",
+   "colloc": "bring out a product 推出產品 | bring out the best 發揮最大優勢",
+   "distinct": "publish 出版 | launch 發布",
+   "ex": [
+    [
+     "The company will bring out a new model.",
+     "公司將會推出一款新機型。"
+    ],
+    [
+     "This project brought out their best talent.",
+     "這個專案發揮了他們最佳才華。"
+    ],
+    [
+     "They plan to bring out a monthly magazine.",
+     "他們計畫出版一本月刊。"
+    ]
+   ]
+  },
+  {
+   "word": "bring together",
+   "ph": "",
+   "pos": "phr. 召集；聯合；團結",
+   "zh": "召集；聯合；使團結",
+   "ex": [
+    [
+     "The event will bring together global leaders.",
+     "該活動將召集全球領導人。"
+    ],
+    [
+     "We need to bring together different teams.",
+     "我們需要將不同團隊整合在一起。"
+    ],
+    [
+     "This partnership will bring together both firms.",
+     "這項合作將聯合兩家公司。"
+    ]
+   ],
+   "colloc": "bring together experts 召集專家 | bring together resources 整合資源",
+   "distinct": "assemble 集合 | gather 聚集"
+  },
+  {
+   "word": "bring up",
+   "ph": "",
+   "pos": "phr. 提及；提出",
+   "zh": "提及；提出；養育",
+   "colloc": "bring up a topic 提出議題 | bring up an issue 提起問題",
+   "distinct": "mention 提到 | raise 提出",
+   "ex": [
+    [
+     "Please bring up this matter at the meeting.",
+     "請在會議中提出這件事。"
+    ],
+    [
+     "I wanted to bring up a new suggestion.",
+     "我想提一個新的建議。"
+    ],
+    [
+     "No one dared to bring up the budget.",
+     "沒人敢提起預算的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "build up",
+   "ph": "",
+   "pos": "phr. 增強；逐步建立",
+   "zh": "增強；積累；逐步建立",
+   "colloc": "build up confidence 建立信心 | build up a reputation 建立聲譽",
+   "distinct": "construct 建設 | develop 開發",
+   "ex": [
+    [
+     "We need to build up our market share.",
+     "我們需要逐步建立市場份額。"
+    ],
+    [
+     "He worked hard to build up his reputation.",
+     "他努力建立了良好的聲譽。"
+    ],
+    [
+     "Let us build up a strong team culture.",
+     "讓我們逐步建立強大的團隊文化。"
+    ]
+   ]
+  },
+  {
+   "word": "business practice",
+   "ph": "",
+   "pos": "n. 商業慣例；經營模式",
+   "zh": "商業慣例；經營模式",
+   "colloc": "ethical business practice 道德商業慣例 | standard business practice 標準商業慣例",
+   "distinct": "business operation 商業運作 | commercial activity 商業活動",
+   "ex": [
+    [
+     "They follow standard international business practices.",
+     "他們遵循國際標準商業慣例。"
+    ],
+    [
+     "Ethical business practice is our core value.",
+     "道德經營模式是我們的核心價值。"
+    ],
+    [
+     "The audit reviewed all current business practices.",
+     "審計審查了所有現行的商業慣例。"
+    ]
+   ]
+  },
+  {
+   "word": "button up",
+   "ph": "",
+   "pos": "phr. 扣上鈕扣；妥善完成",
+   "zh": "扣上鈕扣；妥善收尾",
+   "colloc": "button up a project 妥善完成專案 | button up the details 處理細節",
+   "distinct": "complete 完成 | finalize 定案",
+   "ex": [
+    [
+     "Make sure you button up your shirt.",
+     "確認你的襯衫鈕扣扣好了。"
+    ],
+    [
+     "We need to button up the contract details.",
+     "我們需要將合約細節妥善收尾。"
+    ],
+    [
+     "Can you button up the task by Friday?",
+     "你能週五前妥善完成任務嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "by all means",
+   "ph": "",
+   "pos": "phr. 當然；務必；無論如何",
+   "zh": "務必；當然可以",
+   "colloc": "by all means attend 務必參加 | by all means proceed 請務必進行",
+   "distinct": "certainly 當然 | definitely 絕對",
+   "ex": [
+    [
+     "If you need help, by all means ask.",
+     "如果你需要幫忙，儘管開口。"
+    ],
+    [
+     "By all means, please proceed with the plan.",
+     "請務必按照計畫進行。"
+    ],
+    [
+     "You should by all means join the seminar.",
+     "你務必參加那場研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "by contrast",
+   "ph": "",
+   "pos": "phr. 相較之下；與之相比",
+   "zh": "相較之下；與之相比",
+   "colloc": "stand by contrast 有鮮明對比 | marked by contrast 形成對比",
+   "distinct": "in comparison 相比之下 | however 然而",
+   "ex": [
+    [
+     "Sales rose; by contrast, costs remained low.",
+     "銷售額上升；相較之下，成本維持低檔。"
+    ],
+    [
+     "The office is quiet; by contrast, the lab is busy.",
+     "辦公室很安靜；相比之下，實驗室很忙。"
+    ],
+    [
+     "By contrast, our competitors are struggling now.",
+     "相較之下，我們的競爭對手現在正處於困境。"
+    ]
+   ]
+  },
+  {
+   "word": "call on",
+   "ph": "",
+   "pos": "phr. 拜訪；號召；要求",
+   "zh": "拜訪；要求；點名",
+   "colloc": "call on a client 拜訪客戶 | call on someone to do 要求某人做",
+   "distinct": "visit 訪問 | request 要求",
+   "ex": [
+    [
+     "The manager will call on key clients today.",
+     "經理今天會去拜訪重要客戶。"
+    ],
+    [
+     "She called on the team to work harder.",
+     "她號召團隊更加努力工作。"
+    ],
+    [
+     "The speaker called on the audience to vote.",
+     "演講者要求聽眾進行投票。"
+    ]
+   ]
+  },
+  {
+   "word": "call out",
+   "ph": "",
+   "pos": "phr. 大聲叫喊；指責；召喚",
+   "zh": "大聲叫喊；指責；召喚",
+   "colloc": "call out errors 指出錯誤 | call out for help 大聲求助",
+   "distinct": "shout 大叫 | identify 指出",
+   "ex": [
+    [
+     "He was quick to call out the error.",
+     "他很快就指出了那個錯誤。"
+    ],
+    [
+     "They called out for more staff support.",
+     "他們大聲呼籲需要更多員工支援。"
+    ],
+    [
+     "Don't be afraid to call out unfair behavior.",
+     "別害怕指責不公平的行為。"
+    ]
+   ]
+  },
+  {
+   "word": "carry on baggage",
+   "ph": "",
+   "pos": "n. 手提行李",
+   "zh": "手提行李",
+   "colloc": "check carry on baggage 檢查手提行李 | store carry on baggage 收好手提行李",
+   "distinct": "checked baggage 托運行李 | personal item 個人隨身物品",
+   "ex": [
+    [
+     "Please stow your carry on baggage carefully.",
+     "請小心存放您的手提行李。"
+    ],
+    [
+     "Is this bag allowed as carry on baggage?",
+     "這個包包可以當作手提行李嗎？"
+    ],
+    [
+     "Only one piece of carry on baggage is allowed.",
+     "僅允許攜帶一件手提行李。"
+    ]
+   ]
+  },
+  {
+   "word": "chief financial officer",
+   "ph": "",
+   "pos": "n. 財務長",
+   "zh": "財務長",
+   "colloc": "meet the chief financial officer 會見財務長 | report to the chief financial officer 向財務長匯報",
+   "distinct": "CEO 執行長 | accountant 會計師",
+   "ex": [
+    [
+     "The chief financial officer approved the budget.",
+     "財務長批准了預算。"
+    ],
+    [
+     "Our chief financial officer has a strong background.",
+     "我們的財務長背景很強。"
+    ],
+    [
+     "You should report to the chief financial officer.",
+     "你應該向財務長匯報。"
+    ]
+   ]
+  },
+  {
+   "word": "come loose",
+   "ph": "",
+   "pos": "phr. 鬆脫；鬆開",
+   "zh": "鬆脫；鬆開",
+   "colloc": "screw come loose 螺絲鬆脫 | handle come loose 把手鬆開",
+   "distinct": "detach 分離 | break 斷裂",
+   "ex": [
+    [
+     "The handle on the door has come loose.",
+     "門上的把手鬆脫了。"
+    ],
+    [
+     "A screw came loose during the machine test.",
+     "測試機器時螺絲鬆脫了。"
+    ],
+    [
+     "Check if any cables have come loose.",
+     "檢查看看是否有電纜鬆脫。"
+    ]
+   ]
+  },
+  {
+   "word": "come to a decision",
+   "ph": "",
+   "pos": "phr. 做決定",
+   "zh": "做決定；下定決心",
+   "colloc": "come to a final decision 做出最終決定 | come to a decision quickly 快速做決定",
+   "distinct": "make a decision 做決定 | reach a conclusion 達成結論",
+   "ex": [
+    [
+     "It took time to come to a decision.",
+     "花了一些時間才做出決定。"
+    ],
+    [
+     "We need to come to a decision by noon.",
+     "我們需要在中午前做出決定。"
+    ],
+    [
+     "Management has come to a decision on hiring.",
+     "管理層已對聘用做出決定。"
+    ]
+   ]
+  },
+  {
+   "word": "come to an agreement",
+   "ph": "",
+   "pos": "phr. 達成協議",
+   "zh": "達成協議；達成共識",
+   "colloc": "come to an agreement on price 就價格達成協議 | finally come to an agreement 最終達成共識",
+   "distinct": "reach an agreement 達成協議 | sign a contract 簽署合約",
+   "ex": [
+    [
+     "Both parties have come to an agreement.",
+     "雙方已經達成協議。"
+    ],
+    [
+     "Can we come to an agreement today?",
+     "我們今天能達成協議嗎？"
+    ],
+    [
+     "They failed to come to an agreement on terms.",
+     "他們未能就條款達成共識。"
+    ]
+   ]
+  }
+ ]
+}

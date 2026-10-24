@@ -1,0 +1,447 @@
+{
+ "day": 57,
+ "theme": "教材字彙・中高階 750–850 第 57 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "supporting",
+   "ph": "/səˈpɔːrtɪŋ/",
+   "pos": "adj. 支援的；輔助的",
+   "zh": "支援的；輔助的",
+   "colloc": "supporting document 證明文件 | supporting role 配角",
+   "distinct": "supported 被支援的（被動）| support 支援（動詞）",
+   "ex": [
+    [
+     "Please provide all supporting documents for the claim.",
+     "請提供理賠的所有證明文件。"
+    ],
+    [
+     "She plays a supporting role in this department.",
+     "她在這個部門扮演輔助角色。"
+    ],
+    [
+     "We need supporting evidence to validate the report.",
+     "我們需要輔助證據來驗證這份報告。"
+    ]
+   ]
+  },
+  {
+   "word": "suspect",
+   "ph": "/səˈspekt/",
+   "pos": "v. 懷疑；察覺",
+   "zh": "懷疑；察覺",
+   "colloc": "suspect of 懷疑涉嫌 | strongly suspect 強烈懷疑",
+   "distinct": "suspicion 懷疑（名詞）| suspicious 可疑的（形容詞）",
+   "ex": [
+    [
+     "I suspect that the system has been compromised.",
+     "我懷疑系統已經遭到了入侵。"
+    ],
+    [
+     "Management suspects the error was caused by staff.",
+     "管理層懷疑該錯誤是由員工造成的。"
+    ],
+    [
+     "Do you suspect any foul play in the deal?",
+     "你懷疑這筆交易有任何弊端嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "tablet",
+   "ph": "/ˈtæblət/",
+   "pos": "n. 平板電腦；藥片",
+   "zh": "平板電腦；藥片",
+   "colloc": "tablet computer 平板電腦 | take a tablet 服用藥片",
+   "distinct": "pad 便條紙 | laptop 筆記型電腦",
+   "ex": [
+    [
+     "The sales team uses tablets for customer presentations.",
+     "業務團隊使用平板電腦進行客戶簡報。"
+    ],
+    [
+     "He takes a tablet for his headache every morning.",
+     "他每天早上服用一顆藥片治療頭痛。"
+    ],
+    [
+     "Have you updated the software on your tablet?",
+     "你更新過平板電腦的軟體了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "tear",
+   "ph": "/ter/",
+   "pos": "v. 撕裂；扯破 | n. 眼淚；裂口",
+   "zh": "撕裂；扯破；眼淚",
+   "colloc": "tear down 拆除 | in tears 流淚",
+   "distinct": "tare 皮重（與重量有關）| tier 層次",
+   "ex": [
+    [
+     "Don't tear the contract before reading it carefully.",
+     "閱讀合約前請勿將其撕毀。"
+    ],
+    [
+     "The construction crew will tear down the old office.",
+     "施工團隊將拆除舊辦公室。"
+    ],
+    [
+     "She was in tears after receiving the bad news.",
+     "收到壞消息後她流下了眼淚。"
+    ]
+   ]
+  },
+  {
+   "word": "telling",
+   "ph": "/ˈtelɪŋ/",
+   "pos": "adj. 有效的；顯露真相的",
+   "zh": "有效的；顯露真相的",
+   "colloc": "telling detail 顯露真相的細節 | telling argument 有力的論點",
+   "distinct": "told 告知（過去式）| tell 告訴（動詞）",
+   "ex": [
+    [
+     "The silence from the manager was quite telling.",
+     "經理的沉默說明了一切。"
+    ],
+    [
+     "He made a telling point during the board meeting.",
+     "他在董事會中提出了一個有力的論點。"
+    ],
+    [
+     "These statistics provide a telling picture of growth.",
+     "這些數據呈現了成長的真實樣貌。"
+    ]
+   ]
+  },
+  {
+   "word": "trace",
+   "ph": "/treɪs/",
+   "pos": "v. 追蹤；勾勒 | n. 痕跡；蹤跡",
+   "zh": "追蹤；痕跡",
+   "colloc": "trace back 追溯 | without a trace 無影無蹤",
+   "distinct": "track 軌道；追蹤 | trail 蹤跡；小徑",
+   "ex": [
+    [
+     "We can trace the origin of the shipment easily.",
+     "我們可以輕易追蹤貨物的來源。"
+    ],
+    [
+     "The police found a trace of evidence at the scene.",
+     "警方在現場發現了一絲痕跡。"
+    ],
+    [
+     "Can you trace the error in the accounting file?",
+     "你能找出會計檔案中的錯誤根源嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "trial",
+   "ph": "/ˈtraɪəl/",
+   "pos": "n. 試用；審判；考驗",
+   "zh": "試用；審判；考驗",
+   "colloc": "free trial 免費試用 | on trial 在審判中",
+   "distinct": "training 訓練 | trip 旅行",
+   "ex": [
+    [
+     "Our company offers a thirty-day free software trial.",
+     "我們公司提供三十天的免費軟體試用。"
+    ],
+    [
+     "The new product is currently undergoing a trial phase.",
+     "新產品目前正處於試用階段。"
+    ],
+    [
+     "They have been on trial for the fraud case.",
+     "他們正因詐欺案接受審判。"
+    ]
+   ]
+  },
+  {
+   "word": "unacceptable",
+   "ph": "/ˌʌnəkˈseptəbl/",
+   "pos": "adj. 無法接受的；不合意的",
+   "zh": "無法接受的；不合意的",
+   "colloc": "totally unacceptable 完全無法接受 | find unacceptable 認為不妥",
+   "distinct": "unexpected 未預期的 | unbearable 無法忍受的",
+   "ex": [
+    [
+     "Such poor performance is unacceptable for this team.",
+     "這種績效表現對本團隊來說無法接受。"
+    ],
+    [
+     "The delay in delivery is completely unacceptable to us.",
+     "延遲交貨對我們而言完全無法接受。"
+    ],
+    [
+     "We find the proposed terms entirely unacceptable.",
+     "我們認為提出的條件完全無法接受。"
+    ]
+   ]
+  },
+  {
+   "word": "unemployment",
+   "ph": "/ˌʌnɪmˈplɔɪmənt/",
+   "pos": "n. 失業；失業率",
+   "zh": "失業；失業狀態",
+   "colloc": "unemployment rate 失業率 | high unemployment 高失業率",
+   "distinct": "employment 就業 | underemployment 就業不足",
+   "ex": [
+    [
+     "The unemployment rate has dropped significantly this quarter.",
+     "本季的失業率已顯著下降。"
+    ],
+    [
+     "Rising unemployment is a major concern for the government.",
+     "失業率攀升是政府的主要憂慮。"
+    ],
+    [
+     "He has been facing unemployment for six months.",
+     "他已經失業六個月了。"
+    ]
+   ]
+  },
+  {
+   "word": "venture",
+   "ph": "/ˈventʃər/",
+   "pos": "n. 風險投資；事業 | v. 冒險嘗試",
+   "zh": "風險投資；事業；冒險",
+   "colloc": "joint venture 合資企業 | business venture 商業冒險",
+   "distinct": "adventure 冒險活動 | venue 場地",
+   "ex": [
+    [
+     "They decided to start a joint venture in Asia.",
+     "他們決定在亞洲展開合資企業。"
+    ],
+    [
+     "This new business venture requires significant capital investment.",
+     "這項新的商業投資需要大額資本注入。"
+    ],
+    [
+     "I would not venture to guess the final outcome.",
+     "我不敢貿然猜測最終結果。"
+    ]
+   ]
+  },
+  {
+   "word": "visiting",
+   "ph": "/ˈvɪzɪtɪŋ/",
+   "pos": "adj. 訪問的；客座的",
+   "zh": "訪問的；客座的",
+   "colloc": "visiting professor 客座教授 | visiting scholar 訪問學者",
+   "ex": [
+    [
+     "We are hosting a visiting scholar from Germany.",
+     "我們正在接待一位來自德國的訪問學者。"
+    ],
+    [
+     "The visiting manager will arrive at ten o'clock.",
+     "訪問的經理將於十點抵達。"
+    ],
+    [
+     "He is currently a visiting fellow at the university.",
+     "他目前是該大學的訪問研究員。"
+    ]
+   ]
+  },
+  {
+   "word": "wanted",
+   "ph": "/ˈwɔːntɪd/",
+   "pos": "adj. 被通緝的；被徵求的 | v. 想要（want過去式）",
+   "zh": "被通緝的；徵求的",
+   "colloc": "wanted poster 通緝海報 | help wanted 徵才",
+   "distinct": "wanting 缺乏的 | wanting 想要的",
+   "ex": [
+    [
+     "The company has a wanted ad for engineers.",
+     "公司刊登了徵求工程師的廣告。"
+    ],
+    [
+     "He is wanted for questioning regarding the fraud.",
+     "他因該詐欺案被通緝以進行問話。"
+    ],
+    [
+     "Is there anything else wanted for the meeting?",
+     "會議還有需要準備什麼嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "willing",
+   "ph": "/ˈwɪlɪŋ/",
+   "pos": "adj. 願意的；樂意的",
+   "zh": "願意的；樂意的",
+   "colloc": "willing to do 樂意做某事 | perfectly willing 非常願意",
+   "distinct": "willful 任性的 | wilting 凋謝的",
+   "ex": [
+    [
+     "Are you willing to work overtime this weekend?",
+     "你願意這個週末加班嗎？"
+    ],
+    [
+     "The management is willing to negotiate the contract.",
+     "管理層願意商討合約內容。"
+    ],
+    [
+     "She is always willing to help her colleagues.",
+     "她總是樂於幫助同事。"
+    ]
+   ]
+  },
+  {
+   "word": "absorbing",
+   "ph": "/əbˈzɔːrbɪŋ/",
+   "pos": "adj. 吸引人的；引人入勝的",
+   "zh": "吸引人的；引人入勝的",
+   "colloc": "absorbing book 引人入勝的書 | absorbing task 令人專注的工作",
+   "distinct": "absorbed 專注的；被吸收的 | absorb 吸收（動詞）",
+   "ex": [
+    [
+     "The lecture was so absorbing that time flew by.",
+     "演講太精彩了，時間過得飛快。"
+    ],
+    [
+     "This project is an absorbing challenge for our team.",
+     "這個專案對我們團隊來說是一項吸引人的挑戰。"
+    ],
+    [
+     "He found the research topic extremely absorbing.",
+     "他發現這個研究主題極其引人入勝。"
+    ]
+   ]
+  },
+  {
+   "word": "aircraft",
+   "ph": "/ˈerkræft/",
+   "pos": "n. 航空器；飛機",
+   "zh": "航空器；飛機",
+   "colloc": "commercial aircraft 商用飛機 | aircraft industry 航空工業",
+   "distinct": "airliner 客機 | spacecraft 太空船",
+   "ex": [
+    [
+     "The new aircraft will reduce fuel consumption by ten percent.",
+     "新型飛機將減少百分之十的燃油消耗。"
+    ],
+    [
+     "The company manufactures parts for commercial aircraft.",
+     "這家公司製造商用飛機的零件。"
+    ],
+    [
+     "Several aircraft are parked on the runway now.",
+     "現在有幾架飛機停在跑道上。"
+    ]
+   ]
+  },
+  {
+   "word": "amazed",
+   "ph": "/əˈmeɪzd/",
+   "pos": "adj. 驚訝的；感到驚奇的",
+   "zh": "驚訝的；感到驚奇的",
+   "colloc": "amazed at 驚訝於 | be amazed to see 對…感到驚訝",
+   "distinct": "amazing 令人驚奇的 | amazement 驚奇（名詞）",
+   "ex": [
+    [
+     "I was amazed by the efficiency of the new system.",
+     "我對新系統的高效率感到驚訝。"
+    ],
+    [
+     "The CEO was amazed to see the high sales figures.",
+     "執行長看到高銷售數字時感到非常驚奇。"
+    ],
+    [
+     "Everyone was amazed at the quick project completion.",
+     "每個人都對專案如此快速完成感到驚訝。"
+    ]
+   ]
+  },
+  {
+   "word": "anticipated",
+   "ph": "/ænˈtɪsɪpeɪtɪd/",
+   "pos": "adj. 被預期的 | v. 預期（anticipate過去式）",
+   "zh": "被預期的；預期的",
+   "colloc": "highly anticipated 高度預期的 | as anticipated 如預期",
+   "distinct": "anticipating 預期（現在分詞）| anticipation 預期（名詞）",
+   "ex": [
+    [
+     "The launch of the product was highly anticipated.",
+     "這款產品的發布受到高度期待。"
+    ],
+    [
+     "We achieved the goals as anticipated last month.",
+     "我們如上個月預期般達成了目標。"
+    ],
+    [
+     "The anticipated costs are within the company budget.",
+     "預期成本在公司預算範圍內。"
+    ]
+   ]
+  },
+  {
+   "word": "appealing",
+   "ph": "/əˈpiːlɪŋ/",
+   "pos": "adj. 有吸引力的；迷人的",
+   "zh": "有吸引力的；迷人的",
+   "colloc": "visually appealing 視覺上吸引人的 | highly appealing 非常吸引人的",
+   "distinct": "appeal 吸引力；呼籲 | appealed 呼籲（過去式）",
+   "ex": [
+    [
+     "The flexible working hours are very appealing to staff.",
+     "彈性工時對員工非常有吸引力。"
+    ],
+    [
+     "We need a more appealing design for our website.",
+     "我們需要更具吸引力的網站設計。"
+    ],
+    [
+     "The compensation package is quite appealing to candidates.",
+     "這份薪資福利對求職者相當有吸引力。"
+    ]
+   ]
+  },
+  {
+   "word": "badly",
+   "ph": "/ˈbædli/",
+   "pos": "adv. 嚴重地；非常地 | 惡劣地",
+   "zh": "嚴重地；非常地；惡劣地",
+   "colloc": "badly needed 非常需要 | badly damaged 嚴重受損",
+   "distinct": "bad 壞的（形容詞）| bed 床",
+   "ex": [
+    [
+     "Our office computers are badly in need of updates.",
+     "我們的辦公室電腦非常需要升級。"
+    ],
+    [
+     "The shipment was badly damaged during the transport.",
+     "貨物在運輸過程中嚴重受損。"
+    ],
+    [
+     "They badly want to win the new contract.",
+     "他們非常渴望贏得這份新合約。"
+    ]
+   ]
+  },
+  {
+   "word": "celebrate",
+   "ph": "/ˈselɪbreɪt/",
+   "pos": "v. 慶祝；讚揚",
+   "zh": "慶祝；讚揚",
+   "colloc": "celebrate success 慶祝成功 | celebrate an anniversary 慶祝週年",
+   "distinct": "celebration 慶祝活動 | celebrity 名人",
+   "ex": [
+    [
+     "We will celebrate the anniversary of the company soon.",
+     "我們很快將慶祝公司成立週年。"
+    ],
+    [
+     "The team met to celebrate their latest achievement.",
+     "團隊聚在一起慶祝他們最新的成就。"
+    ],
+    [
+     "Let us celebrate by having a dinner together.",
+     "讓我們一起吃晚餐慶祝一下。"
+    ]
+   ]
+  }
+ ]
+}

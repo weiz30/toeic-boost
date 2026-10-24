@@ -1,0 +1,448 @@
+{
+ "day": 3,
+ "theme": "教材字彙・基礎 550–650 第 3 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "active",
+   "ph": "/ˈæktɪv/",
+   "pos": "adj. 活躍的；積極的",
+   "zh": "活躍的；積極的",
+   "colloc": "active member 會員 | take an active part in 積極參與",
+   "distinct": "proactive 主動的 | energetic 精力充沛的",
+   "ex": [
+    [
+     "She remains active in the local business community.",
+     "她在當地商業圈依然活躍。"
+    ],
+    [
+     "The company is looking for an active participant.",
+     "公司正在尋找積極的參與者。"
+    ],
+    [
+     "We need an active strategy to boost sales.",
+     "我們需要一個積極的策略來提升銷售。"
+    ]
+   ]
+  },
+  {
+   "word": "atmosphere",
+   "ph": "/ˈætməsfɪr/",
+   "pos": "n. 氣氛；大氣",
+   "zh": "氣氛；環境",
+   "colloc": "friendly atmosphere 友好的氣氛 | create an atmosphere 營造氛圍",
+   "distinct": "environment 環境 | mood 情緒",
+   "ex": [
+    [
+     "The office has a professional and calm atmosphere.",
+     "辦公室有一種專業且冷靜的氣氛。"
+    ],
+    [
+     "We aim to create a welcoming atmosphere for guests.",
+     "我們致力於為賓客營造熱情的氛圍。"
+    ],
+    [
+     "The meeting atmosphere turned tense during the discussion.",
+     "討論期間會議的氣氛變得緊張。"
+    ]
+   ]
+  },
+  {
+   "word": "convert",
+   "ph": "/kənˈvɜːrt/",
+   "pos": "v. 轉換；轉變",
+   "zh": "轉換；折算",
+   "colloc": "convert into 轉換成 | convert currency 兌換貨幣",
+   "distinct": "transform 外型轉變 | change 改變",
+   "ex": [
+    [
+     "You can convert the document into a PDF file.",
+     "你可以將這份文件轉換成 PDF 檔。"
+    ],
+    [
+     "The currency was converted at the current rate.",
+     "貨幣已按現行匯率進行兌換。"
+    ],
+    [
+     "We plan to convert the old warehouse into offices.",
+     "我們計畫將舊倉庫改建成辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "currently",
+   "ph": "/ˈkɜːrəntli/",
+   "pos": "adv. 目前地",
+   "zh": "目前；現在",
+   "colloc": "currently available 現有可用的 | currently under construction 施工中",
+   "distinct": "presently 不久後；目前 | recently 最近",
+   "ex": [
+    [
+     "The manager is currently attending a regional meeting.",
+     "經理目前正在參加區域會議。"
+    ],
+    [
+     "Our product is currently out of stock online.",
+     "我們的產品目前在網路上缺貨。"
+    ],
+    [
+     "We are currently reviewing the annual budget proposal.",
+     "我們目前正在審核年度預算提案。"
+    ]
+   ]
+  },
+  {
+   "word": "especially",
+   "ph": "/ɪˈspeʃəli/",
+   "pos": "adv. 特別地；尤其",
+   "zh": "特別；尤其",
+   "colloc": "especially important 特別重要 | especially for 專門為了",
+   "distinct": "specially 專門地 | particularly 特別地",
+   "ex": [
+    [
+     "This software is especially useful for small teams.",
+     "這款軟體對小型團隊特別有用。"
+    ],
+    [
+     "We appreciate your support, especially during the crisis.",
+     "我們感謝您的支持，尤其是在危機期間。"
+    ],
+    [
+     "The event was organized especially for our clients.",
+     "這次活動是專門為我們的客戶舉辦的。"
+    ]
+   ]
+  },
+  {
+   "word": "experience",
+   "ph": "/ɪkˈspɪriəns/",
+   "pos": "n. 經驗 | v. 經歷；體驗",
+   "zh": "經驗；體驗",
+   "colloc": "work experience 工作經驗 | gain experience 獲得經驗",
+   "distinct": "experiment 實驗 | expertise 專業技能",
+   "ex": [
+    [
+     "The candidate has five years of marketing experience.",
+     "這位應徵者有五年行銷經驗。"
+    ],
+    [
+     "Customers can experience our latest models today.",
+     "顧客今天可以體驗我們的最新型號。"
+    ],
+    [
+     "We experienced some technical issues during the demo.",
+     "我們在演示過程中經歷了一些技術問題。"
+    ]
+   ]
+  },
+  {
+   "word": "give",
+   "ph": "/ɡɪv/",
+   "pos": "v. 給予；提供",
+   "zh": "給；提供",
+   "colloc": "give feedback 給予回饋 | give a presentation 做簡報",
+   "distinct": "offer 提供；提議 | provide 提供",
+   "ex": [
+    [
+     "Please give me your feedback on the report.",
+     "請給我您對報告的回饋。"
+    ],
+    [
+     "The CEO will give a speech at the ceremony.",
+     "執行長將在典禮上致詞。"
+    ],
+    [
+     "Can you give us a discount on this order?",
+     "您能給我們這筆訂單一些折扣嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "investment",
+   "ph": "/ɪnˈvestmənt/",
+   "pos": "n. 投資",
+   "zh": "投資",
+   "colloc": "long-term investment 長期投資 | make an investment 進行投資",
+   "distinct": "asset 資產 | interest 利息",
+   "ex": [
+    [
+     "The company made a major investment in technology.",
+     "公司在科技方面進行了一筆重大投資。"
+    ],
+    [
+     "This project is a safe investment for our firm.",
+     "這個專案對我們公司來說是一項安全的投資。"
+    ],
+    [
+     "We are analyzing the returns on our investment.",
+     "我們正在分析我們的投資報酬。"
+    ]
+   ]
+  },
+  {
+   "word": "related",
+   "ph": "/rɪˈleɪtɪd/",
+   "pos": "adj. 相關的",
+   "zh": "相關的",
+   "colloc": "related to 與...相關 | related fields 相關領域",
+   "distinct": "relative 相對的 | relevant 有關的",
+   "ex": [
+    [
+     "Does this issue relate to the new policy?",
+     "這個問題跟新政策有關嗎？"
+    ],
+    [
+     "We discussed topics related to international trade.",
+     "我們討論了與國際貿易相關的話題。"
+    ],
+    [
+     "Please provide all documents related to the claim.",
+     "請提供所有與索賠相關的文件。"
+    ]
+   ]
+  },
+  {
+   "word": "remain",
+   "ph": "/rɪˈmeɪn/",
+   "pos": "v. 保持；依然",
+   "zh": "保持；停留",
+   "colloc": "remain silent 保持沉默 | remain open 保持開放",
+   "distinct": "maintain 維持 | stay 停留",
+   "ex": [
+    [
+     "The office will remain closed during the holiday.",
+     "辦公室在假期期間將保持關閉。"
+    ],
+    [
+     "We must remain focused on our primary goals.",
+     "我們必須保持專注於主要目標。"
+    ],
+    [
+     "The exact cause of the problem remains unknown.",
+     "問題的確切原因仍然未知。"
+    ]
+   ]
+  },
+  {
+   "word": "rest",
+   "ph": "/rest/",
+   "pos": "n. 休息；剩餘部分 | v. 休息",
+   "zh": "休息；剩餘",
+   "colloc": "the rest of 其餘的 | take a rest 休息一下",
+   "distinct": "remainder 剩餘物 | break 暫停；休息時間",
+   "ex": [
+    [
+     "You should take a rest after the long meeting.",
+     "長會議後你應該休息一下。"
+    ],
+    [
+     "I will finish the rest of the work tomorrow.",
+     "我明天會完成剩餘的工作。"
+    ],
+    [
+     "The rest of the team is working from home.",
+     "團隊的其他成員正在居家辦公。"
+    ]
+   ]
+  },
+  {
+   "word": "accidentally",
+   "ph": "/ˌæksɪˈdentəli/",
+   "pos": "adv. 意外地；不小心地",
+   "zh": "意外地",
+   "colloc": "accidentally deleted 意外刪除 | accidentally discovered 意外發現",
+   "distinct": "incidentally 順便一提 | purposefully 刻意地",
+   "ex": [
+    [
+     "I accidentally sent the email to the wrong address.",
+     "我不小心把電子郵件寄錯地址了。"
+    ],
+    [
+     "The file was accidentally deleted by the system.",
+     "檔案被系統意外刪除了。"
+    ],
+    [
+     "He accidentally found the answer in the manual.",
+     "他在手冊中意外找到了答案。"
+    ]
+   ]
+  },
+  {
+   "word": "account",
+   "ph": "/əˈkaʊnt/",
+   "pos": "n. 帳戶；說明 | v. 解釋",
+   "zh": "帳戶；說明",
+   "colloc": "bank account 銀行帳戶 | account for 解釋；佔比",
+   "distinct": "amount 總額 | invoice 發票",
+   "ex": [
+    [
+     "Please update your contact details in the account.",
+     "請更新您帳戶內的聯絡資訊。"
+    ],
+    [
+     "We need to account for all the expenses.",
+     "我們需要說明所有的費用開支。"
+    ],
+    [
+     "Sales in Asia account for half of our revenue.",
+     "亞洲的銷售額佔了我們營收的一半。"
+    ]
+   ]
+  },
+  {
+   "word": "adjust",
+   "ph": "/əˈdʒʌst/",
+   "pos": "v. 調整；適應",
+   "zh": "調整；適應",
+   "colloc": "adjust the settings 調整設定 | adjust to new conditions 適應新環境",
+   "distinct": "adapt 適應；改編 | modify 修改",
+   "ex": [
+    [
+     "We need to adjust the schedule for next week.",
+     "我們需要調整下週的行程表。"
+    ],
+    [
+     "It took time to adjust to the new software.",
+     "花了一些時間才適應這套新軟體。"
+    ],
+    [
+     "Please adjust your chair to a comfortable height.",
+     "請將您的椅子調整到舒適的高度。"
+    ]
+   ]
+  },
+  {
+   "word": "advertisement",
+   "ph": "/ˈædvərtaɪzmənt/",
+   "pos": "n. 廣告",
+   "zh": "廣告",
+   "colloc": "place an advertisement 刊登廣告 | online advertisement 線上廣告",
+   "distinct": "advertising 廣告活動（總稱）| commercial 電視廣播廣告",
+   "ex": [
+    [
+     "The advertisement will be published in the journal.",
+     "這則廣告將刊登在期刊上。"
+    ],
+    [
+     "We designed a new advertisement for the product launch.",
+     "我們為產品發布設計了一則新廣告。"
+    ],
+    [
+     "Did you see our latest advertisement on social media?",
+     "你有在社群媒體上看到我們的最新廣告嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "agree",
+   "ph": "/əˈɡriː/",
+   "pos": "v. 同意；贊成",
+   "zh": "同意；贊成",
+   "colloc": "agree with 與...同意 | reach an agreement 達成協議",
+   "distinct": "accept 接受 | approve 批准",
+   "ex": [
+    [
+     "Both parties agreed to the terms of the contract.",
+     "雙方都同意合約條款。"
+    ],
+    [
+     "I agree that we need to hire more staff.",
+     "我同意我們需要招募更多員工。"
+    ],
+    [
+     "They could not agree on a starting date.",
+     "他們無法就開始日期達成共識。"
+    ]
+   ]
+  },
+  {
+   "word": "alternatively",
+   "ph": "/ɔːlˈtɜːrnətɪvli/",
+   "pos": "adv. 或者；二選一地",
+   "zh": "或者",
+   "colloc": "alternatively, you can... 你也可以...",
+   "distinct": "optionally 隨意地 | specifically 特別地",
+   "ex": [
+    [
+     "You can pay by cash. Alternatively, use a credit card.",
+     "你可以付現金。或者，使用信用卡。"
+    ],
+    [
+     "We could drive there, or alternatively, take a train.",
+     "我們可以開車去，或者改搭火車。"
+    ],
+    [
+     "Alternatively, we can hold the meeting via Zoom.",
+     "或者，我們可以透過 Zoom 開會。"
+    ]
+   ]
+  },
+  {
+   "word": "analysis",
+   "ph": "/əˈnæləsɪs/",
+   "pos": "n. 分析",
+   "zh": "分析",
+   "colloc": "data analysis 數據分析 | conduct an analysis 進行分析",
+   "distinct": "analyze 分析（動詞）| synthesis 綜合",
+   "ex": [
+    [
+     "The analysis shows a steady growth in sales.",
+     "分析顯示銷售額穩步增長。"
+    ],
+    [
+     "We need a detailed analysis of the market trends.",
+     "我們需要對市場趨勢進行詳細分析。"
+    ],
+    [
+     "Her analysis of the report was very insightful.",
+     "她對這份報告的分析非常有見地。"
+    ]
+   ]
+  },
+  {
+   "word": "appreciate",
+   "ph": "/əˈpriːʃieɪt/",
+   "pos": "v. 感激；欣賞",
+   "zh": "感激；欣賞",
+   "colloc": "deeply appreciate 非常感激 | appreciate your help 感謝你的協助",
+   "distinct": "thank 謝謝 | value 重視",
+   "ex": [
+    [
+     "We appreciate your continued support of our brand.",
+     "我們感謝您對我們品牌的持續支持。"
+    ],
+    [
+     "I would appreciate it if you could finish early.",
+     "如果您能提早完成，我將不勝感激。"
+    ],
+    [
+     "The team appreciates the feedback from the manager.",
+     "團隊很欣賞經理提供的回饋。"
+    ]
+   ]
+  },
+  {
+   "word": "authority",
+   "ph": "/əˈθɔːrəti/",
+   "pos": "n. 權威；當局",
+   "zh": "權威；當局",
+   "colloc": "local authority 當地政府 | in authority 有權勢的",
+   "distinct": "author 作者 | authorized 授權的",
+   "ex": [
+    [
+     "She is a leading authority on financial law.",
+     "她是金融法律領域的頂尖權威。"
+    ],
+    [
+     "You need permission from the local authority.",
+     "你需要獲得當地主管機關的許可。"
+    ],
+    [
+     "The manager has the authority to sign the contract.",
+     "經理有權限簽署這份合約。"
+    ]
+   ]
+  }
+ ]
+}

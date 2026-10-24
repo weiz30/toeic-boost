@@ -1,0 +1,448 @@
+{
+ "day": 68,
+ "theme": "教材片語・進階 650–750 第 4 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "parking pass",
+   "ph": "",
+   "pos": "phr. 停車證",
+   "zh": "停車證",
+   "colloc": "obtain a parking pass 取得停車證 | display the parking pass 出示停車證",
+   "distinct": "parking permit 停車許可證 | parking space 停車位",
+   "ex": [
+    [
+     "Employees must display their parking pass at all times.",
+     "員工必須隨時展示他們的停車證。"
+    ],
+    [
+     "Please show your parking pass to the security guard.",
+     "請向警衛出示您的停車證。"
+    ],
+    [
+     "New parking passes will be distributed starting next Monday.",
+     "新的停車證將從下週一開始發放。"
+    ]
+   ]
+  },
+  {
+   "word": "press the button",
+   "ph": "",
+   "pos": "phr. 按下按鈕",
+   "zh": "按下按鈕",
+   "colloc": "press the button firmly 用力按下按鈕 | press the button twice 按兩下按鈕",
+   "distinct": "push the button 推動按鈕 | click the button 點擊按鈕（滑鼠）",
+   "ex": [
+    [
+     "You need to press the button to open the gate.",
+     "你需要按下按鈕才能打開大門。"
+    ],
+    [
+     "Simply press the button to start the printing process.",
+     "只需按下按鈕即可開始列印程序。"
+    ],
+    [
+     "She had to press the button to alert the floor manager.",
+     "她必須按下按鈕來通知樓層經理。"
+    ]
+   ]
+  },
+  {
+   "word": "public park",
+   "ph": "",
+   "pos": "phr. 公園",
+   "zh": "公園",
+   "colloc": "visit a public park 參觀公園 | maintain a public park 維護公園",
+   "distinct": "private garden 私人庭院 | national park 國家公園",
+   "ex": [
+    [
+     "The city plans to renovate the old public park downtown.",
+     "市政府計畫翻修市中心的老舊公園。"
+    ],
+    [
+     "They held the company picnic at a nearby public park.",
+     "他們在附近的公園舉辦了公司野餐。"
+    ],
+    [
+     "This public park is open to all residents until sunset.",
+     "這座公園對所有居民開放至日落。"
+    ]
+   ]
+  },
+  {
+   "word": "public relations department",
+   "ph": "",
+   "pos": "phr. 公關部",
+   "zh": "公關部",
+   "colloc": "contact the public relations department 聯繫公關部 | head of the public relations department 公關部主管",
+   "distinct": "human resources department 人力資源部 | marketing department 行銷部",
+   "ex": [
+    [
+     "Direct all media inquiries to our public relations department.",
+     "將所有媒體詢問轉交給我們的公關部。"
+    ],
+    [
+     "The public relations department released a formal statement today.",
+     "公關部今天發布了一份正式聲明。"
+    ],
+    [
+     "She works as a manager in the public relations department.",
+     "她在公關部擔任經理。"
+    ]
+   ]
+  },
+  {
+   "word": "put on",
+   "ph": "",
+   "pos": "phr. 穿上；戴上；上演",
+   "zh": "穿上；戴上；上演",
+   "colloc": "put on a coat 穿上外套 | put on a show 上演節目",
+   "distinct": "wear 穿著（狀態） | try on 試穿",
+   "ex": [
+    [
+     "Please put on your safety goggles before entering the lab.",
+     "進入實驗室前請戴上護目鏡。"
+    ],
+    [
+     "The team will put on a presentation for the clients.",
+     "團隊將為客戶進行一場簡報演示。"
+    ],
+    [
+     "She needs to put on a professional suit for the interview.",
+     "她需要穿上一套專業套裝去面試。"
+    ]
+   ]
+  },
+  {
+   "word": "sales trend",
+   "ph": "",
+   "pos": "phr. 銷售趨勢",
+   "zh": "銷售趨勢",
+   "colloc": "analyze sales trends 分析銷售趨勢 | rising sales trend 上升的銷售趨勢",
+   "distinct": "sales figure 銷售數字 | market trend 市場趨勢",
+   "ex": [
+    [
+     "The report highlights a positive sales trend this quarter.",
+     "該報告強調了本季正向的銷售趨勢。"
+    ],
+    [
+     "We must carefully examine the latest sales trend reports.",
+     "我們必須仔細檢視最新的銷售趨勢報告。"
+    ],
+    [
+     "The recent sales trend indicates a decline in demand.",
+     "近期的銷售趨勢顯示需求有所下滑。"
+    ]
+   ]
+  },
+  {
+   "word": "smoking section",
+   "ph": "",
+   "pos": "phr. 吸菸區",
+   "zh": "吸菸區",
+   "colloc": "designated smoking section 指定吸菸區 | locate the smoking section 找到吸菸區",
+   "distinct": "non-smoking area 非吸菸區 | lounge 休息室",
+   "ex": [
+    [
+     "The restaurant provides a separate smoking section outdoors.",
+     "餐廳在戶外設有獨立的吸菸區。"
+    ],
+    [
+     "Guests are required to use the designated smoking section.",
+     "客人必須使用指定的吸菸區。"
+    ],
+    [
+     "Smoking is strictly prohibited outside the smoking section.",
+     "在吸菸區外嚴禁吸菸。"
+    ]
+   ]
+  },
+  {
+   "word": "switch off",
+   "ph": "",
+   "pos": "phr. 關掉（電源）",
+   "zh": "關掉；關閉",
+   "colloc": "switch off the lights 關燈 | switch off the equipment 關閉設備",
+   "distinct": "turn off 關掉 | power down 關機",
+   "ex": [
+    [
+     "Remember to switch off your computer before leaving the office.",
+     "離開辦公室前記得關掉電腦。"
+    ],
+    [
+     "Please switch off all electronic devices during the flight.",
+     "飛行期間請關閉所有電子設備。"
+    ],
+    [
+     "He went back to switch off the main power supply.",
+     "他折返回去關掉主電源。"
+    ]
+   ]
+  },
+  {
+   "word": "table lamp",
+   "ph": "",
+   "pos": "phr. 桌燈",
+   "zh": "桌燈",
+   "colloc": "adjust the table lamp 調整桌燈 | buy a new table lamp 購買新桌燈",
+   "distinct": "desk lamp 檯燈 | floor lamp 立燈",
+   "ex": [
+    [
+     "The table lamp provides soft light for my work.",
+     "這盞桌燈為我的工作提供了柔和的光線。"
+    ],
+    [
+     "I need a brighter table lamp for reading documents.",
+     "我需要一盞更亮的桌燈來閱讀文件。"
+    ],
+    [
+     "She placed the table lamp on the corner of the desk.",
+     "她把桌燈放在書桌的角落。"
+    ]
+   ]
+  },
+  {
+   "word": "telephone call",
+   "ph": "",
+   "pos": "phr. 電話；通話",
+   "zh": "電話；通話",
+   "colloc": "make a telephone call 打電話 | receive a telephone call 接到電話",
+   "distinct": "phone call 電話 | conference call 電話會議",
+   "ex": [
+    [
+     "I received a telephone call from the regional manager.",
+     "我接到了區域經理的電話。"
+    ],
+    [
+     "Please hold for a brief telephone call regarding the contract.",
+     "請稍候，有一通關於合約的電話。"
+    ],
+    [
+     "He is currently busy on a telephone call with clients.",
+     "他目前正忙著與客戶通話。"
+    ]
+   ]
+  },
+  {
+   "word": "think of",
+   "ph": "",
+   "pos": "phr. 想到；考慮；認為",
+   "zh": "想到；考慮；認為",
+   "colloc": "think of a solution 想出解決方案 | think of you 想到你",
+   "distinct": "think about 考慮（持續思考） | come up with 想出（創意）",
+   "ex": [
+    [
+     "Can you think of a better way to organize the files?",
+     "你能想到整理檔案更好的方法嗎？"
+    ],
+    [
+     "I often think of ways to improve our service quality.",
+     "我常思考如何提升我們的服務品質。"
+    ],
+    [
+     "What do you think of the new marketing strategy?",
+     "你覺得新的行銷策略如何？"
+    ]
+   ]
+  },
+  {
+   "word": "turn off",
+   "ph": "",
+   "pos": "phr. 關掉；關閉",
+   "zh": "關掉；關閉",
+   "colloc": "turn off the engine 關掉引擎 | turn off the tap 關上水龍頭",
+   "distinct": "switch off 關掉（開關） | shut down 關機（系統）",
+   "ex": [
+    [
+     "Please turn off the projector after the presentation ends.",
+     "簡報結束後請關掉投影機。"
+    ],
+    [
+     "Did you turn off the air conditioner in the meeting room?",
+     "你有關掉會議室的冷氣嗎？"
+    ],
+    [
+     "We should turn off the lights to save on electricity.",
+     "我們應該關燈來節省電力。"
+    ]
+   ]
+  },
+  {
+   "word": "write down",
+   "ph": "",
+   "pos": "phr. 寫下；記錄下來",
+   "zh": "寫下；記錄",
+   "colloc": "write down the instructions 寫下指示 | write down the details 記錄細節",
+   "distinct": "take notes 做筆記 | record 錄音/記錄",
+   "ex": [
+    [
+     "Please write down your contact information on this form.",
+     "請在這份表格上寫下您的聯絡資訊。"
+    ],
+    [
+     "I will write down the important points of the meeting.",
+     "我會把會議重點記錄下來。"
+    ],
+    [
+     "Did you write down the address before leaving the shop?",
+     "離開商店前你有把地址記下來嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "as soon as possible",
+   "ph": "",
+   "pos": "phr. 儘快",
+   "zh": "儘快",
+   "colloc": "reply as soon as possible 儘快回覆 | process as soon as possible 儘快處理",
+   "distinct": "at your earliest convenience 儘快（禮貌用語） | immediately 立刻",
+   "ex": [
+    [
+     "Please send the revised proposal as soon as possible.",
+     "請儘快寄出修訂後的提案。"
+    ],
+    [
+     "We need to address the customer complaint as soon as possible.",
+     "我們需要儘快處理顧客的投訴。"
+    ],
+    [
+     "The manager asked for the report as soon as possible.",
+     "經理要求儘快拿到報告。"
+    ]
+   ]
+  },
+  {
+   "word": "at this point",
+   "ph": "",
+   "pos": "phr. 此刻；目前",
+   "zh": "此刻；目前",
+   "colloc": "at this point in time 此時此刻 | at this point of the project 專案的這個階段",
+   "distinct": "at the moment 此時 | currently 目前",
+   "ex": [
+    [
+     "At this point, we cannot confirm the shipment date.",
+     "目前我們還無法確認出貨日期。"
+    ],
+    [
+     "Everything seems to be working well at this point.",
+     "目前為止一切運作順利。"
+    ],
+    [
+     "We have no further comments to make at this point.",
+     "我們目前沒有其他評論。"
+    ]
+   ]
+  },
+  {
+   "word": "automatic payment",
+   "ph": "",
+   "pos": "phr. 自動付款",
+   "zh": "自動付款",
+   "colloc": "set up automatic payment 設定自動付款 | cancel automatic payment 取消自動付款",
+   "distinct": "manual payment 手動付款 | online payment 線上付款",
+   "ex": [
+    [
+     "You can set up automatic payment for your monthly bills.",
+     "你可以為每月帳單設定自動付款。"
+    ],
+    [
+     "The service requires automatic payment via a credit card.",
+     "這項服務需要透過信用卡自動付款。"
+    ],
+    [
+     "I prefer automatic payment to avoid late fees.",
+     "我比較喜歡自動付款以避免逾期費用。"
+    ]
+   ]
+  },
+  {
+   "word": "be filled with",
+   "ph": "",
+   "pos": "phr. 充滿；裝滿",
+   "zh": "充滿；裝滿",
+   "colloc": "be filled with excitement 充滿興奮 | be filled with documents 裝滿文件",
+   "distinct": "full of 充滿（形容詞） | pack with 塞滿",
+   "ex": [
+    [
+     "The conference room was filled with eager participants.",
+     "會議室裡擠滿了熱切的與會者。"
+    ],
+    [
+     "His schedule is filled with back-to-back meetings today.",
+     "他今天的行程排滿了連續的會議。"
+    ],
+    [
+     "The inbox was filled with inquiries from potential clients.",
+     "收件匣裡充滿了潛在客戶的詢問。"
+    ]
+   ]
+  },
+  {
+   "word": "be open for business",
+   "ph": "",
+   "pos": "phr. 開業；開始營業",
+   "zh": "開業；開始營業",
+   "colloc": "be open for business daily 每日營業 | officially be open for business 正式開業",
+   "distinct": "open hours 營業時間 | closed for business 停止營業",
+   "ex": [
+    [
+     "The new store will be open for business next Monday.",
+     "新店將於下週一正式開業。"
+    ],
+    [
+     "We are happy to announce that we are now open for business.",
+     "我們很高興地宣布我們現在開始營業了。"
+    ],
+    [
+     "The cafe will be open for business until nine tonight.",
+     "這家咖啡廳今晚將營業至九點。"
+    ]
+   ]
+  },
+  {
+   "word": "belong to",
+   "ph": "",
+   "pos": "phr. 屬於",
+   "zh": "屬於",
+   "colloc": "belong to the company 屬於公司 | belong to the association 屬於協會",
+   "distinct": "own 擁有 | member of 會員",
+   "ex": [
+    [
+     "Does this equipment belong to the maintenance department?",
+     "這台設備是屬於維修部的嗎？"
+    ],
+    [
+     "The laptop belongs to the marketing team leader.",
+     "這台筆記型電腦屬於行銷部組長。"
+    ],
+    [
+     "This project does not belong to my current department.",
+     "這個專案不屬於我目前的部門。"
+    ]
+   ]
+  },
+  {
+   "word": "bend over",
+   "ph": "",
+   "pos": "phr. 彎腰",
+   "zh": "彎腰",
+   "colloc": "bend over to pick up 彎腰撿起 | bend over backward 竭盡全力",
+   "distinct": "lean over 傾身 | crouch 蹲下",
+   "ex": [
+    [
+     "He had to bend over to retrieve the fallen files.",
+     "他必須彎腰去撿起掉落的文件。"
+    ],
+    [
+     "Please do not bend over too quickly if you feel dizzy.",
+     "如果您感到頭暈，請不要動作太快地彎腰。"
+    ],
+    [
+     "She bent over to examine the bottom shelf of the display.",
+     "她彎下腰去檢查展示架的最底層。"
+    ]
+   ]
+  }
+ ]
+}

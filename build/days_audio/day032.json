@@ -1,0 +1,448 @@
+{
+ "day": 32,
+ "theme": "教材字彙・進階 650–750 第 32 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "politely",
+   "ph": "/pəˈlaɪtli/",
+   "pos": "adv. 有禮貌地",
+   "zh": "有禮貌地；客氣地",
+   "colloc": "speak politely 有禮貌地說話 | ask politely 客氣地詢問",
+   "distinct": "courteously 謙恭地 | respectfully 恭敬地",
+   "ex": [
+    [
+     "He politely declined the client's offer.",
+     "他有禮貌地婉拒了客戶的提議。"
+    ],
+    [
+     "The receptionist greeted the guests politely.",
+     "接待員很有禮貌地向賓客問好。"
+    ],
+    [
+     "Please ask the staff politely for assistance.",
+     "請客氣地向員工尋求協助。"
+    ]
+   ]
+  },
+  {
+   "word": "request",
+   "ph": "/rɪˈkwest/",
+   "pos": "n. 要求 | v. 請求",
+   "zh": "請求；要求",
+   "colloc": "make a request 提出要求 | at the request of 應...之要求",
+   "distinct": "demand 強烈要求 | appeal 呼籲",
+   "ex": [
+    [
+     "Management denied the request for a raise.",
+     "管理層拒絕了加薪的要求。"
+    ],
+    [
+     "The manager requested a detailed project report.",
+     "經理要求一份詳細的專案報告。"
+    ],
+    [
+     "We submitted the request before the deadline.",
+     "我們在截止日期前提交了請求。"
+    ]
+   ]
+  },
+  {
+   "word": "sail",
+   "ph": "/seɪl/",
+   "pos": "v. 航行 | n. 帆",
+   "zh": "航行；啟航",
+   "colloc": "set sail 啟航 | smooth sailing 順利進行",
+   "distinct": "navigate 導航 | voyage 長途航行",
+   "ex": [
+    [
+     "The luxury cruise ship will sail tonight.",
+     "這艘豪華郵輪將於今晚啟航。"
+    ],
+    [
+     "They plan to sail across the Pacific Ocean.",
+     "他們計畫航行橫跨太平洋。"
+    ],
+    [
+     "The cargo ship set sail on schedule.",
+     "這艘貨輪準時啟航了。"
+    ]
+   ]
+  },
+  {
+   "word": "short",
+   "ph": "/ʃɔːrt/",
+   "pos": "adj. 短的 | 不足的",
+   "zh": "短的；不足的；短暫的",
+   "colloc": "short notice 短時間通知 | fall short 未達標準",
+   "distinct": "brief 簡短的 | concise 簡潔的",
+   "ex": [
+    [
+     "We are short of supplies for the event.",
+     "活動所需的物資我們不足。"
+    ],
+    [
+     "The meeting was short and very productive.",
+     "會議很短且非常有成效。"
+    ],
+    [
+     "He was hired on short notice.",
+     "他在很短的通知下被錄用了。"
+    ]
+   ]
+  },
+  {
+   "word": "thoroughly",
+   "ph": "/ˈθɜːroʊli/",
+   "pos": "adv. 徹底地",
+   "zh": "徹底地；詳盡地",
+   "colloc": "thoroughly enjoyed 徹底享受 | check thoroughly 徹底檢查",
+   "distinct": "completely 完全地 | entirely 完全地",
+   "ex": [
+    [
+     "The inspector thoroughly examined the equipment.",
+     "檢查員徹底檢查了設備。"
+    ],
+    [
+     "We must prepare thoroughly for the presentation.",
+     "我們必須為簡報做徹底的準備。"
+    ],
+    [
+     "The policy was thoroughly discussed by the board.",
+     "董事會徹底討論了這項政策。"
+    ]
+   ]
+  },
+  {
+   "word": "start",
+   "ph": "/stɑːrt/",
+   "pos": "v. 開始 | n. 開端",
+   "zh": "開始；啟動",
+   "colloc": "start a business 創業 | get a head start 先發優勢",
+   "distinct": "commence 開始（較正式） | initiate 發起",
+   "ex": [
+    [
+     "The training session will start at nine.",
+     "培訓課程將於九點開始。"
+    ],
+    [
+     "She decided to start her own consulting firm.",
+     "她決定創業成立自己的諮詢公司。"
+    ],
+    [
+     "Let us start the meeting without further delay.",
+     "我們別再拖延，開始會議吧。"
+    ]
+   ]
+  },
+  {
+   "word": "flood",
+   "ph": "/flʌd/",
+   "pos": "n. 洪水 | v. 淹沒",
+   "zh": "洪水；充斥",
+   "colloc": "flood damage 洪水損害 | flood of orders 大量訂單",
+   "distinct": "overflow 溢出 | inundate 淹沒（正式）",
+   "ex": [
+    [
+     "Heavy rain caused a flood in the warehouse.",
+     "大雨導致倉庫淹水。"
+    ],
+    [
+     "The office was flooded with customer complaints.",
+     "辦公室充斥著客戶的抱怨。"
+    ],
+    [
+     "Excessive water may flood the production area.",
+     "過多的水可能會淹沒生產區。"
+    ]
+   ]
+  },
+  {
+   "word": "trade",
+   "ph": "/treɪd/",
+   "pos": "n. 貿易 | v. 進行交易",
+   "zh": "貿易；交易；行業",
+   "colloc": "international trade 國際貿易 | trade fair 貿易展",
+   "distinct": "commerce 商業 | business 生意",
+   "ex": [
+    [
+     "The two countries increased their bilateral trade.",
+     "兩國增加了雙邊貿易往來。"
+    ],
+    [
+     "They trade agricultural goods with neighboring nations.",
+     "他們與鄰國進行農產品交易。"
+    ],
+    [
+     "The annual trade fair attracts many buyers.",
+     "年度貿易展吸引了許多買家。"
+    ]
+   ]
+  },
+  {
+   "word": "company",
+   "ph": "/ˈkʌmpəni/",
+   "pos": "n. 公司 | 同伴",
+   "zh": "公司；同伴",
+   "colloc": "run a company 經營公司 | in good company 有好夥伴",
+   "distinct": "firm 商號 | corporation 大型企業",
+   "ex": [
+    [
+     "She works for a major technology company.",
+     "她在一家大型科技公司工作。"
+    ],
+    [
+     "The company is expanding its global reach.",
+     "這家公司正在擴展其全球影響力。"
+    ],
+    [
+     "He enjoys the company of his colleagues.",
+     "他喜歡與同事們為伍。"
+    ]
+   ]
+  },
+  {
+   "word": "inside",
+   "ph": "/ɪnˈsaɪd/",
+   "pos": "prep. 在...裡面 | adv. 在室內",
+   "zh": "在裡面；室內",
+   "colloc": "inside information 內線消息 | inside the box 在框內",
+   "distinct": "within 在...之內 | interior 內部的",
+   "ex": [
+    [
+     "Please wait inside the lobby until called.",
+     "請在在大廳內等候直到被叫到。"
+    ],
+    [
+     "The documents are inside the locked drawer.",
+     "文件在鎖住的抽屜裡面。"
+    ],
+    [
+     "It is much warmer inside the building.",
+     "大樓內部溫暖多了。"
+    ]
+   ]
+  },
+  {
+   "word": "proof",
+   "ph": "/pruːf/",
+   "pos": "n. 證明 | 證據",
+   "zh": "證明；證據；驗證",
+   "colloc": "proof of purchase 購買證明 | demand proof 要求證明",
+   "distinct": "evidence 證據（法律） | testimony 證詞",
+   "ex": [
+    [
+     "You need proof of identity to enter.",
+     "進入時你需要身份證明。"
+    ],
+    [
+     "We have no proof that the deal failed.",
+     "我們沒有證據證明該交易失敗了。"
+    ],
+    [
+     "Please provide proof of your previous experience.",
+     "請提供你過去經驗的證明。"
+    ]
+   ]
+  },
+  {
+   "word": "successfully",
+   "ph": "/səkˈsesfəli/",
+   "pos": "adv. 成功地",
+   "zh": "成功地",
+   "colloc": "successfully completed 成功完成 | successfully negotiated 成功談判",
+   "distinct": "effectively 有效地 | victoriously 勝利地",
+   "ex": [
+    [
+     "The team successfully launched the new software.",
+     "團隊成功推出了新軟體。"
+    ],
+    [
+     "We have successfully met our quarterly goals.",
+     "我們已經成功達成季度目標。"
+    ],
+    [
+     "He successfully managed the challenging project.",
+     "他成功地管理了這項具挑戰性的專案。"
+    ]
+   ]
+  },
+  {
+   "word": "control",
+   "ph": "/kənˈtroʊl/",
+   "pos": "v. 控制 | n. 管理",
+   "zh": "控制；管理",
+   "colloc": "quality control 品質管制 | under control 在控制中",
+   "distinct": "regulate 調節 | supervise 監督",
+   "ex": [
+    [
+     "The manager has full control of the budget.",
+     "經理對預算有完全的控制權。"
+    ],
+    [
+     "Strict quality control is essential for success.",
+     "嚴格的品質管制對成功至關重要。"
+    ],
+    [
+     "We need to control the operating expenses.",
+     "我們需要控制營運成本。"
+    ]
+   ]
+  },
+  {
+   "word": "curious",
+   "ph": "/ˈkjʊriəs/",
+   "pos": "adj. 好奇的",
+   "zh": "好奇的；求知慾強的",
+   "colloc": "curious about 對...好奇 | remain curious 保持好奇心",
+   "distinct": "inquisitive 愛打聽的 | interested 感興趣的",
+   "ex": [
+    [
+     "The investors were curious about the new strategy.",
+     "投資者對新策略感到好奇。"
+    ],
+    [
+     "She is curious to learn how the system works.",
+     "她很想了解系統是如何運作的。"
+    ],
+    [
+     "Employees are curious about the office relocation.",
+     "員工們對辦公室搬遷感到好奇。"
+    ]
+   ]
+  },
+  {
+   "word": "fire",
+   "ph": "/ˈfaɪər/",
+   "pos": "n. 火 | v. 解雇",
+   "zh": "火；解雇；開火",
+   "colloc": "fire alarm 火災警報 | get fired 被解雇",
+   "distinct": "dismiss 解雇（較正式） | lay off 裁員",
+   "ex": [
+    [
+     "The company had to fire several unproductive staff.",
+     "公司不得不解雇幾名生產力低落的員工。"
+    ],
+    [
+     "An alarm went off during the fire drill.",
+     "消防演習期間警報響了。"
+    ],
+    [
+     "You cannot fire someone without a reason.",
+     "你不能無緣無故解雇某人。"
+    ]
+   ]
+  },
+  {
+   "word": "set",
+   "ph": "/set/",
+   "pos": "v. 設定 | 放置 | n. 一組",
+   "zh": "設定；放置；一組",
+   "colloc": "set a date 設定日期 | set a goal 設定目標",
+   "distinct": "place 放置 | establish 建立",
+   "ex": [
+    [
+     "We need to set a meeting for Monday.",
+     "我們需要為週一設定一個會議。"
+    ],
+    [
+     "The management set high goals for the quarter.",
+     "管理層為本季設定了高目標。"
+    ],
+    [
+     "Please set the folders on my desk.",
+     "請把資料夾放在我的桌子上。"
+    ]
+   ]
+  },
+  {
+   "word": "fashion",
+   "ph": "/ˈfæʃn/",
+   "pos": "n. 時尚 | 方式",
+   "zh": "時尚；流行；方式",
+   "colloc": "in fashion 時髦的 | fashion industry 時尚產業",
+   "distinct": "style 風格 | trend 趨勢",
+   "ex": [
+    [
+     "She works as a manager in the fashion industry.",
+     "她在時尚產業擔任經理。"
+    ],
+    [
+     "The new design is currently very much in fashion.",
+     "這項新設計目前非常流行。"
+    ],
+    [
+     "He handled the issue in a professional fashion.",
+     "他以專業的方式處理了這個問題。"
+    ]
+   ]
+  },
+  {
+   "word": "site",
+   "ph": "/saɪt/",
+   "pos": "n. 地點 | 網站",
+   "zh": "地點；場所；網站",
+   "colloc": "construction site 施工現場 | website 網站",
+   "distinct": "location 地點 | venue 場地",
+   "ex": [
+    [
+     "The construction site is off-limits to visitors.",
+     "施工現場禁止訪客進入。"
+    ],
+    [
+     "We are launching a new company website soon.",
+     "我們很快就要發布新的公司網站。"
+    ],
+    [
+     "The proposed site is ideal for the factory.",
+     "提議的地點對工廠來說很理想。"
+    ]
+   ]
+  },
+  {
+   "word": "wait",
+   "ph": "/weɪt/",
+   "pos": "v. 等待 | n. 等候",
+   "zh": "等待；等候",
+   "colloc": "wait for 等候 | wait in line 排隊",
+   "distinct": "await 等待（較正式） | expect 預期",
+   "ex": [
+    [
+     "We cannot wait for the final approval.",
+     "我們無法等待最終批准。"
+    ],
+    [
+     "Please wait in the reception area for assistance.",
+     "請在接待區等候以獲得協助。"
+    ],
+    [
+     "There is a long wait for the service.",
+     "這項服務需要排隊很久。"
+    ]
+   ]
+  },
+  {
+   "word": "helping",
+   "ph": "/ˈhelpɪŋ/",
+   "pos": "n. 一份（食物） | v. 幫助（help的現在分詞）",
+   "zh": "一份食物；幫助",
+   "colloc": "a helping of 一份... | helping hand 援手",
+   "distinct": "portion 部分；一份 | serving 一份",
+   "ex": [
+    [
+     "He offered a second helping of the dessert.",
+     "他提供了第二份甜點。"
+    ],
+    [
+     "She is currently helping with the marketing report.",
+     "她目前正在協助行銷報告。"
+    ],
+    [
+     "Providing a helping hand builds strong teamwork.",
+     "伸出援手能建立強大的團隊合作。"
+    ]
+   ]
+  }
+ ]
+}

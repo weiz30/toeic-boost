@@ -1,0 +1,448 @@
+{
+ "day": 97,
+ "theme": "教材片語・中高階 750–850 第 33 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "at the latest",
+   "ph": "",
+   "pos": "phr. 最晚",
+   "zh": "最晚；至遲",
+   "colloc": "arrive at the latest 最晚抵達 | finish at the latest 最晚完成",
+   "distinct": "no later than 不遲於 | by the deadline 在截止日前",
+   "ex": [
+    [
+     "Please submit the report by Friday at the latest.",
+     "請最晚在週五前提交報告。"
+    ],
+    [
+     "We need to finish the task at the latest by noon.",
+     "我們最晚要在中午前完成任務。"
+    ],
+    [
+     "The shipment should arrive at the latest on Tuesday.",
+     "貨運最晚應該會在週二抵達。"
+    ]
+   ]
+  },
+  {
+   "word": "back away from",
+   "ph": "",
+   "pos": "phr. 退出；退縮",
+   "zh": "退縮；撤回；放棄",
+   "colloc": "back away from the deal 放棄交易 | back away from the project 從專案中退出",
+   "distinct": "pull out of 退出（協議或活動） | withdraw from 撤出（資金或職位）",
+   "ex": [
+    [
+     "The investor decided to back away from the negotiation.",
+     "投資人決定從談判中退出。"
+    ],
+    [
+     "Do not back away from the challenges you face.",
+     "不要在面對挑戰時退縮。"
+    ],
+    [
+     "They had to back away from the initial agreement.",
+     "他們不得不撤回最初的協議。"
+    ]
+   ]
+  },
+  {
+   "word": "bank account",
+   "ph": "",
+   "pos": "n. 銀行帳戶",
+   "zh": "銀行帳戶",
+   "colloc": "open a bank account 開立帳戶 | close a bank account 結清帳戶",
+   "distinct": "savings account 儲蓄帳戶 | checking account 支票帳戶",
+   "ex": [
+    [
+     "Please deposit the payment into my bank account.",
+     "請將款項匯入我的銀行帳戶。"
+    ],
+    [
+     "I need to update my bank account details today.",
+     "我今天需要更新銀行帳戶資料。"
+    ],
+    [
+     "The company pays salaries via direct bank account transfer.",
+     "公司透過直接匯款至銀行帳戶發放薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "bargain over prices",
+   "ph": "",
+   "pos": "phr. 討價還價",
+   "zh": "議價；討價還價",
+   "colloc": "bargain over prices effectively 有效地議價 | refuse to bargain over prices 拒絕議價",
+   "distinct": "negotiate a contract 協商合約 | haggle 討價還價（口語）",
+   "ex": [
+    [
+     "Vendors are often willing to bargain over prices here.",
+     "這裡的攤販通常願意議價。"
+    ],
+    [
+     "It is unprofessional to bargain over prices in this store.",
+     "在這家店討價還價是很不專業的。"
+    ],
+    [
+     "We managed to bargain over prices to reduce costs.",
+     "我們成功透過議價降低了成本。"
+    ]
+   ]
+  },
+  {
+   "word": "be determined to do",
+   "ph": "",
+   "pos": "phr. 下定決心做某事",
+   "zh": "決心做；有決心",
+   "colloc": "be determined to succeed 決心成功 | be determined to improve 決心改善",
+   "distinct": "be set on doing 執意要做 | be resolved to do 下定決心做",
+   "ex": [
+    [
+     "Our team is determined to finish the project ahead of time.",
+     "我們團隊決心提前完成專案。"
+    ],
+    [
+     "The manager is determined to improve office efficiency.",
+     "經理決心提升辦公室效率。"
+    ],
+    [
+     "They are determined to do whatever it takes to win.",
+     "他們決心不計代價取得勝利。"
+    ]
+   ]
+  },
+  {
+   "word": "be highly regarded",
+   "ph": "",
+   "pos": "phr. 備受推崇；評價很高",
+   "zh": "備受推崇；評價極高",
+   "colloc": "be highly regarded as 普遍被認為是 | be highly regarded by clients 備受客戶推崇",
+   "distinct": "be well-known 知名的 | be reputable 有信譽的",
+   "ex": [
+    [
+     "Dr. Lin is highly regarded in the engineering industry.",
+     "林博士在工程界備受推崇。"
+    ],
+    [
+     "Our firm is highly regarded for its excellent services.",
+     "本公司因其優質服務而評價極高。"
+    ],
+    [
+     "The new software is highly regarded by tech experts.",
+     "這套新軟體備受科技專家推崇。"
+    ]
+   ]
+  },
+  {
+   "word": "be satisfied with",
+   "ph": "",
+   "pos": "phr. 對...感到滿意",
+   "zh": "滿意；滿足",
+   "colloc": "be satisfied with the result 對結果滿意 | be satisfied with the service 對服務滿意",
+   "distinct": "be pleased with 對...感到高興 | be content with 對...感到知足",
+   "ex": [
+    [
+     "The client seems to be satisfied with our proposal.",
+     "客戶似乎對我們的提案感到滿意。"
+    ],
+    [
+     "Are you satisfied with the current working conditions?",
+     "你對目前的辦公環境滿意嗎？"
+    ],
+    [
+     "Management is not satisfied with the quarterly figures.",
+     "管理層對本季數據並不滿意。"
+    ]
+   ]
+  },
+  {
+   "word": "be seated",
+   "ph": "",
+   "pos": "phr. 就座；入座",
+   "zh": "就座；入座",
+   "colloc": "please be seated 請就座 | everyone is seated 大家都已入座",
+   "distinct": "sit down 坐下（動作） | take a seat 找位子坐",
+   "ex": [
+    [
+     "Please be seated before the presentation begins.",
+     "請在簡報開始前就座。"
+    ],
+    [
+     "All guests were seated by the time the dinner started.",
+     "晚餐開始時所有賓客都已入座。"
+    ],
+    [
+     "Once you are seated, we will serve the beverages.",
+     "請您入座後，我們將為您上飲料。"
+    ]
+   ]
+  },
+  {
+   "word": "be suited for",
+   "ph": "",
+   "pos": "phr. 適合",
+   "zh": "適合；勝任",
+   "colloc": "be well suited for the job 非常適合這份工作 | be perfectly suited for the task 非常勝任這項任務",
+   "distinct": "be fit for 適宜的 | be qualified for 有資格的",
+   "ex": [
+    [
+     "He is well suited for a leadership position.",
+     "他非常適合擔任領導職位。"
+    ],
+    [
+     "This software is suited for small business accounting.",
+     "這套軟體適合小型企業會計使用。"
+    ],
+    [
+     "Not everyone is suited for a fast-paced environment.",
+     "並非每個人都適合節奏快速的環境。"
+    ]
+   ]
+  },
+  {
+   "word": "believe it or not",
+   "ph": "",
+   "pos": "phr. 信不信由你",
+   "zh": "信不信由你",
+   "colloc": "believe it or not, it happened 信不信由你，這發生了 | believe it or not, we finished 信不信由你，我們完成了",
+   "distinct": "to tell the truth 老實說 | as a matter of fact 事實上",
+   "ex": [
+    [
+     "Believe it or not, we finished the report in one hour.",
+     "信不信由你，我們在一小時內完成了報告。"
+    ],
+    [
+     "Believe it or not, the price dropped significantly today.",
+     "信不信由你，價格今天大幅下跌了。"
+    ],
+    [
+     "Believe it or not, I have never been to that branch.",
+     "信不信由你，我從未去過那間分公司。"
+    ]
+   ]
+  },
+  {
+   "word": "bring about",
+   "ph": "",
+   "pos": "phr. 導致；引起",
+   "zh": "導致；引起；造成",
+   "colloc": "bring about change 帶來改變 | bring about success 促成成功",
+   "distinct": "result in 導致 | give rise to 引起",
+   "ex": [
+    [
+     "The new policy will bring about significant changes.",
+     "新政策將帶來重大的改變。"
+    ],
+    [
+     "These measures aim to bring about a better work environment.",
+     "這些措施旨在創造更好的工作環境。"
+    ],
+    [
+     "Innovation can bring about a competitive advantage.",
+     "創新能夠帶來競爭優勢。"
+    ]
+   ]
+  },
+  {
+   "word": "bring along",
+   "ph": "",
+   "pos": "phr. 帶來；攜帶",
+   "zh": "帶來；攜帶；隨身攜帶",
+   "colloc": "bring along a guest 帶一位客人 | bring along the documents 攜帶文件",
+   "distinct": "take along 帶走 | carry 搬運",
+   "ex": [
+    [
+     "Please bring along your ID for the security check.",
+     "請攜帶您的證件以進行安全檢查。"
+    ],
+    [
+     "You should bring along a notebook to the meeting.",
+     "你開會時應該隨身攜帶筆記本。"
+    ],
+    [
+     "She decided to bring along her laptop for the trip.",
+     "她決定隨身攜帶筆記型電腦出差。"
+    ]
+   ]
+  },
+  {
+   "word": "business contacts",
+   "ph": "",
+   "pos": "n. 商務聯絡人；業務關係",
+   "zh": "商務聯絡人；業務人脈",
+   "colloc": "develop business contacts 拓展業務人脈 | maintain business contacts 維繫業務關係",
+   "distinct": "business associates 事業夥伴 | professional network 專業人脈網絡",
+   "ex": [
+    [
+     "Networking helps you build valuable business contacts.",
+     "社交有助於你建立寶貴的商務人脈。"
+    ],
+    [
+     "He has many business contacts in the Asian market.",
+     "他在亞洲市場擁有許多商務聯絡人。"
+    ],
+    [
+     "I need to update my list of business contacts.",
+     "我需要更新我的商務聯絡人名單。"
+    ]
+   ]
+  },
+  {
+   "word": "by credit card",
+   "ph": "",
+   "pos": "phr. 用信用卡",
+   "zh": "透過信用卡",
+   "colloc": "pay by credit card 用信用卡支付 | purchase by credit card 用信用卡購買",
+   "distinct": "in cash 現金 | by bank transfer 匯款",
+   "ex": [
+    [
+     "Customers can pay by credit card at the counter.",
+     "顧客可以在櫃檯使用信用卡結帳。"
+    ],
+    [
+     "We do not accept payments by credit card for now.",
+     "我們目前不接受信用卡付款。"
+    ],
+    [
+     "All online orders must be paid by credit card.",
+     "所有網路訂單都必須使用信用卡付款。"
+    ]
+   ]
+  },
+  {
+   "word": "by no means",
+   "ph": "",
+   "pos": "phr. 絕非；一點也不",
+   "zh": "絕不；絕非",
+   "colloc": "by no means easy 絕非容易 | by no means certain 絕非確定",
+   "distinct": "not at all 一點也不 | far from 遠非",
+   "ex": [
+    [
+     "The task is by no means as simple as it looks.",
+     "這項任務絕非看起來那麼簡單。"
+    ],
+    [
+     "By no means should you share the confidential password.",
+     "你絕不應該分享這個機密密碼。"
+    ],
+    [
+     "The project is by no means finished yet.",
+     "這項專案絕非已經完成了。"
+    ]
+   ]
+  },
+  {
+   "word": "call back",
+   "ph": "",
+   "pos": "phr. 回電",
+   "zh": "回電",
+   "colloc": "call back later 稍後回電 | promise to call back 保證會回電",
+   "distinct": "return a call 回覆電話 | pick up 接聽電話",
+   "ex": [
+    [
+     "The manager is in a meeting; I will call back.",
+     "經理正在開會，我會再回電。"
+    ],
+    [
+     "Please ask him to call back after three o'clock.",
+     "請請他三點後回電。"
+    ],
+    [
+     "I forgot to call back the client this morning.",
+     "我今天早上忘了回電給客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "charter plane",
+   "ph": "",
+   "pos": "n. 包機",
+   "zh": "包機",
+   "colloc": "book a charter plane 預訂包機 | use a charter plane 使用包機",
+   "distinct": "commercial flight 民航機 | private jet 私人噴射機",
+   "ex": [
+    [
+     "The company rented a charter plane for the executives.",
+     "公司為高層租用了一架包機。"
+    ],
+    [
+     "A charter plane is faster than a regular flight.",
+     "包機比一般航班更快。"
+    ],
+    [
+     "We are considering a charter plane for the group trip.",
+     "我們正在考慮為團隊旅行安排包機。"
+    ]
+   ]
+  },
+  {
+   "word": "close a deal",
+   "ph": "",
+   "pos": "phr. 完成交易；達成協議",
+   "zh": "成交；達成交易",
+   "colloc": "successfully close a deal 成功成交 | help close a deal 協助完成交易",
+   "distinct": "sign a contract 簽約 | reach an agreement 達成共識",
+   "ex": [
+    [
+     "They finally managed to close a deal after long negotiations.",
+     "經過長時間談判，他們終於達成協議。"
+    ],
+    [
+     "Our sales team is working hard to close a deal.",
+     "我們的業務團隊正努力爭取成交。"
+    ],
+    [
+     "It took three months to close a deal with them.",
+     "花費了三個月才與他們達成交易。"
+    ]
+   ]
+  },
+  {
+   "word": "come apart",
+   "ph": "",
+   "pos": "phr. 散開；破碎",
+   "zh": "散開；破裂；分崩離析",
+   "colloc": "come apart at the seams 接縫處裂開 | the device came apart 裝置散掉了",
+   "distinct": "fall apart 解體 | break down 故障",
+   "ex": [
+    [
+     "The cardboard box started to come apart during shipping.",
+     "紙箱在運輸過程中開始散開了。"
+    ],
+    [
+     "If you pull it too hard, it will come apart.",
+     "如果你用力過猛，它就會散開。"
+    ],
+    [
+     "The old machine is starting to come apart.",
+     "這台舊機器開始要散掉了。"
+    ]
+   ]
+  },
+  {
+   "word": "count on",
+   "ph": "",
+   "pos": "phr. 指望；依賴",
+   "zh": "指望；依賴；信賴",
+   "colloc": "count on someone to help 指望某人幫忙 | count on the result 指望結果",
+   "distinct": "rely on 依賴 | depend on 取決於",
+   "ex": [
+    [
+     "You can count on our team to deliver on time.",
+     "你可以指望我們的團隊準時交付。"
+    ],
+    [
+     "We are counting on your support for this event.",
+     "我們指望你能為這次活動提供支持。"
+    ],
+    [
+     "Never count on luck to succeed in business.",
+     "做生意永遠不要指望運氣成功。"
+    ]
+   ]
+  }
+ ]
+}

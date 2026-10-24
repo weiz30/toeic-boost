@@ -1,0 +1,448 @@
+{
+ "day": 1,
+ "theme": "教材字彙・基礎 550–650 第 1 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "draw",
+   "ph": "/drɔː/",
+   "pos": "v. 吸引；繪製；提取",
+   "zh": "吸引；繪製；提取",
+   "colloc": "draw attention 吸引注意 | draw a conclusion 得出結論",
+   "distinct": "attract 吸引人事物 | sketch 素描",
+   "ex": [
+    [
+     "This new campaign will draw many customers.",
+     "這項新活動將吸引許多客戶。"
+    ],
+    [
+     "Please draw a diagram for the plan.",
+     "請為這個計畫畫一張草圖。"
+    ],
+    [
+     "He tried to draw money from the bank.",
+     "他試圖從銀行提款。"
+    ]
+   ]
+  },
+  {
+   "word": "finally",
+   "ph": "/ˈfaɪnəli/",
+   "pos": "adv. 終於；最後",
+   "zh": "終於；最後",
+   "colloc": "finally decide 最終決定 | finally arrive 終於抵達",
+   "distinct": "at last 終於（強調如釋重負） | eventually 最終（強調過程長）",
+   "ex": [
+    [
+     "The report was finally completed this morning.",
+     "報告終於在今天早上完成了。"
+    ],
+    [
+     "Management finally agreed to our new proposal.",
+     "管理層最終同意了我們的新提案。"
+    ],
+    [
+     "We finally found a suitable office space.",
+     "我們終於找到了合適的辦公空間。"
+    ]
+   ]
+  },
+  {
+   "word": "show",
+   "ph": "/ʃoʊ/",
+   "pos": "v. 顯示；展示 | n. 展覽；演出",
+   "zh": "顯示；展示；展覽",
+   "colloc": "show interest 表現出興趣 | show improvement 呈現進步",
+   "distinct": "demonstrate 演示；證明 | display 陳列",
+   "ex": [
+    [
+     "The chart shows a rise in sales.",
+     "圖表顯示銷售額上升。"
+    ],
+    [
+     "She will show the client our new prototype.",
+     "她將向客戶展示我們的新原型。"
+    ],
+    [
+     "The trade show attracted many international buyers.",
+     "這場貿易展吸引了許多國際買家。"
+    ]
+   ]
+  },
+  {
+   "word": "fair",
+   "ph": "/fer/",
+   "pos": "adj. 公平的；合理的 | n. 展覽會",
+   "zh": "公平的；合理的；展覽會",
+   "colloc": "fair treatment 公平對待 | job fair 就業博覽會",
+   "distinct": "just 正義的 | exhibition 展示會",
+   "ex": [
+    [
+     "Every employee deserves a fair salary increase.",
+     "每位員工都應得到公平的加薪。"
+    ],
+    [
+     "The company organized a local job fair.",
+     "公司舉辦了一場在地就業博覽會。"
+    ],
+    [
+     "It is only fair to share the workload.",
+     "分擔工作量是合理的作法。"
+    ]
+   ]
+  },
+  {
+   "word": "various",
+   "ph": "/ˈveriəs/",
+   "pos": "adj. 各式各樣的；不同的",
+   "zh": "各式各樣的；不同的",
+   "colloc": "various reasons 各種原因 | various sizes 各種尺寸",
+   "distinct": "diverse 多樣化的 | several 幾個",
+   "ex": [
+    [
+     "We considered various options for the expansion.",
+     "我們考慮了擴張的各種方案。"
+    ],
+    [
+     "Staff members have various backgrounds in marketing.",
+     "員工們在行銷方面有不同的背景。"
+    ],
+    [
+     "There are various ways to improve productivity.",
+     "有很多方法可以提升生產力。"
+    ]
+   ]
+  },
+  {
+   "word": "employee",
+   "ph": "/ɪmˈplɔɪiː/",
+   "pos": "n. 員工；雇員",
+   "zh": "員工；雇員",
+   "colloc": "employee benefits 員工福利 | employee training 員工培訓",
+   "distinct": "employer 雇主 | staff 全體員工",
+   "ex": [
+    [
+     "The company values every employee equally.",
+     "公司同樣重視每一位員工。"
+    ],
+    [
+     "New employees must attend the orientation session.",
+     "新進員工必須參加迎新會。"
+    ],
+    [
+     "Employee satisfaction is vital to our success.",
+     "員工滿意度對我們的成功至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "progress",
+   "ph": "/ˈprɑːɡres/",
+   "pos": "n. 進步；進展 | v. 進行；進步",
+   "zh": "進步；進展；進行",
+   "colloc": "make progress 取得進展 | steady progress 穩定進展",
+   "distinct": "process 過程 | development 發展",
+   "ex": [
+    [
+     "The project is making steady progress daily.",
+     "該專案每天都有穩定的進展。"
+    ],
+    [
+     "We need to monitor the progress of tasks.",
+     "我們需要監控工作任務的進度。"
+    ],
+    [
+     "She hopes to progress in her career quickly.",
+     "她希望在事業上能快速進步。"
+    ]
+   ]
+  },
+  {
+   "word": "cater",
+   "ph": "/ˈkeɪtər/",
+   "pos": "v. 承辦宴席；迎合需求",
+   "zh": "承辦宴席；迎合需求",
+   "colloc": "cater to the needs 滿足需求 | cater a party 承辦派對",
+   "distinct": "satisfy 滿意 | provide 提供",
+   "ex": [
+    [
+     "Our hotel can cater for large corporate events.",
+     "我們飯店可以承辦大型企業活動。"
+    ],
+    [
+     "We must cater to the changing market trends.",
+     "我們必須迎合不斷變化的市場趨勢。"
+    ],
+    [
+     "They will cater the dinner for the conference.",
+     "他們將為研討會提供餐飲服務。"
+    ]
+   ]
+  },
+  {
+   "word": "concentrate",
+   "ph": "/ˈkɑːnsntreɪt/",
+   "pos": "v. 專注；集中",
+   "zh": "專注；集中",
+   "colloc": "concentrate on 專注於 | concentrate efforts 集中精力",
+   "distinct": "focus 焦點；聚焦 | pay attention 注意",
+   "ex": [
+    [
+     "Please concentrate on your current task list.",
+     "請專注於你目前的任務清單。"
+    ],
+    [
+     "We should concentrate resources on the main project.",
+     "我們應將資源集中在主要專案上。"
+    ],
+    [
+     "It is hard to concentrate in a noisy office.",
+     "在吵雜的辦公室裡很難專心。"
+    ]
+   ]
+  },
+  {
+   "word": "payment",
+   "ph": "/ˈpeɪmənt/",
+   "pos": "n. 付款；支付",
+   "zh": "付款；支付",
+   "colloc": "make a payment 付款 | payment method 付款方式",
+   "distinct": "fee 費用 | salary 薪資",
+   "ex": [
+    [
+     "The payment is due by the end of month.",
+     "付款期限為月底前。"
+    ],
+    [
+     "We accept various methods of payment online.",
+     "我們線上接受多種付款方式。"
+    ],
+    [
+     "Please confirm the payment status with accounting.",
+     "請與會計部門確認付款狀態。"
+    ]
+   ]
+  },
+  {
+   "word": "prepare",
+   "ph": "/prɪˈper/",
+   "pos": "v. 準備；預備",
+   "zh": "準備；預備",
+   "colloc": "prepare for 準備 | prepare a report 準備報告",
+   "distinct": "arrange 安排 | organize 組織",
+   "ex": [
+    [
+     "Did you prepare the documents for the meeting?",
+     "你有為會議準備文件嗎？"
+    ],
+    [
+     "The team is preparing for the upcoming audit.",
+     "團隊正在為即將到來的稽核做準備。"
+    ],
+    [
+     "She started to prepare a detailed financial plan.",
+     "她開始著手準備一份詳細的財務計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "success",
+   "ph": "/səkˈses/",
+   "pos": "n. 成功；成就",
+   "zh": "成功；成就",
+   "colloc": "key to success 成功的關鍵 | achieve success 獲得成功",
+   "distinct": "achievement 成就 | victory 勝利",
+   "ex": [
+    [
+     "Hard work is essential for professional success.",
+     "努力工作對於職業成功至關重要。"
+    ],
+    [
+     "The launch was a huge success for us.",
+     "這次產品發表對我們來說非常成功。"
+    ],
+    [
+     "Their success depends on the new marketing strategy.",
+     "他們的成功取決於新的行銷策略。"
+    ]
+   ]
+  },
+  {
+   "word": "temporary",
+   "ph": "/ˈtempəreri/",
+   "pos": "adj. 暫時的；臨時的",
+   "zh": "暫時的；臨時的",
+   "colloc": "temporary staff 臨時員工 | temporary solution 暫時方案",
+   "distinct": "provisional 臨時的（有條件的） | permanent 永久的",
+   "ex": [
+    [
+     "We hired a temporary assistant for the summer.",
+     "我們為了夏天聘請了一位臨時助理。"
+    ],
+    [
+     "This is only a temporary fix for the bug.",
+     "這只是針對該程式錯誤的暫時修復。"
+    ],
+    [
+     "The office will be closed for temporary repairs.",
+     "辦公室將因臨時維修而暫時關閉。"
+    ]
+   ]
+  },
+  {
+   "word": "construction",
+   "ph": "/kənˈstrʌkʃn/",
+   "pos": "n. 建設；建造；施工",
+   "zh": "建設；建造；施工",
+   "colloc": "under construction 施工中 | construction site 建築工地",
+   "distinct": "structure 結構 | building 建築物",
+   "ex": [
+    [
+     "The new building is currently under construction.",
+     "新大樓目前正在施工中。"
+    ],
+    [
+     "The construction project will take two years.",
+     "這個營建專案將耗時兩年。"
+    ],
+    [
+     "Traffic is delayed due to road construction nearby.",
+     "由於附近的道路施工，交通受到延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "decision",
+   "ph": "/dɪˈsɪʒn/",
+   "pos": "n. 決定；判斷",
+   "zh": "決定；判斷",
+   "colloc": "make a decision 做決定 | reach a decision 達成決定",
+   "distinct": "choice 選擇 | judgment 判斷力",
+   "ex": [
+    [
+     "Management has made a final decision today.",
+     "管理層今天做出了最終決定。"
+    ],
+    [
+     "We need more data before reaching a decision.",
+     "我們需要更多數據才能做出決定。"
+    ],
+    [
+     "The decision will affect our entire department.",
+     "這個決定將會影響我們整個部門。"
+    ]
+   ]
+  },
+  {
+   "word": "development",
+   "ph": "/dɪˈveləpmənt/",
+   "pos": "n. 發展；開發；研發",
+   "zh": "發展；開發；研發",
+   "colloc": "product development 產品開發 | professional development 專業發展",
+   "distinct": "progress 進步 | growth 成長",
+   "ex": [
+    [
+     "The development of new software takes time.",
+     "新軟體的開發需要時間。"
+    ],
+    [
+     "He is responsible for business development tasks.",
+     "他負責業務拓展的工作任務。"
+    ],
+    [
+     "Ongoing training aids in professional development.",
+     "持續的培訓有助於專業發展。"
+    ]
+   ]
+  },
+  {
+   "word": "direct",
+   "ph": "/daɪˈrekt/",
+   "pos": "adj. 直接的 | v. 指導；指揮",
+   "zh": "直接的；指導；指揮",
+   "colloc": "direct contact 直接聯繫 | direct answer 直接的回答",
+   "distinct": "straight 直的 | manage 管理",
+   "ex": [
+    [
+     "Please send your questions to me direct.",
+     "請直接將問題發送給我。"
+    ],
+    [
+     "The manager directs the team every morning.",
+     "經理每天早上指導團隊工作。"
+    ],
+    [
+     "We need a direct route to the warehouse.",
+     "我們需要一條通往倉庫的直接路線。"
+    ]
+   ]
+  },
+  {
+   "word": "handle",
+   "ph": "/ˈhændl/",
+   "pos": "v. 處理；應付 | n. 把手",
+   "zh": "處理；應付；把手",
+   "colloc": "handle a complaint 處理投訴 | handle a situation 處理狀況",
+   "distinct": "deal with 處理 | manage 管理",
+   "ex": [
+    [
+     "She can handle the pressure of deadlines well.",
+     "她能很好地應對截止日期的壓力。"
+    ],
+    [
+     "Please handle this delicate matter with care.",
+     "請小心處理這件棘手的事。"
+    ],
+    [
+     "Our team is trained to handle customer inquiries.",
+     "我們的團隊受過處理客戶諮詢的訓練。"
+    ]
+   ]
+  },
+  {
+   "word": "practice",
+   "ph": "/ˈpræktɪs/",
+   "pos": "n. 練習；慣例 | v. 練習",
+   "zh": "練習；慣例",
+   "colloc": "best practice 最佳實務 | business practice 商業慣例",
+   "distinct": "exercise 運動；習題 | habit 習慣",
+   "ex": [
+    [
+     "Regular practice helps improve your presentation skills.",
+     "規律的練習有助於提升簡報技巧。"
+    ],
+    [
+     "This is a standard business practice in Asia.",
+     "這是亞洲常見的商業慣例。"
+    ],
+    [
+     "We need to practice our pitch before tomorrow.",
+     "我們明天之前需要練習提案簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "provide",
+   "ph": "/prəˈvaɪd/",
+   "pos": "v. 提供；供給",
+   "zh": "提供；供給",
+   "colloc": "provide information 提供資訊 | provide support 提供支援",
+   "distinct": "supply 供應 | offer 主動提供",
+   "ex": [
+    [
+     "The company will provide lunch for all staff.",
+     "公司將為所有員工提供午餐。"
+    ],
+    [
+     "Please provide your email address for updates.",
+     "請提供您的電子郵件地址以接收更新。"
+    ],
+    [
+     "The guide provides clear instructions for users.",
+     "這份指南為使用者提供了清晰的說明。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 67,
+ "theme": "教材片語・進階 650–750 第 3 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "evening news",
+   "ph": "",
+   "pos": "phr. 晚間新聞",
+   "zh": "晚間新聞",
+   "colloc": "watch the evening news 收看晚間新聞 | report the evening news 報導晚間新聞",
+   "distinct": "daily news 日報 | breaking news 即時新聞",
+   "ex": [
+    [
+     "The evening news will start in ten minutes.",
+     "晚間新聞將在十分鐘後開始。"
+    ],
+    [
+     "She discussed the report featured on the evening news.",
+     "她討論了晚間新聞報導的那則報告。"
+    ],
+    [
+     "Make sure to record the evening news for the manager.",
+     "務必幫經理錄下晚間新聞。"
+    ]
+   ]
+  },
+  {
+   "word": "film studio",
+   "ph": "",
+   "pos": "phr. 電影製片廠",
+   "zh": "電影製片廠；攝影棚",
+   "colloc": "visit a film studio 參觀製片廠 | work at a film studio 在製片廠工作",
+   "distinct": "recording studio 錄音室 | art studio 美術工作室",
+   "ex": [
+    [
+     "The actor visited the film studio for a rehearsal.",
+     "那位演員到電影製片廠進行彩排。"
+    ],
+    [
+     "This film studio produces high-quality documentaries annually.",
+     "這家電影製片廠每年製作高品質紀錄片。"
+    ],
+    [
+     "They are scouting locations near the local film studio.",
+     "他們正在當地電影製片廠附近尋找場地。"
+    ]
+   ]
+  },
+  {
+   "word": "free parking",
+   "ph": "",
+   "pos": "phr. 免費停車",
+   "zh": "免費停車",
+   "colloc": "offer free parking 提供免費停車 | limited free parking 有限的免費車位",
+   "distinct": "paid parking 付費停車 | valet parking 代客泊車",
+   "ex": [
+    [
+     "The shopping mall provides free parking for all customers.",
+     "這家購物中心為所有顧客提供免費停車。"
+    ],
+    [
+     "Guests staying at our hotel are entitled to free parking.",
+     "入住我們飯店的房客享有免費停車權益。"
+    ],
+    [
+     "Please note that free parking is available on weekends only.",
+     "請注意僅在週末提供免費停車。"
+    ]
+   ]
+  },
+  {
+   "word": "frying pan",
+   "ph": "",
+   "pos": "phr. 平底鍋",
+   "zh": "平底鍋",
+   "colloc": "use a frying pan 使用平底鍋 | clean the frying pan 清洗平底鍋",
+   "distinct": "saucepan 燉鍋 | baking sheet 烤盤",
+   "ex": [
+    [
+     "Place the frying pan on the stove over medium heat.",
+     "將平底鍋放在爐子上以中火加熱。"
+    ],
+    [
+     "The chef reached for a large frying pan to sauté vegetables.",
+     "主廚拿了一個大平底鍋來炒蔬菜。"
+    ],
+    [
+     "This non-stick frying pan is easy to wash after cooking.",
+     "這款不沾平底鍋烹飪後很容易清洗。"
+    ]
+   ]
+  },
+  {
+   "word": "gas station",
+   "ph": "",
+   "pos": "phr. 加油站",
+   "zh": "加油站",
+   "colloc": "stop at a gas station 在加油站停車 | work at a gas station 在加油站工作",
+   "distinct": "service area 服務區 | charging station 充電站",
+   "ex": [
+    [
+     "We need to stop at the gas station before the highway.",
+     "我們上高速公路前得先在加油站停車。"
+    ],
+    [
+     "The gas station is currently undergoing major renovations.",
+     "該加油站目前正在進行重大整修。"
+    ],
+    [
+     "He bought some snacks at the gas station convenience store.",
+     "他在加油站的便利商店買了一些零食。"
+    ]
+   ]
+  },
+  {
+   "word": "get a phone call",
+   "ph": "",
+   "pos": "phr. 接到電話",
+   "zh": "接到電話",
+   "colloc": "expect to get a phone call 等待一通電話 | get a phone call from a client 接到客戶電話",
+   "distinct": "make a phone call 打電話 | return a phone call 回電",
+   "ex": [
+    [
+     "I expect to get a phone call from HR regarding my application.",
+     "我預計會接到人資關於我申請的電話。"
+    ],
+    [
+     "Did you get a phone call from the regional manager today?",
+     "你今天有接到區域經理的電話嗎？"
+    ],
+    [
+     "She had to leave the meeting to get a phone call.",
+     "她為了接一通電話不得不離開會議。"
+    ]
+   ]
+  },
+  {
+   "word": "get used to",
+   "ph": "",
+   "pos": "phr. 習慣於",
+   "zh": "習慣；適應",
+   "colloc": "get used to the schedule 適應行程 | get used to the new software 習慣新軟體",
+   "distinct": "be used to 已經習慣 | use to 過去曾經",
+   "ex": [
+    [
+     "It takes time to get used to the new office environment.",
+     "適應新的辦公環境需要一些時間。"
+    ],
+    [
+     "Employees are slowly getting used to the updated company policy.",
+     "員工們正在慢慢習慣更新後的公司政策。"
+    ],
+    [
+     "I have finally gotten used to the morning commute time.",
+     "我終於習慣了早上的通勤時間。"
+    ]
+   ]
+  },
+  {
+   "word": "in addition",
+   "ph": "",
+   "pos": "phr. 此外",
+   "zh": "此外；而且",
+   "colloc": "in addition to that 除了那之外 | furthermore, in addition 此外",
+   "distinct": "in addition 此外 | in addition to 除了...之外",
+   "ex": [
+    [
+     "The software is fast; in addition, it is very user-friendly.",
+     "該軟體運行速度快；此外，它也非常易於使用。"
+    ],
+    [
+     "We need more staff; in addition, we need better equipment.",
+     "我們需要更多員工；此外，我們還需要更好的設備。"
+    ],
+    [
+     "The proposal is well-written; in addition, it is cost-effective.",
+     "這份企劃書寫得很好；此外，它具備成本效益。"
+    ]
+   ]
+  },
+  {
+   "word": "in addition to",
+   "ph": "",
+   "pos": "phr. 除...之外",
+   "zh": "除...之外；除了",
+   "colloc": "in addition to the salary 除了薪水 | in addition to the project 除了專案",
+   "distinct": "except for 除了...之外（不包含）| apart from 除了...之外",
+   "ex": [
+    [
+     "In addition to the base salary, we offer performance bonuses.",
+     "除了基本薪資外，我們還提供績效獎金。"
+    ],
+    [
+     "She speaks French in addition to her native language.",
+     "除了母語之外，她還會說法語。"
+    ],
+    [
+     "In addition to the main presentation, we will host a Q&A.",
+     "除了主要簡報外，我們還會舉辦問答環節。"
+    ]
+   ]
+  },
+  {
+   "word": "in case of",
+   "ph": "",
+   "pos": "phr. 如果發生；假使",
+   "zh": "如果發生；萬一",
+   "colloc": "in case of emergency 緊急情況下 | in case of delay 若發生延誤",
+   "distinct": "in case 以防萬一 | in the event of 如果發生",
+   "ex": [
+    [
+     "In case of power failure, please use the emergency stairs.",
+     "如果發生停電，請使用緊急逃生梯。"
+    ],
+    [
+     "Notify the manager in case of any technical problems.",
+     "如果發生任何技術問題，請通知經理。"
+    ],
+    [
+     "Keep this document safe in case of a future audit.",
+     "請妥善保管這份文件，以備日後的審計。"
+    ]
+   ]
+  },
+  {
+   "word": "in order to do",
+   "ph": "",
+   "pos": "phr. 為了做某事",
+   "zh": "為了",
+   "colloc": "in order to succeed 為了成功 | in order to improve 為了改善",
+   "distinct": "so as to do 為了 | for the purpose of 為了",
+   "ex": [
+    [
+     "We must cut costs in order to remain competitive.",
+     "我們必須削減成本以保持競爭力。"
+    ],
+    [
+     "The team worked overtime in order to meet the deadline.",
+     "團隊為了趕上截止期限而加班。"
+    ],
+    [
+     "They invested in training in order to boost productivity.",
+     "他們投資培訓以提升生產力。"
+    ]
+   ]
+  },
+  {
+   "word": "in short",
+   "ph": "",
+   "pos": "phr. 簡而言之",
+   "zh": "簡而言之；總之",
+   "colloc": "in short, the plan failed 簡而言之，計畫失敗了 | to sum up, in short 總結來說",
+   "distinct": "in brief 簡短地 | to be brief 簡單來說",
+   "ex": [
+    [
+     "In short, we need to increase our marketing efforts.",
+     "簡而言之，我們需要加強行銷力道。"
+    ],
+    [
+     "The results were poor; in short, we need a new strategy.",
+     "結果很差；總之，我們需要一個新策略。"
+    ],
+    [
+     "In short, the project was completed ahead of schedule.",
+     "簡而言之，該專案提前完成了。"
+    ]
+   ]
+  },
+  {
+   "word": "in total",
+   "ph": "",
+   "pos": "phr. 總共",
+   "zh": "總共；合計",
+   "colloc": "in total cost 總成本 | a total of 總數為",
+   "distinct": "all in all 總而言之 | on the whole 整體而言",
+   "ex": [
+    [
+     "There were twenty participants in total at the seminar.",
+     "研討會總共有二十位參加者。"
+    ],
+    [
+     "The order will cost five hundred dollars in total.",
+     "這筆訂單總共花費五百美元。"
+    ],
+    [
+     "We have collected fifty survey responses in total so far.",
+     "到目前為止，我們總共收集了五十份調查回覆。"
+    ]
+   ]
+  },
+  {
+   "word": "in use",
+   "ph": "",
+   "pos": "phr. 使用中",
+   "zh": "使用中；在利用",
+   "colloc": "currently in use 目前使用中 | keep it in use 繼續使用",
+   "distinct": "out of use 停止使用 | for use 供使用",
+   "ex": [
+    [
+     "This meeting room is currently in use by the finance team.",
+     "這間會議室目前由財務團隊使用中。"
+    ],
+    [
+     "The old machinery is still in use at the factory.",
+     "那台舊機器目前在工廠仍在使用中。"
+    ],
+    [
+     "Check if the printer is in use before sending files.",
+     "傳送檔案前請確認印表機是否在使用中。"
+    ]
+   ]
+  },
+  {
+   "word": "just for a minute",
+   "ph": "",
+   "pos": "phr. 只要一分鐘",
+   "zh": "只要一分鐘；稍微",
+   "colloc": "wait just for a minute 等一下 | step out just for a minute 離開一分鐘",
+   "distinct": "in a minute 立刻 | every minute 每分鐘",
+   "ex": [
+    [
+     "Could you step outside just for a minute to discuss this?",
+     "你能出來一下談談這個嗎？"
+    ],
+    [
+     "I will be ready to start the presentation just for a minute.",
+     "我只要一分鐘就能準備好開始簡報。"
+    ],
+    [
+     "The manager was away just for a minute to get water.",
+     "經理離開一下去拿水，只需要一分鐘。"
+    ]
+   ]
+  },
+  {
+   "word": "leave a message",
+   "ph": "",
+   "pos": "phr. 留言",
+   "zh": "留言；留口信",
+   "colloc": "leave a message on the machine 在電話留言 | leave a message for the secretary 給秘書留言",
+   "distinct": "send a message 傳送訊息 | write a note 寫便條",
+   "ex": [
+    [
+     "If I am not at my desk, please leave a message.",
+     "如果我不在座位上，請留言給我。"
+    ],
+    [
+     "She decided to leave a message for her supervisor.",
+     "她決定給主管留個口信。"
+    ],
+    [
+     "Please leave a message after the beep on the answering machine.",
+     "請在聽到提示音後於答錄機上留言。"
+    ]
+   ]
+  },
+  {
+   "word": "look after",
+   "ph": "",
+   "pos": "phr. 照顧",
+   "zh": "照顧；照看",
+   "colloc": "look after the business 照看生意 | look after the guest 招待賓客",
+   "distinct": "take care of 處理/照顧 | look for 尋找",
+   "ex": [
+    [
+     "Who will look after the office while you are traveling?",
+     "你出差時誰會負責照看辦公室？"
+    ],
+    [
+     "He was hired to look after the company's financial records.",
+     "他被聘請來負責管理公司的財務紀錄。"
+    ],
+    [
+     "The assistant will look after the clients during the event.",
+     "助理將在活動期間負責接待客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "on display",
+   "ph": "",
+   "pos": "phr. 展示中",
+   "zh": "展示中；陳列",
+   "loc": "put on display 展示 | currently on display 目前展示中",
+   "distinct": "on sale 特價中 | in stock 有庫存",
+   "ex": [
+    [
+     "The new product designs are on display in the lobby.",
+     "新產品設計正在大廳展示中。"
+    ],
+    [
+     "Several rare paintings are on display at the art gallery.",
+     "幾幅稀有畫作正在藝廊陳列展示。"
+    ],
+    [
+     "Are these items currently on display for the customers?",
+     "這些商品目前有在為顧客進行展示嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "on one zone",
+   "ph": "",
+   "pos": "phr. 在某人的區域",
+   "zh": "在區域內",
+   "colloc": "work on one zone 在某區域工作 | stay on one zone 待在區域內",
+   "distinct": "in a zone 在區域中 | out of zone 超出範圍",
+   "ex": [
+    [
+     "Each salesperson is assigned to focus on one zone.",
+     "每位銷售人員都被分配負責專注於一個區域。"
+    ],
+    [
+     "We are currently working on one zone to improve efficiency.",
+     "我們目前正在特定區域工作以提升效率。"
+    ],
+    [
+     "Please ensure all equipment stays on one zone for inventory.",
+     "請確保所有設備都留在同一個區域以便盤點。"
+    ]
+   ]
+  },
+  {
+   "word": "on vacation",
+   "ph": "",
+   "pos": "phr. 度假",
+   "zh": "度假；休假",
+   "colloc": "go on vacation 去度假 | be on vacation 休假中",
+   "distinct": "on leave 請假 | on business 出差",
+   "ex": [
+    [
+     "The department head is currently on vacation until Friday.",
+     "部門主管目前休假直到星期五。"
+    ],
+    [
+     "Many employees choose to go on vacation during the summer.",
+     "許多員工選擇在夏季期間去度假。"
+    ],
+    [
+     "I am planning to be on vacation for two weeks in July.",
+     "我計畫在七月休假兩個星期。"
+    ]
+   ]
+  }
+ ]
+}

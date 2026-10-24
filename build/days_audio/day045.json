@@ -1,0 +1,448 @@
+{
+ "day": 45,
+ "theme": "教材字彙・進階 650–750 第 45 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "often",
+   "ph": "/ˈɔːfn/",
+   "pos": "adv. 經常",
+   "zh": "經常；屢次",
+   "colloc": "more often than not 多半；很有可能 | often enough 相當頻繁",
+   "distinct": "frequently 頻繁地（強調次數多）| usually 通常地（強調習慣性）",
+   "ex": [
+    [
+     "Our managers often meet to discuss sales targets.",
+     "我們的經理經常會面討論銷售目標。"
+    ],
+    [
+     "Clients often request updates on their project status.",
+     "客戶經常要求更新他們的專案進度。"
+    ],
+    [
+     "We do not often see such a large discount.",
+     "我們不常看到這麼大的折扣優惠。"
+    ]
+   ]
+  },
+  {
+   "word": "organ",
+   "ph": "/ˈɔːrɡən/",
+   "pos": "n. 器官；機構",
+   "zh": "器官；組織；機構",
+   "colloc": "human organ 人體器官 | governing organ 管理機構",
+   "distinct": "organization 組織（團體）| agency 代辦處（代理機構）",
+   "ex": [
+    [
+     "The company operates as a non-profit organ for charity.",
+     "該公司作為一個慈善非營利機構運作。"
+    ],
+    [
+     "This foundation is the main organ for public relations.",
+     "這個基金會是主要的公共關係機構。"
+    ],
+    [
+     "Experts discussed the regulation of organ donations.",
+     "專家們討論了器官捐贈的規範。"
+    ]
+   ]
+  },
+  {
+   "word": "pack",
+   "ph": "/pæk/",
+   "pos": "v. 包裝 | n. 包；背包",
+   "zh": "打包；裝箱；包裹",
+   "colloc": "pack up 收拾行李 | pack into 擠進",
+   "distinct": "package 包裝物（指成品）| parcel 包裹（郵寄）",
+   "ex": [
+    [
+     "Please pack the fragile items with extra protection.",
+     "請用額外的保護措施包裝易碎品。"
+    ],
+    [
+     "The shipping team will pack the goods by noon.",
+     "出貨團隊將在中午前打包好貨物。"
+    ],
+    [
+     "We need to pack the samples for the exhibition.",
+     "我們需要將樣品打包送往展覽會場。"
+    ]
+   ]
+  },
+  {
+   "word": "paint",
+   "ph": "/peɪnt/",
+   "pos": "v. 油漆；繪畫 | n. 油漆；塗料",
+   "zh": "油漆；塗料；繪畫",
+   "colloc": "paint a room 粉刷房間 | fresh paint 油漆未乾",
+   "distinct": "dye 染料（用於纖維）| varnish 清漆（用於保護表面）",
+   "ex": [
+    [
+     "We decided to paint the office a lighter color.",
+     "我們決定把辦公室漆成較亮的顏色。"
+    ],
+    [
+     "The maintenance crew will paint the hallway walls.",
+     "維修人員將粉刷走廊的牆壁。"
+    ],
+    [
+     "He used high-quality paint for the commercial building.",
+     "他為這棟商業大樓使用了高品質的塗料。"
+    ]
+   ]
+  },
+  {
+   "word": "painting",
+   "ph": "/ˈpeɪntɪŋ/",
+   "pos": "n. 畫；油畫；繪畫",
+   "zh": "畫；繪畫作品",
+   "colloc": "oil painting 油畫 | hang a painting 掛上一幅畫",
+   "distinct": "drawing 素描（線條為主）| illustration 插畫（用於說明）",
+   "ex": [
+    [
+     "The CEO purchased a painting for the lobby area.",
+     "執行長為大廳區域購買了一幅畫。"
+    ],
+    [
+     "This painting adds a professional look to the office.",
+     "這幅畫為辦公室增添了專業的氣息。"
+    ],
+    [
+     "They display local paintings in the meeting room.",
+     "他們在會議室展示當地的繪畫作品。"
+    ]
+   ]
+  },
+  {
+   "word": "park",
+   "ph": "/pɑːrk/",
+   "pos": "n. 公園；停車場 | v. 停車",
+   "zh": "公園；停車場；停車",
+   "colloc": "park a car 停車 | public park 公園",
+   "distinct": "parking lot 停車場（美式）| car park 停車場（英式）",
+   "ex": [
+    [
+     "Employees can park their cars in the rear lot.",
+     "員工可以將車停在後方的停車場。"
+    ],
+    [
+     "The office is located right across from the park.",
+     "辦公室就位於公園的正對面。"
+    ],
+    [
+     "Visitors must park in the designated guest area.",
+     "訪客必須停在指定的賓客區域。"
+    ]
+   ]
+  },
+  {
+   "word": "passport",
+   "ph": "/ˈpæspɔːrt/",
+   "pos": "n. 護照",
+   "zh": "護照；通行證",
+   "colloc": "valid passport 有效護照 | renew a passport 換發護照",
+   "distinct": "visa 簽證（入境許可）| identity card 身分證",
+   "ex": [
+    [
+     "Please show your passport at the boarding gate.",
+     "請在登機門出示您的護照。"
+    ],
+    [
+     "I need to renew my passport before the trip.",
+     "我在出差前需要換發護照。"
+    ],
+    [
+     "Check the expiration date of your business passport.",
+     "檢查您商務護照的有效期限。"
+    ]
+   ]
+  },
+  {
+   "word": "pilot",
+   "ph": "/ˈpaɪlət/",
+   "pos": "n. 飛行員；領航員 | adj. 試點的",
+   "zh": "飛行員；領航員；試驗性的",
+   "colloc": "pilot program 試驗計畫 | airline pilot 民航機師",
+   "distinct": "captain 機長 | flight attendant 空服員",
+   "ex": [
+    [
+     "The pilot announced the arrival time in Taipei.",
+     "飛行員宣布了抵達台北的時間。"
+    ],
+    [
+     "We are launching a pilot program next month.",
+     "我們下個月將啟動一項試驗計畫。"
+    ],
+    [
+     "The company hired an experienced pilot for cargo.",
+     "公司聘請了一位經驗豐富的貨機飛行員。"
+    ]
+   ]
+  },
+  {
+   "word": "plenty",
+   "ph": "/ˈplenti/",
+   "pos": "pron. 大量；充足 | n. 豐富",
+   "zh": "大量；充足",
+   "colloc": "plenty of time 充裕的時間 | plenty of resources 豐富的資源",
+   "distinct": "many 許多（可數）| much 許多（不可數）",
+   "ex": [
+    [
+     "There is plenty of time to finish the report.",
+     "還有充裕的時間完成這份報告。"
+    ],
+    [
+     "We have plenty of supplies for the busy season.",
+     "我們有充足的供應量來應對旺季。"
+    ],
+    [
+     "The city offers plenty of opportunities for startups.",
+     "這座城市為新創公司提供了大量機會。"
+    ]
+   ]
+  },
+  {
+   "word": "politician",
+   "ph": "/ˌpɑːləˈtɪʃn/",
+   "pos": "n. 政治家；政客",
+   "zh": "政治人物；從政者",
+   "colloc": "local politician 當地政客 | professional politician 職業政客",
+   "distinct": "statesman 政治家（受尊敬的）| diplomat 外交官",
+   "ex": [
+    [
+     "The politician spoke about the new trade policy.",
+     "那位政治人物談論了新的貿易政策。"
+    ],
+    [
+     "Many politicians attended the annual business gala.",
+     "許多政治人物參加了年度商業晚宴。"
+    ],
+    [
+     "The public expects accountability from every politician.",
+     "大眾期待每位政治人物都能負起責任。"
+    ]
+   ]
+  },
+  {
+   "word": "powerful",
+   "ph": "/ˈpaʊərfl/",
+   "pos": "adj. 強大的；有影響力的",
+   "zh": "強大的；有力的；有影響力的",
+   "colloc": "powerful engine 強大的引擎 | powerful tool 有力的工具",
+   "distinct": "strong 強壯的（物理）| influential 有影響力的（社會地位）",
+   "ex": [
+    [
+     "Data analysis is a powerful tool for marketing.",
+     "數據分析是行銷強有力的工具。"
+    ],
+    [
+     "They installed a powerful server for the database.",
+     "他們為資料庫安裝了一台強大的伺服器。"
+    ],
+    [
+     "The CEO gave a powerful speech at the conference.",
+     "執行長在會議上發表了一場震撼人心的演說。"
+    ]
+   ]
+  },
+  {
+   "word": "protect",
+   "ph": "/prəˈtekt/",
+   "pos": "v. 保護；防護",
+   "zh": "保護；保障；防護",
+   "colloc": "protect against 保護免受... | protect interests 保障利益",
+   "distinct": "guard 保衛（監視）| defend 防禦（抵抗攻擊）",
+   "ex": [
+    [
+     "We use encryption to protect sensitive company data.",
+     "我們使用加密來保護敏感的公司數據。"
+    ],
+    [
+     "Insurance policies help protect your business assets.",
+     "保險單有助於保障您的商業資產。"
+    ],
+    [
+     "The contract aims to protect our intellectual property.",
+     "該合約旨在保護我們的智慧財產權。"
+    ]
+   ]
+  },
+  {
+   "word": "rude",
+   "ph": "/ruːd/",
+   "pos": "adj. 無禮的；粗魯的",
+   "zh": "無禮的；粗魯的",
+   "colloc": "rude behavior 無禮的行為 | be rude to 對...無禮",
+   "distinct": "impolite 不禮貌的 | arrogant 傲慢的",
+   "ex": [
+    [
+     "It is considered rude to interrupt during meetings.",
+     "在會議中插嘴被認為是無禮的。"
+    ],
+    [
+     "The customer service representative remained calm despite the rude client.",
+     "儘管客戶很無禮，客服人員依然保持冷靜。"
+    ],
+    [
+     "His rude tone made the negotiation very difficult.",
+     "他無禮的語氣讓協商變得非常困難。"
+    ]
+   ]
+  },
+  {
+   "word": "safe",
+   "ph": "/seɪf/",
+   "pos": "adj. 安全的 | n. 保險箱",
+   "zh": "安全的；保險箱",
+   "colloc": "safe and sound 安然無恙 | keep safe 保持安全",
+   "distinct": "secure 安全的（防禦堅固的）| harmless 無害的",
+   "ex": [
+    [
+     "We need to ensure a safe working environment.",
+     "我們需要確保一個安全的工作環境。"
+    ],
+    [
+     "Please lock the documents in the office safe.",
+     "請將文件鎖在辦公室的保險箱裡。"
+    ],
+    [
+     "The new safety protocols keep our staff safe.",
+     "新的安全規程確保了員工的安全。"
+    ]
+   ]
+  },
+  {
+   "word": "scale",
+   "ph": "/skeɪl/",
+   "pos": "n. 規模；比例；秤 | v. 衡量",
+   "zh": "規模；比例；秤",
+   "colloc": "large-scale 大規模的 | scale of production 生產規模",
+   "distinct": "scope 範圍（活動或知識）| range 範圍（變動幅度）",
+   "ex": [
+    [
+     "The company plans to expand on a global scale.",
+     "公司計畫在全球規模上進行擴張。"
+    ],
+    [
+     "The map was drawn to a very small scale.",
+     "這張地圖是以很小的比例繪製的。"
+    ],
+    [
+     "We need to scale our operations to meet demand.",
+     "我們需要擴大營運規模以應對需求。"
+    ]
+   ]
+  },
+  {
+   "word": "session",
+   "ph": "/ˈseʃn/",
+   "pos": "n. 會議；會期；時段",
+   "zh": "會議；會期；時段",
+   "colloc": "training session 培訓課程 | morning session 上午時段",
+   "distinct": "meeting 會議（強調集會）| conference 大型會議（學術或商業）",
+   "ex": [
+    [
+     "The training session will start at nine o'clock.",
+     "培訓課程將於九點開始。"
+    ],
+    [
+     "We have a Q&A session after the presentation.",
+     "簡報之後我們安排了問答時段。"
+    ],
+    [
+     "The afternoon session covers the new budget plans.",
+     "下午的會議將涵蓋新的預算計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "shape",
+   "ph": "/ʃeɪp/",
+   "pos": "n. 形狀；狀態 | v. 塑造",
+   "zh": "形狀；狀態；塑造",
+   "colloc": "in good shape 狀態良好 | take shape 成形",
+   "distinct": "form 外型（強調結構）| figure 身材（人體輪廓）",
+   "ex": [
+    [
+     "The project is starting to take a concrete shape.",
+     "這個專案正開始具體成形。"
+    ],
+    [
+     "These new policies will shape the future of our firm.",
+     "這些新政策將塑造我們公司的未來。"
+    ],
+    [
+     "The machine is designed in a rectangular shape.",
+     "這台機器被設計成矩形的形狀。"
+    ]
+   ]
+  },
+  {
+   "word": "sight",
+   "ph": "/saɪt/",
+   "pos": "n. 視力；景象；景點",
+   "zh": "視力；景象；景點",
+   "colloc": "out of sight 看不見 | tourist sight 觀光景點",
+   "distinct": "vision 視力（能力）| view 風景（從特定位置看）",
+   "ex": [
+    [
+     "The famous landmark is a must-see sight for tourists.",
+     "這個著名地標是遊客必看的景點。"
+    ],
+    [
+     "He kept the important files within his sight.",
+     "他將重要文件保持在視線範圍內。"
+    ],
+    [
+     "The beautiful city sight attracted many new investors.",
+     "美麗的城市景象吸引了許多新投資者。"
+    ]
+   ]
+  },
+  {
+   "word": "soon",
+   "ph": "/suːn/",
+   "pos": "adv. 不久；很快",
+   "zh": "很快；不久",
+   "colloc": "sooner or later 遲早 | as soon as possible 盡快",
+   "distinct": "shortly 立刻（強調時間間隔短）| early 早地",
+   "ex": [
+    [
+     "We expect to receive the shipment very soon.",
+     "我們預計很快會收到貨物。"
+    ],
+    [
+     "Please return the signed contract as soon as possible.",
+     "請盡快歸還簽署後的合約。"
+    ],
+    [
+     "The board will announce the new CEO soon.",
+     "董事會很快就會宣布新任執行長。"
+    ]
+   ]
+  },
+  {
+   "word": "space",
+   "ph": "/speɪs/",
+   "pos": "n. 空間；空地 | v. 隔開",
+   "zh": "空間；空地；太空",
+   "colloc": "office space 辦公空間 | parking space 停車位",
+   "distinct": "room 房間；餘地（指可利用的空間）| area 地區；面積",
+   "ex": [
+    [
+     "Our office needs more space for new employees.",
+     "我們的辦公室需要更多空間給新進員工。"
+    ],
+    [
+     "There is limited parking space in the city center.",
+     "市中心的停車空間很有限。"
+    ],
+    [
+     "Please space the items evenly on the shelf.",
+     "請將物品平均間隔放置在架子上。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 4,
+ "theme": "教材字彙・基礎 550–650 第 4 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "aware",
+   "ph": "/əˈwer/",
+   "pos": "adj. 知道的；意識到的",
+   "zh": "知道的；意識到的",
+   "colloc": "be aware of 意識到 | remain aware 保持察覺",
+   "distinct": "conscious 有知覺的 | alert 警覺的",
+   "ex": [
+    [
+     "Are you aware of the new company policy?",
+     "你意識到公司的新政策了嗎？"
+    ],
+    [
+     "Management is aware of the potential risks.",
+     "管理層已知悉潛在的風險。"
+    ],
+    [
+     "He was not aware of the deadline change.",
+     "他並不知道截止日期的變更。"
+    ]
+   ]
+  },
+  {
+   "word": "brief",
+   "ph": "/briːf/",
+   "pos": "adj. 簡短的 | v. 向...簡報",
+   "zh": "簡短的；簡報",
+   "colloc": "brief meeting 簡短會議 | brief overview 概要",
+   "distinct": "short 短的（時間/長度）| concise 簡潔的（精煉）",
+   "ex": [
+    [
+     "The manager gave a brief summary of the project.",
+     "經理對專案做了簡短摘要。"
+    ],
+    [
+     "Please brief the team on the new software.",
+     "請向團隊簡報新軟體的使用方式。"
+    ],
+    [
+     "The briefing lasted only ten minutes.",
+     "簡報只持續了十分鐘。"
+    ]
+   ]
+  },
+  {
+   "word": "code",
+   "ph": "/koʊd/",
+   "pos": "n. 代碼；準則 | v. 編碼",
+   "zh": "代碼；準則；編碼",
+   "colloc": "dress code 服裝儀容規定 | access code 存取碼",
+   "distinct": "rule 規則 | regulation 法規",
+   "ex": [
+    [
+     "All employees must follow the dress code.",
+     "所有員工都必須遵守服裝規定。"
+    ],
+    [
+     "Enter the access code to open the door.",
+     "輸入存取碼以打開門。"
+    ],
+    [
+     "The software team is writing the code.",
+     "軟體團隊正在撰寫程式碼。"
+    ]
+   ]
+  },
+  {
+   "word": "combined",
+   "ph": "/kəmˈbaɪnd/",
+   "pos": "adj. 聯合的；組合的",
+   "zh": "聯合的；組合的",
+   "colloc": "combined effort 共同努力 | combined total 總計",
+   "distinct": "united 團結的 | joint 共同的",
+   "ex": [
+    [
+     "The combined revenue exceeded our target.",
+     "總營收超過了我們的目標。"
+    ],
+    [
+     "Our combined experience covers many industries.",
+     "我們合計的經驗涵蓋許多產業。"
+    ],
+    [
+     "They achieved success through combined efforts.",
+     "他們透過共同努力獲得了成功。"
+    ]
+   ]
+  },
+  {
+   "word": "comparison",
+   "ph": "/kəmˈpærɪsən/",
+   "pos": "n. 比較；對照",
+   "zh": "比較；對照",
+   "colloc": "in comparison to 與...相較 | make a comparison 進行比較",
+   "distinct": "contrast 對比（差異）| parallel 平行（類似）",
+   "ex": [
+    [
+     "The report offers a comparison of these models.",
+     "該報告提供了這些型號的比較。"
+    ],
+    [
+     "In comparison to last year, sales increased.",
+     "與去年相較，銷售額有所增長。"
+    ],
+    [
+     "Let us make a comparison of the costs.",
+     "讓我們進行成本的比較。"
+    ]
+   ]
+  },
+  {
+   "word": "competition",
+   "ph": "/ˌkɑːmpəˈtɪʃn/",
+   "pos": "n. 競爭；競賽",
+   "zh": "競爭；競賽",
+   "colloc": "fierce competition 激烈競爭 | face competition 面臨競爭",
+   "distinct": "contest 比賽（特定活動）| rivalry 對抗關係",
+   "ex": [
+    [
+     "We face strong competition in this market.",
+     "我們在此市場面臨強大的競爭。"
+    ],
+    [
+     "The company thrives under intense competition.",
+     "公司在激烈的競爭下蓬勃發展。"
+    ],
+    [
+     "He entered the competition for a prize.",
+     "他參加了競賽以爭取獎品。"
+    ]
+   ]
+  },
+  {
+   "word": "concern",
+   "ph": "/kənˈsɜːrn/",
+   "pos": "n. 關切；擔憂 | v. 涉及；影響",
+   "zh": "關切；擔憂；涉及",
+   "colloc": "express concern 表達擔憂 | major concern 主要疑慮",
+   "distinct": "worry 煩惱 | anxiety 焦慮",
+   "ex": [
+    [
+     "The safety issue is our primary concern.",
+     "安全問題是我們主要的關切事項。"
+    ],
+    [
+     "This policy change concerns all departments.",
+     "此政策變更涉及所有部門。"
+    ],
+    [
+     "Investors expressed concern about the results.",
+     "投資人對結果表達了擔憂。"
+    ]
+   ]
+  },
+  {
+   "word": "concerned",
+   "ph": "/kənˈsɜːrnd/",
+   "pos": "adj. 擔心的；相關的",
+   "zh": "擔心的；相關的",
+   "colloc": "be concerned about 對...感到擔心 | as far as I am concerned 就我而言",
+   "distinct": "worried 擔憂的 | involved 相關的",
+   "ex": [
+    [
+     "She is concerned about the project timeline.",
+     "她對專案時程感到擔心。"
+    ],
+    [
+     "All concerned parties must sign the contract.",
+     "所有相關方都必須簽署合約。"
+    ],
+    [
+     "We are concerned about the current budget.",
+     "我們對目前的預算感到憂心。"
+    ]
+   ]
+  },
+  {
+   "word": "conduct",
+   "ph": "/ˈkɑːndʌkt/",
+   "pos": "n. 行為；品行 | v. 執行；進行",
+   "zh": "行為；執行；進行",
+   "colloc": "conduct research 進行研究 | conduct business 進行業務",
+   "distinct": "behavior 行為（日常）| perform 執行（任務）",
+   "ex": [
+    [
+     "They will conduct a survey next week.",
+     "他們下週將進行一項調查。"
+    ],
+    [
+     "His professional conduct is highly valued.",
+     "他的專業行為受到高度重視。"
+    ],
+    [
+     "The firm conducts business globally.",
+     "該公司在全球經營業務。"
+    ]
+   ]
+  },
+  {
+   "word": "confidence",
+   "ph": "/ˈkɑːnfɪdəns/",
+   "pos": "n. 自信；信任",
+   "zh": "自信；信任",
+   "colloc": "have confidence in 對...有信心 | build confidence 建立信心",
+   "distinct": "trust 信任 | faith 信念",
+   "ex": [
+    [
+     "I have full confidence in your abilities.",
+     "我對你的能力有十足的信心。"
+    ],
+    [
+     "The market shows growing confidence in us.",
+     "市場對我們展現了日益增長的信心。"
+    ],
+    [
+     "Building confidence takes time and effort.",
+     "建立信心需要時間與努力。"
+    ]
+   ]
+  },
+  {
+   "word": "consider",
+   "ph": "/kənˈsɪdər/",
+   "pos": "v. 考慮；認為",
+   "zh": "考慮；認為",
+   "colloc": "consideration 考慮 | consider doing 考慮做某事",
+   "distinct": "think 想 | contemplate 深思",
+   "ex": [
+    [
+     "We should consider all available options carefully.",
+     "我們應該仔細考慮所有可行的選項。"
+    ],
+    [
+     "They are considering hiring more staff.",
+     "他們正在考慮僱用更多員工。"
+    ],
+    [
+     "Please consider our proposal for the project.",
+     "請考慮我們對該專案的提案。"
+    ]
+   ]
+  },
+  {
+   "word": "contact",
+   "ph": "/ˈkɑːntækt/",
+   "pos": "n. 接觸；聯絡人 | v. 聯絡",
+   "zh": "接觸；聯絡人；聯絡",
+   "colloc": "make contact 取得聯繫 | point of contact 聯絡窗口",
+   "distinct": "connection 連結 | communication 溝通",
+   "ex": [
+    [
+     "Please contact the office for assistance.",
+     "請聯繫辦公室以尋求協助。"
+    ],
+    [
+     "He is my main contact at the company.",
+     "他是我在該公司的主要聯絡人。"
+    ],
+    [
+     "We lost contact with the supplier yesterday.",
+     "我們昨天與供應商失聯了。"
+    ]
+   ]
+  },
+  {
+   "word": "current",
+   "ph": "/ˈkɜːrənt/",
+   "pos": "adj. 現今的；通用的 | n. 電流；趨勢",
+   "zh": "現今的；通用的；趨勢",
+   "colloc": "current status 現況 | current market 目前市場",
+   "distinct": "present 現在的 | modern 現代的",
+   "ex": [
+    [
+     "What is the current status of the order?",
+     "訂單的現況如何？"
+    ],
+    [
+     "The current trend favors sustainable products.",
+     "目前的趨勢偏好永續性產品。"
+    ],
+    [
+     "Please update your current mailing address.",
+     "請更新您目前的通訊地址。"
+    ]
+   ]
+  },
+  {
+   "word": "customer",
+   "ph": "/ˈkʌstəmər/",
+   "pos": "n. 顧客；客戶",
+   "zh": "顧客；客戶",
+   "colloc": "customer service 客服 | customer satisfaction 顧客滿意度",
+   "distinct": "client 客戶（專業服務）| consumer 消費者",
+   "ex": [
+    [
+     "Providing great customer service is essential.",
+     "提供優質的顧客服務至關重要。"
+    ],
+    [
+     "We aim to increase customer satisfaction.",
+     "我們的目標是提高顧客滿意度。"
+    ],
+    [
+     "The customer requested a full refund.",
+     "顧客要求全額退款。"
+    ]
+   ]
+  },
+  {
+   "word": "develop",
+   "ph": "/dɪˈveləp/",
+   "pos": "v. 開發；發展",
+   "zh": "開發；發展",
+   "colloc": "develop a product 開發產品 | develop skills 培養技能",
+   "distinct": "create 創造 | evolve 演化",
+   "ex": [
+    [
+     "The team is developing a new app.",
+     "團隊正在開發一個新的應用程式。"
+    ],
+    [
+     "You need to develop your leadership skills.",
+     "你需要培養你的領導技能。"
+    ],
+    [
+     "The market is developing quite rapidly.",
+     "市場正在快速發展。"
+    ]
+   ]
+  },
+  {
+   "word": "device",
+   "ph": "/dɪˈvaɪs/",
+   "pos": "n. 裝置；設備",
+   "zh": "裝置；設備",
+   "colloc": "mobile device 行動裝置 | storage device 儲存裝置",
+   "distinct": "machine 機器 | equipment 設備（總稱）",
+   "ex": [
+    [
+     "This device is compatible with all systems.",
+     "此裝置與所有系統相容。"
+    ],
+    [
+     "Connect the device to your computer first.",
+     "先將裝置連接到你的電腦。"
+    ],
+    [
+     "We use a security device for data.",
+     "我們使用一種安全裝置來保護資料。"
+    ]
+   ]
+  },
+  {
+   "word": "directly",
+   "ph": "/dəˈrektli/",
+   "pos": "adv. 直接地；坦率地",
+   "zh": "直接地；坦率地",
+   "colloc": "directly related 直接相關 | directly address 直接處理",
+   "distinct": "straight 直直地 | frankly 坦率地",
+   "ex": [
+    [
+     "Please report directly to the director.",
+     "請直接向總監報告。"
+    ],
+    [
+     "This issue is directly related to sales.",
+     "此問題與銷售額有直接關聯。"
+    ],
+    [
+     "We need to address the problem directly.",
+     "我們需要直接處理這個問題。"
+    ]
+   ]
+  },
+  {
+   "word": "disturbing",
+   "ph": "/dɪˈstɜːrbɪŋ/",
+   "pos": "adj. 令人不安的；打擾的",
+   "zh": "令人不安的；打擾的",
+   "colloc": "disturbing news 令人不安的消息 | disturbing trend 令人擔憂的趨勢",
+   "distinct": "annoying 惱人的 | upsetting 難過的",
+   "ex": [
+    [
+     "The report contained some disturbing news.",
+     "該報告包含了一些令人不安的消息。"
+    ],
+    [
+     "It is disturbing that sales are down.",
+     "銷售額下降的情況令人不安。"
+    ],
+    [
+     "He found the constant noise very disturbing.",
+     "他覺得持續的噪音非常擾人。"
+    ]
+   ]
+  },
+  {
+   "word": "ease",
+   "ph": "/iːz/",
+   "pos": "n. 容易；舒適 | v. 減輕；緩解",
+   "zh": "容易；舒適；減輕",
+   "colloc": "with ease 輕鬆地 | ease of use 易用性",
+   "distinct": "comfort 舒適 | relief 寬慰",
+   "ex": [
+    [
+     "The software is designed for ease of use.",
+     "該軟體是為了易用性而設計的。"
+    ],
+    [
+     "New policies will ease the financial burden.",
+     "新政策將減輕財務負擔。"
+    ],
+    [
+     "He passed the exam with great ease.",
+     "他很輕鬆地通過了考試。"
+    ]
+   ]
+  },
+  {
+   "word": "easily",
+   "ph": "/ˈiːzəli/",
+   "pos": "adv. 容易地；輕鬆地",
+   "zh": "容易地；輕鬆地",
+   "colloc": "easily accessible 容易取得的 | easily identified 容易辨識的",
+   "distinct": "simply 簡單地 | effortlessly 不費力地",
+   "ex": [
+    [
+     "You can easily find the file online.",
+     "你可以輕鬆地在線上找到檔案。"
+    ],
+    [
+     "The new model is easily identified.",
+     "新款式很容易辨識。"
+    ],
+    [
+     "We can easily reach the goal today.",
+     "我們今天可以輕鬆達成目標。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 30,
+ "theme": "教材字彙・基礎 550–650 第 30 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "change",
+   "ph": "/tʃeɪndʒ/",
+   "pos": "n. 零錢；變化 | v. 更改",
+   "zh": "零錢；變化；更改",
+   "colloc": "small change 小額零錢 | make a change 做出改變",
+   "distinct": "exchange 交換 | alter 修改",
+   "ex": [
+    [
+     "Do you have any change for the vending machine?",
+     "你有投幣販賣機需要的零錢嗎？"
+    ],
+    [
+     "We need to change the meeting room reservation.",
+     "我們需要更改會議室的預約。"
+    ],
+    [
+     "Market trends are subject to constant change.",
+     "市場趨勢隨時都在變化。"
+    ]
+   ]
+  },
+  {
+   "word": "collect",
+   "ph": "/kəˈlekt/",
+   "pos": "v. 收集；領取",
+   "zh": "收集；領取；募集",
+   "colloc": "collect data 收集資料 | collect a package 領取包裹",
+   "distinct": "gather 聚集 | pick up 接送；領取",
+   "ex": [
+    [
+     "Please collect your badges at the reception desk.",
+     "請至接待櫃檯領取識別證。"
+    ],
+    [
+     "We are collecting feedback from our clients.",
+     "我們正在收集客戶的意見回饋。"
+    ],
+    [
+     "The company will collect donations for charity.",
+     "公司將為慈善機構募集捐款。"
+    ]
+   ]
+  },
+  {
+   "word": "commission",
+   "ph": "/kəˈmɪʃn/",
+   "pos": "n. 佣金；委員會 | v. 委任",
+   "zh": "佣金；委員會；委任",
+   "colloc": "earn a commission 賺取佣金 | set up a commission 成立委員會",
+   "distinct": "fee 費用 | committee 委員會（成員）",
+   "ex": [
+    [
+     "Sales staff earn a commission on every deal.",
+     "業務人員每完成一筆交易都有佣金。"
+    ],
+    [
+     "The government commissioned a study on traffic.",
+     "政府委任進行一項交通研究。"
+    ],
+    [
+     "She serves on the planning commission.",
+     "她在規劃委員會任職。"
+    ]
+   ]
+  },
+  {
+   "word": "confuse",
+   "ph": "/kənˈfjuːz/",
+   "pos": "v. 使困惑；混淆",
+   "zh": "使困惑；混淆",
+   "colloc": "confuse A with B 把A與B搞混 | be confused by 對...感到困惑",
+   "distinct": "puzzle 使難倒 | mix up 搞混",
+   "ex": [
+    [
+     "The new tax regulations confused many employees.",
+     "新的稅務規定讓許多員工感到困惑。"
+    ],
+    [
+     "Don't confuse the two project proposals.",
+     "不要把這兩份專案提案搞混了。"
+    ],
+    [
+     "I was confused by the complicated instructions.",
+     "我被複雜的說明書弄糊塗了。"
+    ]
+   ]
+  },
+  {
+   "word": "determine",
+   "ph": "/dɪˈtɜːrmɪn/",
+   "pos": "v. 決定；確定",
+   "zh": "決定；確定；查明",
+   "colloc": "determine the cause 確定原因 | determined to do 決心做某事",
+   "distinct": "decide 決定 | identify 識別",
+   "ex": [
+    [
+     "Market demand will determine the product price.",
+     "市場需求將決定產品價格。"
+    ],
+    [
+     "We must determine the cause of the system error.",
+     "我們必須查明系統錯誤的原因。"
+    ],
+    [
+     "Management is trying to determine the project timeline.",
+     "管理層正試圖確定專案時程。"
+    ]
+   ]
+  },
+  {
+   "word": "early",
+   "ph": "/ˈɜːrli/",
+   "pos": "adj. 早期的 | adv. 提早",
+   "zh": "早期的；提早",
+   "colloc": "early bird 早起的人 | early stage 早期階段",
+   "distinct": "soon 不久後 | beforehand 事先",
+   "ex": [
+    [
+     "Please arrive early for the board meeting.",
+     "請提早出席董事會議。"
+    ],
+    [
+     "This is just the early stage of development.",
+     "這只是開發的早期階段。"
+    ],
+    [
+     "They finished the construction project early.",
+     "他們提早完成了施工專案。"
+    ]
+   ]
+  },
+  {
+   "word": "encouraging",
+   "ph": "/ɪnˈkɜːrɪdʒɪŋ/",
+   "pos": "adj. 令人鼓舞的",
+   "zh": "令人鼓舞的；有希望的",
+   "colloc": "encouraging news 令人振奮的消息 | show encouraging signs 顯示樂觀跡象",
+   "distinct": "hopeful 充滿希望的 | positive 正面的",
+   "ex": [
+    [
+     "The sales results for this quarter are encouraging.",
+     "本季的銷售業績令人鼓舞。"
+    ],
+    [
+     "We received encouraging feedback from the focus group.",
+     "我們從焦點小組獲得了正面的回饋。"
+    ],
+    [
+     "It is encouraging to see such high participation.",
+     "看到如此高的參與度令人感到振奮。"
+    ]
+   ]
+  },
+  {
+   "word": "entitle",
+   "ph": "/ɪnˈtaɪtl/",
+   "pos": "v. 給予權利；命名",
+   "zh": "給予權利；符合資格；命名",
+   "colloc": "be entitled to 有權享有 | entitle someone to do 賦予某人做...的權利",
+   "distinct": "qualify 取得資格 | name 命名",
+   "ex": [
+    [
+     "This ticket entitles you to a free meal.",
+     "這張票讓你有權享用免費餐點。"
+    ],
+    [
+     "All employees are entitled to annual leave.",
+     "所有員工都有權享有年假。"
+    ],
+    [
+     "The book is entitled 'Modern Business Strategies'.",
+     "這本書的書名為《現代商業策略》。"
+    ]
+   ]
+  },
+  {
+   "word": "entry",
+   "ph": "/ˈentri/",
+   "pos": "n. 進入；登記；參賽項目",
+   "zh": "進入；登記；入口",
+   "colloc": "data entry 資料輸入 | entry level 入門級",
+   "distinct": "entrance 入口 | access 使用權",
+   "ex": [
+    [
+     "She works in the data entry department.",
+     "她在資料輸入部門工作。"
+    ],
+    [
+     "The company is looking for an entry-level assistant.",
+     "公司正在招募入門級助理。"
+    ],
+    [
+     "Please register your entry at the front desk.",
+     "請在櫃檯登記您的入場資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "experienced",
+   "ph": "/ɪkˈspɪriənst/",
+   "pos": "adj. 有經驗的；熟練的",
+   "zh": "有經驗的；熟練的",
+   "colloc": "highly experienced 非常有經驗 | experienced in 擅長於",
+   "distinct": "expert 專家的 | skillful 技巧嫻熟的",
+   "ex": [
+    [
+     "We need an experienced manager for this project.",
+     "我們需要一位有經驗的經理來負責此專案。"
+    ],
+    [
+     "She is experienced in international trade.",
+     "她在國際貿易方面經驗豐富。"
+    ],
+    [
+     "The team is led by experienced professionals.",
+     "該團隊由資深專業人士領導。"
+    ]
+   ]
+  },
+  {
+   "word": "fairly",
+   "ph": "/ˈferli/",
+   "pos": "adv. 相當地；公平地",
+   "zh": "相當地；公平地",
+   "colloc": "fairly common 相當常見 | treat fairly 公平對待",
+   "distinct": "quite 相當 | justly 公正地",
+   "ex": [
+    [
+     "The new policy is fairly easy to understand.",
+     "新政策相當容易理解。"
+    ],
+    [
+     "Management must treat all employees fairly.",
+     "管理層必須公平對待所有員工。"
+    ],
+    [
+     "It is fairly cold in the office today.",
+     "辦公室今天相當冷。"
+    ]
+   ]
+  },
+  {
+   "word": "following",
+   "ph": "/ˈfɑːloʊɪŋ/",
+   "pos": "adj. 下列的；隨後的 | prep. 在...之後",
+   "zh": "下列的；隨後的；在...之後",
+   "colloc": "the following day 次日 | following the meeting 會後",
+   "distinct": "next 下一個 | after 在...之後",
+   "ex": [
+    [
+     "Please review the following documents.",
+     "請審閱下列文件。"
+    ],
+    [
+     "Following the meeting, we had a quick lunch.",
+     "會議結束後，我們簡單吃了午餐。"
+    ],
+    [
+     "I will update you on the following Monday.",
+     "我將在下個星期一向您更新狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "instruction",
+   "ph": "/ɪnˈstrʌkʃn/",
+   "pos": "n. 指示；說明書",
+   "zh": "指示；說明書；教導",
+   "colloc": "follow instructions 遵守指示 | clear instructions 明確的說明",
+   "distinct": "direction 方向；指引 | guidance 指導",
+   "ex": [
+    [
+     "Please read the instruction manual carefully.",
+     "請仔細閱讀使用說明書。"
+    ],
+    [
+     "He gave clear instructions on how to proceed.",
+     "他對如何進行提供了明確的指示。"
+    ],
+    [
+     "The software installation requires special instructions.",
+     "軟體安裝需要特別的說明。"
+    ]
+   ]
+  },
+  {
+   "word": "involved",
+   "ph": "/ɪnˈvɑːlvd/",
+   "pos": "adj. 有關的；參與的",
+   "zh": "有關的；參與的；複雜的",
+   "colloc": "be involved in 參與 | get involved 投入",
+   "distinct": "participating 參加的 | complicated 複雜的",
+   "ex": [
+    [
+     "Everyone involved in the project must attend.",
+     "所有參與該專案的人員都必須出席。"
+    ],
+    [
+     "He is heavily involved in local community work.",
+     "他深度參與當地社區工作。"
+    ],
+    [
+     "There are many factors involved in this decision.",
+     "這項決定涉及許多因素。"
+    ]
+   ]
+  },
+  {
+   "word": "place",
+   "ph": "/pleɪs/",
+   "pos": "n. 地點；職位 | v. 放置；下訂單",
+   "zh": "地點；放置；下訂單",
+   "colloc": "place an order 下訂單 | in place 在適當位置",
+   "distinct": "location 地點 | position 職位",
+   "ex": [
+    [
+     "We would like to place an order for ten units.",
+     "我們想要訂購十個單位。"
+    ],
+    [
+     "Everything is in place for the conference.",
+     "會議的一切準備就緒。"
+    ],
+    [
+     "Please place the document on my desk.",
+     "請將文件放在我的桌上。"
+    ]
+   ]
+  },
+  {
+   "word": "popular",
+   "ph": "/ˈpɑːpjələr/",
+   "pos": "adj. 受歡迎的；大眾的",
+   "zh": "受歡迎的；大眾的",
+   "colloc": "popular with 受...歡迎 | popular demand 大眾需求",
+   "distinct": "famous 有名的 | trendy 流行的",
+   "ex": [
+    [
+     "This software is very popular among small businesses.",
+     "這款軟體在小型企業中非常受歡迎。"
+    ],
+    [
+     "It is a popular choice for business travelers.",
+     "這是商務旅客的熱門選擇。"
+    ],
+    [
+     "The store is popular for its high-quality service.",
+     "這家店以優質服務而聞名。"
+    ]
+   ]
+  },
+  {
+   "word": "promising",
+   "ph": "/ˈprɑːmɪsɪŋ/",
+   "pos": "adj. 有前途的；有希望的",
+   "zh": "有前途的；有希望的",
+   "colloc": "promising career 有前途的職業 | promising candidate 有潛力的人選",
+   "distinct": "hopeful 滿懷希望的 | potential 潛在的",
+   "ex": [
+    [
+     "The new recruit is a very promising candidate.",
+     "這位新進人員是非常有潛力的人選。"
+    ],
+    [
+     "We see promising growth in the Asian market.",
+     "我們在亞洲市場看到了有希望的成長。"
+    ],
+    [
+     "He has a promising career ahead of him.",
+     "他有著前途無量的職涯。"
+    ]
+   ]
+  },
+  {
+   "word": "property",
+   "ph": "/ˈprɑːpərti/",
+   "pos": "n. 財產；房地產",
+   "zh": "財產；房地產；特性",
+   "colloc": "commercial property 商業地產 | private property 私人財產",
+   "distinct": "asset 資產 | real estate 不動產",
+   "ex": [
+    [
+     "The company owns a lot of property in the city.",
+     "公司在市區擁有許多房地產。"
+    ],
+    [
+     "Please do not leave your personal property unattended.",
+     "請勿讓您的個人物品無人看管。"
+    ],
+    [
+     "We are looking to invest in commercial property.",
+     "我們正在尋求投資商業地產。"
+    ]
+   ]
+  },
+  {
+   "word": "revised",
+   "ph": "/rɪˈvaɪzd/",
+   "pos": "adj. 修訂過的",
+   "zh": "修訂過的；修改後的",
+   "colloc": "revised version 修訂版本 | revised budget 修改後的預算",
+   "distinct": "updated 更新的 | edited 編輯過的",
+   "ex": [
+    [
+     "Please submit the revised draft by tomorrow.",
+     "請在明天前提交修訂後的草稿。"
+    ],
+    [
+     "The revised schedule will be sent shortly.",
+     "修訂後的行程表稍後會發送。"
+    ],
+    [
+     "We reviewed the revised agreement yesterday.",
+     "我們昨天審閱了修改後的合約。"
+    ]
+   ]
+  },
+  {
+   "word": "seating",
+   "ph": "/ˈsiːtɪŋ/",
+   "pos": "n. 座位安排；座位",
+   "zh": "座位安排；座位",
+   "colloc": "seating capacity 座位數 | seating arrangement 座位安排",
+   "distinct": "seat 座位 | chair 椅子",
+   "ex": [
+    [
+     "The venue has a seating capacity of five hundred.",
+     "該場地有五百個座位。"
+    ],
+    [
+     "Please check the seating chart for your name.",
+     "請查看座位表找您的名字。"
+    ],
+    [
+     "We need to change the seating arrangement for guests.",
+     "我們需要調整客人的座位安排。"
+    ]
+   ]
+  }
+ ]
+}

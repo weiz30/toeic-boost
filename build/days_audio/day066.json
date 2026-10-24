@@ -1,0 +1,448 @@
+{
+ "day": 66,
+ "theme": "教材片語・進階 650–750 第 2 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "this regard",
+   "ph": "",
+   "pos": "phr. 關於這一點",
+   "zh": "關於這一點；就此而言",
+   "colloc": "in this regard 在這方面 | with regard to 關於",
+   "distinct": "in this respect 在這方面 | as for... 至於...",
+   "ex": [
+    [
+     "We have no information in this regard.",
+     "我們關於這一點沒有任何資訊。"
+    ],
+    [
+     "Please advise us in this regard immediately.",
+     "請就此事盡快給予我們建議。"
+    ],
+    [
+     "No further action is needed in this regard.",
+     "關於這一點無需採取進一步行動。"
+    ]
+   ]
+  },
+  {
+   "word": "find out",
+   "ph": "",
+   "pos": "phr. 找出；發現",
+   "zh": "找出；發現；查明",
+   "colloc": "find out the truth 找出真相 | find out information 查明資訊",
+   "distinct": "discover 發現（本來就存在） | figure out 理解；想出解決方法",
+   "ex": [
+    [
+     "I will find out when the flight arrives.",
+     "我會查明班機抵達的時間。"
+    ],
+    [
+     "She wants to find out about our policy.",
+     "她想了解我們公司的政策。"
+    ],
+    [
+     "Management needs to find out the cause of delay.",
+     "管理層需要查明延誤的原因。"
+    ]
+   ]
+  },
+  {
+   "word": "clean up",
+   "ph": "",
+   "pos": "phr. 清理；整頓",
+   "zh": "清理；打掃；整頓",
+   "colloc": "clean up the office 清理辦公室 | clean up the mess 清理混亂",
+   "distinct": "clear up 解釋清楚；消除誤會 | tidy up 收拾；整理",
+   "ex": [
+    [
+     "Everyone should help to clean up the pantry.",
+     "每個人都應該幫忙清理茶水間。"
+    ],
+    [
+     "We need to clean up the data before analysis.",
+     "分析前我們需要先整頓資料。"
+    ],
+    [
+     "Staff members were asked to clean up their desks.",
+     "員工被要求清理各自的辦公桌。"
+    ]
+   ]
+  },
+  {
+   "word": "first class",
+   "ph": "",
+   "pos": "phr. 頭等；一流",
+   "zh": "頭等艙；一流的；最優質的",
+   "colloc": "first class service 一流的服務 | first class ticket 頭等艙票",
+   "distinct": "top-notch 頂尖的 | premium 高級的",
+   "ex": [
+    [
+     "She booked a first class seat for the flight.",
+     "她預訂了飛行旅程的頭等艙座位。"
+    ],
+    [
+     "The hotel is known for its first class service.",
+     "這家飯店以其一流的服務聞名。"
+    ],
+    [
+     "We provide first class support to our clients.",
+     "我們提供客戶一流的支援服務。"
+    ]
+   ]
+  },
+  {
+   "word": "right away",
+   "ph": "",
+   "pos": "phr. 立刻；馬上",
+   "zh": "立刻；馬上",
+   "colloc": "do something right away 立刻做某事 | need it right away 急需",
+   "distinct": "at once 立即 | immediately 立即",
+   "ex": [
+    [
+     "Please process the order right away.",
+     "請立刻處理這份訂單。"
+    ],
+    [
+     "I will send the report to you right away.",
+     "我會馬上把報告寄給你。"
+    ],
+    [
+     "The manager wants to see you right away.",
+     "經理想要立刻見你。"
+    ]
+   ]
+  },
+  {
+   "word": "apply for",
+   "ph": "",
+   "pos": "phr. 申請",
+   "zh": "申請；應徵",
+   "colloc": "apply for a job 應徵工作 | apply for a position 申請職位",
+   "distinct": "apply to 應用於；向...申請 | request 要求",
+   "ex": [
+    [
+     "She decided to apply for the marketing position.",
+     "她決定申請行銷職位。"
+    ],
+    [
+     "You must apply for the visa before traveling.",
+     "旅行前你必須申請簽證。"
+    ],
+    [
+     "Many candidates applied for the internship program.",
+     "許多候選人申請了實習計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "award ceremony",
+   "ph": "",
+   "pos": "n. 頒獎典禮",
+   "zh": "頒獎典禮",
+   "colloc": "attend an award ceremony 參加頒獎典禮 | hold an award ceremony 舉辦頒獎典禮",
+   "distinct": "opening ceremony 開幕典禮 | closing ceremony 閉幕典禮",
+   "ex": [
+    [
+     "The award ceremony will start at two o'clock.",
+     "頒獎典禮將於兩點開始。"
+    ],
+    [
+     "Please confirm your attendance at the award ceremony.",
+     "請確認是否出席頒獎典禮。"
+    ],
+    [
+     "The CEO will speak at the annual award ceremony.",
+     "執行長將在年度頒獎典禮上致詞。"
+    ]
+   ]
+  },
+  {
+   "word": "be advised to do",
+   "ph": "",
+   "pos": "phr. 被建議做某事",
+   "zh": "被建議做某事；宜做某事",
+   "colloc": "be advised to arrive early 建議提早到達 | be advised to contact us 建議聯絡我們",
+   "distinct": "be suggested that 建議（子句） | be recommended 被推薦",
+   "ex": [
+    [
+     "Employees are advised to lock their computers.",
+     "建議員工將電腦鎖定。"
+    ],
+    [
+     "You are advised to review the contract carefully.",
+     "建議您仔細審閱這份合約。"
+    ],
+    [
+     "Visitors are advised to bring a valid ID.",
+     "建議訪客攜帶有效身分證件。"
+    ]
+   ]
+  },
+  {
+   "word": "be aware of",
+   "ph": "",
+   "pos": "phr. 意識到；察覺",
+   "zh": "意識到；知道；察覺",
+   "colloc": "be aware of the risks 意識到風險 | be aware of the deadline 知道截止日期",
+   "distinct": "be conscious of 有自覺的 | be familiar with 熟悉",
+   "ex": [
+    [
+     "Are you aware of the new safety regulations?",
+     "你知道新的安全規定嗎？"
+    ],
+    [
+     "The manager is fully aware of the situation.",
+     "經理完全了解目前的狀況。"
+    ],
+    [
+     "Please be aware of the limited parking space.",
+     "請留意有限的停車空間。"
+    ]
+   ]
+  },
+  {
+   "word": "be likely to",
+   "ph": "",
+   "pos": "phr. 很可能...",
+   "zh": "很可能；有希望",
+   "colloc": "be likely to succeed 很可能會成功 | be likely to change 很可能變動",
+   "distinct": "be expected to 被預期會 | be prone to 易於（負面）",
+   "ex": [
+    [
+     "Sales are likely to increase this quarter.",
+     "這季的銷售額很可能會成長。"
+    ],
+    [
+     "The project is likely to be finished soon.",
+     "這個專案很可能很快會完成。"
+    ],
+    [
+     "We are likely to reach our target by Friday.",
+     "我們很可能在週五前達成目標。"
+    ]
+   ]
+  },
+  {
+   "word": "bus stop",
+   "ph": "",
+   "pos": "n. 公車站",
+   "zh": "公車站；巴士站",
+   "colloc": "at the bus stop 在公車站 | near the bus stop 在公車站附近",
+   "distinct": "bus station 客運轉運站 | subway station 地鐵站",
+   "ex": [
+    [
+     "The bus stop is located across the street.",
+     "公車站就在街的對面。"
+    ],
+    [
+     "We will meet you at the bus stop.",
+     "我們會在公車站與你會合。"
+    ],
+    [
+     "Is there a bus stop near the hotel?",
+     "飯店附近有公車站嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "business talk",
+   "ph": "",
+   "pos": "n. 商務會談",
+   "zh": "商務會談；商業對話",
+   "colloc": "have a business talk 進行商務會談 | start a business talk 開始洽談業務",
+   "distinct": "business meeting 商務會議 | business negotiation 商務談判",
+   "ex": [
+    [
+     "We had a productive business talk this morning.",
+     "我們今天早上進行了一場很有成效的商務會談。"
+    ],
+    [
+     "He is engaged in a business talk with partners.",
+     "他正在與合作夥伴進行商務會談。"
+    ],
+    [
+     "They scheduled a business talk for next Tuesday.",
+     "他們將商務會談安排在下週二。"
+    ]
+   ]
+  },
+  {
+   "word": "busy street",
+   "ph": "",
+   "pos": "n. 繁忙的街道",
+   "zh": "繁忙的街道；熱鬧的街道",
+   "colloc": "on a busy street 在繁忙的街道上 | a busy street corner 繁忙的街角",
+   "distinct": "crowded area 擁擠區域 | heavy traffic 交通繁忙",
+   "ex": [
+    [
+     "The office is located on a busy street.",
+     "辦公室位於一條繁忙的街道上。"
+    ],
+    [
+     "Parking is difficult on this busy street.",
+     "在這條繁忙的街道上停車很困難。"
+    ],
+    [
+     "Many shops are opening on that busy street.",
+     "那條繁忙的街道上開了許多店鋪。"
+    ]
+   ]
+  },
+  {
+   "word": "by telephone",
+   "ph": "",
+   "pos": "phr. 以電話方式",
+   "zh": "以電話；透過電話",
+   "colloc": "contact by telephone 以電話聯繫 | order by telephone 以電話訂購",
+   "distinct": "over the phone 在電話中 | on the telephone 在講電話",
+   "ex": [
+    [
+     "Please confirm the details by telephone.",
+     "請透過電話確認細節。"
+    ],
+    [
+     "We can discuss the contract by telephone.",
+     "我們可以透過電話討論合約。"
+    ],
+    [
+     "You may register for the seminar by telephone.",
+     "您可以透過電話報名研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "central office",
+   "ph": "",
+   "pos": "n. 總公司；中心辦公室",
+   "zh": "總公司；中心辦公室",
+   "colloc": "report to the central office 向總公司報告 | contact the central office 聯繫總部",
+   "distinct": "headquarters 總部 | branch office 分公司",
+   "ex": [
+    [
+     "Documents must be sent to the central office.",
+     "文件必須送到總公司。"
+    ],
+    [
+     "The central office is based in Taipei.",
+     "總公司設於台北。"
+    ],
+    [
+     "I will check with the central office first.",
+     "我會先跟總公司確認。"
+    ]
+   ]
+  },
+  {
+   "word": "cleaning supply",
+   "ph": "",
+   "pos": "n. 清潔用品",
+   "zh": "清潔用品；打掃用具",
+   "colloc": "order cleaning supplies 訂購清潔用品 | store cleaning supplies 存放清潔用品",
+   "distinct": "office supplies 辦公用品 | maintenance tools 維修工具",
+   "ex": [
+    [
+     "We are running low on cleaning supplies.",
+     "我們的清潔用品快用完了。"
+    ],
+    [
+     "Please store the cleaning supplies in the closet.",
+     "請將清潔用品存放在壁櫥裡。"
+    ],
+    [
+     "The cleaning supplies are provided by the company.",
+     "清潔用品由公司提供。"
+    ]
+   ]
+  },
+  {
+   "word": "copy machine",
+   "ph": "",
+   "pos": "n. 影印機",
+   "zh": "影印機；複印機",
+   "colloc": "use the copy machine 使用影印機 | fix the copy machine 修理影印機",
+   "distinct": "printer 印表機 | scanner 掃描器",
+   "ex": [
+    [
+     "The copy machine is out of paper again.",
+     "影印機又沒紙了。"
+    ],
+    [
+     "Please do not leave your documents on the copy machine.",
+     "請不要把文件留在影印機上。"
+    ],
+    [
+     "We need to repair the office copy machine.",
+     "我們需要修理辦公室的影印機。"
+    ]
+   ]
+  },
+  {
+   "word": "department store",
+   "ph": "",
+   "pos": "n. 百貨公司",
+   "zh": "百貨公司",
+   "colloc": "work at a department store 在百貨公司工作 | shop at a department store 在百貨公司購物",
+   "distinct": "supermarket 超級市場 | mall 購物中心",
+   "ex": [
+    [
+     "They are opening a new branch in the department store.",
+     "他們正在百貨公司裡開設一家新分店。"
+    ],
+    [
+     "The department store holds a sale every summer.",
+     "百貨公司每年夏天都會舉辦特賣會。"
+    ],
+    [
+     "She bought a new suit at the department store.",
+     "她在百貨公司買了一套新西裝。"
+    ]
+   ]
+  },
+  {
+   "word": "due date",
+   "ph": "",
+   "pos": "n. 截止日期",
+   "zh": "截止日期；到期日",
+   "colloc": "meet the due date 準時完成 | extend the due date 延長截止日期",
+   "distinct": "deadline 最後期限 | expiration date 到期日",
+   "ex": [
+    [
+     "The due date for the report is Friday.",
+     "報告的截止日期是週五。"
+    ],
+    [
+     "Please submit your project before the due date.",
+     "請在截止日期前提交您的專案。"
+    ],
+    [
+     "We have to change the due date for payment.",
+     "我們必須更改付款的截止日期。"
+    ]
+   ]
+  },
+  {
+   "word": "energy drink",
+   "ph": "",
+   "pos": "n. 能量飲料",
+   "zh": "能量飲料；提神飲料",
+   "colloc": "consume energy drinks 飲用能量飲料 | sell energy drinks 販售能量飲料",
+   "distinct": "soft drink 軟性飲料 | sports drink 運動飲料",
+   "ex": [
+    [
+     "Many employees drink energy drinks during overtime.",
+     "許多員工在加班時會喝能量飲料。"
+    ],
+    [
+     "The new energy drink has become very popular.",
+     "這款新款能量飲料變得很熱門。"
+    ],
+    [
+     "He avoids drinking energy drinks late at night.",
+     "他避免在深夜飲用能量飲料。"
+    ]
+   ]
+  }
+ ]
+}

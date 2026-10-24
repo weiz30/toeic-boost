@@ -1,0 +1,448 @@
+{
+ "day": 34,
+ "theme": "教材字彙・進階 650–750 第 34 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "comforting",
+   "ph": "/ˈkʌmfərtɪŋ/",
+   "pos": "adj. 安慰的；令人欣慰的",
+   "zh": "安慰的；令人欣慰的",
+   "colloc": "comforting words 安慰的話語 | comforting presence 令人安心的存在",
+   "distinct": "comfortable 舒適的 | comforted 感到安慰的",
+   "ex": [
+    [
+     "The manager offered some comforting words after the loss.",
+     "經理在虧損後說了一些安慰的話。"
+    ],
+    [
+     "It is comforting to know that the project is secure.",
+     "知道專案很安全真是令人欣慰。"
+    ],
+    [
+     "Her feedback provided a comforting sense of direction.",
+     "她的回饋帶來了一種令人安心的方向感。"
+    ]
+   ]
+  },
+  {
+   "word": "competitive",
+   "ph": "/kəmˈpetətɪv/",
+   "pos": "adj. 競爭激烈的；有競爭力的",
+   "zh": "競爭激烈的；有競爭力的",
+   "colloc": "competitive market 競爭市場 | competitive price 具競爭力的價格",
+   "distinct": "competent 有能力的 | completion 完成",
+   "ex": [
+    [
+     "Our company offers very competitive salary packages.",
+     "我們公司提供非常有競爭力的薪資方案。"
+    ],
+    [
+     "The retail industry is becoming increasingly competitive.",
+     "零售業正變得競爭越來越激烈。"
+    ],
+    [
+     "We need a strategy to stay competitive globally.",
+     "我們需要一個策略來在全球保持競爭力。"
+    ]
+   ]
+  },
+  {
+   "word": "conclude",
+   "ph": "/kənˈkluːd/",
+   "pos": "v. 推斷；達成；結束",
+   "zh": "推斷；達成；結束",
+   "colloc": "conclude a deal 達成協議 | conclude the meeting 結束會議",
+   "distinct": "decide 決定 | exclude 排除",
+   "ex": [
+    [
+     "The committee will conclude the negotiations by Friday.",
+     "委員會將在週五前達成談判協議。"
+    ],
+    [
+     "Analysts conclude that the market will rebound soon.",
+     "分析師推斷市場很快就會反彈。"
+    ],
+    [
+     "We should conclude the presentation before the lunch break.",
+     "我們應該在午休前結束簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "connect",
+   "ph": "/kəˈnekt/",
+   "pos": "v. 連接；建立聯繫",
+   "zh": "連接；建立聯繫",
+   "colloc": "connect with clients 與客戶建立聯繫 | connect to the network 連接到網路",
+   "distinct": "contact 接觸；聯繫 | attach 附上",
+   "ex": [
+    [
+     "Please connect your laptop to the projector.",
+     "請將你的筆電連接到投影機。"
+    ],
+    [
+     "Networking helps you connect with potential business partners.",
+     "人脈經營有助於你與潛在商業夥伴建立聯繫。"
+    ],
+    [
+     "The new highway connects the two major cities.",
+     "這條新高速公路連接了兩座大城市。"
+    ]
+   ]
+  },
+  {
+   "word": "contest",
+   "ph": "/ˈkɑːntest/",
+   "pos": "n. 比賽；競賽 | v. 爭辯；質疑",
+   "zh": "比賽；競賽；爭辯",
+   "colloc": "sales contest 銷售競賽 | contest the results 質疑結果",
+   "distinct": "content 內容 | context 上下文",
+   "ex": [
+    [
+     "The annual design contest encourages creative marketing ideas.",
+     "年度設計競賽鼓勵創意的行銷點子。"
+    ],
+    [
+     "We decided not to contest the recent audit findings.",
+     "我們決定不質疑最近的審計結果。"
+    ],
+    [
+     "Several firms will contest for the government contract.",
+     "幾家公司將競逐這份政府合約。"
+    ]
+   ]
+  },
+  {
+   "word": "curved",
+   "ph": "/kɜːrvd/",
+   "pos": "adj. 彎曲的；弧形的",
+   "zh": "彎曲的；弧形的",
+   "colloc": "curved surface 彎曲表面 | curved line 曲線",
+   "distinct": "curved 彎曲的 | circle 圓形",
+   "ex": [
+    [
+     "The office design features several elegant curved walls.",
+     "辦公室設計採用了幾個優雅的弧形牆面。"
+    ],
+    [
+     "The screen has a slightly curved edge for comfort.",
+     "螢幕邊緣有輕微的弧度以增加舒適感。"
+    ],
+    [
+     "He drew a curved line to represent the sales growth.",
+     "他畫了一條曲線來表示銷售成長。"
+    ]
+   ]
+  },
+  {
+   "word": "date",
+   "ph": "/deɪt/",
+   "pos": "n. 日期；約會 | v. 註明日期",
+   "zh": "日期；約會；註明日期",
+   "colloc": "due date 到期日 | set a date 設定日期",
+   "distinct": "data 資料 | deadline 最後期限",
+   "ex": [
+    [
+     "Please confirm the delivery date for the order.",
+     "請確認這筆訂單的到貨日期。"
+    ],
+    [
+     "The document was dated back to last January.",
+     "該文件註明的日期是去年一月。"
+    ],
+    [
+     "We need to set a date for the board meeting.",
+     "我們需要為董事會設定一個日期。"
+    ]
+   ]
+  },
+  {
+   "word": "debate",
+   "ph": "/dɪˈbeɪt/",
+   "pos": "n. 辯論；討論 | v. 辯論；深思",
+   "zh": "辯論；討論",
+   "colloc": "public debate 公共辯論 | ongoing debate 持續的討論",
+   "distinct": "discussion 討論 | argument 爭論",
+   "ex": [
+    [
+     "There is a lot of debate regarding the new policy.",
+     "關於這項新政策有很多討論。"
+    ],
+    [
+     "The team will debate the merits of the proposal.",
+     "團隊將辯論這項提案的優點。"
+    ],
+    [
+     "They spent hours in debate over the budget allocation.",
+     "他們花了數小時討論預算分配問題。"
+    ]
+   ]
+  },
+  {
+   "word": "desert",
+   "ph": "/ˈdezərt/",
+   "pos": "n. 沙漠 | v. 拋棄；擅離",
+   "zh": "沙漠；拋棄",
+   "colloc": "desert island 荒島 | desert area 沙漠地區",
+   "distinct": "dessert 甜點 | deserted 被遺棄的",
+   "ex": [
+    [
+     "The company expanded its operations into the desert region.",
+     "該公司將業務擴展到沙漠地區。"
+    ],
+    [
+     "We cannot desert our core values during the crisis.",
+     "我們在危機期間不能拋棄核心價值。"
+    ],
+    [
+     "The project site felt like a desert after hours.",
+     "下班後，專案現場感覺像是一座沙漠。"
+    ]
+   ]
+  },
+  {
+   "word": "dirt",
+   "ph": "/dɜːrt/",
+   "pos": "n. 灰塵；污垢",
+   "zh": "灰塵；污垢",
+   "colloc": "remove dirt 清除污垢 | dirt cheap 極度便宜",
+   "distinct": "dust 灰塵（細小） | mud 泥土",
+   "ex": [
+    [
+     "You should remove the dirt from the equipment regularly.",
+     "你應該定期清除設備上的污垢。"
+    ],
+    [
+     "The warehouse floor was covered in layers of dirt.",
+     "倉庫地板上覆蓋著層層污垢。"
+    ],
+    [
+     "Cleaning the windows helps keep the dirt away.",
+     "清潔窗戶有助於保持遠離灰塵。"
+    ]
+   ]
+  },
+  {
+   "word": "dust",
+   "ph": "/dʌst/",
+   "pos": "n. 灰塵 | v. 撣去灰塵",
+   "zh": "灰塵；撣去灰塵",
+   "colloc": "dust cover 防塵罩 | collect dust 積灰",
+   "distinct": "dirt 污垢 | dark 黑暗",
+   "ex": [
+    [
+     "Please dust the office desks before the clients arrive.",
+     "請在客戶抵達前把辦公桌上的灰塵撣掉。"
+    ],
+    [
+     "The old files were covered in thick layers of dust.",
+     "舊檔案上覆蓋著厚厚的灰塵。"
+    ],
+    [
+     "We use air purifiers to filter out the dust.",
+     "我們使用空氣清淨機來過濾灰塵。"
+    ]
+   ]
+  },
+  {
+   "word": "excellently",
+   "ph": "/ˈeksələntli/",
+   "pos": "adv. 優秀地；卓越地",
+   "zh": "優秀地；卓越地",
+   "colloc": "perform excellently 表現優異 | managed excellently 管理得當",
+   "distinct": "excellent 優異的 | exceptionally 例外地",
+   "ex": [
+    [
+     "The new intern performed excellently during the project.",
+     "新進實習生在專案期間表現優異。"
+    ],
+    [
+     "The team handled the crisis excellently last week.",
+     "團隊上週出色地處理了危機。"
+    ],
+    [
+     "Our software functions excellently on various operating systems.",
+     "我們的軟體在不同作業系統上運作得很好。"
+    ]
+   ]
+  },
+  {
+   "word": "exit",
+   "ph": "/ˈeksɪt/",
+   "pos": "n. 出口 | v. 出去；退出",
+   "zh": "出口；退出",
+   "colloc": "emergency exit 緊急出口 | exit strategy 退出策略",
+   "distinct": "entry 入口 | exceed 超過",
+   "ex": [
+    [
+     "Please locate the nearest fire exit in the building.",
+     "請找出大樓內最近的消防出口。"
+    ],
+    [
+     "Investors are looking for a clear exit strategy.",
+     "投資者正在尋找明確的退出策略。"
+    ],
+    [
+     "He decided to exit the market due to low returns.",
+     "由於回報率低，他決定退出該市場。"
+    ]
+   ]
+  },
+  {
+   "word": "export",
+   "ph": "/ɪkˈspɔːrt/",
+   "pos": "n. 出口商品 | v. 出口",
+   "zh": "出口；出口商品",
+   "colloc": "export market 出口市場 | export goods 出口貨物",
+   "distinct": "import 進口 | transport 運輸",
+   "ex": [
+    [
+     "The country plans to export more agricultural products.",
+     "該國計畫出口更多的農產品。"
+    ],
+    [
+     "Our main export includes high-tech electronic components.",
+     "我們的主要出口商品包括高科技電子零組件。"
+    ],
+    [
+     "They expanded their export business to Southeast Asia.",
+     "他們將出口業務擴展到了東南亞。"
+    ]
+   ]
+  },
+  {
+   "word": "factory",
+   "ph": "/ˈfæktri/",
+   "pos": "n. 工廠",
+   "zh": "工廠",
+   "colloc": "factory floor 生產線；廠房 | open a factory 開設工廠",
+   "distinct": "industry 工業 | workshop 工作坊",
+   "ex": [
+    [
+     "The factory produces over five thousand units daily.",
+     "該工廠每天生產超過五千個單位。"
+    ],
+    [
+     "We visited the manufacturing factory last month.",
+     "我們上個月參觀了製造工廠。"
+    ],
+    [
+     "Workers at the factory are complaining about the heat.",
+     "工廠的工人正在抱怨炎熱問題。"
+    ]
+   ]
+  },
+  {
+   "word": "fold",
+   "ph": "/foʊld/",
+   "pos": "v. 折疊；倒閉 | n. 折痕",
+   "zh": "折疊；倒閉",
+   "colloc": "fold the paper 折紙 | fold the business 結束營業",
+   "distinct": "hold 拿住 | bold 大膽的",
+   "ex": [
+    [
+     "Please fold the brochures and put them in envelopes.",
+     "請把摺頁摺好並放入信封中。"
+    ],
+    [
+     "The company had to fold after the economic downturn.",
+     "經濟衰退後，該公司不得不倒閉。"
+    ],
+    [
+     "You can fold the laptop screen for easier transport.",
+     "你可以把筆電螢幕折疊起來以便攜帶。"
+    ]
+   ]
+  },
+  {
+   "word": "folder",
+   "ph": "/ˈfoʊldər/",
+   "pos": "n. 資料夾；文件夾",
+   "zh": "資料夾；文件夾",
+   "colloc": "file folder 文件夾 | digital folder 數位資料夾",
+   "distinct": "holder 持有人 | binder 活頁夾",
+   "ex": [
+    [
+     "All the project reports are in the blue folder.",
+     "所有的專案報告都在藍色資料夾裡。"
+    ],
+    [
+     "I created a new folder to organize my emails.",
+     "我建立了一個新資料夾來整理郵件。"
+    ],
+    [
+     "Please hand over the folder containing the contract.",
+     "請把裝有合約的資料夾交給我。"
+    ]
+   ]
+  },
+  {
+   "word": "former",
+   "ph": "/ˈfɔːrmər/",
+   "pos": "adj. 前任的；以前的",
+   "zh": "前任的；以前的",
+   "colloc": "former employee 前員工 | former position 原職位",
+   "distinct": "formal 正式的 | later 後來的",
+   "ex": [
+    [
+     "The former CEO will give a speech tomorrow.",
+     "前任執行長明天將會發表演說。"
+    ],
+    [
+     "He returned to his former position at the bank.",
+     "他回到了銀行以前的職位。"
+    ],
+    [
+     "We are meeting with a former business partner.",
+     "我們正要與一位前商業夥伴見面。"
+    ]
+   ]
+  },
+  {
+   "word": "fresh",
+   "ph": "/freʃ/",
+   "pos": "adj. 新鮮的；嶄新的",
+   "zh": "新鮮的；嶄新的",
+   "colloc": "fresh produce 新鮮農產品 | fresh idea 新穎的想法",
+   "distinct": "flesh 肉體 | flash 閃光",
+   "ex": [
+    [
+     "The cafe uses fresh ingredients for every dish.",
+     "那家咖啡廳每道菜都使用新鮮食材。"
+    ],
+    [
+     "We need some fresh ideas for the marketing campaign.",
+     "我們需要一些新穎的想法來進行行銷活動。"
+    ],
+    [
+     "The intern brings a fresh perspective to the team.",
+     "實習生為團隊帶來了嶄新的觀點。"
+    ]
+   ]
+  },
+  {
+   "word": "general",
+   "ph": "/ˈdʒenrəl/",
+   "pos": "adj. 普遍的；一般的 | n. 將軍",
+   "zh": "普遍的；一般的",
+   "colloc": "general manager 總經理 | in general 總體而言",
+   "distinct": "gentle 溫和的 | genuine 真誠的",
+   "ex": [
+    [
+     "The general manager is responsible for daily operations.",
+     "總經理負責日常營運。"
+    ],
+    [
+     "In general, the feedback from users has been positive.",
+     "總體而言，使用者的回饋是正面的。"
+    ],
+    [
+     "We have a general idea of the project scope.",
+     "我們對專案範圍有一個大致的概念。"
+    ]
+   ]
+  }
+ ]
+}

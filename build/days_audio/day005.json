@@ -1,0 +1,448 @@
+{
+ "day": 5,
+ "theme": "教材字彙・基礎 550–650 第 5 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "engage",
+   "ph": "/ɪnˈɡeɪdʒ/",
+   "pos": "v. 參與；僱用；吸引",
+   "zh": "參與；僱用；吸引",
+   "colloc": "engage in 參與；engage with 與…互動",
+   "distinct": "hire 僱用（人）| involve 涉及",
+   "ex": [
+    [
+     "Employees are encouraged to engage in team projects.",
+     "公司鼓勵員工參與團隊專案。"
+    ],
+    [
+     "We decided to engage a consultant for the launch.",
+     "我們決定聘請一位顧問來進行發表。"
+    ],
+    [
+     "The new marketing campaign will engage more customers.",
+     "新的行銷活動將吸引更多客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "exactly",
+   "ph": "/ɪɡˈzæktli/",
+   "pos": "adv. 確切地；完全地",
+   "zh": "確切地；完全地",
+   "colloc": "exactly the same 完全相同 | not exactly 並非完全",
+   "distinct": "precisely 精確地 | actually 事實上",
+   "ex": [
+    [
+     "That is exactly what we need for the report.",
+     "那正是我們報告所需要的內容。"
+    ],
+    [
+     "The final results are exactly as we predicted.",
+     "最終結果與我們預測的完全一致。"
+    ],
+    [
+     "I cannot say exactly when the system will restart.",
+     "我無法確切說明系統何時會重啟。"
+    ]
+   ]
+  },
+  {
+   "word": "existing",
+   "ph": "/ɪɡˈzɪstɪŋ/",
+   "pos": "adj. 現存的；目前的",
+   "zh": "現存的；目前的",
+   "colloc": "existing system 現有系統 | existing policy 現行政策",
+   "distinct": "current 當前的 | available 可用的",
+   "ex": [
+    [
+     "We must improve the existing process to save time.",
+     "我們必須改善現有流程以節省時間。"
+    ],
+    [
+     "The company plans to upgrade existing software features.",
+     "公司計畫升級現有的軟體功能。"
+    ],
+    [
+     "Replacing the existing equipment is quite expensive.",
+     "更換現有的設備費用相當昂貴。"
+    ]
+   ]
+  },
+  {
+   "word": "extended",
+   "ph": "/ɪkˈstendɪd/",
+   "pos": "adj. 延長的；延伸的",
+   "zh": "延長的；延伸的",
+   "colloc": "extended deadline 延長的期限 | extended leave 長期休假",
+   "distinct": "expanded 擴大的 | prolonged 拖延的",
+   "ex": [
+    [
+     "The manager granted an extended deadline for the proposal.",
+     "經理批准了提案的延長期限。"
+    ],
+    [
+     "Staff members can apply for an extended leave.",
+     "員工可以申請長期休假。"
+    ],
+    [
+     "We received an extended warranty for all new computers.",
+     "我們為所有新電腦取得了延長保固。"
+    ]
+   ]
+  },
+  {
+   "word": "fuel",
+   "ph": "/ˈfjuːəl/",
+   "pos": "n. 燃料 | v. 刺激；激起",
+   "zh": "燃料；刺激",
+   "colloc": "fuel consumption 燃料消耗 | fuel the growth 刺激成長",
+   "distinct": "gasoline 汽油 | energy 能源",
+   "ex": [
+    [
+     "Rising fuel costs are affecting our shipping rates.",
+     "燃料成本上漲正在影響我們的運費。"
+    ],
+    [
+     "High demand helped fuel the company's rapid growth.",
+     "強勁的需求有助於刺激公司快速成長。"
+    ],
+    [
+     "The factory needs to store more fuel for winter.",
+     "工廠需要為冬季儲存更多燃料。"
+    ]
+   ]
+  },
+  {
+   "word": "highly",
+   "ph": "/ˈhaɪli/",
+   "pos": "adv. 高度地；非常",
+   "zh": "高度地；非常",
+   "colloc": "highly recommended 強烈推薦 | highly qualified 高度稱職的",
+   "distinct": "deeply 深深地 | strongly 強烈地",
+   "ex": [
+    [
+     "Our new software product is highly recommended by experts.",
+     "我們的新軟體產品受到專家的高度推薦。"
+    ],
+    [
+     "She is a highly qualified candidate for the position.",
+     "她是該職位非常稱職的人選。"
+    ],
+    [
+     "The market is highly competitive in the technology sector.",
+     "科技產業的市場競爭非常激烈。"
+    ]
+   ]
+  },
+  {
+   "word": "impose",
+   "ph": "/ɪmˈpoʊz/",
+   "pos": "v. 強加；徵收（稅等）",
+   "zh": "強加；徵收",
+   "colloc": "impose a tax 徵稅 | impose a deadline 強制設定期限",
+   "distinct": "force 強迫 | levy 徵收",
+   "ex": [
+    [
+     "The government decided to impose new taxes on imports.",
+     "政府決定對進口商品徵收新稅。"
+    ],
+    [
+     "Do not impose your personal opinions on the team.",
+     "不要將你的個人意見強加於團隊身上。"
+    ],
+    [
+     "Management will impose stricter rules on office hours.",
+     "管理層將對辦公時間實施更嚴格的規定。"
+    ]
+   ]
+  },
+  {
+   "word": "influence",
+   "ph": "/ˈɪnfluəns/",
+   "pos": "n. 影響；影響力 | v. 影響",
+   "zh": "影響",
+   "colloc": "have an influence on 對…有影響 | under the influence of 受…影響",
+   "distinct": "affect 影響（動詞）| impact 衝擊",
+   "ex": [
+    [
+     "Customer reviews heavily influence our purchasing decisions.",
+     "客戶評論極大地影響了我們的購買決定。"
+    ],
+    [
+     "The CEO has a great influence on company culture.",
+     "執行長對公司文化有很大的影響力。"
+    ],
+    [
+     "External factors could influence the stock market today.",
+     "外部因素可能會影響今天的股市。"
+    ]
+   ]
+  },
+  {
+   "word": "inform",
+   "ph": "/ɪnˈfɔːrm/",
+   "pos": "v. 通知；告知",
+   "zh": "通知；告知",
+   "colloc": "inform someone of 通知某人關於… | keep informed 保持聯繫",
+   "distinct": "notify 正式通知 | announce 公告",
+   "ex": [
+    [
+     "Please inform the HR department about your address change.",
+     "請通知人力資源部關於你的地址變更。"
+    ],
+    [
+     "We will inform all staff members by email tomorrow.",
+     "我們明天會透過電子郵件通知所有員工。"
+    ],
+    [
+     "He failed to inform his boss of the delay.",
+     "他未能將延誤的消息告知老闆。"
+    ]
+   ]
+  },
+  {
+   "word": "international",
+   "ph": "/ˌɪntərˈnæʃnəl/",
+   "pos": "adj. 國際的",
+   "zh": "國際的",
+   "colloc": "international market 國際市場 | international trade 國際貿易",
+   "distinct": "global 全球的 | domestic 國內的",
+   "ex": [
+    [
+     "The company is expanding into the international market.",
+     "該公司正向國際市場擴張。"
+    ],
+    [
+     "We need to follow international standards for quality control.",
+     "我們需要遵循國際品質控管標準。"
+    ],
+    [
+     "Several international partners will attend the conference.",
+     "幾位國際合作夥伴將參加這次會議。"
+    ]
+   ]
+  },
+  {
+   "word": "lecture",
+   "ph": "/ˈlektʃər/",
+   "pos": "n. 講座；授課 | v. 演講",
+   "zh": "講座；授課",
+   "colloc": "give a lecture 舉行講座 | attend a lecture 參加講座",
+   "distinct": "speech 演說 | seminar 研討會",
+   "ex": [
+    [
+     "The professor gave a lecture on modern economics.",
+     "教授針對現代經濟學發表了一場演講。"
+    ],
+    [
+     "She will attend a lecture about digital marketing.",
+     "她將參加一場關於數位行銷的講座。"
+    ],
+    [
+     "Our team was invited to lecture at the university.",
+     "我們的團隊受邀到大學演講。"
+    ]
+   ]
+  },
+  {
+   "word": "maintain",
+   "ph": "/meɪnˈteɪn/",
+   "pos": "v. 維持；保養；主張",
+   "zh": "維持；保養；主張",
+   "colloc": "maintain contact 保持聯繫 | maintain equipment 保養設備",
+   "distinct": "sustain 維繫 | support 支持",
+   "ex": [
+    [
+     "We must maintain high standards in our production.",
+     "我們必須在生產中維持高標準。"
+    ],
+    [
+     "The maintenance team will maintain the office machinery.",
+     "維護團隊將會保養辦公室機器。"
+    ],
+    [
+     "It is hard to maintain focus during long meetings.",
+     "在冗長的會議中很難保持專注。"
+    ]
+   ]
+  },
+  {
+   "word": "meet",
+   "ph": "/miːt/",
+   "pos": "v. 見面；達到（要求）；迎接",
+   "zh": "見面；達到；迎接",
+   "colloc": "meet a deadline 趕上期限 | meet the requirements 符合需求",
+   "distinct": "encounter 偶遇 | satisfy 滿足",
+   "ex": [
+    [
+     "We need to work harder to meet the deadline.",
+     "我們需要更努力工作以趕上期限。"
+    ],
+    [
+     "Does the candidate meet all the job requirements?",
+     "這位候選人符合所有的工作要求嗎？"
+    ],
+    [
+     "Our team will meet with the client this afternoon.",
+     "我們團隊今天下午會與客戶會面。"
+    ]
+   ]
+  },
+  {
+   "word": "nearly",
+   "ph": "/ˈnɪrli/",
+   "pos": "adv. 幾乎；差不多",
+   "zh": "幾乎；差不多",
+   "colloc": "nearly finished 幾乎完成 | nearly double 幾乎翻倍",
+   "distinct": "almost 幾乎 | roughly 大約",
+   "ex": [
+    [
+     "The project is nearly finished after three months.",
+     "這個專案在三個月後幾乎完成了。"
+    ],
+    [
+     "They have nearly double the sales of last year.",
+     "他們的銷售額幾乎是去年的兩倍。"
+    ],
+    [
+     "It took nearly an hour to reach the office.",
+     "花費了將近一小時才到達辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "order",
+   "ph": "/ˈɔːrdər/",
+   "pos": "n. 訂單；順序；命令 | v. 點餐；訂購",
+   "zh": "訂單；順序；命令",
+   "colloc": "place an order 下訂單 | in order 按順序",
+   "distinct": "request 請求 | command 命令",
+   "ex": [
+    [
+     "Please process the customer's order as soon as possible.",
+     "請儘速處理該客戶的訂單。"
+    ],
+    [
+     "The files should be kept in alphabetical order.",
+     "這些檔案應該依照字母順序存放。"
+    ],
+    [
+     "The manager decided to order new laptops for staff.",
+     "經理決定為員工訂購新筆記型電腦。"
+    ]
+   ]
+  },
+  {
+   "word": "price",
+   "ph": "/praɪs/",
+   "pos": "n. 價格 | v. 定價",
+   "zh": "價格；定價",
+   "colloc": "price range 價格範圍 | competitive price 具競爭力的價格",
+   "distinct": "cost 成本 | fee 費用",
+   "ex": [
+    [
+     "The price of raw materials has increased recently.",
+     "原物料的價格最近上漲了。"
+    ],
+    [
+     "We need to price our services competitively.",
+     "我們需要將服務定價得具競爭力。"
+    ],
+    [
+     "A lower price will attract more potential buyers.",
+     "較低的價格將吸引更多潛在買家。"
+    ]
+   ]
+  },
+  {
+   "word": "purpose",
+   "ph": "/ˈpɜːrpəs/",
+   "pos": "n. 目的；意圖",
+   "zh": "目的；意圖",
+   "colloc": "on purpose 故意地 | for the purpose of 為了…目的",
+   "distinct": "goal 目標 | intention 意圖",
+   "ex": [
+    [
+     "What is the main purpose of this business trip?",
+     "這次出差的主要目的是什麼？"
+    ],
+    [
+     "The purpose of this survey is to collect feedback.",
+     "這項調查的目的是收集回饋意見。"
+    ],
+    [
+     "He did not arrive late on purpose today.",
+     "他今天不是故意遲到的。"
+    ]
+   ]
+  },
+  {
+   "word": "reaction",
+   "ph": "/riˈækʃn/",
+   "pos": "n. 反應",
+   "zh": "反應",
+   "colloc": "positive reaction 正面反應 | reaction to 對…的反應",
+   "distinct": "response 回應 | feedback 回饋",
+   "ex": [
+    [
+     "The market reaction to the new product was positive.",
+     "市場對新產品的反應是正面的。"
+    ],
+    [
+     "I am curious about his reaction to the news.",
+     "我對他得知這項消息後的反應感到好奇。"
+    ],
+    [
+     "Public reaction will influence our next marketing strategy.",
+     "大眾的反應將影響我們下一個行銷策略。"
+    ]
+   ]
+  },
+  {
+   "word": "recognize",
+   "ph": "/ˈrekəɡnaɪz/",
+   "pos": "v. 認出；認可；表彰",
+   "zh": "認出；認可；表彰",
+   "colloc": "recognize a problem 認清問題 | recognize achievement 表彰成就",
+   "distinct": "identify 辨識 | admit 承認",
+   "ex": [
+    [
+     "The company will recognize his hard work with a bonus.",
+     "公司將發放獎金以表彰他的辛勤工作。"
+    ],
+    [
+     "It is important to recognize the potential risks early.",
+     "儘早認清潛在風險是很重要的。"
+    ],
+    [
+     "I did not recognize him after all these years.",
+     "這麼多年過去了，我沒認出他來。"
+    ]
+   ]
+  },
+  {
+   "word": "reduce",
+   "ph": "/rɪˈduːs/",
+   "pos": "v. 減少；降低",
+   "zh": "減少；降低",
+   "colloc": "reduce costs 降低成本 | reduce the risk 降低風險",
+   "distinct": "decrease 減少 | lower 降低",
+   "ex": [
+    [
+     "We are looking for ways to reduce operational costs.",
+     "我們正在尋找降低營運成本的方法。"
+    ],
+    [
+     "New safety measures will reduce the risk of accidents.",
+     "新的安全措施將會降低事故風險。"
+    ],
+    [
+     "The company aims to reduce waste by recycling.",
+     "公司目標透過回收來減少浪費。"
+    ]
+   ]
+  }
+ ]
+}

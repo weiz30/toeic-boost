@@ -1,0 +1,448 @@
+{
+ "day": 17,
+ "theme": "教材字彙・基礎 550–650 第 17 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "informed",
+   "ph": "/ɪnˈfɔːrmd/",
+   "pos": "adj. 見多識廣的；知情的",
+   "zh": "見多識廣的；知情的",
+   "colloc": "informed decision 明智的決定 | keep someone informed 隨時告知某人",
+   "distinct": "knowledgeable 知識淵博的 | educated 受過教育的",
+   "ex": [
+    [
+     "An informed consumer makes better purchasing choices.",
+     "見多識廣的消費者能做出更好的購買選擇。"
+    ],
+    [
+     "Please keep me informed about the project status.",
+     "請隨時讓我知道專案的最新進展。"
+    ],
+    [
+     "We need to make an informed decision today.",
+     "我們今天需要做出明智的決定。"
+    ]
+   ]
+  },
+  {
+   "word": "initial",
+   "ph": "/ɪˈnɪʃl/",
+   "pos": "adj. 最初的；開始的",
+   "zh": "最初的；開始的",
+   "colloc": "initial stage 初步階段 | initial investment 初始投資",
+   "distinct": "original 最初的（強調源頭）| primary 主要的",
+   "ex": [
+    [
+     "The initial reaction to the proposal was positive.",
+     "對該提案的初步反應很正面。"
+    ],
+    [
+     "Initial reports indicate a significant rise in sales.",
+     "初步報告顯示銷售額顯著成長。"
+    ],
+    [
+     "Our initial plan needs some minor adjustments now.",
+     "我們最初的計畫現在需要些微調整。"
+    ]
+   ]
+  },
+  {
+   "word": "insurance",
+   "ph": "/ɪnˈʃʊrəns/",
+   "pos": "n. 保險",
+   "zh": "保險",
+   "colloc": "health insurance 健康保險 | insurance policy 保險單",
+   "distinct": "assurance 保證（保險的一種）| premium 保險費",
+   "ex": [
+    [
+     "The company offers comprehensive health insurance plans.",
+     "公司提供完善的健康保險方案。"
+    ],
+    [
+     "You should review your insurance policy annually.",
+     "你應該每年審視一次保險單。"
+    ],
+    [
+     "Does the price include travel insurance coverage?",
+     "這個價格包含旅遊保險嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "intention",
+   "ph": "/ɪnˈtenʃn/",
+   "pos": "n. 意圖；打算",
+   "zh": "意圖；打算",
+   "colloc": "have no intention of 沒有…的意圖 | with the intention of 懷著…的意圖",
+   "distinct": "purpose 目的 | plan 計畫",
+   "ex": [
+    [
+     "It is not my intention to cause any delay.",
+     "我無意造成任何延誤。"
+    ],
+    [
+     "The company announced its intention to expand overseas.",
+     "公司宣布了向海外擴張的計畫。"
+    ],
+    [
+     "He has no intention of resigning from the post.",
+     "他並沒有辭去該職位的打算。"
+    ]
+   ]
+  },
+  {
+   "word": "interest",
+   "ph": "/ˈɪntrəst/",
+   "pos": "n. 興趣；利益；利息 | v. 使…感興趣",
+   "zh": "興趣；利益；利息",
+   "colloc": "show interest in 對…感興趣 | rate of interest 利率",
+   "distinct": "benefit 好處 | hobby 嗜好",
+   "ex": [
+    [
+     "Investors have shown great interest in this startup.",
+     "投資者對這家新創公司表現出極大興趣。"
+    ],
+    [
+     "The bank offers a very low interest rate.",
+     "銀行提供了很低的利率。"
+    ],
+    [
+     "This new feature will interest our target audience.",
+     "這項新功能會吸引我們的目標客群。"
+    ]
+   ]
+  },
+  {
+   "word": "interview",
+   "ph": "/ˈɪntərvjuː/",
+   "pos": "n. 面試；訪談 | v. 面試；採訪",
+   "zh": "面試；訪談",
+   "colloc": "job interview 求職面試 | conduct an interview 進行面試",
+   "distinct": "interviewer 面試官 | interviewee 面試者",
+   "ex": [
+    [
+     "She prepared well for the job interview yesterday.",
+     "她昨天為求職面試做了充分準備。"
+    ],
+    [
+     "We will interview three candidates this afternoon.",
+     "我們今天下午將面試三位候選人。"
+    ],
+    [
+     "The candidate arrived early for the final interview.",
+     "這位候選人很早就到達參加最終面試。"
+    ]
+   ]
+  },
+  {
+   "word": "majority",
+   "ph": "/məˈdʒɔːrəti/",
+   "pos": "n. 大多數",
+   "zh": "大多數",
+   "colloc": "the vast majority 絕大多數 | majority vote 多數票",
+   "distinct": "minority 少數 | most 大多數（形容詞）",
+   "ex": [
+    [
+     "The majority of staff members support the policy.",
+     "大多數員工支持這項政策。"
+    ],
+    [
+     "The majority vote decided the new office location.",
+     "多數票決定了新的辦公室地點。"
+    ],
+    [
+     "A majority of the board members agreed today.",
+     "董事會成員今天有過半數表示同意。"
+    ]
+   ]
+  },
+  {
+   "word": "measurement",
+   "ph": "/ˈmeʒərmənt/",
+   "pos": "n. 測量；尺寸",
+   "zh": "測量；尺寸",
+   "colloc": "take measurements 進行測量 | accurate measurement 精確測量",
+   "distinct": "dimension 體積、面積 | gauge 測量儀器",
+   "ex": [
+    [
+     "The technician took measurements of the equipment.",
+     "技術人員對設備進行了測量。"
+    ],
+    [
+     "Precise measurement is essential for this project.",
+     "精確的測量對這個專案至關重要。"
+    ],
+    [
+     "Please verify all measurements before cutting wood.",
+     "請在切割木材前核對所有尺寸。"
+    ]
+   ]
+  },
+  {
+   "word": "organization",
+   "ph": "/ˌɔːrɡənəˈzeɪʃn/",
+   "pos": "n. 組織；機構",
+   "zh": "組織；機構",
+   "colloc": "non-profit organization 非營利組織 | international organization 國際組織",
+   "distinct": "company 公司 | association 協會",
+   "ex": [
+    [
+     "She works for a large international organization.",
+     "她在一家大型國際組織工作。"
+    ],
+    [
+     "Effective organization is key to team success.",
+     "有效的組織能力是團隊成功的關鍵。"
+    ],
+    [
+     "Our organization aims to improve workplace safety.",
+     "我們的組織旨在改善工作場所安全。"
+    ]
+   ]
+  },
+  {
+   "word": "outline",
+   "ph": "/ˈaʊtlaɪn/",
+   "pos": "n. 大綱；輪廓 | v. 概述",
+   "zh": "大綱；概述",
+   "colloc": "brief outline 簡要大綱 | provide an outline 提供大綱",
+   "distinct": "draft 草稿 | summary 摘要",
+   "ex": [
+    [
+     "The manager provided an outline of the strategy.",
+     "經理概述了這項策略的大綱。"
+    ],
+    [
+     "Please outline your goals for the coming quarter.",
+     "請概述您接下來一季的目標。"
+    ],
+    [
+     "This document serves as an outline for training.",
+     "這份文件作為培訓的大綱。"
+    ]
+   ]
+  },
+  {
+   "word": "package",
+   "ph": "/ˈpækɪdʒ/",
+   "pos": "n. 包裹；套餐 | v. 包裝",
+   "zh": "包裹；套餐",
+   "colloc": "software package 軟體套件 | compensation package 薪酬配套",
+   "distinct": "parcel 包裹（郵寄）| bundle 綑綁",
+   "ex": [
+    [
+     "The delivery service dropped off the package.",
+     "快遞服務人員送達了那個包裹。"
+    ],
+    [
+     "We offer a competitive total compensation package.",
+     "我們提供極具競爭力的整體薪酬配套。"
+    ],
+    [
+     "They will package the items for overseas shipping.",
+     "他們會把商品包裝好以利海外寄送。"
+    ]
+   ]
+  },
+  {
+   "word": "performance",
+   "ph": "/pərˈfɔːrməns/",
+   "pos": "n. 表現；績效；表演",
+   "zh": "表現；績效；表演",
+   "colloc": "job performance 工作表現 | improve performance 提升績效",
+   "distinct": "result 結果 | achievement 成就",
+   "ex": [
+    [
+     "His performance during the quarter was excellent.",
+     "他本季度的表現非常出色。"
+    ],
+    [
+     "We need to evaluate the team's overall performance.",
+     "我們需要評估團隊的整體績效。"
+    ],
+    [
+     "High performance leads to faster career advancement.",
+     "優異的績效能帶來更快的職業晉升。"
+    ]
+   ]
+  },
+  {
+   "word": "pleasing",
+   "ph": "/ˈpliːzɪŋ/",
+   "pos": "adj. 令人愉快的；討人喜歡的",
+   "zh": "令人愉快的",
+   "colloc": "aesthetically pleasing 美觀的 | pleasing result 令人滿意的結果",
+   "distinct": "pleasant 舒適的 | pleased 高興的",
+   "ex": [
+    [
+     "The new office design is quite aesthetically pleasing.",
+     "新的辦公室設計相當美觀。"
+    ],
+    [
+     "We received a pleasing response from the client.",
+     "我們收到了客戶令人滿意的回應。"
+    ],
+    [
+     "His pleasing personality makes him a great teammate.",
+     "他討人喜歡的個性使他成為很棒的隊友。"
+    ]
+   ]
+  },
+  {
+   "word": "praise",
+   "ph": "/preɪz/",
+   "pos": "n. 稱讚；讚揚 | v. 稱讚",
+   "zh": "稱讚；讚揚",
+   "colloc": "win praise 獲得讚揚 | high praise 高度讚揚",
+   "distinct": "compliment 恭維 | flatter 阿諛奉承",
+   "ex": [
+    [
+     "The CEO had high praise for the marketing team.",
+     "執行長對行銷團隊給予高度讚揚。"
+    ],
+    [
+     "She deserves praise for her hard work today.",
+     "她今天的努力工作值得稱讚。"
+    ],
+    [
+     "Everyone rushed to praise his innovative solution.",
+     "每個人都紛紛稱讚他創新的解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "preference",
+   "ph": "/ˈprefrəns/",
+   "pos": "n. 偏好；喜好",
+   "zh": "偏好；喜好",
+   "colloc": "personal preference 個人偏好 | express a preference 表達偏好",
+   "distinct": "choice 選擇 | priority 優先權",
+   "ex": [
+    [
+     "Do you have a preference for any specific time?",
+     "您對特定的時間有偏好嗎？"
+    ],
+    [
+     "We considered the client's preferences for the project.",
+     "我們考量了客戶對該專案的偏好。"
+    ],
+    [
+     "Personal preference often influences our buying decisions.",
+     "個人偏好通常會影響我們的購買決策。"
+    ]
+   ]
+  },
+  {
+   "word": "presentation",
+   "ph": "/ˌpriːzenˈteɪʃn/",
+   "pos": "n. 簡報；發表",
+   "zh": "簡報；發表",
+   "colloc": "give a presentation 做簡報 | presentation skills 簡報技巧",
+   "distinct": "speech 演講 | demonstration 示範",
+   "ex": [
+    [
+     "He is preparing a presentation for the board.",
+     "他正在為董事會準備一份簡報。"
+    ],
+    [
+     "Your presentation skills have improved significantly this year.",
+     "你今年的簡報技巧進步顯著。"
+    ],
+    [
+     "The final presentation will take place on Friday.",
+     "最終的簡報將於星期五進行。"
+    ]
+   ]
+  },
+  {
+   "word": "preserve",
+   "ph": "/prɪˈzɜːrv/",
+   "pos": "v. 保存；維護",
+   "zh": "保存；維護",
+   "colloc": "preserve resources 保存資源 | preserve the environment 維護環境",
+   "distinct": "conserve 節約 | maintain 維持",
+   "ex": [
+    [
+     "We must preserve these documents for future reference.",
+     "我們必須保存這些文件以備未來參考。"
+    ],
+    [
+     "The company aims to preserve its strong reputation.",
+     "公司旨在維護其良好的聲譽。"
+    ],
+    [
+     "Strict measures were taken to preserve the park.",
+     "當局採取了嚴格措施來保護該公園。"
+    ]
+   ]
+  },
+  {
+   "word": "prevent",
+   "ph": "/prɪˈvent/",
+   "pos": "v. 防止；預防",
+   "zh": "防止；預防",
+   "colloc": "prevent accidents 防止意外 | prevent from doing 阻止做…",
+   "distinct": "avoid 避免 | stop 停止",
+   "ex": [
+    [
+     "Safety gear helps prevent injuries at the site.",
+     "安全裝備有助於預防工地受傷。"
+    ],
+    [
+     "Nothing can prevent us from achieving our goals.",
+     "沒有什麼能阻止我們達成目標。"
+    ],
+    [
+     "Proper maintenance helps prevent equipment from failing.",
+     "適當的維護有助於防止設備故障。"
+    ]
+   ]
+  },
+  {
+   "word": "priority",
+   "ph": "/praɪˈɔːrəti/",
+   "pos": "n. 優先事項；優先權",
+   "zh": "優先事項；優先權",
+   "colloc": "top priority 最高優先事項 | give priority to 給予…優先權",
+   "distinct": "importance 重要性 | preference 偏好",
+   "ex": [
+    [
+     "Our top priority is to finish the project.",
+     "我們的最高優先事項是完成該專案。"
+    ],
+    [
+     "You should give priority to urgent customer requests.",
+     "你應該優先處理緊急的客戶需求。"
+    ],
+    [
+     "Work-life balance is a priority for most employees.",
+     "工作與生活平衡是多數員工的首要考量。"
+    ]
+   ]
+  },
+  {
+   "word": "proceed",
+   "ph": "/prəˈsiːd/",
+   "pos": "v. 繼續進行；前往",
+   "zh": "繼續進行；前往",
+   "colloc": "proceed with 繼續進行 | proceed to the next step 前往下一步",
+   "distinct": "continue 繼續 | advance 前進",
+   "ex": [
+    [
+     "We will proceed with the plan next week.",
+     "我們下週將會繼續進行該計畫。"
+    ],
+    [
+     "Please proceed to the check-in counter now.",
+     "請現在前往報到櫃檯。"
+    ],
+    [
+     "How should we proceed with this legal matter?",
+     "我們該如何處理這件法律事務？"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 51,
+ "theme": "教材字彙・中高階 750–850 第 51 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "household",
+   "ph": "/ˈhaʊshoʊld/",
+   "pos": "n. 家庭 | adj. 家用的",
+   "zh": "家庭；家務",
+   "colloc": "household appliance 家用電器 | average household 平均家庭",
+   "distinct": "family 家庭成員 | home 住處",
+   "ex": [
+    [
+     "The company targets every household in the city.",
+     "這家公司鎖定市內每個家庭為目標。"
+    ],
+    [
+     "She manages all the household expenses carefully.",
+     "她仔細地管理所有的家庭開銷。"
+    ],
+    [
+     "This is a well-known household name in Taiwan.",
+     "這是台灣家喻戶曉的品牌名稱。"
+    ]
+   ]
+  },
+  {
+   "word": "indeed",
+   "ph": "/ɪnˈdiːd/",
+   "pos": "adv. 的確；真正地",
+   "zh": "的確；確實",
+   "colloc": "indeed true 的確屬實 | thank you indeed 非常感謝",
+   "distinct": "actually 事實上 | certainly 當然",
+   "ex": [
+    [
+     "The report was indeed helpful for our meeting.",
+     "這份報告確實對我們的會議很有幫助。"
+    ],
+    [
+     "It is indeed a challenging task for us.",
+     "對我們來說，這確實是一項艱鉅的任務。"
+    ],
+    [
+     "He was indeed surprised by the positive result.",
+     "他對這個正面的結果確實感到驚訝。"
+    ]
+   ]
+  },
+  {
+   "word": "indicated",
+   "ph": "/ˈɪndɪkeɪtɪd/",
+   "pos": "v. 指出；顯示",
+   "zh": "指出；顯示；標示",
+   "colloc": "indicated that 顯示出 | clearly indicated 明確指出",
+   "distinct": "point out 指出（細節）| show 表現",
+   "ex": [
+    [
+     "The data indicated a rise in sales figures.",
+     "數據顯示銷售數字有所成長。"
+    ],
+    [
+     "Her tone indicated that she was not satisfied.",
+     "她的語氣顯示她並不滿意。"
+    ],
+    [
+     "The sign indicated the location of the exit.",
+     "標示牌指出了出口的位置。"
+    ]
+   ]
+  },
+  {
+   "word": "insist",
+   "ph": "/ɪnˈsɪst/",
+   "pos": "v. 堅持；堅決要求",
+   "zh": "堅持；堅決要求",
+   "colloc": "insist on 堅持要 | insist that 堅稱",
+   "distinct": "persist 堅持不懈 | demand 強求",
+   "ex": [
+    [
+     "I must insist on reviewing the contract again.",
+     "我必須堅持再次審閱合約。"
+    ],
+    [
+     "They insisted that the delivery be made today.",
+     "他們堅持今天必須完成配送。"
+    ],
+    [
+     "He insisted on paying for the business lunch.",
+     "他堅持要支付這次商務午餐的費用。"
+    ]
+   ]
+  },
+  {
+   "word": "institute",
+   "ph": "/ˈɪnstɪtuːt/",
+   "pos": "n. 機構；學院 | v. 制定；創立",
+   "zh": "機構；學院；制定",
+   "colloc": "research institute 研究機構 | institute a policy 制定政策",
+   "distinct": "institution 機構（較廣義）| organization 組織",
+   "ex": [
+    [
+     "The research institute released a new report today.",
+     "該研究機構今天發布了一份新報告。"
+    ],
+    [
+     "We plan to institute a new training program.",
+     "我們計畫制定一項新的培訓計畫。"
+    ],
+    [
+     "She works at a prestigious financial training institute.",
+     "她在一家知名的金融培訓學院工作。"
+    ]
+   ]
+  },
+  {
+   "word": "insult",
+   "ph": "/ˈɪnsʌlt/",
+   "pos": "n. 侮辱 | v. 羞辱",
+   "zh": "侮辱；羞辱",
+   "colloc": "a personal insult 個人侮辱 | feel insulted 感到被羞辱",
+   "distinct": "offense 冒犯 | ridicule 嘲笑",
+   "ex": [
+    [
+     "His comments were taken as a direct insult.",
+     "他的評論被視為直接的侮辱。"
+    ],
+    [
+     "It is unprofessional to insult a client openly.",
+     "公開羞辱客戶是不專業的行為。"
+    ],
+    [
+     "The manager never intended to insult the staff.",
+     "經理絕無意羞辱員工。"
+    ]
+   ]
+  },
+  {
+   "word": "inviting",
+   "ph": "/ɪnˈvaɪtɪŋ/",
+   "pos": "adj. 誘人的；吸引人的",
+   "zh": "誘人的；吸引人的",
+   "colloc": "an inviting atmosphere 誘人的氣氛 | inviting offer 吸引人的報價",
+   "distinct": "attractive 有吸引力的 | tempting 誘惑的",
+   "ex": [
+    [
+     "The office has a warm and inviting design.",
+     "辦公室有著溫暖且吸引人的設計。"
+    ],
+    [
+     "This sounds like a very inviting opportunity indeed.",
+     "這聽起來確實是一個非常吸引人的機會。"
+    ],
+    [
+     "We created an inviting space for our clients.",
+     "我們為客戶創造了一個舒適誘人的空間。"
+    ]
+   ]
+  },
+  {
+   "word": "match",
+   "ph": "/mætʃ/",
+   "pos": "n. 比賽；對手；搭配 | v. 相配；與...吻合",
+   "zh": "比賽；對手；相配",
+   "colloc": "perfect match 絕配 | match the requirements 符合要求",
+   "distinct": "game 比賽（遊戲）| suit 合適",
+   "ex": [
+    [
+     "These colors match our company logo perfectly.",
+     "這些顏色與我們公司標誌非常搭配。"
+    ],
+    [
+     "Our prices match those of our main competitors.",
+     "我們的價格與主要競爭對手相當。"
+    ],
+    [
+     "He is a strong match for the sales position.",
+     "他是業務職位的人選強敵。"
+    ]
+   ]
+  },
+  {
+   "word": "ministry",
+   "ph": "/ˈmɪnɪstri/",
+   "pos": "n. 部（政府部門）；內閣",
+   "zh": "部；政府部門",
+   "colloc": "Ministry of Finance 財政部 | government ministry 政府部門",
+   "distinct": "department 部門（公司內）| bureau 局",
+   "ex": [
+    [
+     "The ministry announced new economic policies today.",
+     "該部今天宣布了新的經濟政策。"
+    ],
+    [
+     "He works for the Ministry of Economic Affairs.",
+     "他在經濟部任職。"
+    ],
+    [
+     "Several ministry officials attended the seminar.",
+     "幾位政府官員參加了研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "nursing",
+   "ph": "/ˈnɜːrsɪŋ/",
+   "pos": "n. 護理；照料",
+   "zh": "護理；照料",
+   "colloc": "nursing home 護理之家 | nursing staff 護理人員",
+   "distinct": "care 照顧 | medical treatment 醫療",
+   "ex": [
+    [
+     "She decided to pursue a career in nursing.",
+     "她決定從事護理工作。"
+    ],
+    [
+     "The hospital hired more nursing staff this month.",
+     "醫院本月聘請了更多護理人員。"
+    ],
+    [
+     "He requires professional nursing around the clock.",
+     "他需要全天候的專業照料。"
+    ]
+   ]
+  },
+  {
+   "word": "opponent",
+   "ph": "/əˈpoʊnənt/",
+   "pos": "n. 對手；反對者",
+   "zh": "對手；反對者",
+   "colloc": "a worthy opponent 可敬的對手 | political opponent 政治對手",
+   "distinct": "competitor 競爭對手（商業）| enemy 敵人",
+   "ex": [
+    [
+     "The CEO respected her main business opponent.",
+     "執行長尊敬她的主要商業對手。"
+    ],
+    [
+     "Our team is ready to face the opponent.",
+     "我們的團隊準備好面對對手了。"
+    ],
+    [
+     "He is a strong opponent of the new tax law.",
+     "他是新稅法的強烈反對者。"
+    ]
+   ]
+  },
+  {
+   "word": "output",
+   "ph": "/ˈaʊtpʊt/",
+   "pos": "n. 產量；輸出 | v. 生產",
+   "zh": "產量；輸出；產出",
+   "colloc": "factory output 工廠產量 | increase output 增加產量",
+   "distinct": "production 生產 | product 產品",
+   "ex": [
+    [
+     "The factory increased its output by ten percent.",
+     "該工廠產量增加了百分之十。"
+    ],
+    [
+     "High output is essential for meeting the deadline.",
+     "高產出對於趕上截止日期至關重要。"
+    ],
+    [
+     "We need to analyze the data output carefully.",
+     "我們需要仔細分析數據輸出結果。"
+    ]
+   ]
+  },
+  {
+   "word": "overly",
+   "ph": "/ˈoʊvərli/",
+   "pos": "adv. 過度地；極其",
+   "zh": "過度地；極其",
+   "colloc": "overly optimistic 過度樂觀 | overly critical 過度挑剔",
+   "distinct": "extremely 極端地 | excessively 過量地",
+   "ex": [
+    [
+     "Do not be overly concerned about the small details.",
+     "不要過度擔心小細節。"
+    ],
+    [
+     "The report was overly critical of the management.",
+     "這份報告對管理層過度挑剔。"
+    ],
+    [
+     "He is not overly enthusiastic about the project.",
+     "他對這個專案沒有表現得過度熱情。"
+    ]
+   ]
+  },
+  {
+   "word": "pension",
+   "ph": "/ˈpenʃən/",
+   "pos": "n. 退休金；撫卹金",
+   "zh": "退休金；撫卹金",
+   "colloc": "pension plan 退休金計畫 | receive a pension 領取退休金",
+   "distinct": "bonus 獎金 | salary 薪水",
+   "ex": [
+    [
+     "The company offers a comprehensive pension plan.",
+     "公司提供完善的退休金計畫。"
+    ],
+    [
+     "Employees can start their pension savings now.",
+     "員工現在就可以開始存退休金。"
+    ],
+    [
+     "He plans to retire and live on his pension.",
+     "他計畫退休並依靠退休金生活。"
+    ]
+   ]
+  },
+  {
+   "word": "perhaps",
+   "ph": "/pərˈhæps/",
+   "pos": "adv. 也許；可能",
+   "zh": "也許；可能",
+   "colloc": "perhaps not 也許不會 | perhaps the best 也許是最好的",
+   "distinct": "maybe 也許 | possibly 可能",
+   "ex": [
+    [
+     "Perhaps we should consider another business strategy.",
+     "也許我們該考慮另一種商業策略。"
+    ],
+    [
+     "It is perhaps the most important meeting this year.",
+     "這或許是今年最重要的一次會議。"
+    ],
+    [
+     "Perhaps you can finish the report by tomorrow.",
+     "也許你可以在明天前完成報告。"
+    ]
+   ]
+  },
+  {
+   "word": "pity",
+   "ph": "/ˈpɪti/",
+   "pos": "n. 同情；遺憾 | v. 同情",
+   "zh": "同情；遺憾",
+   "colloc": "a pity that 可惜的是 | feel pity 對...感到同情",
+   "distinct": "regret 後悔 | sympathy 同情心",
+   "ex": [
+    [
+     "It is a pity that we missed the deadline.",
+     "很遺憾我們錯過了截止日期。"
+    ],
+    [
+     "He felt pity for the struggling small business.",
+     "他對那家掙扎的小企業感到同情。"
+    ],
+    [
+     "What a pity to lose such a talented employee.",
+     "失去這麼有才華的員工真是可惜。"
+    ]
+   ]
+  },
+  {
+   "word": "polish",
+   "ph": "/ˈpɑːlɪʃ/",
+   "pos": "v. 擦亮；潤飾 | n. 光澤",
+   "zh": "擦亮；潤飾；修飾",
+   "colloc": "polish the skills 磨練技能 | polish the presentation 潤飾簡報",
+   "distinct": "shine 發光 | improve 改進",
+   "ex": [
+    [
+     "She needs to polish her presentation before Friday.",
+     "她需要在週五前潤飾她的簡報。"
+    ],
+    [
+     "We should polish our communication skills daily.",
+     "我們應該每天磨練我們的溝通技巧。"
+    ],
+    [
+     "The team will polish the final project draft.",
+     "團隊將會潤飾專案的最終草稿。"
+    ]
+   ]
+  },
+  {
+   "word": "pose",
+   "ph": "/poʊz/",
+   "pos": "v. 造成（威脅/問題）；擺姿勢 | n. 姿勢",
+   "zh": "造成；擺姿勢",
+   "colloc": "pose a threat 構成威脅 | pose a challenge 造成挑戰",
+   "distinct": "cause 引起 | situation 情況",
+   "ex": [
+    [
+     "Rising costs pose a threat to our profits.",
+     "成本上升對我們的利潤構成威脅。"
+    ],
+    [
+     "The new regulations pose a challenge to us.",
+     "新法規對我們造成了挑戰。"
+    ],
+    [
+     "The complex task poses several difficult questions.",
+     "這項複雜的任務提出了幾個難題。"
+    ]
+   ]
+  },
+  {
+   "word": "primary",
+   "ph": "/ˈpraɪmeri/",
+   "pos": "adj. 主要的；初期的",
+   "zh": "主要的；首要的",
+   "colloc": "primary goal 主要目標 | primary concern 首要顧慮",
+   "distinct": "main 主要的 | initial 初期的",
+   "ex": [
+    [
+     "Our primary goal is to increase customer satisfaction.",
+     "我們的主要目標是提高客戶滿意度。"
+    ],
+    [
+     "Safety is our primary concern in this factory.",
+     "安全是我們在這家工廠的首要顧慮。"
+    ],
+    [
+     "The primary focus should be on market growth.",
+     "主要的焦點應放在市場成長上。"
+    ]
+   ]
+  },
+  {
+   "word": "pulled",
+   "ph": "/pʊld/",
+   "pos": "v. 拉；拖；吸引（pull 的過去式與過去分詞）",
+   "zh": "拉；拖；拉動",
+   "colloc": "pulled back 撤回 | pulled out 退出",
+   "distinct": "pushed 推 | dragged 拖拉",
+   "ex": [
+    [
+     "The company pulled the product from the market.",
+     "公司將該產品從市場上撤回。"
+    ],
+    [
+     "He pulled a chair over to join the discussion.",
+     "他拉了一張椅子過來參與討論。"
+    ],
+    [
+     "The investor pulled out of the joint venture.",
+     "投資者退出了這項合資計畫。"
+    ]
+   ]
+  }
+ ]
+}

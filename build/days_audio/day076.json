@@ -1,0 +1,448 @@
+{
+ "day": 76,
+ "theme": "教材片語・中高階 750–850 第 12 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "decide on",
+   "ph": "",
+   "pos": "phr. 決定；選定",
+   "zh": "決定；選定",
+   "colloc": "decide on a strategy 決定策略 | decide on a date 選定日期",
+   "distinct": "decide to do 決定做某事 | settle on 最終選定",
+   "ex": [
+    [
+     "Management needs to decide on the new budget. ",
+     "管理層需要決定新的預算。"
+    ],
+    [
+     "Have you decided on a venue for the event?",
+     "你們決定好活動場地了嗎？"
+    ],
+    [
+     "They are yet to decide on the candidates.",
+     "他們尚未決定人選。"
+    ]
+   ]
+  },
+  {
+   "word": "delivery option",
+   "ph": "",
+   "pos": "phr. 配送選項",
+   "zh": "配送選項",
+   "colloc": "select a delivery option 選擇配送選項 | standard delivery option 標準配送選項",
+   "distinct": "shipping method 運送方式 | pickup option 自取選項",
+   "ex": [
+    [
+     "Please select your preferred delivery option.",
+     "請選擇您偏好的配送選項。"
+    ],
+    [
+     "The delivery option you chose is unavailable.",
+     "您選擇的配送選項目前無法使用。"
+    ],
+    [
+     "We offer a flexible delivery option for clients.",
+     "我們為客戶提供靈活的配送選項。"
+    ]
+   ]
+  },
+  {
+   "word": "draw up a new agreement",
+   "ph": "",
+   "pos": "phr. 起草新合約",
+   "zh": "起草新合約",
+   "colloc": "draw up a contract 起草合約 | need to draw up 必須起草",
+   "distinct": "sign an agreement 簽署合約 | review an agreement 審閱合約",
+   "ex": [
+    [
+     "The legal team will draw up a new agreement.",
+     "法律團隊將會起草一份新合約。"
+    ],
+    [
+     "Let us draw up a new agreement tomorrow.",
+     "讓我們明天起草一份新合約。"
+    ],
+    [
+     "It is time to draw up a new agreement.",
+     "現在是起草新合約的時候了。"
+    ]
+   ]
+  },
+  {
+   "word": "drive off",
+   "ph": "",
+   "pos": "phr. 開車離開",
+   "zh": "開車離開",
+   "colloc": "drive off quickly 迅速開走 | drive off the lot 將車開離場地",
+   "distinct": "drive away 駛離 | pull over 靠邊停車",
+   "ex": [
+    [
+     "The courier had to drive off immediately.",
+     "快遞員必須立刻開車離開。"
+    ],
+    [
+     "She watched the client drive off in his car.",
+     "她看著客戶開車離開。"
+    ],
+    [
+     "After the meeting, he decided to drive off.",
+     "會議結束後，他決定開車離開。"
+    ]
+   ]
+  },
+  {
+   "word": "dry cleaner",
+   "ph": "",
+   "pos": "phr. 乾洗店",
+   "zh": "乾洗店",
+   "colloc": "local dry cleaner 當地乾洗店 | drop off at dry cleaner 送到乾洗店",
+   "distinct": "laundry service 洗滌服務 | tailor 裁縫師",
+   "ex": [
+    [
+     "I need to visit the dry cleaner today.",
+     "我今天需要去一趟乾洗店。"
+    ],
+    [
+     "Is there a reliable dry cleaner nearby?",
+     "附近有可靠的乾洗店嗎？"
+    ],
+    [
+     "The suit was sent to the dry cleaner.",
+     "西裝已經送到乾洗店了。"
+    ]
+   ]
+  },
+  {
+   "word": "duty free",
+   "ph": "",
+   "pos": "phr. 免稅的",
+   "zh": "免稅的",
+   "colloc": "duty free shop 免稅店 | buy duty free items 購買免稅商品",
+   "distinct": "tax-exempt 免稅的（稅務）| tax-free 免稅的（稅制）",
+   "ex": [
+    [
+     "We stopped at the duty free store briefly.",
+     "我們在免稅商店稍作停留。"
+    ],
+    [
+     "Are these goods considered duty free?",
+     "這些商品算是免稅的嗎？"
+    ],
+    [
+     "Many travelers buy gifts at duty free.",
+     "許多旅客在免稅店購買禮物。"
+    ]
+   ]
+  },
+  {
+   "word": "energy source",
+   "ph": "",
+   "pos": "phr. 能源來源",
+   "zh": "能源來源",
+   "colloc": "renewable energy source 再生能源 | alternative energy source 替代能源",
+   "distinct": "power supply 電源供應 | fuel source 燃料來源",
+   "ex": [
+    [
+     "The company is seeking a sustainable energy source.",
+     "公司正在尋找永續的能源來源。"
+    ],
+    [
+     "Solar power is a popular energy source.",
+     "太陽能是一種受歡迎的能源來源。"
+    ],
+    [
+     "We must diversify our energy source options.",
+     "我們必須使能源來源選項多元化。"
+    ]
+   ]
+  },
+  {
+   "word": "enter into",
+   "ph": "",
+   "pos": "phr. 開始（談判、協議）",
+   "zh": "開始；參與",
+   "colloc": "enter into a contract 簽訂合約 | enter into negotiations 進行談判",
+   "distinct": "participate in 參加 | start 啟動",
+   "ex": [
+    [
+     "The firm decided to enter into a partnership.",
+     "該公司決定建立合作夥伴關係。"
+    ],
+    [
+     "We are ready to enter into negotiations now.",
+     "我們現在準備好開始談判了。"
+    ],
+    [
+     "They entered into a new agreement yesterday.",
+     "他們昨天簽訂了一份新合約。"
+    ]
+   ]
+  },
+  {
+   "word": "even now",
+   "ph": "",
+   "pos": "phr. 即使在現在",
+   "zh": "即使在現在；直到現在",
+   "colloc": "even now I recall 即使現在我仍記得 | even now it remains 至今依然",
+   "distinct": "even though 儘管 | right now 現在",
+   "ex": [
+    [
+     "Even now, the issue remains unresolved.",
+     "即使到了現在，這個問題仍未解決。"
+    ],
+    [
+     "I remember his advice even now.",
+     "即使在現在，我仍記得他的建議。"
+    ],
+    [
+     "Even now, the market is still volatile.",
+     "即使在現在，市場依然不穩定。"
+    ]
+   ]
+  },
+  {
+   "word": "even though",
+   "ph": "",
+   "pos": "phr. 雖然；儘管",
+   "zh": "雖然；儘管",
+   "colloc": "even though it was raining 雖然在下雨 | even though he tried 儘管他試過",
+   "distinct": "even if 即使（假設性）| although 雖然",
+   "ex": [
+    [
+     "We finished the task even though it was hard.",
+     "儘管過程艱難，我們還是完成了任務。"
+    ],
+    [
+     "Even though sales were low, profits grew.",
+     "儘管銷售額很低，利潤卻成長了。"
+    ],
+    [
+     "He attended the meeting even though he was ill.",
+     "儘管生病了，他還是參加了會議。"
+    ]
+   ]
+  },
+  {
+   "word": "exchange rate",
+   "ph": "",
+   "pos": "phr. 匯率",
+   "zh": "匯率",
+   "colloc": "favorable exchange rate 有利的匯率 | current exchange rate 現行匯率",
+   "distinct": "interest rate 利率 | inflation rate 通膨率",
+   "ex": [
+    [
+     "The exchange rate has fluctuated this month.",
+     "這個月匯率波動很大。"
+    ],
+    [
+     "Check the current exchange rate before booking.",
+     "預訂前請確認現行匯率。"
+    ],
+    [
+     "A strong dollar affects the exchange rate.",
+     "強勢美元會影響匯率。"
+    ]
+   ]
+  },
+  {
+   "word": "extra charge",
+   "ph": "",
+   "pos": "phr. 額外費用",
+   "zh": "額外費用",
+   "colloc": "no extra charge 無額外費用 | incur an extra charge 產生額外費用",
+   "distinct": "hidden fee 隱藏費用 | service charge 服務費",
+   "ex": [
+    [
+     "There is no extra charge for early check-in.",
+     "提早辦理入住無額外費用。"
+    ],
+    [
+     "The service incurs an extra charge.",
+     "這項服務會產生額外費用。"
+    ],
+    [
+     "Did you notice an extra charge on the bill?",
+     "你有注意到帳單上的額外費用嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "faced to face",
+   "ph": "",
+   "pos": "phr. 面對面",
+   "zh": "面對面",
+   "colloc": "face to face meeting 面對面會議 | speak face to face 面對面交談",
+   "distinct": "in person 親自 | video conference 視訊會議",
+   "ex": [
+    [
+     "We should discuss this issue face to face.",
+     "我們應該面對面討論這個問題。"
+    ],
+    [
+     "A face to face interview is required.",
+     "需要進行面對面的面試。"
+    ],
+    [
+     "They met face to face to settle disputes.",
+     "他們面對面會談以解決爭端。"
+    ]
+   ]
+  },
+  {
+   "word": "far from",
+   "ph": "",
+   "pos": "phr. 遠離；一點也不",
+   "zh": "遠離；一點也不",
+   "colloc": "far from home 離家很遠 | far from perfect 一點也不完美",
+   "distinct": "away from 離開 | by no means 絕非",
+   "ex": [
+    [
+     "The office is far from the train station.",
+     "辦公室距離火車站很遠。"
+    ],
+    [
+     "His performance was far from satisfactory.",
+     "他的表現一點也不令人滿意。"
+    ],
+    [
+     "We are far from reaching our final goals.",
+     "我們距離達成最終目標還很遠。"
+    ]
+   ]
+  },
+  {
+   "word": "fire alarm",
+   "ph": "",
+   "pos": "phr. 火災警報器",
+   "zh": "火災警報器",
+   "colloc": "trigger the fire alarm 觸發火災警報 | test the fire alarm 測試警報器",
+   "distinct": "smoke detector 煙霧偵測器 | emergency exit 緊急出口",
+   "ex": [
+    [
+     "The fire alarm rang during the conference.",
+     "會議進行中火災警報器響了。"
+    ],
+    [
+     "Please ensure the fire alarm is operational.",
+     "請確保火災警報器運作正常。"
+    ],
+    [
+     "We had a fire alarm drill today.",
+     "我們今天進行了火災警報演習。"
+    ]
+   ]
+  },
+  {
+   "word": "first aid",
+   "ph": "",
+   "pos": "phr. 急救",
+   "zh": "急救",
+   "colloc": "first aid kit 急救箱 | first aid training 急救訓練",
+   "distinct": "medical care 醫療護理 | emergency response 緊急應變",
+   "ex": [
+    [
+     "Staff should know basic first aid skills.",
+     "員工應具備基本的急救技能。"
+    ],
+    [
+     "The office has a complete first aid kit.",
+     "辦公室內有完整的急救箱。"
+    ],
+    [
+     "He took a course on first aid.",
+     "他參加了一門急救課程。"
+    ]
+   ]
+  },
+  {
+   "word": "first priority",
+   "ph": "",
+   "pos": "phr. 首要任務",
+   "zh": "首要任務",
+   "colloc": "make it a first priority 列為首要任務 | top priority 最高優先級",
+   "distinct": "main goal 主要目標 | primary objective 主要目的",
+   "ex": [
+    [
+     "Customer satisfaction is our first priority.",
+     "客戶滿意度是我們的首要任務。"
+    ],
+    [
+     "Safety remains our first priority on site.",
+     "工地安全仍是我們的首要任務。"
+    ],
+    [
+     "His first priority is to finish the report.",
+     "他的首要任務是完成報告。"
+    ]
+   ]
+  },
+  {
+   "word": "fixed price",
+   "ph": "",
+   "pos": "phr. 定價；固定價格",
+   "zh": "定價；固定價格",
+   "colloc": "sell at a fixed price 以固定價格出售 | fixed price contract 固定價格合約",
+   "distinct": "market price 市場價格 | negotiable price 可議價",
+   "ex": [
+    [
+     "The service is offered at a fixed price.",
+     "這項服務以固定價格提供。"
+    ],
+    [
+     "All items in the shop have a fixed price.",
+     "店內所有商品皆為定價。"
+    ],
+    [
+     "They signed a fixed price project agreement.",
+     "他們簽署了一份固定價格的專案合約。"
+    ]
+   ]
+  },
+  {
+   "word": "floor manager",
+   "ph": "",
+   "pos": "phr. 樓層經理；賣場經理",
+   "zh": "樓層經理",
+   "colloc": "store floor manager 門市樓層經理 | speak to the floor manager 與樓層經理談",
+   "distinct": "general manager 總經理 | assistant manager 副理",
+   "ex": [
+    [
+     "You can ask the floor manager for help.",
+     "您可以尋求樓層經理的協助。"
+    ],
+    [
+     "The floor manager oversees daily operations.",
+     "樓層經理負責監督日常營運。"
+    ],
+    [
+     "Our floor manager is available for questions.",
+     "我們的樓層經理可以回答問題。"
+    ]
+   ]
+  },
+  {
+   "word": "flower arrangement",
+   "ph": "",
+   "pos": "phr. 花藝設計；插花",
+   "zh": "花藝設計；插花",
+   "colloc": "beautiful flower arrangement 美麗的花藝 | decorate with flower arrangement 用花藝裝飾",
+   "distinct": "floral design 花卉設計 | bouquet 花束",
+   "ex": [
+    [
+     "The lobby features a lovely flower arrangement.",
+     "大廳擺放了一盆美麗的花藝。"
+    ],
+    [
+     "She signed up for a flower arrangement class.",
+     "她報名參加了花藝設計課程。"
+    ],
+    [
+     "The flower arrangement brightened up the office.",
+     "這盆花藝讓辦公室增色不少。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 58,
+ "theme": "教材字彙・中高階 750–850 第 58 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "channel",
+   "ph": "/ˈtʃænl/",
+   "pos": "n. 管道；頻道 | v. 傳送",
+   "zh": "管道；頻道；傳送",
+   "colloc": "communication channel 溝通管道 | distribution channel 配銷通路",
+   "distinct": "conduit 導管（物理）| medium 媒介（抽象）",
+   "ex": [
+    [
+     "Feedback is sent through the official channel.",
+     "意見回饋透過正式管道傳送。"
+    ],
+    [
+     "The company is channeling resources into R&D.",
+     "公司正將資源投入研發部門。"
+    ],
+    [
+     "We need to open a new sales channel.",
+     "我們需要開拓一個新的銷售通路。"
+    ]
+   ]
+  },
+  {
+   "word": "complicate",
+   "ph": "/ˈkɑːmplɪkeɪt/",
+   "pos": "v. 使複雜化",
+   "zh": "使複雜化",
+   "colloc": "complicate matters 把事情搞複雜 | unnecessarily complicate 不必要地複雜化",
+   "distinct": "complex 複雜的（形容詞）| perplex 使困惑",
+   "ex": [
+    [
+     "These new regulations only complicate the process.",
+     "這些新規定只會讓流程變複雜。"
+    ],
+    [
+     "Do not complicate the issue any further.",
+     "不要再把問題搞複雜了。"
+    ],
+    [
+     "The unexpected delay complicated our project timeline.",
+     "意料之外的延遲讓專案時程變複雜了。"
+    ]
+   ]
+  },
+  {
+   "word": "concerning",
+   "ph": "/kənˈsɜːrnɪŋ/",
+   "pos": "prep. 關於 | adj. 令人擔憂的",
+   "zh": "關於；令人擔憂的",
+   "colloc": "concerning the matter 關於此事 | concerning news 令人擔憂的消息",
+   "distinct": "regarding 關於（更正式）| regarding 關於",
+   "ex": [
+    [
+     "I have a question concerning the new contract.",
+     "我有個關於新合約的問題。"
+    ],
+    [
+     "The recent decline in sales is concerning.",
+     "近期銷售額的下滑令人擔憂。"
+    ],
+    [
+     "We received an email concerning the audit.",
+     "我們收到了一封關於審計的郵件。"
+    ]
+   ]
+  },
+  {
+   "word": "confused",
+   "ph": "/kənˈfjuːzd/",
+   "pos": "adj. 困惑的；混亂的",
+   "zh": "困惑的；混亂的",
+   "colloc": "confused about 對…感到困惑 | confused by 被…弄糊塗",
+   "distinct": "bewildered 目瞪口呆的 | muddled 腦筋糊塗的",
+   "ex": [
+    [
+     "He was confused by the complex instructions.",
+     "他對那些複雜的說明感到困惑。"
+    ],
+    [
+     "Staff members were confused about the meeting time.",
+     "員工們對會議時間感到困惑。"
+    ],
+    [
+     "I am confused by the changes in policy.",
+     "我對政策的變更感到困惑。"
+    ]
+   ]
+  },
+  {
+   "word": "consideration",
+   "ph": "/kənsɪdəˈreɪʃn/",
+   "pos": "n. 考慮；體貼；報酬",
+   "zh": "考慮；體貼；報酬",
+   "colloc": "take into consideration 列入考慮 | under consideration 在審議中",
+   "distinct": "contemplation 沉思 | reflection 省思",
+   "ex": [
+    [
+     "Your proposal is currently under consideration.",
+     "您的提案目前正在審議中。"
+    ],
+    [
+     "Thank you for your consideration regarding this matter.",
+     "感謝您對此事的體貼考量。"
+    ],
+    [
+     "Please take his past experience into consideration.",
+     "請將他過去的經驗納入考量。"
+    ]
+   ]
+  },
+  {
+   "word": "definite",
+   "ph": "/ˈdefɪnət/",
+   "pos": "adj. 明確的；肯定的",
+   "zh": "明確的；肯定的",
+   "colloc": "definite answer 明確的答覆 | definite plan 明確的計畫",
+   "distinct": "definitive 決定性的 | explicit 詳盡明確的",
+   "ex": [
+    [
+     "We need a definite answer by tomorrow.",
+     "我們明天前需要一個明確的答覆。"
+    ],
+    [
+     "There is no definite date for the launch.",
+     "發布日期目前還沒有明確下來。"
+    ],
+    [
+     "Her commitment to the project is definite.",
+     "她對這項專案的投入是確定的。"
+    ]
+   ]
+  },
+  {
+   "word": "deliberately",
+   "ph": "/dɪˈlɪbərətli/",
+   "pos": "adv. 故意地；謹慎地",
+   "zh": "故意地；謹慎地",
+   "colloc": "deliberately ignore 故意忽略 | act deliberately 行事謹慎",
+   "distinct": "intentionally 蓄意地 | on purpose 故意地",
+   "ex": [
+    [
+     "He did not do it deliberately.",
+     "他並不是故意要那樣做的。"
+    ],
+    [
+     "The report was deliberately kept confidential.",
+     "這份報告被刻意地保密。"
+    ],
+    [
+     "She spoke slowly and deliberately during the talk.",
+     "她在演講時說話既緩慢又謹慎。"
+    ]
+   ]
+  },
+  {
+   "word": "delight",
+   "ph": "/dɪˈlaɪt/",
+   "pos": "n. 高興；樂事 | v. 使高興",
+   "zh": "高興；樂事；使高興",
+   "colloc": "to one's delight 令某人高興的是 | take delight in 以…為樂",
+   "distinct": "pleasure 愉快 | joy 喜悅",
+   "ex": [
+    [
+     "It is a delight to work with you.",
+     "能與您共事是我的榮幸。"
+    ],
+    [
+     "The new features delighted our long-term clients.",
+     "新功能讓長期客戶感到滿意。"
+    ],
+    [
+     "To our delight, the project succeeded early.",
+     "令我們高興的是，專案提早成功了。"
+    ]
+   ]
+  },
+  {
+   "word": "disadvantage",
+   "ph": "/ˌdɪsədˈvæntɪdʒ/",
+   "pos": "n. 不利條件；劣勢",
+   "zh": "不利條件；劣勢",
+   "colloc": "at a disadvantage 處於劣勢 | major disadvantage 主要缺點",
+   "distinct": "drawback 缺點 | demerit 短處",
+   "ex": [
+    [
+     "High costs put us at a disadvantage.",
+     "高昂成本使我們處於劣勢。"
+    ],
+    [
+     "What is the main disadvantage of this plan?",
+     "這項計畫的主要缺點是什麼？"
+    ],
+    [
+     "The lack of experience is a slight disadvantage.",
+     "缺乏經驗是一個小小的劣勢。"
+    ]
+   ]
+  },
+  {
+   "word": "driving",
+   "ph": "/ˈdraɪvɪŋ/",
+   "pos": "adj. 有活力的；推動的 | n. 駕駛",
+   "zh": "有活力的；推動的；駕駛",
+   "colloc": "driving force 推動力 | driving ambition 強烈的野心",
+   "distinct": "propulsive 推進的 | dynamic 動態的",
+   "ex": [
+    [
+     "Innovation is the driving force behind our growth.",
+     "創新是我們成長背後的推動力。"
+    ],
+    [
+     "He has a driving ambition to succeed.",
+     "他有成功的強烈企圖心。"
+    ],
+    [
+     "The driving rain delayed the supply delivery.",
+     "大雨延誤了物資的運送。"
+    ]
+   ]
+  },
+  {
+   "word": "elect",
+   "ph": "/ɪˈlekt/",
+   "pos": "v. 選舉；選擇 | adj. 當選的",
+   "zh": "選舉；選擇；當選的",
+   "colloc": "elect a representative 選出代表 | elect to do something 選擇做某事",
+   "distinct": "select 挑選 | choose 選擇",
+   "ex": [
+    [
+     "The board will elect a new chairman today.",
+     "董事會今天將選出新任主席。"
+    ],
+    [
+     "They elected to extend the contract period.",
+     "他們選擇延長合約期限。"
+    ],
+    [
+     "Members will elect the new management team.",
+     "成員們將選出新的管理團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "electronics",
+   "ph": "/ɪˌlekˈtrɑːnɪks/",
+   "pos": "n. 電子學；電子產品",
+   "zh": "電子學；電子產品",
+   "colloc": "consumer electronics 消費性電子產品 | electronics industry 電子產業",
+   "distinct": "electric 電力的 | electrical 電氣的",
+   "ex": [
+    [
+     "Our company dominates the local electronics market.",
+     "我們公司主導了當地的電子市場。"
+    ],
+    [
+     "He works for a leading electronics firm.",
+     "他在一家領先的電子公司工作。"
+    ],
+    [
+     "The electronics store is having a sale.",
+     "那家電子產品商店正在促銷。"
+    ]
+   ]
+  },
+  {
+   "word": "elsewhere",
+   "ph": "/ˌelsˈwer/",
+   "pos": "adv. 在別處；到別處",
+   "zh": "在別處；到別處",
+   "colloc": "look elsewhere 到別處尋找 | seek elsewhere 在其他地方尋求",
+   "distinct": "somewhere 某處 | nowhere 無處",
+   "ex": [
+    [
+     "If you are not satisfied, look elsewhere.",
+     "如果您不滿意，可以到別處看看。"
+    ],
+    [
+     "We might have to source components elsewhere.",
+     "我們可能必須去別處採購零件。"
+    ],
+    [
+     "The talent we need is available elsewhere.",
+     "我們需要的人才在別處找得到。"
+    ]
+   ]
+  },
+  {
+   "word": "established",
+   "ph": "/ɪˈstæblɪʃt/",
+   "pos": "adj. 已確立的；知名的",
+   "zh": "已確立的；知名的",
+   "colloc": "well established 根基穩固的 | established company 老字號公司",
+   "distinct": "founded 成立的 | traditional 傳統的",
+   "ex": [
+    [
+     "We are an established leader in the field.",
+     "我們是該領域中已確立的領導者。"
+    ],
+    [
+     "The established procedures must be followed strictly.",
+     "必須嚴格遵守既定的程序。"
+    ],
+    [
+     "This is an established firm with long history.",
+     "這是一家歷史悠久且穩固的公司。"
+    ]
+   ]
+  },
+  {
+   "word": "exaggerate",
+   "ph": "/ɪɡˈzædʒəreɪt/",
+   "pos": "v. 誇張；誇大",
+   "zh": "誇張；誇大",
+   "colloc": "exaggerate the results 誇大結果 | do not exaggerate 不要誇大",
+   "distinct": "overstate 誇大陳述 | overemphasize 過度強調",
+   "ex": [
+    [
+     "Do not exaggerate the potential benefits of this.",
+     "不要誇大這件事的潛在利益。"
+    ],
+    [
+     "He tends to exaggerate his past achievements.",
+     "他傾向於誇大過去的成就。"
+    ],
+    [
+     "The report did not exaggerate the risks involved.",
+     "報告並沒有誇大所涉及的風險。"
+    ]
+   ]
+  },
+  {
+   "word": "exposed",
+   "ph": "/ɪkˈspoʊzd/",
+   "pos": "adj. 暴露的；無遮蔽的",
+   "zh": "暴露的；無遮蔽的",
+   "colloc": "exposed to risk 暴露於風險 | exposed to sunlight 暴露在陽光下",
+   "distinct": "vulnerable 易受傷的 | unprotected 未受保護的",
+   "ex": [
+    [
+     "The company is exposed to market volatility.",
+     "該公司暴露在市場波動的風險中。"
+    ],
+    [
+     "These areas are exposed to extreme weather.",
+     "這些區域暴露在極端天氣下。"
+    ],
+    [
+     "Data can be exposed if not encrypted properly.",
+     "如果未正確加密，資料可能會外洩。"
+    ]
+   ]
+  },
+  {
+   "word": "extraordinary",
+   "ph": "/ɪkˈstrɔːrdəneri/",
+   "pos": "adj. 非凡的；特別的",
+   "zh": "非凡的；特別的",
+   "colloc": "extraordinary effort 非凡的努力 | extraordinary success 非凡的成功",
+   "distinct": "exceptional 特殊的 | remarkable 卓越的",
+   "ex": [
+    [
+     "She made an extraordinary contribution to the team.",
+     "她為團隊做出了非凡的貢獻。"
+    ],
+    [
+     "The growth this year has been extraordinary.",
+     "今年的成長非常驚人。"
+    ],
+    [
+     "He showed extraordinary skill during the crisis.",
+     "他在危機期間展現了非凡的技巧。"
+    ]
+   ]
+  },
+  {
+   "word": "failure",
+   "ph": "/ˈfeɪljər/",
+   "pos": "n. 失敗；故障",
+   "zh": "失敗；故障",
+   "colloc": "failure to comply 未能遵守 | system failure 系統故障",
+   "distinct": "flop 徹底失敗 | breakdown 損壞",
+   "ex": [
+    [
+     "Failure to finish on time will cost us.",
+     "未能準時完成將使我們付出代價。"
+    ],
+    [
+     "The project was a failure due to poor planning.",
+     "由於計畫不周，該專案失敗了。"
+    ],
+    [
+     "Technical failure caused the website to crash.",
+     "技術故障導致網站崩潰。"
+    ]
+   ]
+  },
+  {
+   "word": "fundamental",
+   "ph": "/ˌfʌndəˈmentl/",
+   "pos": "adj. 根本的；基礎的 | n. 基本原理",
+   "zh": "根本的；基礎的；基本原理",
+   "colloc": "fundamental change 根本性的改變 | fundamental principles 基本原則",
+   "distinct": "essential 必要的 | basic 基本的",
+   "ex": [
+    [
+     "These are the fundamental rules of our business.",
+     "這些是我們業務的基本原則。"
+    ],
+    [
+     "We need to make a fundamental shift in strategy.",
+     "我們需要對策略進行根本性的轉變。"
+    ],
+    [
+     "Understanding customers is fundamental to our success.",
+     "了解客戶是我們成功的根本。"
+    ]
+   ]
+  },
+  {
+   "word": "further",
+   "ph": "/ˈfɜːrðər/",
+   "pos": "adj. 更進一步的 | v. 促進 | adv. 進一步地",
+   "zh": "更進一步的；促進；進一步地",
+   "colloc": "further information 進一步資訊 | further development 進一步發展",
+   "distinct": "farther 更遠的（空間）| additional 額外的",
+   "ex": [
+    [
+     "Please contact us for further information.",
+     "請聯繫我們以獲取進一步資訊。"
+    ],
+    [
+     "We need to discuss this further tomorrow.",
+     "我們明天需要再進一步討論此事。"
+    ],
+    [
+     "The program helps to further your career prospects.",
+     "該計畫有助於促進您的職涯前景。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 11,
+ "theme": "教材字彙・基礎 550–650 第 11 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "attend",
+   "ph": "/əˈtend/",
+   "pos": "v. 出席；參加；照料",
+   "zh": "出席；參加",
+   "colloc": "attend a meeting 出席會議 | attend a seminar 參加研討會",
+   "distinct": "participate in 參與（強調互動）| join 加入（強調成為一份子）",
+   "ex": [
+    [
+     "Please confirm if you can attend the meeting.",
+     "請確認您是否能出席會議。"
+    ],
+    [
+     "All staff members must attend the training session.",
+     "所有員工必須參加這次培訓課程。"
+    ],
+    [
+     "She attended a conference in Tokyo last week.",
+     "她上週去東京參加了一場研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "attract",
+   "ph": "/əˈtrækt/",
+   "pos": "v. 吸引；引起",
+   "zh": "吸引；引起",
+   "colloc": "attract attention 吸引注意 | attract customers 吸引顧客",
+   "distinct": "distract 分心；使轉移注意力 | extract 提取；選出",
+   "ex": [
+    [
+     "The new marketing campaign attracted many customers.",
+     "新的行銷活動吸引了許多顧客。"
+    ],
+    [
+     "Our company aims to attract top talent globally.",
+     "我們公司目標在於吸引全球頂尖人才。"
+    ],
+    [
+     "High salaries help attract qualified job applicants.",
+     "高薪有助於吸引合格的求職者。"
+    ]
+   ]
+  },
+  {
+   "word": "average",
+   "ph": "/ˈævərɪdʒ/",
+   "pos": "adj. 平均的；普通的 | n. 平均值",
+   "zh": "平均的；普通的",
+   "colloc": "above average 高於平均 | on average 平均而言",
+   "distinct": "standard 標準的 | normal 正常的",
+   "ex": [
+    [
+     "The average salary for this position is competitive.",
+     "這個職位的平均薪資很有競爭力。"
+    ],
+    [
+     "On average, we process fifty orders every day.",
+     "我們平均每天處理五十筆訂單。"
+    ],
+    [
+     "His performance was above the department average.",
+     "他的表現高於部門平均水準。"
+    ]
+   ]
+  },
+  {
+   "word": "balance",
+   "ph": "/ˈbæləns/",
+   "pos": "n. 平衡；餘額 | v. 使平衡",
+   "zh": "平衡；餘額",
+   "colloc": "bank balance 銀行餘額 | strike a balance 取得平衡",
+   "distinct": "remain 剩餘物 | budget 預算",
+   "ex": [
+    [
+     "Please check your current account balance online.",
+     "請在線上查詢您目前的帳戶餘額。"
+    ],
+    [
+     "We must balance our work and personal lives.",
+     "我們必須平衡工作與個人生活。"
+    ],
+    [
+     "The company needs to balance quality and costs.",
+     "公司需要平衡品質與成本。"
+    ]
+   ]
+  },
+  {
+   "word": "career",
+   "ph": "/kəˈrɪər/",
+   "pos": "n. 職業；生涯",
+   "zh": "職業；生涯",
+   "colloc": "career path 職涯路徑 | pursue a career 從事某種職業",
+   "distinct": "job 工作（特定職務）| profession 專業職業（需執照）",
+   "ex": [
+    [
+     "She has built a successful career in finance.",
+     "她在金融界建立了成功的職涯。"
+    ],
+    [
+     "I am considering a change in my career path.",
+     "我正在考慮轉換職涯跑道。"
+    ],
+    [
+     "Many young people seek career development opportunities.",
+     "許多年輕人尋求職涯發展機會。"
+    ]
+   ]
+  },
+  {
+   "word": "challenging",
+   "ph": "/ˈtʃælɪndʒɪŋ/",
+   "pos": "adj. 具挑戰性的；困難的",
+   "zh": "具挑戰性的；困難的",
+   "colloc": "challenging task 挑戰性的任務 | challenging environment 艱難環境",
+   "distinct": "difficult 困難的 | demanding 嚴格要求的",
+   "ex": [
+    [
+     "This project is the most challenging one yet.",
+     "這個專案是目前最具挑戰性的一個。"
+    ],
+    [
+     "He enjoys working in a challenging environment.",
+     "他喜歡在具挑戰性的環境中工作。"
+    ],
+    [
+     "We faced some challenging issues during the launch.",
+     "我們在發布期間面臨了一些棘手的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "choice",
+   "ph": "/tʃɔɪs/",
+   "pos": "n. 選擇；選項",
+   "zh": "選擇；選項",
+   "colloc": "have no choice 沒有選擇 | make a choice 做決定",
+   "distinct": "option 選項 | selection 選拔；精選",
+   "ex": [
+    [
+     "We have several choices for the new office location.",
+     "我們有幾個新辦公地點的選擇。"
+    ],
+    [
+     "Making the right choice is crucial for success.",
+     "做出正確的選擇對於成功至關重要。"
+    ],
+    [
+     "There was a wide choice of products available.",
+     "現場有廣泛的產品選擇。"
+    ]
+   ]
+  },
+  {
+   "word": "combination",
+   "ph": "/ˌkɒmbɪˈneɪʃn/",
+   "pos": "n. 結合；組合",
+   "zh": "結合；組合",
+   "colloc": "a combination of 結合了... | unique combination 獨特的組合",
+   "distinct": "mixture 混合物 | collection 收藏；收集",
+   "ex": [
+    [
+     "Success is a combination of hard work and luck.",
+     "成功是努力與運氣的結合。"
+    ],
+    [
+     "This package is a combination of two services.",
+     "這個包裹是兩項服務的組合。"
+    ],
+    [
+     "We used a unique combination of marketing strategies.",
+     "我們使用了獨特的行銷策略組合。"
+    ]
+   ]
+  },
+  {
+   "word": "coming",
+   "ph": "/ˈkʌmɪŋ/",
+   "pos": "adj. 即將到來的",
+   "zh": "即將到來的",
+   "colloc": "coming week 下週 | coming season 即將到來的季節",
+   "distinct": "future 未來的 | next 下一個",
+   "ex": [
+    [
+     "We are preparing for the coming busy season.",
+     "我們正在為即將到來的旺季做準備。"
+    ],
+    [
+     "The coming meeting will focus on budget plans.",
+     "即將到來的會議將聚焦於預算計畫。"
+    ],
+    [
+     "Updates will be released in the coming days.",
+     "更新資訊將在未來幾天內發布。"
+    ]
+   ]
+  },
+  {
+   "word": "committee",
+   "ph": "/kəˈmɪti/",
+   "pos": "n. 委員會",
+   "zh": "委員會",
+   "colloc": "steering committee 指導委員會 | on a committee 隸屬於委員會",
+   "distinct": "board 董事會 | department 部門",
+   "ex": [
+    [
+     "The committee will meet to review the proposal.",
+     "委員會將開會審核這項提案。"
+    ],
+    [
+     "She serves on the planning committee this year.",
+     "她今年在規劃委員會任職。"
+    ],
+    [
+     "The committee reached a final decision yesterday.",
+     "委員會昨天做出了最終決定。"
+    ]
+   ]
+  },
+  {
+   "word": "considerable",
+   "ph": "/kənˈsɪdərəbl/",
+   "pos": "adj. 相當多的；值得考慮的",
+   "zh": "相當多的；相當大的",
+   "colloc": "considerable amount 相當大的數量 | considerable time 花費相當多時間",
+   "distinct": "considerate 體貼的 | thoughtful 深思熟慮的",
+   "ex": [
+    [
+     "The project required a considerable amount of time.",
+     "這個專案花費了相當多的時間。"
+    ],
+    [
+     "There is considerable interest in the new product.",
+     "大眾對新產品有相當大的興趣。"
+    ],
+    [
+     "He has made considerable progress in his research.",
+     "他在研究上取得了相當大的進展。"
+    ]
+   ]
+  },
+  {
+   "word": "constant",
+   "ph": "/ˈkɒnstənt/",
+   "pos": "adj. 持續的；不變的",
+   "zh": "持續的；不變的",
+   "colloc": "constant change 持續的改變 | constant demand 持續的需求",
+   "distinct": "continuous 連續不斷的 | frequent 頻繁的",
+   "ex": [
+    [
+     "We face constant changes in the market trend.",
+     "我們面對市場趨勢的持續變化。"
+    ],
+    [
+     "The printer needs constant maintenance and care.",
+     "這台印表機需要持續的維護與保養。"
+    ],
+    [
+     "She received constant support from her teammates.",
+     "她持續獲得隊友的支持。"
+    ]
+   ]
+  },
+  {
+   "word": "contain",
+   "ph": "/kənˈteɪn/",
+   "pos": "v. 包含；容納；抑制",
+   "zh": "包含；容納",
+   "colloc": "contain information 包含資訊 | contain costs 控制成本",
+   "distinct": "include 包含（部分）| consist of 由...組成",
+   "ex": [
+    [
+     "This folder contains all the necessary documents.",
+     "這個資料夾包含所有必要的檔案。"
+    ],
+    [
+     "The report contains valuable market analysis data.",
+     "這份報告包含有價值的市場分析數據。"
+    ],
+    [
+     "We need to contain costs to stay profitable.",
+     "我們需要控制成本以維持獲利。"
+    ]
+   ]
+  },
+  {
+   "word": "damage",
+   "ph": "/ˈdæmɪdʒ/",
+   "pos": "n. 損害；賠償金 | v. 損壞",
+   "zh": "損害；損壞",
+   "colloc": "cause damage 造成損害 | property damage 財產損失",
+   "distinct": "break 打破 | destroy 毀滅",
+   "ex": [
+    [
+     "The storm caused severe damage to the building.",
+     "暴風雨對建築物造成了嚴重的損害。"
+    ],
+    [
+     "Please report any damage to the office equipment.",
+     "請回報辦公設備的任何損壞。"
+    ],
+    [
+     "Careless handling can damage the delicate parts.",
+     "粗心的搬運可能會損壞精密的零件。"
+    ]
+   ]
+  },
+  {
+   "word": "damaged",
+   "ph": "/ˈdæmɪdʒd/",
+   "pos": "adj. 受損的",
+   "zh": "受損的",
+   "colloc": "badly damaged 嚴重受損 | damaged goods 受損商品",
+   "distinct": "broken 破碎的 | flawed 有瑕疵的",
+   "ex": [
+    [
+     "We found some damaged items in the shipment.",
+     "我們在貨運中發現了一些受損的物品。"
+    ],
+    [
+     "The damaged files were recovered by the IT team.",
+     "受損的檔案已被資訊團隊修復。"
+    ],
+    [
+     "They offered a discount for the damaged product.",
+     "他們針對受損產品提供了折扣。"
+    ]
+   ]
+  },
+  {
+   "word": "desire",
+   "ph": "/dɪˈzaɪər/",
+   "pos": "n. 慾望；願望 | v. 渴望",
+   "zh": "慾望；願望；渴望",
+   "colloc": "desire for success 對成功的渴望 | strong desire 強烈的願望",
+   "distinct": "wish 希望 | demand 要求",
+   "ex": [
+    [
+     "He has a strong desire to lead the team.",
+     "他有強烈領導團隊的渴望。"
+    ],
+    [
+     "They desire to expand their business internationally.",
+     "他們渴望將業務擴展到國際。"
+    ],
+    [
+     "The client expressed a desire for better service.",
+     "客戶表達了對更好服務的需求。"
+    ]
+   ]
+  },
+  {
+   "word": "detail",
+   "ph": "/ˈdiːteɪl/",
+   "pos": "n. 細節 | v. 詳細說明",
+   "zh": "細節；詳細說明",
+   "colloc": "in detail 詳細地 | pay attention to detail 注意細節",
+   "distinct": "specifics 具體事項 | information 資訊",
+   "ex": [
+    [
+     "Please explain the project plan in more detail.",
+     "請更詳細地說明專案計畫。"
+    ],
+    [
+     "The contract contains all the specific details.",
+     "合約中包含了所有具體的細節。"
+    ],
+    [
+     "He detailed the procedures during the briefing.",
+     "他在簡報中詳細說明了各項程序。"
+    ]
+   ]
+  },
+  {
+   "word": "emphasize",
+   "ph": "/ˈemfəsaɪz/",
+   "pos": "v. 強調；著重",
+   "zh": "強調；著重",
+   "colloc": "emphasize the importance of 強調...的重要性 | strongly emphasize 強烈強調",
+   "distinct": "highlight 強調；突顯 | stress 強調（壓力）",
+   "ex": [
+    [
+     "The manager emphasized the importance of teamwork.",
+     "經理強調了團隊合作的重要性。"
+    ],
+    [
+     "Our company emphasizes providing excellent customer service.",
+     "我們公司強調提供卓越的客戶服務。"
+    ],
+    [
+     "She emphasized that deadlines must be met.",
+     "她強調必須遵守截止日期。"
+    ]
+   ]
+  },
+  {
+   "word": "enable",
+   "ph": "/ɪˈneɪbl/",
+   "pos": "v. 使能夠；使成為可能",
+   "zh": "使能夠；使可能",
+   "colloc": "enable someone to do something 使某人能夠做某事 | enable access 允許存取",
+   "distinct": "allow 允許 | permit 許可",
+   "ex": [
+    [
+     "New software will enable us to work faster.",
+     "新軟體將使我們工作得更快。"
+    ],
+    [
+     "This feature enables users to track their progress.",
+     "此功能讓使用者能追蹤他們的進度。"
+    ],
+    [
+     "The loan will enable the company to expand.",
+     "這筆貸款將使公司能夠擴張業務。"
+    ]
+   ]
+  },
+  {
+   "word": "entire",
+   "ph": "/ɪnˈtaɪər/",
+   "pos": "adj. 全部的；整個的",
+   "zh": "全部的；整個的",
+   "colloc": "the entire day 一整天 | the entire staff 全體員工",
+   "distinct": "whole 全部的 | complete 完整的",
+   "ex": [
+    [
+     "The entire project was completed ahead of schedule.",
+     "整個專案提前完成了。"
+    ],
+    [
+     "He spent the entire day reviewing the documents.",
+     "他花了一整天審核這些文件。"
+    ],
+    [
+     "The entire staff was invited to the party.",
+     "全體員工都受邀參加宴會。"
+    ]
+   ]
+  }
+ ]
+}

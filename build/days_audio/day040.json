@@ -1,0 +1,448 @@
+{
+ "day": 40,
+ "theme": "教材字彙・進階 650–750 第 40 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "final",
+   "ph": "/ˈfaɪnl/",
+   "pos": "adj. 最後的；最終的 | n. 期末考；決賽",
+   "zh": "最終的；決賽",
+   "colloc": "final decision 最後決定 | final approval 最終核准",
+   "distinct": "last 最後的（順序）| ultimate 終極的",
+   "ex": [
+    [
+     "The final report is due next Friday.",
+     "最終報告將於下週五截止。"
+    ],
+    [
+     "We reached a final decision this morning.",
+     "我們今天早上達成了最終決定。"
+    ],
+    [
+     "Please review the final version of the contract.",
+     "請審閱合約的最終版本。"
+    ]
+   ]
+  },
+  {
+   "word": "finish",
+   "ph": "/ˈfɪnɪʃ/",
+   "pos": "v. 完成；結束 | n. 結尾；最後階段",
+   "zh": "完成；結束",
+   "colloc": "finish the project 完成專案 | finish on time 按時完成",
+   "distinct": "complete 完成（強調完整）| terminate 終止（合約）",
+   "ex": [
+    [
+     "I need to finish this report by noon.",
+     "我需要在中午前完成這份報告。"
+    ],
+    [
+     "Our team finished the task ahead of schedule.",
+     "我們團隊超前進度完成了任務。"
+    ],
+    [
+     "Have you finished reading the meeting minutes?",
+     "你看完會議記錄了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "firm",
+   "ph": "/fɜːrm/",
+   "pos": "n. 公司；商號 | adj. 堅固的；堅定的",
+   "zh": "公司；商號",
+   "colloc": "law firm 法律事務所 | accounting firm 會計師事務所",
+   "distinct": "company 一般公司 | corporation 大型企業",
+   "ex": [
+    [
+     "She works for a top consulting firm.",
+     "她在一家頂尖顧問公司工作。"
+    ],
+    [
+     "The firm specializes in international trade law.",
+     "這家事務所專精於國際貿易法。"
+    ],
+    [
+     "Our firm is expanding its market share.",
+     "我們公司正在擴大市場佔有率。"
+    ]
+   ]
+  },
+  {
+   "word": "flight",
+   "ph": "/flaɪt/",
+   "pos": "n. 航班；飛行",
+   "zh": "航班；飛行",
+   "colloc": "book a flight 訂機票 | flight attendant 空服員",
+   "distinct": "trip 旅行（過程）| journey 長途旅行",
+   "ex": [
+    [
+     "My flight to Tokyo departs at eight.",
+     "我飛往東京的班機八點起飛。"
+    ],
+    [
+     "Due to bad weather, the flight was delayed.",
+     "由於惡劣天氣，航班延誤了。"
+    ],
+    [
+     "I have to catch an early morning flight.",
+     "我必須趕搭早班飛機。"
+    ]
+   ]
+  },
+  {
+   "word": "floor",
+   "ph": "/flɔːr/",
+   "pos": "n. 地板；樓層 | v. 鋪地板",
+   "zh": "地板；樓層",
+   "colloc": "on the third floor 在三樓 | floor plan 平面圖",
+   "distinct": "level 水平；樓層 | ground 地面",
+   "ex": [
+    [
+     "Our office is located on the tenth floor.",
+     "我們的辦公室位於十樓。"
+    ],
+    [
+     "Please show the client the new floor plan.",
+     "請向客戶展示新的平面圖。"
+    ],
+    [
+     "The warehouse floor needs to be cleaned.",
+     "倉庫地板需要清理。"
+    ]
+   ]
+  },
+  {
+   "word": "friendly",
+   "ph": "/ˈfrendli/",
+   "pos": "adj. 友善的；親切的",
+   "zh": "友善的；親切的",
+   "colloc": "user-friendly 易於使用的 | environmentally friendly 環保的",
+   "distinct": "kind 仁慈的 | amiable 和藹的",
+   "ex": [
+    [
+     "The sales team provided friendly service today.",
+     "銷售團隊今天提供了友善的服務。"
+    ],
+    [
+     "Our new software is very user-friendly.",
+     "我們的新軟體非常容易上手。"
+    ],
+    [
+     "She maintains friendly relations with all clients.",
+     "她與所有客戶維持友好的關係。"
+    ]
+   ]
+  },
+  {
+   "word": "generally",
+   "ph": "/ˈdʒenərəli/",
+   "pos": "adv. 普遍地；大致上",
+   "zh": "普遍地；大致上",
+   "colloc": "generally accepted 普遍接受的 | generally speaking 一般來說",
+   "distinct": "usually 通常 | mostly 大部分",
+   "ex": [
+    [
+     "Generally speaking, the project is moving well.",
+     "一般來說，這個專案進展順利。"
+    ],
+    [
+     "This policy is generally accepted by employees.",
+     "這項政策普遍受到員工接受。"
+    ],
+    [
+     "The office is generally quiet in the mornings.",
+     "辦公室早上通常很安靜。"
+    ]
+   ]
+  },
+  {
+   "word": "gentle",
+   "ph": "/ˈdʒentl/",
+   "pos": "adj. 溫和的；輕柔的",
+   "zh": "溫和的；輕柔的",
+   "colloc": "gentle reminder 溫馨提醒 | gentle slope 平緩的斜坡",
+   "distinct": "mild 輕微的 | soft 柔軟的",
+   "ex": [
+    [
+     "A gentle reminder that the deadline is tomorrow.",
+     "溫馨提醒截止日期是明天。"
+    ],
+    [
+     "The manager gave a gentle critique of my work.",
+     "經理對我的工作提出了溫和的批評。"
+    ],
+    [
+     "Please handle the fragile equipment with care.",
+     "請輕柔地處理這些易碎設備。"
+    ]
+   ]
+  },
+  {
+   "word": "holiday",
+   "ph": "/ˈhɑːlədeɪ/",
+   "pos": "n. 假期；節日",
+   "zh": "假期；節日",
+   "colloc": "take a holiday 休假 | public holiday 國定假日",
+   "distinct": "vacation 休假（美式）| break 休息時間",
+   "ex": [
+    [
+     "The office will be closed for the holiday.",
+     "辦公室將於假期期間關閉。"
+    ],
+    [
+     "Are you planning to take a holiday soon?",
+     "你打算近期休假嗎？"
+    ],
+    [
+     "We expect more sales during the holiday season.",
+     "我們預期在假期期間銷售額會增加。"
+    ]
+   ]
+  },
+  {
+   "word": "item",
+   "ph": "/ˈaɪtəm/",
+   "pos": "n. 項目；商品；條款",
+   "zh": "項目；商品；條款",
+   "colloc": "agenda item 會議項目 | item list 商品清單",
+   "distinct": "object 物體 | article 物品（文章）",
+   "ex": [
+    [
+     "Please review each item on the agenda.",
+     "請審閱議程上的每一個項目。"
+    ],
+    [
+     "This store offers a wide range of items.",
+     "這家店提供多樣化的商品。"
+    ],
+    [
+     "Check the shipping list for every item.",
+     "核對出貨清單上的每一項物品。"
+    ]
+   ]
+  },
+  {
+   "word": "journalist",
+   "ph": "/ˈdʒɜːrnəlɪst/",
+   "pos": "n. 新聞記者；新聞工作者",
+   "zh": "新聞記者",
+   "colloc": "investigative journalist 調查記者 | freelance journalist 自由撰稿記者",
+   "distinct": "reporter 報導者 | editor 編輯",
+   "ex": [
+    [
+     "A journalist interviewed our CEO yesterday.",
+     "一名記者昨天採訪了我們的執行長。"
+    ],
+    [
+     "The journalist covers global economic news.",
+     "該記者報導全球經濟新聞。"
+    ],
+    [
+     "Many journalists attended the press conference.",
+     "許多記者參加了這場記者會。"
+    ]
+   ]
+  },
+  {
+   "word": "journey",
+   "ph": "/ˈdʒɜːrni/",
+   "pos": "n. 旅行；旅程",
+   "zh": "旅行；旅程",
+   "colloc": "business journey 商務旅程 | long journey 長途旅行",
+   "distinct": "trip 短途旅行 | voyage 海上航行",
+   "ex": [
+    [
+     "The journey to the factory took three hours.",
+     "前往工廠的旅程花了三個小時。"
+    ],
+    [
+     "Starting a new business is a challenging journey.",
+     "創業是一段充滿挑戰的旅程。"
+    ],
+    [
+     "She documented her journey across the country.",
+     "她記錄了她橫跨全國的旅程。"
+    ]
+   ]
+  },
+  {
+   "word": "legal",
+   "ph": "/ˈliːɡl/",
+   "pos": "adj. 法律的；合法的",
+   "zh": "法律的；合法的",
+   "colloc": "legal advice 法律諮詢 | legal action 法律行動",
+   "distinct": "lawful 合法的（符合法律）| legitimate 合理的",
+   "ex": [
+    [
+     "We need to seek legal advice for this contract.",
+     "我們需要為這份合約尋求法律建議。"
+    ],
+    [
+     "The company is taking legal action against them.",
+     "公司正對他們採取法律行動。"
+    ],
+    [
+     "Ensure all documents follow legal requirements.",
+     "確保所有文件符合法律要求。"
+    ]
+   ]
+  },
+  {
+   "word": "length",
+   "ph": "/leŋkθ/",
+   "pos": "n. 長度；期間",
+   "zh": "長度；期間",
+   "colloc": "full length 全長 | length of time 時間長度",
+   "distinct": "distance 距離 | width 寬度",
+   "ex": [
+    [
+     "The length of the contract is two years.",
+     "合約的長度為兩年。"
+    ],
+    [
+     "Please adjust the length of your presentation.",
+     "請調整你簡報的長度。"
+    ],
+    [
+     "Consider the length of time for the training.",
+     "考慮一下訓練所需的時間。"
+    ]
+   ]
+  },
+  {
+   "word": "lively",
+   "ph": "/ˈlaɪvli/",
+   "pos": "adj. 充滿活力的；熱鬧的",
+   "zh": "充滿活力的；熱鬧的",
+   "colloc": "lively discussion 熱烈的討論 | lively atmosphere 熱鬧的氣氛",
+   "distinct": "active 活躍的 | energetic 精力充沛的",
+   "ex": [
+    [
+     "The team had a lively discussion about strategy.",
+     "團隊針對策略進行了熱烈的討論。"
+    ],
+    [
+     "There was a lively atmosphere at the expo.",
+     "博覽會現場氣氛十分熱鬧。"
+    ],
+    [
+     "She gave a lively presentation to the investors.",
+     "她為投資人帶來了一場充滿活力的簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "menu",
+   "ph": "/ˈmenjuː/",
+   "pos": "n. 菜單；選項選單",
+   "zh": "菜單；選單",
+   "colloc": "lunch menu 午餐菜單 | drop-down menu 下拉式選單",
+   "distinct": "list 清單 | catalog 目錄",
+   "ex": [
+    [
+     "Could you please bring us the lunch menu?",
+     "可以請你拿午餐菜單給我們嗎？"
+    ],
+    [
+     "Click the file menu to save the document.",
+     "點擊檔案選單來儲存文件。"
+    ],
+    [
+     "The seasonal menu changes every three months.",
+     "季節性菜單每三個月更換一次。"
+    ]
+   ]
+  },
+  {
+   "word": "museum",
+   "ph": "/mjuˈziːəm/",
+   "pos": "n. 博物館",
+   "zh": "博物館",
+   "colloc": "art museum 美術館 | visit a museum 參觀博物館",
+   "distinct": "gallery 畫廊 | exhibition 展覽",
+   "ex": [
+    [
+     "The museum is closed on Mondays for maintenance.",
+     "博物館週一休館進行維護。"
+    ],
+    [
+     "We organized a trip to the local museum.",
+     "我們組織了一趟參觀當地博物館的行程。"
+    ],
+    [
+     "The new museum wing opens next month.",
+     "博物館的新展館將於下個月開幕。"
+    ]
+   ]
+  },
+  {
+   "word": "obviously",
+   "ph": "/ˈɑːbviəsli/",
+   "pos": "adv. 明顯地；顯然地",
+   "zh": "明顯地；顯然地",
+   "colloc": "obviously true 明顯正確的 | obviously disappointed 顯然很失望",
+   "distinct": "clearly 清晰地 | apparently 似乎",
+   "ex": [
+    [
+     "The client was obviously pleased with the design.",
+     "客戶顯然對設計感到滿意。"
+    ],
+    [
+     "She is obviously the most qualified for the job.",
+     "她顯然是最有資格勝任這份工作的人。"
+    ],
+    [
+     "There is obviously a misunderstanding regarding the terms.",
+     "關於條款顯然有誤解。"
+    ]
+   ]
+  },
+  {
+   "word": "owner",
+   "ph": "/ˈoʊnər/",
+   "pos": "n. 物主；所有人；業主",
+   "zh": "物主；所有人",
+   "colloc": "business owner 企業主 | property owner 房產所有人",
+   "distinct": "holder 持有人 | landlord 房東",
+   "ex": [
+    [
+     "The owner of the company approved the budget.",
+     "公司所有人批准了這份預算。"
+    ],
+    [
+     "Contact the building owner regarding the repairs.",
+     "針對修繕問題聯繫建物所有權人。"
+    ],
+    [
+     "He is the proud owner of this small bakery.",
+     "他是這家小型烘焙坊的自豪店主。"
+    ]
+   ]
+  },
+  {
+   "word": "photographer",
+   "ph": "/fəˈtɑːɡrəfər/",
+   "pos": "n. 攝影師",
+   "zh": "攝影師",
+   "colloc": "professional photographer 專業攝影師 | hire a photographer 聘請攝影師",
+   "distinct": "journalist 記者 | artist 藝術家",
+   "ex": [
+    [
+     "We hired a professional photographer for the event.",
+     "我們為這場活動聘請了一位專業攝影師。"
+    ],
+    [
+     "The photographer captured great shots of the team.",
+     "攝影師捕捉了團隊精彩的照片。"
+    ],
+    [
+     "She works as a freelance photographer for magazines.",
+     "她擔任雜誌的自由攝影師。"
+    ]
+   ]
+  }
+ ]
+}

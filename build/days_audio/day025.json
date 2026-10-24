@@ -1,0 +1,448 @@
+{
+ "day": 25,
+ "theme": "教材字彙・基礎 550–650 第 25 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "spending",
+   "ph": "/ˈspendɪŋ/",
+   "pos": "n. 開銷；支出",
+   "zh": "開銷；支出",
+   "colloc": "government spending 政府支出 | consumer spending 消費支出",
+   "distinct": "expense 費用 | cost 成本",
+   "ex": [
+    [
+     "The company reduced its travel spending this year.",
+     "公司今年減少了差旅支出。"
+    ],
+    [
+     "Consumer spending has grown significantly during the season.",
+     "消費支出在本季顯著成長。"
+    ],
+    [
+     "Budget cuts are necessary to control excessive spending.",
+     "為了控制過度支出，預算刪減是必要的。"
+    ]
+   ]
+  },
+  {
+   "word": "standard",
+   "ph": "/ˈstændərd/",
+   "pos": "n. 標準；水準 | adj. 標準的",
+   "zh": "標準；水準",
+   "colloc": "high standard 高標準 | meet the standard 符合標準",
+   "distinct": "criterion 準則 | norm 規範",
+   "ex": [
+    [
+     "Our products meet the highest quality standards.",
+     "我們的產品符合最高品質標準。"
+    ],
+    [
+     "We must maintain a high standard of customer service.",
+     "我們必須維持高水準的客戶服務。"
+    ],
+    [
+     "It is standard practice to review all contracts.",
+     "審閱所有合約是標準作業程序。"
+    ]
+   ]
+  },
+  {
+   "word": "steady",
+   "ph": "/ˈstedi/",
+   "pos": "adj. 穩定的；平穩的",
+   "zh": "穩定的；平穩的",
+   "colloc": "steady growth 穩定成長 | steady job 穩定的工作",
+   "distinct": "stable 穩固的 | constant 持續的",
+   "ex": [
+    [
+     "The company has seen a steady increase in sales.",
+     "公司經歷了穩定的銷售成長。"
+    ],
+    [
+     "He is looking for a steady job in accounting.",
+     "他正在尋找一份穩定的會計工作。"
+    ],
+    [
+     "Prices have remained steady throughout the past month.",
+     "價格在過去一個月內保持平穩。"
+    ]
+   ]
+  },
+  {
+   "word": "stock",
+   "ph": "/stɑːk/",
+   "pos": "n. 庫存；股票",
+   "zh": "庫存；股票",
+   "colloc": "in stock 有庫存 | out of stock 缺貨",
+   "distinct": "inventory 存貨清單 | share 股份單位",
+   "ex": [
+    [
+     "We currently have plenty of stock in the warehouse.",
+     "我們目前倉庫裡有充足的庫存。"
+    ],
+    [
+     "The item is currently out of stock online.",
+     "該商品目前在網路上缺貨。"
+    ],
+    [
+     "Investors watched the company stock price closely.",
+     "投資人密切關注該公司的股價。"
+    ]
+   ]
+  },
+  {
+   "word": "successful",
+   "ph": "/səkˈsesfl/",
+   "pos": "adj. 成功的",
+   "zh": "成功的",
+   "colloc": "highly successful 極為成功的 | successful career 成功的職涯",
+   "distinct": "prosperous 繁榮的 | effective 有效的",
+   "ex": [
+    [
+     "She had a very successful career in marketing.",
+     "她在行銷領域擁有非常成功的職涯。"
+    ],
+    [
+     "The product launch was extremely successful last week.",
+     "上週的產品發表會非常成功。"
+    ],
+    [
+     "Hard work is the key to a successful project.",
+     "勤奮工作是專案成功的關鍵。"
+    ]
+   ]
+  },
+  {
+   "word": "totally",
+   "ph": "/ˈtoʊtəli/",
+   "pos": "adv. 完全地；全然地",
+   "zh": "完全地；全然地",
+   "colloc": "totally different 完全不同 | totally agree 完全同意",
+   "distinct": "completely 完全地 | entirely 全然地",
+   "ex": [
+    [
+     "These two proposals are totally different in scope.",
+     "這兩份提案在範疇上完全不同。"
+    ],
+    [
+     "I totally agree with your assessment of the market.",
+     "我完全同意你對市場的評估。"
+    ],
+    [
+     "The office was totally renovated last summer.",
+     "辦公室在去年夏天進行了徹底翻修。"
+    ]
+   ]
+  },
+  {
+   "word": "valid",
+   "ph": "/ˈvælɪd/",
+   "pos": "adj. 有效的；合法的",
+   "zh": "有效的；合法的",
+   "colloc": "valid passport 有效護照 | valid reason 合理理由",
+   "distinct": "legal 合法的 | effective 有效的（指功能）",
+   "ex": [
+    [
+     "Please ensure your parking permit is still valid.",
+     "請確保您的停車證仍然有效。"
+    ],
+    [
+     "He provided a valid reason for his absence.",
+     "他對缺席提供了合理的理由。"
+    ],
+    [
+     "The contract remains valid for another two years.",
+     "這份合約在未來兩年內仍然有效。"
+    ]
+   ]
+  },
+  {
+   "word": "vehicle",
+   "ph": "/ˈviːɪkl/",
+   "pos": "n. 車輛；交通工具",
+   "zh": "車輛；交通工具",
+   "colloc": "company vehicle 公司車輛 | motor vehicle 機動車輛",
+   "distinct": "transportation 運輸 | carriage 車廂",
+   "ex": [
+    [
+     "Every company vehicle must undergo regular maintenance.",
+     "每一輛公司車輛都必須定期保養。"
+    ],
+    [
+     "The delivery vehicle arrived earlier than expected.",
+     "配送車輛比預期更早抵達。"
+    ],
+    [
+     "Safe driving is essential for all vehicle operators.",
+     "安全駕駛對所有車輛駕駛員來說至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "waste",
+   "ph": "/weɪst/",
+   "pos": "n. 浪費；廢棄物 | v. 浪費",
+   "zh": "浪費；廢棄物",
+   "colloc": "waste time 浪費時間 | industrial waste 工業廢棄物",
+   "distinct": "trash 垃圾 | loss 損失",
+   "ex": [
+    [
+     "We should not waste time on minor details.",
+     "我們不該在細枝末節上浪費時間。"
+    ],
+    [
+     "The new policy helps reduce industrial waste output.",
+     "新政策有助於減少工業廢棄物的產出。"
+    ],
+    [
+     "It is a waste of resources to print everything.",
+     "把所有東西都印出來是一種資源浪費。"
+    ]
+   ]
+  },
+  {
+   "word": "widely",
+   "ph": "/ˈwaɪdli/",
+   "pos": "adv. 廣泛地",
+   "zh": "廣泛地",
+   "colloc": "widely used 廣泛使用的 | widely known 廣為人知的",
+   "distinct": "broadly 大體上 | extensively 廣泛地（程度更深）",
+   "ex": [
+    [
+     "This software is widely used in the industry.",
+     "這套軟體在業界被廣泛使用。"
+    ],
+    [
+     "The CEO is widely known for his vision.",
+     "執行長以其願景而廣為人知。"
+    ],
+    [
+     "Opinions on the new strategy vary widely here.",
+     "大家對新策略的意見分歧很大。"
+    ]
+   ]
+  },
+  {
+   "word": "ability",
+   "ph": "/əˈbɪləti/",
+   "pos": "n. 能力；才能",
+   "zh": "能力；才能",
+   "colloc": "ability to learn 學習能力 | proven ability 已證實的能力",
+   "distinct": "capability 潛在能力 | talent 天賦",
+   "ex": [
+    [
+     "The manager has a great ability to lead teams.",
+     "這位經理擁有卓越的團隊領導能力。"
+    ],
+    [
+     "Employees should demonstrate the ability to work independently.",
+     "員工應展現獨立工作的能力。"
+    ],
+    [
+     "Our team has the ability to meet tight deadlines.",
+     "我們的團隊有能力達成緊湊的期限。"
+    ]
+   ]
+  },
+  {
+   "word": "accurate",
+   "ph": "/ˈækjərət/",
+   "pos": "adj. 準確的；精確的",
+   "zh": "準確的；精確的",
+   "colloc": "accurate data 準確數據 | accurate report 精確報告",
+   "distinct": "precise 精確的 | exact 精確的（無誤差）",
+   "ex": [
+    [
+     "Please provide an accurate summary of the meeting.",
+     "請提供一份精確的會議摘要。"
+    ],
+    [
+     "The accountant ensured all figures were accurate.",
+     "會計師確保所有數字都是準確的。"
+    ],
+    [
+     "Getting accurate feedback is important for growth.",
+     "獲取準確的回饋對成長很重要。"
+    ]
+   ]
+  },
+  {
+   "word": "advance",
+   "ph": "/ədˈvæns/",
+   "pos": "n. 前進；進展 | v. 前進 | adj. 事前的",
+   "zh": "進展；前進；事前的",
+   "colloc": "in advance 事先 | make an advance 取得進展",
+   "distinct": "progress 進步 | improvement 改進",
+   "ex": [
+    [
+     "Please let us know your requirements in advance.",
+     "請事先告知我們您的需求。"
+    ],
+    [
+     "The technology represents a major advance in medicine.",
+     "這項技術代表了醫學上的重大進展。"
+    ],
+    [
+     "We made significant advances in the development stage.",
+     "我們在開發階段取得了顯著進展。"
+    ]
+   ]
+  },
+  {
+   "word": "agreement",
+   "ph": "/əˈɡriːmənt/",
+   "pos": "n. 同意；協定；合約",
+   "zh": "同意；協定；合約",
+   "colloc": "sign an agreement 簽署合約 | reach an agreement 達成協議",
+   "distinct": "contract 合約 | settlement 協議（解決爭端）",
+   "ex": [
+    [
+     "Both parties have finally reached a formal agreement.",
+     "雙方終於達成了一份正式協議。"
+    ],
+    [
+     "Please read the agreement before you sign it.",
+     "在簽署之前，請詳閱這份合約。"
+    ],
+    [
+     "We are in agreement regarding the project budget.",
+     "我們對專案預算達成了共識。"
+    ]
+   ]
+  },
+  {
+   "word": "alternative",
+   "ph": "/ɔːlˈtɜːrnətɪv/",
+   "pos": "n. 替代方案 | adj. 替代的",
+   "zh": "替代方案；替代的",
+   "colloc": "alternative solution 替代方案 | have no alternative 別無選擇",
+   "distinct": "option 選項 | substitute 替代品",
+   "ex": [
+    [
+     "We need to discuss an alternative solution today.",
+     "我們今天需要討論一個替代方案。"
+    ],
+    [
+     "There is an alternative route to the office.",
+     "有一條通往辦公室的替代路線。"
+    ],
+    [
+     "We have no alternative but to delay shipping.",
+     "我們別無選擇，只能延遲出貨。"
+    ]
+   ]
+  },
+  {
+   "word": "appearance",
+   "ph": "/əˈpɪərəns/",
+   "pos": "n. 外觀；出現；露面",
+   "zh": "外觀；出現；露面",
+   "colloc": "professional appearance 專業形象 | make an appearance 出席",
+   "distinct": "look 外表 | presence 出席",
+   "ex": [
+    [
+     "A professional appearance is important for interviews.",
+     "專業的形象對面試很重要。"
+    ],
+    [
+     "The CEO made a brief appearance at the party.",
+     "執行長在派對上短暫露面。"
+    ],
+    [
+     "The product appearance was changed for the relaunch.",
+     "產品的外觀為了重新上市而做了改變。"
+    ]
+   ]
+  },
+  {
+   "word": "arise",
+   "ph": "/əˈraɪz/",
+   "pos": "v. 發生；出現",
+   "zh": "發生；出現",
+   "colloc": "arise from 起因於 | problems arise 問題產生",
+   "distinct": "happen 發生 | emerge 顯現",
+   "ex": [
+    [
+     "New problems may arise during the testing phase.",
+     "測試階段可能會出現新的問題。"
+    ],
+    [
+     "Should any issues arise, please contact us immediately.",
+     "若有任何問題發生，請立即聯繫我們。"
+    ],
+    [
+     "These complications arise from a lack of communication.",
+     "這些糾紛源於溝通不足。"
+    ]
+   ]
+  },
+  {
+   "word": "aspect",
+   "ph": "/ˈæspekt/",
+   "pos": "n. 層面；觀點；外觀",
+   "zh": "層面；觀點；外觀",
+   "colloc": "every aspect 每個層面 | positive aspect 正面層面",
+   "distinct": "facet 特徵 | view 觀點",
+   "ex": [
+    [
+     "We need to consider every aspect of this deal.",
+     "我們需要考慮這筆交易的每一個層面。"
+    ],
+    [
+     "The marketing aspect of the plan is strong.",
+     "這項計畫的行銷層面很強。"
+    ],
+    [
+     "He studied the financial aspect of the company.",
+     "他研究了該公司的財務層面。"
+    ]
+   ]
+  },
+  {
+   "word": "board",
+   "ph": "/bɔːrd/",
+   "pos": "n. 董事會；板子 | v. 登機/船",
+   "zh": "董事會；板子；登機",
+   "colloc": "board of directors 董事會 | on board 在船上/機上",
+   "distinct": "committee 委員會 | panel 專題小組",
+   "ex": [
+    [
+     "The board of directors will meet tomorrow morning.",
+     "董事會將於明天早上開會。"
+    ],
+    [
+     "Passengers can now board the plane at gate five.",
+     "旅客現在可以到五號登機門登機。"
+    ],
+    [
+     "We wrote the new schedule on the whiteboard.",
+     "我們將新的行程表寫在白板上。"
+    ]
+   ]
+  },
+  {
+   "word": "cause",
+   "ph": "/kɔːz/",
+   "pos": "n. 原因 | v. 導致",
+   "zh": "原因；導致",
+   "colloc": "cause of the problem 問題原因 | cause damage 造成損害",
+   "distinct": "reason 原因（說明理由） | trigger 觸發",
+   "ex": [
+    [
+     "What is the primary cause of this delay?",
+     "這次延誤的主要原因是什麼？"
+    ],
+    [
+     "Bad weather may cause a disruption in services.",
+     "惡劣天氣可能會導致服務中斷。"
+    ],
+    [
+     "The new policy caused much discussion among staff.",
+     "新政策在員工間引起了許多討論。"
+    ]
+   ]
+  }
+ ]
+}

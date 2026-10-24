@@ -1,0 +1,448 @@
+{
+ "day": 12,
+ "theme": "教材字彙・基礎 550–650 第 12 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "envelope",
+   "ph": "/ˈenvələʊp/",
+   "pos": "n. 信封",
+   "zh": "信封",
+   "colloc": "a stamped envelope 貼好郵票的信封 | seal an envelope 封好信封",
+   "distinct": "package 包裹 | folder 資料夾",
+   "ex": [
+    [
+     "Please put the contract in the envelope.",
+     "請把合約放進信封裡。"
+    ],
+    [
+     "She sealed the envelope before leaving.",
+     "她在離開前封好了信封。"
+    ],
+    [
+     "You need to write your address on the envelope.",
+     "你需要把地址寫在信封上。"
+    ]
+   ]
+  },
+  {
+   "word": "eventually",
+   "ph": "/ɪˈventʃuəli/",
+   "pos": "adv. 最後；終於",
+   "zh": "最後；終於",
+   "colloc": "eventually lead to 終將導致 | eventually succeed 最終成功",
+   "distinct": "finally 最後（強調順序）| possibly 可能",
+   "ex": [
+    [
+     "The company will eventually expand to overseas markets.",
+     "公司最終會擴展至海外市場。"
+    ],
+    [
+     "They eventually reached an agreement after long talks.",
+     "經過長談後，他們最終達成協議。"
+    ],
+    [
+     "Poor planning will eventually cause serious delays.",
+     "規劃不善最終會導致嚴重的延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "evidence",
+   "ph": "/ˈevɪdəns/",
+   "pos": "n. 證據；跡象",
+   "zh": "證據；跡象",
+   "colloc": "provide evidence 提供證據 | clear evidence 明顯的證據",
+   "distinct": "proof 證明（不可數）| clue 線索",
+   "ex": [
+    [
+     "We found no evidence of any technical errors.",
+     "我們沒發現任何技術錯誤的跡象。"
+    ],
+    [
+     "The documents serve as evidence for our claims.",
+     "這些文件作為我們主張的證據。"
+    ],
+    [
+     "Marketing research provides evidence for this strategy.",
+     "市場研究為此策略提供了證據。"
+    ]
+   ]
+  },
+  {
+   "word": "excited",
+   "ph": "/ɪkˈsaɪtɪd/",
+   "pos": "adj. 感到興奮的；激動的",
+   "zh": "感到興奮的；激動的",
+   "colloc": "be excited about 對...感到興奮 | get excited 變得激動",
+   "distinct": "exciting 令人興奮的（修飾事物）| enthusiastic 熱情的",
+   "ex": [
+    [
+     "The staff is excited about the new project.",
+     "全體員工對新專案感到興奮。"
+    ],
+    [
+     "We are excited to announce our annual results.",
+     "我們很高興宣布年度業績。"
+    ],
+    [
+     "Everyone felt excited during the award ceremony.",
+     "頒獎典禮期間每個人都感到很激動。"
+    ]
+   ]
+  },
+  {
+   "word": "expect",
+   "ph": "/ɪkˈspekt/",
+   "pos": "v. 預期；期望",
+   "zh": "預期；期望",
+   "colloc": "expect to do 期望做某事 | highly expected 高度期待的",
+   "distinct": "anticipate 預期（指心裡預先體驗）| hope 希望",
+   "ex": [
+    [
+     "Management expects to see higher profits this quarter.",
+     "管理層預期本季獲利會更高。"
+    ],
+    [
+     "We expect all employees to arrive on time.",
+     "我們期望所有員工準時到達。"
+    ],
+    [
+     "The CEO is expected to retire next year.",
+     "執行長預計明年退休。"
+    ]
+   ]
+  },
+  {
+   "word": "explore",
+   "ph": "/ɪkˈsplɔːr/",
+   "pos": "v. 探討；探索",
+   "zh": "探討；探索",
+   "colloc": "explore options 探討選項 | explore possibilities 探索可能性",
+   "distinct": "examine 檢查 | investigate 調查",
+   "ex": [
+    [
+     "We need to explore new marketing channels.",
+     "我們需要探討新的行銷管道。"
+    ],
+    [
+     "Let us explore all potential business opportunities.",
+     "讓我們探索所有潛在的商業機會。"
+    ],
+    [
+     "The team will explore ways to reduce costs.",
+     "團隊將探討降低成本的方法。"
+    ]
+   ]
+  },
+  {
+   "word": "extensive",
+   "ph": "/ɪkˈstensɪv/",
+   "pos": "adj. 廣泛的；大量的",
+   "zh": "廣泛的；大量的",
+   "colloc": "extensive research 廣泛的研究 | extensive experience 豐富的經驗",
+   "distinct": "intensive 密集的 | expensive 昂貴的",
+   "ex": [
+    [
+     "She has extensive experience in international trade.",
+     "她在國際貿易方面擁有豐富經驗。"
+    ],
+    [
+     "The building suffered extensive damage during the storm.",
+     "這棟建築在風暴中遭受了嚴重破壞。"
+    ],
+    [
+     "Extensive training is required for this position.",
+     "這個職位需要接受廣泛的培訓。"
+    ]
+   ]
+  },
+  {
+   "word": "extremely",
+   "ph": "/ɪkˈstriːmli/",
+   "pos": "adv. 極端地；非常",
+   "zh": "極端地；非常",
+   "colloc": "extremely difficult 非常困難 | extremely important 極為重要",
+   "distinct": "highly 高度地 | absolutely 絕對地",
+   "ex": [
+    [
+     "It is extremely important to meet the deadline.",
+     "準時完成期限極為重要。"
+    ],
+    [
+     "The office is extremely busy during peak seasons.",
+     "旺季期間辦公室極為忙碌。"
+    ],
+    [
+     "This new software is extremely user friendly.",
+     "這套新軟體非常好用。"
+    ]
+   ]
+  },
+  {
+   "word": "file",
+   "ph": "/faɪl/",
+   "pos": "n. 檔案；文件 | v. 歸檔；提出（申請）",
+   "zh": "檔案；文件；歸檔",
+   "colloc": "file a report 提交報告 | paper file 紙本檔案",
+   "distinct": "document 文件（內容）| record 紀錄",
+   "ex": [
+    [
+     "Please file these documents in the cabinet.",
+     "請把這些文件歸檔到櫃子裡。"
+    ],
+    [
+     "He needs to file a tax return today.",
+     "他今天需要申報所得稅。"
+    ],
+    [
+     "The digital file was sent via email.",
+     "電子檔案已透過電子郵件寄出。"
+    ]
+   ]
+  },
+  {
+   "word": "frequently",
+   "ph": "/ˈfriːkwəntli/",
+   "pos": "adv. 頻繁地；屢次",
+   "zh": "頻繁地；屢次",
+   "colloc": "frequently asked questions 常見問題 | occur frequently 頻繁發生",
+   "distinct": "often 經常 | regularly 定期地",
+   "ex": [
+    [
+     "We frequently review our current safety policies.",
+     "我們頻繁地審查現行的安全政策。"
+    ],
+    [
+     "Train delays occur frequently in this region.",
+     "該地區火車經常誤點。"
+    ],
+    [
+     "Check the frequently asked questions for support.",
+     "查看常見問題集以獲得支援。"
+    ]
+   ]
+  },
+  {
+   "word": "grateful",
+   "ph": "/ˈɡreɪtfl/",
+   "pos": "adj. 感激的",
+   "zh": "感激的",
+   "colloc": "be grateful for 對...感到感激 | deeply grateful 深深感激",
+   "distinct": "thankful 感激的 | pleasant 愉快的",
+   "ex": [
+    [
+     "We are grateful for your continued support.",
+     "我們很感激您持續的支持。"
+    ],
+    [
+     "I am grateful to the team for their hard work.",
+     "我很感激團隊付出的努力。"
+    ],
+    [
+     "She sent a note to express how grateful she was.",
+     "她寫了便條表達她的感激之情。"
+    ]
+   ]
+  },
+  {
+   "word": "habit",
+   "ph": "/ˈhæbɪt/",
+   "pos": "n. 習慣",
+   "zh": "習慣",
+   "colloc": "break a habit 改掉壞習慣 | develop a habit 養成習慣",
+   "distinct": "custom 風俗；習俗 | routine 例行公事",
+   "ex": [
+    [
+     "It is a good habit to check your emails daily.",
+     "每天檢查電子郵件是個好習慣。"
+    ],
+    [
+     "Breaking bad habits takes time and patience.",
+     "改掉壞習慣需要時間與耐心。"
+    ],
+    [
+     "He developed the habit of arriving early for meetings.",
+     "他養成了提早開會的習慣。"
+    ]
+   ]
+  },
+  {
+   "word": "head",
+   "ph": "/hed/",
+   "pos": "n. 負責人；主管 | v. 領導；朝向",
+   "zh": "負責人；主管；領導",
+   "colloc": "head of department 部門主管 | head a team 領導團隊",
+   "distinct": "chief 首長 | director 董事；總監",
+   "ex": [
+    [
+     "She will head the new research department.",
+     "她將負責領導新的研發部門。"
+    ],
+    [
+     "Who is the head of the marketing team?",
+     "行銷團隊的負責人是誰？"
+    ],
+    [
+     "The director decided to head to the conference room.",
+     "總監決定前往會議室。"
+    ]
+   ]
+  },
+  {
+   "word": "health",
+   "ph": "/helθ/",
+   "pos": "n. 健康",
+   "zh": "健康",
+   "colloc": "health insurance 健康保險 | public health 公共衛生",
+   "distinct": "condition 狀況 | fitness 健身；合適",
+   "ex": [
+    [
+     "The company offers excellent health insurance benefits.",
+     "公司提供優良的健康保險福利。"
+    ],
+    [
+     "Good health is essential for high productivity.",
+     "良好的健康對於高生產力至關重要。"
+    ],
+    [
+     "Regular breaks can help improve office health.",
+     "定期休息有助於改善辦公室健康狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "hold",
+   "ph": "/həʊld/",
+   "pos": "v. 容納；舉行；保持",
+   "zh": "容納；舉行；保持",
+   "colloc": "hold a meeting 舉行會議 | hold a position 擔任職位",
+   "distinct": "keep 保持（持續）| contain 包含",
+   "ex": [
+    [
+     "The conference room can hold fifty people.",
+     "這間會議室可以容納五十人。"
+    ],
+    [
+     "We will hold the annual meeting next week.",
+     "我們下週將舉行年度會議。"
+    ],
+    [
+     "Please hold the line while I connect you.",
+     "請稍候，我為您轉接電話。"
+    ]
+   ]
+  },
+  {
+   "word": "immediately",
+   "ph": "/ɪˈmiːdiətli/",
+   "pos": "adv. 立刻；馬上",
+   "zh": "立刻；馬上",
+   "colloc": "immediately available 立即有空 | act immediately 立即行動",
+   "distinct": "promptly 迅速地 | currently 目前",
+   "ex": [
+    [
+     "Please contact the IT department immediately.",
+     "請立刻聯繫資訊部門。"
+    ],
+    [
+     "The problem was solved immediately after reporting.",
+     "問題在報告後立刻得到了解決。"
+    ],
+    [
+     "I will send the files immediately upon arrival.",
+     "我到達後會立刻寄出檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "impressive",
+   "ph": "/ɪmˈpresɪv/",
+   "pos": "adj. 令人印象深刻的",
+   "zh": "令人印象深刻的",
+   "colloc": "impressive performance 傑出的表現 | impressive results 驚人的成果",
+   "distinct": "expressive 表達的 | aggressive 積極的",
+   "ex": [
+    [
+     "The candidate has an impressive professional background.",
+     "該候選人擁有令人印象深刻的背景。"
+    ],
+    [
+     "They achieved impressive sales growth this year.",
+     "他們今年達成了驚人的銷售成長。"
+    ],
+    [
+     "Your presentation was very impressive to the clients.",
+     "您的簡報讓客戶印象深刻。"
+    ]
+   ]
+  },
+  {
+   "word": "improve",
+   "ph": "/ɪmˈpruːv/",
+   "pos": "v. 改進；改善",
+   "zh": "改進；改善",
+   "colloc": "improve efficiency 提升效率 | improve communication 加強溝通",
+   "distinct": "enhance 提升（品質）| repair 修理",
+   "ex": [
+    [
+     "We must improve our customer service quality.",
+     "我們必須改善客戶服務品質。"
+    ],
+    [
+     "The new system should improve office efficiency.",
+     "新系統應該能改善辦公效率。"
+    ],
+    [
+     "I hope to improve my English skills soon.",
+     "我希望盡快提升我的英文技巧。"
+    ]
+   ]
+  },
+  {
+   "word": "invest",
+   "ph": "/ɪnˈvest/",
+   "pos": "v. 投資",
+   "zh": "投資",
+   "colloc": "invest in 投資於... | invest money 投入資金",
+   "distinct": "spend 花費 | deposit 存款",
+   "ex": [
+    [
+     "They decided to invest in solar energy technology.",
+     "他們決定投資太陽能技術。"
+    ],
+    [
+     "Many companies invest heavily in employee training.",
+     "許多公司在員工培訓上投入重金。"
+    ],
+    [
+     "You should invest wisely for your future retirement.",
+     "為了退休，你應該明智地投資。"
+    ]
+   ]
+  },
+  {
+   "word": "issue",
+   "ph": "/ˈɪʃuː/",
+   "pos": "n. 議題；問題；期刊 | v. 發行；核發",
+   "zh": "議題；問題；發行",
+   "colloc": "key issue 關鍵議題 | resolve an issue 解決問題",
+   "distinct": "problem 問題（負面）| matter 事項",
+   "ex": [
+    [
+     "We need to discuss this issue at the meeting.",
+     "我們需要在會議上討論這個議題。"
+    ],
+    [
+     "The bank will issue new credit cards today.",
+     "銀行將於今日發行新信用卡。"
+    ],
+    [
+     "There is a minor issue with the software program.",
+     "軟體程式有一個小問題。"
+    ]
+   ]
+  }
+ ]
+}

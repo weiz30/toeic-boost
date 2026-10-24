@@ -1,0 +1,448 @@
+{
+ "day": 60,
+ "theme": "教材字彙・中高階 750–850 第 60 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "repeatedly",
+   "ph": "/rɪˈpiːtɪdli/",
+   "pos": "adv. 一再地；反覆地",
+   "zh": "一再；反覆",
+   "colloc": "repeatedly warn 一再警告 | repeatedly mention 反覆提及",
+   "distinct": "frequently 經常 | constantly 不斷地",
+   "ex": [
+    [
+     "The client has repeatedly requested a discount.",
+     "客戶已多次要求折扣。"
+    ],
+    [
+     "He was repeatedly told to finish the report.",
+     "他被多次告知要完成報告。"
+    ],
+    [
+     "The software crashed repeatedly during the demo.",
+     "軟體在展示期間多次當機。"
+    ]
+   ]
+  },
+  {
+   "word": "resist",
+   "ph": "/rɪˈzɪst/",
+   "pos": "v. 抵抗；忍住；反抗",
+   "zh": "抵抗；忍住；抗拒",
+   "colloc": "resist the urge 忍住衝動 | resist pressure 抵抗壓力",
+   "distinct": "withstand 禁得起 | endure 忍受",
+   "ex": [
+    [
+     "Management could not resist the market demand.",
+     "管理層無法抵擋市場需求。"
+    ],
+    [
+     "She could not resist checking her emails tonight.",
+     "她今晚忍不住查看郵件。"
+    ],
+    [
+     "Employees often resist changes in company policy.",
+     "員工常對公司政策變動感到抗拒。"
+    ]
+   ]
+  },
+  {
+   "word": "retirement",
+   "ph": "/rɪˈtaɪərmənt/",
+   "pos": "n. 退休；退休生活",
+   "zh": "退休",
+   "colloc": "early retirement 提早退休 | retirement plan 退休計畫",
+   "distinct": "pension 退休金 | resignation 辭職",
+   "ex": [
+    [
+     "Mr. Chen is planning his early retirement.",
+     "陳先生正在規劃提早退休。"
+    ],
+    [
+     "The company offers a comprehensive retirement plan.",
+     "該公司提供完善的退休計畫。"
+    ],
+    [
+     "She saved enough money for her retirement.",
+     "她為退休生活存了足夠的錢。"
+    ]
+   ]
+  },
+  {
+   "word": "reviewer",
+   "ph": "/rɪˈvjuːər/",
+   "pos": "n. 評論者；審查員",
+   "zh": "評論者；審查員",
+   "colloc": "peer reviewer 同儕審查員 | book reviewer 書評家",
+   "distinct": "editor 編輯 | critic 批評家",
+   "ex": [
+    [
+     "The reviewer gave the new product high marks.",
+     "審查員給予這項新產品高分評價。"
+    ],
+    [
+     "He works as a reviewer for a tech journal.",
+     "他在一份科技期刊擔任評論員。"
+    ],
+    [
+     "The manuscript was sent to an anonymous reviewer.",
+     "手稿被寄給了一位匿名審查員。"
+    ]
+   ]
+  },
+  {
+   "word": "ridiculous",
+   "ph": "/rɪˈdɪkjələs/",
+   "pos": "adj. 可笑的；荒謬的",
+   "zh": "可笑的；荒謬的",
+   "colloc": "ridiculous idea 荒謬的主意 | ridiculous price 離譜的價格",
+   "distinct": "absurd 荒唐的 | silly 傻氣的",
+   "ex": [
+    [
+     "It is ridiculous to charge such high fees.",
+     "收取這麼高的費用真是荒謬。"
+    ],
+    [
+     "His proposal for the budget seems quite ridiculous.",
+     "他提出的預算方案看起來相當荒謬。"
+    ],
+    [
+     "The meeting time was set at a ridiculous hour.",
+     "會議時間被定在一個離譜的時段。"
+    ]
+   ]
+  },
+  {
+   "word": "roughly",
+   "ph": "/ˈrʌfli/",
+   "pos": "adv. 大約；粗略地",
+   "zh": "大約；粗略地",
+   "colloc": "roughly estimated 大約估計 | roughly speaking 大致來說",
+   "distinct": "approximately 大約 | strictly 嚴格地",
+   "ex": [
+    [
+     "The project will take roughly three months.",
+     "這個專案大約需要三個月完成。"
+    ],
+    [
+     "Our office is located roughly two miles away.",
+     "我們的辦公室距離大約兩英里。"
+    ],
+    [
+     "Roughly forty people attended the annual seminar.",
+     "大約有四十人參加了年度研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "selected",
+   "ph": "/sɪˈlektɪd/",
+   "pos": "adj. 精選的；挑選過的 | v. 挑選",
+   "zh": "精選的；挑選過的",
+   "colloc": "selected items 精選商品 | selected group 特定小組",
+   "distinct": "chosen 選擇的 | elected 選舉產生的",
+   "ex": [
+    [
+     "We only use selected materials for production.",
+     "我們只使用精選的材料進行生產。"
+    ],
+    [
+     "The selected candidates will receive an email.",
+     "獲選的候選人將會收到電子郵件。"
+    ],
+    [
+     "He selected the best designs for the exhibit.",
+     "他挑選了最好的設計作品展出。"
+    ]
+   ]
+  },
+  {
+   "word": "several",
+   "ph": "/ˈsevrəl/",
+   "pos": "adj. 幾個；數個",
+   "zh": "幾個；數個",
+   "colloc": "several factors 幾個因素 | several times 好幾次",
+   "distinct": "some 一些 | many 許多",
+   "ex": [
+    [
+     "There are several issues with the current plan.",
+     "目前的計畫有幾個問題。"
+    ],
+    [
+     "I have contacted several suppliers this morning.",
+     "我今天早上聯絡了幾家供應商。"
+    ],
+    [
+     "Several members of the team were absent.",
+     "該團隊有好幾位成員缺席。"
+    ]
+   ]
+  },
+  {
+   "word": "spoil",
+   "ph": "/spɔɪl/",
+   "pos": "v. 損壞；溺愛；變質",
+   "zh": "損壞；溺愛；變質",
+   "colloc": "spoil the plan 破壞計畫 | spoil the mood 掃興",
+   "distinct": "damage 損害 | ruin 毀滅",
+   "ex": [
+    [
+     "Heavy rain might spoil our outdoor event.",
+     "大雨可能會搞砸我們的戶外活動。"
+    ],
+    [
+     "Don't let a minor mistake spoil your work.",
+     "不要讓小錯誤影響你的工作表現。"
+    ],
+    [
+     "If the food is left out, it will spoil.",
+     "如果食物放在外面，很快就會變質。"
+    ]
+   ]
+  },
+  {
+   "word": "still",
+   "ph": "/stɪl/",
+   "pos": "adv. 仍然；還是 | adj. 靜止的",
+   "zh": "仍然；還是；靜止的",
+   "colloc": "still waiting 仍在等待 | still effective 仍然有效",
+   "distinct": "yet 還沒 | quiet 安靜的",
+   "ex": [
+    [
+     "The company is still hiring for the position.",
+     "公司目前仍在招募這個職位。"
+    ],
+    [
+     "He is still working on the final report.",
+     "他還在處理最後的報告。"
+    ],
+    [
+     "The market is still recovering from the crisis.",
+     "市場仍在從危機中復甦。"
+    ]
+   ]
+  },
+  {
+   "word": "surely",
+   "ph": "/ˈʃʊrli/",
+   "pos": "adv. 確實地；毫無疑問地",
+   "zh": "確實地；一定",
+   "colloc": "surely expect 確實期待 | surely know 肯定知道",
+   "distinct": "certainly 當然地 | definitely 肯定地",
+   "ex": [
+    [
+     "This new policy will surely increase productivity.",
+     "這項新政策肯定會提高生產力。"
+    ],
+    [
+     "You can surely find the answer in the manual.",
+     "你絕對可以在手冊中找到答案。"
+    ],
+    [
+     "The success of the project will surely lead to growth.",
+     "專案的成功肯定會帶來成長。"
+    ]
+   ]
+  },
+  {
+   "word": "surprise",
+   "ph": "/sərˈpraɪz/",
+   "pos": "n. 驚喜；驚訝 | v. 使驚訝",
+   "zh": "驚喜；驚訝",
+   "colloc": "surprise visit 突擊訪問 | pleasant surprise 意外驚喜",
+   "distinct": "shock 震驚 | wonder 驚奇",
+   "ex": [
+    [
+     "The results came as a surprise to us all.",
+     "結果對我們所有人來說都是個驚喜。"
+    ],
+    [
+     "Her resignation surprised the entire department.",
+     "她的辭職讓整個部門感到驚訝。"
+    ],
+    [
+     "We prepared a small surprise for his birthday.",
+     "我們為他的生日準備了一個小驚喜。"
+    ]
+   ]
+  },
+  {
+   "word": "surround",
+   "ph": "/səˈraʊnd/",
+   "pos": "v. 圍繞；環繞",
+   "zh": "圍繞；環繞",
+   "colloc": "surround the building 圍繞建築 | be surrounded by 被環繞",
+   "distinct": "encircle 圈住 | enclose 封入",
+   "ex": [
+    [
+     "The park is surrounded by several office buildings.",
+     "這座公園被幾棟辦公大樓環繞。"
+    ],
+    [
+     "We need to surround ourselves with talented people.",
+     "我們需要聚集優秀的人才在身邊。"
+    ],
+    [
+     "Trees surround the factory to reduce the noise.",
+     "工廠周圍種植樹木以降低噪音。"
+    ]
+   ]
+  },
+  {
+   "word": "themed",
+   "ph": "/θiːmd/",
+   "pos": "adj. 有主題的",
+   "zh": "有主題的",
+   "colloc": "themed party 主題派對 | themed restaurant 主題餐廳",
+   "distinct": "thematic 主題的 | typical 典型的",
+   "ex": [
+    [
+     "The event featured a winter-themed decoration.",
+     "活動以冬季為主題進行裝飾。"
+    ],
+    [
+     "This hotel offers various themed guest rooms.",
+     "這家飯店提供各式各樣的主題客房。"
+    ],
+    [
+     "They organized a travel-themed marketing campaign.",
+     "他們組織了一場以旅遊為主題的行銷活動。"
+    ]
+   ]
+  },
+  {
+   "word": "thickly",
+   "ph": "/ˈθɪkli/",
+   "pos": "adv. 厚厚地；濃密地",
+   "zh": "厚厚地；濃密地",
+   "colloc": "thickly populated 人口稠密的 | thickly coated 厚塗的",
+   "distinct": "densely 密集地 | heavily 沉重地",
+   "ex": [
+    [
+     "The walls were thickly painted in white.",
+     "牆壁被厚厚地漆成了白色。"
+    ],
+    [
+     "The area is thickly populated with many businesses.",
+     "該地區商業活動非常密集。"
+    ],
+    [
+     "The butter was spread thickly on the bread.",
+     "奶油厚厚地塗在麵包上。"
+    ]
+   ]
+  },
+  {
+   "word": "threaten",
+   "ph": "/ˈθretn/",
+   "pos": "v. 威脅；恐嚇；預示（壞事）",
+   "zh": "威脅；恐嚇",
+   "colloc": "threaten to resign 威脅要辭職 | threaten the stability 威脅穩定",
+   "distinct": "intimidate 脅迫 | warn 警告",
+   "ex": [
+    [
+     "Falling sales threaten the company's future.",
+     "營收下滑威脅到公司的未來。"
+    ],
+    [
+     "He threatened to quit if demands were not met.",
+     "他威脅若需求未被滿足就要辭職。"
+    ],
+    [
+     "Heavy pollution threatens the local environment.",
+     "嚴重汙染正威脅著當地環境。"
+    ]
+   ]
+  },
+  {
+   "word": "translate",
+   "ph": "/trænzˈleɪt/",
+   "pos": "v. 翻譯；轉換；解釋",
+   "zh": "翻譯；轉換",
+   "colloc": "translate into 翻譯成 | translate documents 翻譯文件",
+   "distinct": "interpret 口譯 | convert 轉換",
+   "ex": [
+    [
+     "Please translate this contract into English.",
+     "請把這份合約翻譯成英文。"
+    ],
+    [
+     "His hard work translated into great success.",
+     "他的努力轉化成了巨大的成功。"
+    ],
+    [
+     "We need someone to translate the meeting notes.",
+     "我們需要有人翻譯會議記錄。"
+    ]
+   ]
+  },
+  {
+   "word": "use",
+   "ph": "/juːz/",
+   "pos": "v. 使用；利用 | n. 用途；用法",
+   "zh": "使用；利用；用途",
+   "colloc": "make use of 利用 | common use 常見用途",
+   "distinct": "utilize 利用（正式）| employ 雇用；使用",
+   "ex": [
+    [
+     "Did you use the new software for the data?",
+     "你用這套新軟體處理資料了嗎？"
+    ],
+    [
+     "There is no use complaining about the results.",
+     "抱怨結果是沒有用的。"
+    ],
+    [
+     "We use this machine for cutting the metal.",
+     "我們使用這台機器來切割金屬。"
+    ]
+   ]
+  },
+  {
+   "word": "visible",
+   "ph": "/ˈvɪzəbl/",
+   "pos": "adj. 可見的；明顯的",
+   "zh": "可見的；明顯的",
+   "colloc": "visible result 明顯的成果 | highly visible 高度可見的",
+   "distinct": "noticeable 顯眼的 | obvious 顯然的",
+   "ex": [
+    [
+     "The brand logo is visible on the package.",
+     "包裝上可以看到品牌標誌。"
+    ],
+    [
+     "There was no visible improvement in his work.",
+     "他的工作沒有明顯的改善。"
+    ],
+    [
+     "The mountain is visible from our office window.",
+     "從我們的辦公室窗戶可以看到那座山。"
+    ]
+   ]
+  },
+  {
+   "word": "wonder",
+   "ph": "/ˈwʌndər/",
+   "pos": "v. 想知道；納悶 | n. 奇蹟；驚奇",
+   "zh": "想知道；納悶；奇蹟",
+   "colloc": "wonder if 想知道是否 | wonder about 對...感到好奇",
+   "distinct": "wander 漫遊 | admire 欣賞",
+   "ex": [
+    [
+     "I wonder if the meeting has been postponed.",
+     "我納悶會議是否已經延後了。"
+    ],
+    [
+     "We wonder how to improve the current process.",
+     "我們想知道如何改善目前的流程。"
+    ],
+    [
+     "It is a wonder that the project was finished.",
+     "這個專案能完成真是一個奇蹟。"
+    ]
+   ]
+  }
+ ]
+}

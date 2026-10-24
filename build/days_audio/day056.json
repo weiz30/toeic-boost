@@ -1,0 +1,448 @@
+{
+ "day": 56,
+ "theme": "教材字彙・中高階 750–850 第 56 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "pointed",
+   "ph": "/ˈpɔɪntɪd/",
+   "pos": "adj. 明確的；尖銳的",
+   "zh": "明確的；尖銳的",
+   "colloc": "pointed remark 尖銳的評論 | pointed question 針對性的問題",
+   "distinct": "sharp 銳利的 | articulate 善表達的",
+   "ex": [
+    [
+     "She made a pointed comment about the budget cuts.",
+     "她針對預算削減發表了尖銳的評論。"
+    ],
+    [
+     "The manager asked a pointed question regarding our performance.",
+     "經理針對我們的表現提出了一個尖銳的問題。"
+    ],
+    [
+     "He gave a pointed reminder about the upcoming deadline.",
+     "他針對即將到期的期限給出了明確的提醒。"
+    ]
+   ]
+  },
+  {
+   "word": "possession",
+   "ph": "/pəˈzeʃn/",
+   "pos": "n. 擁有；財產",
+   "zh": "擁有；所有物；財產",
+   "colloc": "in possession of 持有 | personal possessions 個人物品",
+   "distinct": "property 資產；房地產 | ownership 所有權",
+   "ex": [
+    [
+     "The company is now in possession of the land.",
+     "該公司目前擁有這塊土地。"
+    ],
+    [
+     "Please ensure all personal possessions are kept safe.",
+     "請確保所有個人物品都妥善保管。"
+    ],
+    [
+     "They are fighting for legal possession of the trademark.",
+     "他們正在爭取商標的合法所有權。"
+    ]
+   ]
+  },
+  {
+   "word": "potentially",
+   "ph": "/pəˈtenʃəli/",
+   "pos": "adv. 潛在地；可能地",
+   "zh": "潛在地；可能地",
+   "colloc": "potentially dangerous 潛在危險的 | potentially profitable 潛在獲利的",
+   "distinct": "possibly 可能地 | likely 可能地",
+   "ex": [
+    [
+     "This new technology is potentially a huge market winner.",
+     "這項新技術可能成為市場上的大贏家。"
+    ],
+    [
+     "We identified several potentially risky areas in the project.",
+     "我們發現了專案中幾個潛在的風險領域。"
+    ],
+    [
+     "The merger is potentially beneficial for both companies.",
+     "這項合併對兩家公司都有潛在的好處。"
+    ]
+   ]
+  },
+  {
+   "word": "precisely",
+   "ph": "/prɪˈsaɪsli/",
+   "pos": "adv. 精確地；恰好",
+   "zh": "精確地；恰好",
+   "colloc": "precisely at 恰好在 | work precisely 精確地工作",
+   "distinct": "exactly 正好 | accurately 準確地",
+   "ex": [
+    [
+     "The meeting will start precisely at ten o'clock.",
+     "會議將在十點整準時開始。"
+    ],
+    [
+     "This is precisely what we need to increase sales.",
+     "這正是我們增加銷售額所需要的。"
+    ],
+    [
+     "They calculated the costs quite precisely last week.",
+     "他們上週非常精確地計算了成本。"
+    ]
+   ]
+  },
+  {
+   "word": "privately",
+   "ph": "/ˈpraɪvətli/",
+   "pos": "adv. 私下地；非公開地",
+   "zh": "私下地；非公開地",
+   "colloc": "speak privately 私下談話 | privately owned 私有的",
+   "distinct": "confidentially 機密地 | secretly 秘密地",
+   "ex": [
+    [
+     "I would like to discuss this matter with you privately.",
+     "我想和你私下討論這件事。"
+    ],
+    [
+     "He prefers to handle sensitive issues privately.",
+     "他偏好私下處理敏感問題。"
+    ],
+    [
+     "The company is privately held by three major investors.",
+     "這家公司由三位主要投資者私人持有。"
+    ]
+   ]
+  },
+  {
+   "word": "publication",
+   "ph": "/ˌpʌblɪˈkeɪʃn/",
+   "pos": "n. 出版；刊物；發布",
+   "zh": "出版；刊物；發布",
+   "colloc": "date of publication 出版日期 | academic publication 學術刊物",
+   "distinct": "publishing 出版業 | announcement 公告",
+   "ex": [
+    [
+     "The annual report is ready for official publication.",
+     "年度報告已準備好正式發布。"
+    ],
+    [
+     "He writes articles for a professional industry publication.",
+     "他為一份專業行業刊物撰寫文章。"
+    ],
+    [
+     "The book's publication was delayed due to technical issues.",
+     "這本書的出版因技術問題而延遲。"
+    ]
+   ]
+  },
+  {
+   "word": "quantity",
+   "ph": "/ˈkwɒntəti/",
+   "pos": "n. 數量；份量",
+   "zh": "數量；份量",
+   "colloc": "large quantity 大量 | supply in quantity 大量供應",
+   "distinct": "amount 總額；總量 | quality 品質",
+   "ex": [
+    [
+     "We need to order a large quantity of supplies.",
+     "我們需要訂購大量的用品。"
+    ],
+    [
+     "The quality is just as important as the quantity.",
+     "品質與數量同樣重要。"
+    ],
+    [
+     "They offer discounts for purchases in large quantities.",
+     "他們為大量採購提供折扣。"
+    ]
+   ]
+  },
+  {
+   "word": "recall",
+   "ph": "/rɪˈkɔːl/",
+   "pos": "v. 回憶起；召回（產品） | n. 記憶力；召回",
+   "zh": "回憶；召回",
+   "colloc": "product recall 產品召回 | recall an incident 回憶起事件",
+   "distinct": "remember 記得 | withdraw 撤回",
+   "ex": [
+    [
+     "The manufacturer issued a recall for the defective cars.",
+     "製造商針對瑕疵車輛發布了召回公告。"
+    ],
+    [
+     "I cannot recall the details of our last meeting.",
+     "我無法回憶起上次會議的細節。"
+    ],
+    [
+     "The company had to recall the entire batch of products.",
+     "公司不得不召回整批產品。"
+    ]
+   ]
+  },
+  {
+   "word": "recognition",
+   "ph": "/ˌrekəɡˈnɪʃn/",
+   "pos": "n. 認可；識別；表彰",
+   "zh": "認可；識別；表彰",
+   "colloc": "in recognition of 以表彰 | brand recognition 品牌知名度",
+   "distinct": "acknowledgment 承認 | identification 識別",
+   "ex": [
+    [
+     "He received an award in recognition of his service.",
+     "他因卓越表現而獲得表彰獎項。"
+    ],
+    [
+     "Building brand recognition is vital for our new product.",
+     "建立品牌知名度對我們的新產品至關重要。"
+    ],
+    [
+     "The company gained international recognition for innovation.",
+     "這家公司因創新而獲得國際認可。"
+    ]
+   ]
+  },
+  {
+   "word": "refusal",
+   "ph": "/rɪˈfjuːzl/",
+   "pos": "n. 拒絕",
+   "zh": "拒絕",
+   "colloc": "flat refusal 直接拒絕 | point-blank refusal 斷然拒絕",
+   "distinct": "rejection 駁回；排斥 | denial 否認",
+   "ex": [
+    [
+     "His refusal to cooperate surprised the entire board.",
+     "他拒絕合作讓整個董事會感到意外。"
+    ],
+    [
+     "They received a formal refusal from the bank yesterday.",
+     "他們昨天收到銀行的正式拒絕通知。"
+    ],
+    [
+     "The management gave no reason for their refusal.",
+     "管理層對他們的拒絕未給出任何理由。"
+    ]
+   ]
+  },
+  {
+   "word": "relevant",
+   "ph": "/ˈreləvənt/",
+   "pos": "adj. 相關的；切題的",
+   "zh": "相關的；切題的",
+   "colloc": "highly relevant 非常相關的 | relevant experience 相關經驗",
+   "distinct": "pertinent 有關的 | applicable 適用的",
+   "ex": [
+    [
+     "Please provide all relevant documents for the application.",
+     "請提供申請所需的所有相關文件。"
+    ],
+    [
+     "The data you provided is not relevant to our project.",
+     "你提供的數據與我們的專案不相關。"
+    ],
+    [
+     "He has relevant experience in the marketing department.",
+     "他在行銷部門擁有相關經驗。"
+    ]
+   ]
+  },
+  {
+   "word": "reminder",
+   "ph": "/rɪˈmaɪndər/",
+   "pos": "n. 提醒物；通知單",
+   "zh": "提醒；催告",
+   "colloc": "send a reminder 發送提醒 | email reminder 電子郵件提醒",
+   "distinct": "notice 公告 | memo 備忘錄",
+   "ex": [
+    [
+     "This is a friendly reminder regarding your invoice payment.",
+     "這是關於您發票付款的溫馨提醒。"
+    ],
+    [
+     "I set a reminder to call the client tomorrow.",
+     "我設定了提醒明天要打電話給客戶。"
+    ],
+    [
+     "She sent a reminder email about the project deadline.",
+     "她寄了一封關於專案截止日期的提醒郵件。"
+    ]
+   ]
+  },
+  {
+   "word": "rewarding",
+   "ph": "/rɪˈwɔːrdɪŋ/",
+   "pos": "adj. 有報酬的；值得的",
+   "zh": "有報酬的；值得的",
+   "colloc": "rewarding experience 有意義的經驗 | rewarding job 值得做的工作",
+   "distinct": "profitable 有利可圖的 | satisfactory 滿意的",
+   "ex": [
+    [
+     "Teaching is a very rewarding career for many people.",
+     "對許多人來說，教學是一份很有成就感的工作。"
+    ],
+    [
+     "We had a rewarding discussion about future strategies.",
+     "我們針對未來策略進行了非常有意義的討論。"
+    ],
+    [
+     "The project was difficult but ultimately very rewarding.",
+     "這項專案很困難，但最終非常有價值。"
+    ]
+   ]
+  },
+  {
+   "word": "ridiculously",
+   "ph": "/rɪˈdɪkjələsli/",
+   "pos": "adv. 荒謬地；極其（非正式）",
+   "zh": "荒謬地；極其",
+   "colloc": "ridiculously low 極低的 | ridiculously expensive 貴得離譜",
+   "distinct": "absurdly 荒謬地 | extremely 極端地",
+   "ex": [
+    [
+     "The prices at that restaurant are ridiculously high.",
+     "那家餐廳的價格貴得離譜。"
+    ],
+    [
+     "It was ridiculously easy to install the new software.",
+     "安裝這套新軟體簡直太容易了。"
+    ],
+    [
+     "They submitted a ridiculously short deadline for us.",
+     "他們給我們設定了極其短的截止期限。"
+    ]
+   ]
+  },
+  {
+   "word": "scheme",
+   "ph": "/skiːm/",
+   "pos": "n. 方案；計畫 | v. 策劃",
+   "zh": "方案；計畫；圖謀",
+   "colloc": "marketing scheme 行銷方案 | pension scheme 退休金計畫",
+   "distinct": "plan 計畫 | strategy 策略",
+   "ex": [
+    [
+     "The government introduced a new scheme to support startups.",
+     "政府推出了一項新方案來支持新創企業。"
+    ],
+    [
+     "He is designing a scheme to optimize production efficiency.",
+     "他正在設計一個優化生產效率的方案。"
+    ],
+    [
+     "They are participating in the company's pension scheme.",
+     "他們正在參加公司的退休金計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "smoothly",
+   "ph": "/ˈsmuːðli/",
+   "pos": "adv. 順利地；平滑地",
+   "zh": "順利地；平滑地",
+   "colloc": "run smoothly 運作順利 | proceed smoothly 進行順利",
+   "distinct": "fluidly 流暢地 | easily 容易地",
+   "ex": [
+    [
+     "Everything went smoothly during the international conference.",
+     "國際會議期間一切進行得很順利。"
+    ],
+    [
+     "The new system is running smoothly after the update.",
+     "系統更新後運作得非常順暢。"
+    ],
+    [
+     "We need to ensure the transition happens smoothly.",
+     "我們需要確保過渡期能順利進行。"
+    ]
+   ]
+  },
+  {
+   "word": "split",
+   "ph": "/splɪt/",
+   "pos": "v. 分裂；分開 | n. 分歧；分裂",
+   "zh": "分裂；分開；平分",
+   "colloc": "split the cost 平分費用 | split into groups 分成小組",
+   "distinct": "divide 分割 | separate 分離",
+   "ex": [
+    [
+     "Let us split the cost of the lunch evenly.",
+     "我們把午餐費用平分吧。"
+    ],
+    [
+     "The committee was split on the new policy decision.",
+     "委員會對新政策決定的意見產生了分歧。"
+    ],
+    [
+     "They decided to split the project into three phases.",
+     "他們決定將專案分成三個階段。"
+    ]
+   ]
+  },
+  {
+   "word": "steeply",
+   "ph": "/ˈstiːpli/",
+   "pos": "adv. 陡峭地；急遽地",
+   "zh": "陡峭地；急遽地",
+   "colloc": "rise steeply 急遽上升 | decline steeply 急遽下降",
+   "distinct": "sharply 急遽地 | dramatically 戲劇性地",
+   "ex": [
+    [
+     "Sales have risen steeply over the last quarter.",
+     "上一季的銷售額急遽上升。"
+    ],
+    [
+     "The path leads steeply up to the main office.",
+     "這條小路陡峭地通往總辦公室。"
+    ],
+    [
+     "Market share declined steeply after the new competitor arrived.",
+     "新競爭對手出現後，市占率急遽下降。"
+    ]
+   ]
+  },
+  {
+   "word": "stiff",
+   "ph": "/stɪf/",
+   "pos": "adj. 僵硬的；激烈的；嚴厲的",
+   "zh": "僵硬的；激烈的；嚴厲的",
+   "colloc": "stiff competition 激烈的競爭 | stiff penalty 嚴厲的懲罰",
+   "distinct": "rigid 僵硬的 | severe 嚴重的",
+   "ex": [
+    [
+     "We are facing stiff competition from international firms.",
+     "我們正面臨來自國際企業的激烈競爭。"
+    ],
+    [
+     "The company faces a stiff penalty for violating safety rules.",
+     "公司因違反安全規定面臨嚴厲懲罰。"
+    ],
+    [
+     "He has a stiff neck from working at the desk.",
+     "他在辦公桌前工作導致脖子僵硬。"
+    ]
+   ]
+  },
+  {
+   "word": "strength",
+   "ph": "/streŋθ/",
+   "pos": "n. 力氣；優勢；強度",
+   "zh": "力氣；優勢；強度",
+   "colloc": "core strength 核心優勢 | financial strength 財務實力",
+   "distinct": "power 力量 | force 武力；力量",
+   "ex": [
+    [
+     "Our company's main strength is our innovative team.",
+     "我們公司的主要優勢在於我們創新的團隊。"
+    ],
+    [
+     "They are focusing on increasing their financial strength.",
+     "他們正致力於增強財務實力。"
+    ],
+    [
+     "The building was designed for structural strength.",
+     "這棟建築在設計上注重結構強度。"
+    ]
+   ]
+  }
+ ]
+}

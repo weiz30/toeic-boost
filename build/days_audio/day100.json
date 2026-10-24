@@ -1,0 +1,448 @@
+{
+ "day": 100,
+ "theme": "教材片語・中高階 750–850 第 36 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "in summary",
+   "ph": "",
+   "pos": "phr. 總結來說",
+   "zh": "總結來說；概括地說",
+   "colloc": "in summary, we... 總結來說，我們... | to be in summary 簡而言之",
+   "distinct": "in conclusion 結論是 | in brief 簡言之",
+   "ex": [
+    [
+     "In summary, the quarterly performance met our expectations.",
+     "總結來說，本季績效符合我們的預期。"
+    ],
+    [
+     "The manager provided a report in summary of the meeting.",
+     "經理提供了會議的總結報告。"
+    ],
+    [
+     "In summary, we need to reduce operational costs immediately.",
+     "總結來說，我們需要立即降低營運成本。"
+    ]
+   ]
+  },
+  {
+   "word": "in turn",
+   "ph": "",
+   "pos": "phr. 相應地；輪流",
+   "zh": "相應地；依序；輪流",
+   "colloc": "act in turn 輪流行動 | in turn, affect... 進而影響...",
+   "distinct": "by turns 輪流 | one by one 一個接一個",
+   "ex": [
+    [
+     "High inflation, in turn, led to lower consumer spending.",
+     "高通貨膨脹進而導致了消費支出減少。"
+    ],
+    [
+     "Each department head spoke in turn at the meeting.",
+     "會議中各部門主管輪流發言。"
+    ],
+    [
+     "Improved efficiency will, in turn, increase our profit margins.",
+     "效率提升將相應地增加我們的利潤率。"
+    ]
+   ]
+  },
+  {
+   "word": "job opportunity",
+   "ph": "",
+   "pos": "phr. 工作機會",
+   "zh": "工作機會；就業機會",
+   "colloc": "excellent job opportunity 極佳的工作機會 | offer a job opportunity 提供工作機會",
+   "distinct": "career prospect 職涯前景 | job opening 職缺",
+   "ex": [
+    [
+     "This position is a great job opportunity for young graduates.",
+     "這個職位對於剛畢業的學生來說是很好的工作機會。"
+    ],
+    [
+     "The company posted a new job opportunity on its website.",
+     "該公司在網站上發佈了一則新職缺。"
+    ],
+    [
+     "He is seeking a job opportunity that offers international travel.",
+     "他正在尋找一個能有出差機會的工作。"
+    ]
+   ]
+  },
+  {
+   "word": "job search",
+   "ph": "",
+   "pos": "phr. 求職",
+   "zh": "求職；找工作",
+   "colloc": "start a job search 開始求職 | during the job search 在求職期間",
+   "distinct": "job hunting 求職活動 | career development 職涯發展",
+   "ex": [
+    [
+     "The job search process can be both challenging and rewarding.",
+     "求職過程既充滿挑戰又有所收穫。"
+    ],
+    [
+     "She is focusing her job search on the technology sector.",
+     "她將求職重點放在科技業。"
+    ],
+    [
+     "Networking is essential for a successful job search.",
+     "人脈對於成功的求職至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "job seeker",
+   "ph": "",
+   "pos": "phr. 求職者",
+   "zh": "求職者；找工作的人",
+   "colloc": "qualified job seeker 合格的求職者 | active job seeker 主動求職者",
+   "distinct": "applicant 申請人 | candidate 候選人",
+   "ex": [
+    [
+     "Every job seeker should tailor their resume to the company.",
+     "每位求職者都應針對公司客製化履歷。"
+    ],
+    [
+     "The website provides resources for the modern job seeker.",
+     "該網站為現代求職者提供資源。"
+    ],
+    [
+     "Many a job seeker struggles with the initial interview phase.",
+     "許多求職者都在面試初期階段感到困難。"
+    ]
+   ]
+  },
+  {
+   "word": "keep track of",
+   "ph": "",
+   "pos": "phr. 記錄；追蹤",
+   "zh": "記錄；追蹤；掌握資訊",
+   "colloc": "keep track of expenses 記錄費用 | keep track of time 掌握時間",
+   "distinct": "lose track of 忘記/失去聯繫 | record 記錄（動詞）",
+   "ex": [
+    [
+     "You should keep track of all your billable hours.",
+     "你應該記錄下所有可收費的工作時數。"
+    ],
+    [
+     "It is difficult to keep track of multiple ongoing projects.",
+     "要追蹤多個進行中的專案相當困難。"
+    ],
+    [
+     "The software helps managers keep track of inventory levels.",
+     "該軟體協助經理追蹤庫存水準。"
+    ]
+   ]
+  },
+  {
+   "word": "lean back",
+   "ph": "",
+   "pos": "phr. 向後靠",
+   "zh": "向後靠；放鬆坐姿",
+   "colloc": "lean back in the chair 坐在椅子上向後靠 | lean back and relax 往後靠並放鬆",
+   "distinct": "lean forward 向前傾 | recline 斜倚",
+   "ex": [
+    [
+     "He likes to lean back while reviewing the financial reports.",
+     "他喜歡在檢閱財務報表時向後靠。"
+    ],
+    [
+     "Please lean back and wait for the meeting to start.",
+     "請向後靠並等待會議開始。"
+    ],
+    [
+     "She leaned back to consider the proposal more carefully.",
+     "她向後靠著以便更仔細地考慮這個提案。"
+    ]
+   ]
+  },
+  {
+   "word": "light weight",
+   "ph": "",
+   "pos": "phr. 輕量級",
+   "zh": "輕量的；輕量級的",
+   "colloc": "light weight design 輕量化設計 | light weight material 輕量材質",
+   "distinct": "lightweight（形容詞）輕的 | heavy duty 重型的",
+   "ex": [
+    [
+     "This laptop is popular because of its light weight design.",
+     "這款筆電因其輕量化設計而廣受歡迎。"
+    ],
+    [
+     "The team developed a light weight solution for portable devices.",
+     "該團隊為攜帶式裝置開發了輕量化解決方案。"
+    ],
+    [
+     "These light weight crates are easier to move around the warehouse.",
+     "這些輕量貨箱更容易在倉庫內搬運。"
+    ]
+   ]
+  },
+  {
+   "word": "like confidence",
+   "ph": "",
+   "pos": "phr. 缺乏信心",
+   "zh": "缺乏信心；沒有自信",
+   "colloc": "show a lack of confidence 表現出缺乏信心 | suffer from a lack of confidence 因缺乏信心而苦惱",
+   "distinct": "lack of confidence (拼寫修正) | low self-esteem 自尊心低",
+   "ex": [
+    [
+     "The applicant showed a lack of confidence during the interview.",
+     "申請人在面試時表現出缺乏信心。"
+    ],
+    [
+     "Lack of confidence can hinder your professional growth.",
+     "缺乏信心會阻礙你的職涯成長。"
+    ],
+    [
+     "The team’s lack of confidence resulted in poor project results.",
+     "團隊缺乏信心導致了糟糕的專案成果。"
+    ]
+   ]
+  },
+  {
+   "word": "line worker",
+   "ph": "",
+   "pos": "phr. 第一線員工；作業員",
+   "zh": "生產線工人；作業員",
+   "colloc": "experienced line worker 資深作業員 | train line workers 訓練作業員",
+   "distinct": "staff 職員 | executive 主管",
+   "ex": [
+    [
+     "The line worker reported a safety issue to the supervisor.",
+     "作業員向主管報告了一項安全問題。"
+    ],
+    [
+     "Our line workers are highly skilled in assembly techniques.",
+     "我們的作業員在組裝技術上非常熟練。"
+    ],
+    [
+     "New line workers must complete a mandatory training program.",
+     "新進作業員必須完成強制性訓練計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "look for",
+   "ph": "",
+   "pos": "phr. 尋找",
+   "zh": "尋找；期待",
+   "colloc": "look for a job 尋找工作 | look for evidence 尋找證據",
+   "distinct": "search for 搜索 | seek 尋求",
+   "ex": [
+    [
+     "We are looking for a candidate with strong leadership skills.",
+     "我們正在尋找一位具備強大領導能力的候選人。"
+    ],
+    [
+     "Management is looking for ways to cut unnecessary costs.",
+     "管理層正在尋找削減不必要成本的方法。"
+    ],
+    [
+     "The marketing department is looking for new advertising channels.",
+     "行銷部門正在尋找新的廣告通路。"
+    ]
+   ]
+  },
+  {
+   "word": "look into",
+   "ph": "",
+   "pos": "phr. 調查；研究",
+   "zh": "調查；研究；觀察",
+   "colloc": "look into the matter 調查該事項 | look into the possibility 研究可能性",
+   "distinct": "investigate 調查 | explore 探索",
+   "ex": [
+    [
+     "The board will look into the causes of the decline.",
+     "董事會將調查業績下滑的原因。"
+    ],
+    [
+     "We need to look into the new tax regulations carefully.",
+     "我們需要仔細研究新的稅務法規。"
+    ],
+    [
+     "I will look into whether we have enough budget remaining.",
+     "我會去查一下我們是否還有足夠的預算。"
+    ]
+   ]
+  },
+  {
+   "word": "look out",
+   "ph": "",
+   "pos": "phr. 小心；提防",
+   "zh": "小心；留意；提防",
+   "colloc": "look out for opportunities 留意機會 | look out for safety 留意安全",
+   "distinct": "watch out 警戒 | beware 嚴防",
+   "ex": [
+    [
+     "Look out for any errors in the final contract draft.",
+     "留意最終合約草案中的任何錯誤。"
+    ],
+    [
+     "Investors should look out for signs of market volatility.",
+     "投資人應留意市場波動的跡象。"
+    ],
+    [
+     "You must look out for your colleagues' safety in the factory.",
+     "你必須在工廠裡留意同事的安全。"
+    ]
+   ]
+  },
+  {
+   "word": "look over",
+   "ph": "",
+   "pos": "phr. 瀏覽；檢查",
+   "zh": "瀏覽；檢查；快速審閱",
+   "colloc": "look over the documents 檢查文件 | look over the proposal 審閱提案",
+   "distinct": "look through 詳閱 | review 審核",
+   "ex": [
+    [
+     "Please look over the report before the afternoon meeting.",
+     "請在下午開會前瀏覽一下這份報告。"
+    ],
+    [
+     "He took a moment to look over the financial statements.",
+     "他花了一點時間檢查財務報表。"
+    ],
+    [
+     "Could you look over my presentation slides for any typos?",
+     "你可以幫我檢查一下簡報投影片有沒有錯字嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "lose ground",
+   "ph": "",
+   "pos": "phr. 失去優勢；退步",
+   "zh": "失去優勢；地位下滑；衰退",
+   "colloc": "lose ground to competitors 輸給競爭對手 | start to lose ground 開始失勢",
+   "distinct": "fall behind 落後 | lose advantage 失去優勢",
+   "ex": [
+    [
+     "The company began to lose ground in the local market.",
+     "該公司開始在當地市場失去競爭優勢。"
+    ],
+    [
+     "Our brand is losing ground to more innovative competitors.",
+     "我們的品牌正輸給更具創新力的對手。"
+    ],
+    [
+     "We cannot afford to lose ground in this key industry.",
+     "在這個關鍵產業中，我們承受不起地位下滑的後果。"
+    ]
+   ]
+  },
+  {
+   "word": "lose one self in",
+   "ph": "",
+   "pos": "phr. 埋首於；沉浸在",
+   "zh": "埋首於；專注於；沉浸在",
+   "colloc": "lose oneself in work 沉浸於工作中 | lose oneself in a task 埋首於任務",
+   "distinct": "immerse in 沉浸於 | focus on 專注於",
+   "ex": [
+    [
+     "He often loses himself in complex data analysis tasks.",
+     "他經常埋首於複雜的數據分析任務中。"
+    ],
+    [
+     "She tends to lose herself in projects that require creativity.",
+     "她傾向於沉浸在需要創造力的專案中。"
+    ],
+    [
+     "It is easy to lose oneself in the details of the budget.",
+     "人很容易沉浸在預算的細節中而忽略重點。"
+    ]
+   ]
+  },
+  {
+   "word": "lost in delivery",
+   "ph": "",
+   "pos": "phr. 運送遺失",
+   "zh": "運送中遺失；寄丟",
+   "colloc": "the package was lost in delivery 包裹在運送中遺失 | report an item lost in delivery 回報物品運送遺失",
+   "distinct": "delayed in transit 運送延遲 | undelivered 未送達",
+   "ex": [
+    [
+     "The client claimed that the parcel was lost in delivery.",
+     "客戶聲稱包裹在運送過程中遺失了。"
+    ],
+    [
+     "We apologize that your order was lost in delivery.",
+     "我們很抱歉您的訂單在運送中遺失。"
+    ],
+    [
+     "Check the tracking status if your shipment is lost in delivery.",
+     "如果您的貨物在運送中遺失，請檢查追蹤狀態。"
+    ]
+   ]
+  },
+  {
+   "word": "loyal customer",
+   "ph": "",
+   "pos": "phr. 忠實顧客",
+   "zh": "忠實客戶；老主顧",
+   "colloc": "maintain loyal customers 維持忠實客戶 | reward a loyal customer 獎勵忠實客戶",
+   "distinct": "repeat customer 回頭客 | regular client 常客",
+   "ex": [
+    [
+     "We offer special discounts to every loyal customer.",
+     "我們為每位忠實客戶提供特別折扣。"
+    ],
+    [
+     "Keeping a loyal customer is cheaper than finding a new one.",
+     "留住忠實客戶比開發新客戶成本更低。"
+    ],
+    [
+     "The company’s growth depends on its base of loyal customers.",
+     "該公司的成長取決於其忠實客戶群。"
+    ]
+   ]
+  },
+  {
+   "word": "make a call",
+   "ph": "",
+   "pos": "phr. 打電話；做決定",
+   "zh": "打電話；做出決定",
+   "colloc": "make a call to the office 打電話到辦公室 | make a tough call 做出艱難決定",
+   "distinct": "make a decision 做決定 | telephone 打電話",
+   "ex": [
+    [
+     "I need to make a call to confirm the meeting time.",
+     "我需要打通電話確認會議時間。"
+    ],
+    [
+     "The manager had to make a tough call regarding budget cuts.",
+     "經理必須針對預算削減做出艱難的決定。"
+    ],
+    [
+     "She will make a call about the project direction today.",
+     "她今天會針對專案方向做出決定。"
+    ]
+   ]
+  },
+  {
+   "word": "make a commitment to",
+   "ph": "",
+   "pos": "phr. 承諾；致力於",
+   "zh": "承諾；致力於；投入",
+   "colloc": "make a commitment to quality 致力於品質 | make a commitment to the team 對團隊做出承諾",
+   "distinct": "devote to 奉獻於 | promise to 答應",
+   "ex": [
+    [
+     "The company made a commitment to sustainable business practices.",
+     "公司承諾採取永續的商業模式。"
+    ],
+    [
+     "We must make a commitment to improving our customer service.",
+     "我們必須致力於改善客戶服務。"
+    ],
+    [
+     "He made a commitment to finishing the report by Friday.",
+     "他承諾會在週五前完成報告。"
+    ]
+   ]
+  }
+ ]
+}

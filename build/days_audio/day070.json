@@ -1,0 +1,448 @@
+{
+ "day": 70,
+ "theme": "教材片語・進階 650–750 第 6 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "watering can",
+   "ph": "",
+   "pos": "n. 澆水壺",
+   "zh": "澆水壺；灑水器",
+   "colloc": "use a watering can 使用澆水壺 | fill a watering can 裝滿澆水壺",
+   "distinct": "sprinkler 自動灑水系統 | hose 水管",
+   "ex": [
+    [
+     "Please fill the watering can at the sink.",
+     "請在洗手台把澆水壺裝滿。"
+    ],
+    [
+     "She grabbed the watering can to tend the flowers.",
+     "她拿起澆水壺去照料花卉。"
+    ],
+    [
+     "The gardener left his watering can by the gate.",
+     "園丁把他的澆水壺留在門邊。"
+    ]
+   ]
+  },
+  {
+   "word": "window display",
+   "ph": "",
+   "pos": "n. 櫥窗展示",
+   "zh": "櫥窗陳列；櫥窗展示",
+   "colloc": "eye-catching window display 吸睛的櫥窗展示 | design a window display 設計櫥窗",
+   "distinct": "storefront 店面 | showcase 陳列櫃",
+   "ex": [
+    [
+     "The new window display attracts many passing customers.",
+     "新的櫥窗展示吸引了許多過路顧客。"
+    ],
+    [
+     "Our team is working on the holiday window display.",
+     "我們的團隊正在製作節日的櫥窗展示。"
+    ],
+    [
+     "Take a look at the window display before entering.",
+     "進去前先看一下櫥窗展示。"
+    ]
+   ]
+  },
+  {
+   "word": "a couple of",
+   "ph": "",
+   "pos": "phr. 幾個；一對",
+   "zh": "幾個；兩三個",
+   "colloc": "a couple of days 幾天 | a couple of minutes 幾分鐘",
+   "distinct": "a few 幾個（數量稍多）| a pair of 一雙",
+   "ex": [
+    [
+     "I will be back in a couple of minutes.",
+     "我幾分鐘後就回來。"
+    ],
+    [
+     "There are a couple of errors in the report.",
+     "報告中有幾個錯誤。"
+    ],
+    [
+     "They have worked together for a couple of years.",
+     "他們已經共事幾年了。"
+    ]
+   ]
+  },
+  {
+   "word": "a sheet of",
+   "ph": "",
+   "pos": "phr. 一張（紙、金屬等）",
+   "zh": "一張；一片",
+   "colloc": "a sheet of paper 一張紙 | a sheet of glass 一片玻璃",
+   "distinct": "a piece of 一塊；一片 | a stack of 一疊",
+   "ex": [
+    [
+     "Please sign on a sheet of blank paper.",
+     "請在一張白紙上簽名。"
+    ],
+    [
+     "He handed me a sheet of instructions.",
+     "他遞給我一張說明書。"
+    ],
+    [
+     "Each applicant needs a sheet of registration form.",
+     "每位申請者需要一張登記表。"
+    ]
+   ]
+  },
+  {
+   "word": "accept an award",
+   "ph": "",
+   "pos": "phr. 領獎；接受獎項",
+   "zh": "接受獎項；領獎",
+   "colloc": "accept an award onstage 在台上領獎 | graciously accept an award 優雅地領獎",
+   "distinct": "receive an award 收到獎項 | win an award 得獎",
+   "ex": [
+    [
+     "The CEO will accept an award at the ceremony.",
+     "執行長將在典禮上接受獎項。"
+    ],
+    [
+     "He was invited to accept an award for innovation.",
+     "他受邀領取一項創新獎。"
+    ],
+    [
+     "She is preparing her speech to accept an award.",
+     "她正在準備領獎致詞。"
+    ]
+   ]
+  },
+  {
+   "word": "appearance ceremony",
+   "ph": "",
+   "pos": "n. 出席典禮",
+   "zh": "公開出席儀式；亮相儀式",
+   "colloc": "attend an appearance ceremony 出席儀式 | host an appearance ceremony 主持儀式",
+   "distinct": "opening ceremony 開幕典禮 | award ceremony 頒獎典禮",
+   "ex": [
+    [
+     "The guests gathered for the appearance ceremony.",
+     "貴賓們聚集參加出席儀式。"
+    ],
+    [
+     "Attendance at the appearance ceremony is mandatory.",
+     "出席這場亮相儀式是強制的。"
+    ],
+    [
+     "We scheduled the appearance ceremony for tomorrow morning.",
+     "我們把出席儀式安排在明天早上。"
+    ]
+   ]
+  },
+  {
+   "word": "application form",
+   "ph": "",
+   "pos": "n. 申請表",
+   "zh": "申請表；申請書",
+   "colloc": "fill out an application form 填寫申請表 | submit an application form 繳交申請表",
+   "distinct": "registration form 報名表 | questionnaire 問卷",
+   "ex": [
+    [
+     "Please complete the application form in black ink.",
+     "請用黑筆填寫申請表。"
+    ],
+    [
+     "You can download the application form online.",
+     "你可以在線上下載申請表。"
+    ],
+    [
+     "The application form must be signed by the manager.",
+     "申請表必須由經理簽名。"
+    ]
+   ]
+  },
+  {
+   "word": "be based on",
+   "ph": "",
+   "pos": "phr. 以…為基礎；根據",
+   "zh": "根據；基於",
+   "colloc": "be based on facts 根據事實 | be based on experience 基於經驗",
+   "distinct": "depend on 取決於 | rely on 依賴",
+   "ex": [
+    [
+     "The decision will be based on the latest data.",
+     "這項決定將根據最新數據。"
+    ],
+    [
+     "Our marketing strategy is based on customer feedback.",
+     "我們的行銷策略基於顧客回饋。"
+    ],
+    [
+     "The movie is based on a true corporate story.",
+     "這部電影根據真實企業故事改編。"
+    ]
+   ]
+  },
+  {
+   "word": "be familiar with",
+   "ph": "",
+   "pos": "phr. 熟悉",
+   "zh": "熟悉；通曉",
+   "colloc": "be familiar with the procedure 熟悉流程 | be familiar with the area 熟悉該地區",
+   "distinct": "be acquainted with 認識；了解 | be aware of 知道；意識到",
+   "ex": [
+    [
+     "Are you familiar with our software interface?",
+     "你熟悉我們的軟體介面嗎？"
+    ],
+    [
+     "He is familiar with the local market trends.",
+     "他熟悉當地的市場趨勢。"
+    ],
+    [
+     "I am not familiar with these new regulations.",
+     "我不熟悉這些新規定。"
+    ]
+   ]
+  },
+  {
+   "word": "business card",
+   "ph": "",
+   "pos": "n. 名片",
+   "zh": "名片",
+   "colloc": "exchange business cards 交換名片 | hand out business cards 發送名片",
+   "distinct": "ID card 識別證 | credit card 信用卡",
+   "ex": [
+    [
+     "May I have your business card for reference?",
+     "我可以拿你的名片做參考嗎？"
+    ],
+    [
+     "He handed over his business card after the meeting.",
+     "他在會議後遞上了他的名片。"
+    ],
+    [
+     "We should print more business cards for the event.",
+     "我們應該為活動多印一些名片。"
+    ]
+   ]
+  },
+  {
+   "word": "business trip",
+   "ph": "",
+   "pos": "phr. 出差",
+   "zh": "出差",
+   "colloc": "go on a business trip 去出差 | business trip expenses 出差費用",
+   "distinct": "official visit 公務訪問 | field trip 校外教學",
+   "ex": [
+    [
+     "He is currently away on a business trip in Japan.",
+     "他目前正在日本出差。"
+    ],
+    [
+     "Please submit your business trip report by Friday afternoon.",
+     "請在週五下午前提交出差報告。"
+    ],
+    [
+     "Our company will cover all expenses for your business trip.",
+     "公司將支付您所有的出差費用。"
+    ]
+   ]
+  },
+  {
+   "word": "call for",
+   "ph": "",
+   "pos": "phr. 要求；需要",
+   "zh": "要求；需要",
+   "colloc": "call for action 採取行動 | call for support 尋求支援",
+   "distinct": "call off 取消 | ask for 要求",
+   "ex": [
+    [
+     "The current market situation calls for a new strategy.",
+     "當前的市場情況需要採取新的策略。"
+    ],
+    [
+     "Management called for an immediate meeting to discuss sales.",
+     "管理層要求立即召開會議討論銷售狀況。"
+    ],
+    [
+     "This complex problem calls for a highly skilled expert.",
+     "這個複雜的問題需要高水準的專家來處理。"
+    ]
+   ]
+  },
+  {
+   "word": "close down",
+   "ph": "",
+   "pos": "phr. 倒閉；永久停業",
+   "zh": "倒閉；永久停業",
+   "colloc": "close down a business 結束營業 | close down a factory 關閉工廠",
+   "distinct": "shut down 臨時關閉（機器/系統） | go bankrupt 破產",
+   "ex": [
+    [
+     "The local branch had to close down due to poor sales.",
+     "由於銷售不佳，分公司被迫關閉。"
+    ],
+    [
+     "Many small retailers closed down during the economic downturn.",
+     "許多小型零售商在經濟衰退期間倒閉了。"
+    ],
+    [
+     "They decided to close down the warehouse by the end of year.",
+     "他們決定在年底前關閉倉庫。"
+    ]
+   ]
+  },
+  {
+   "word": "clothing line",
+   "ph": "",
+   "pos": "phr. 服裝系列",
+   "zh": "服裝系列",
+   "colloc": "launch a clothing line 推出服裝系列 | popular clothing line 受歡迎的服裝系列",
+   "distinct": "fashion collection 時裝系列 | product line 產品線",
+   "ex": [
+    [
+     "The designer is launching a new winter clothing line soon.",
+     "設計師即將推出全新的冬季服裝系列。"
+    ],
+    [
+     "Our company focuses on a sustainable clothing line for adults.",
+     "我們公司專注於成人永續服裝系列。"
+    ],
+    [
+     "Her clothing line has become very popular among young professionals.",
+     "她的服裝系列在年輕專業人士中非常受歡迎。"
+    ]
+   ]
+  },
+  {
+   "word": "come over",
+   "ph": "",
+   "pos": "phr. 過來；拜訪",
+   "zh": "過來；拜訪",
+   "colloc": "come over to my office 到我辦公室來 | come over for a meeting 順道來開會",
+   "distinct": "drop by 順道拜訪 | visit 參觀；拜訪",
+   "ex": [
+    [
+     "Would you like to come over to discuss the proposal today?",
+     "你今天想過來討論一下提案嗎？"
+    ],
+    [
+     "Several clients will come over to see our new prototype.",
+     "幾位客戶會過來參觀我們的新原型機。"
+    ],
+    [
+     "Please come over to the main building for the signing.",
+     "請到主棟大樓來進行簽約。"
+    ]
+   ]
+  },
+  {
+   "word": "customer service representative",
+   "ph": "",
+   "pos": "phr. 客服專員",
+   "zh": "客服專員",
+   "colloc": "contact a customer service representative 聯繫客服專員 | professional customer service representative 專業客服專員",
+   "distinct": "sales representative 銷售代表 | technical support 技術支援",
+   "ex": [
+    [
+     "A customer service representative will assist you with the return.",
+     "客服專員將協助您處理退貨事宜。"
+    ],
+    [
+     "I spoke to a customer service representative about my account.",
+     "我和客服專員討論了我的帳戶問題。"
+    ],
+    [
+     "You can reach a customer service representative via our hotline.",
+     "您可以透過我們的熱線聯繫客服專員。"
+    ]
+   ]
+  },
+  {
+   "word": "disease healing",
+   "ph": "",
+   "pos": "phr. 疾病治癒",
+   "zh": "疾病治癒",
+   "colloc": "promote disease healing 促進疾病治癒 | process of disease healing 疾病治癒過程",
+   "distinct": "disease prevention 疾病預防 | recovery 恢復（健康）",
+   "ex": [
+    [
+     "The medical team is researching new methods for disease healing.",
+     "醫療團隊正在研究疾病治癒的新方法。"
+    ],
+    [
+     "Proper nutrition plays a key role in the disease healing process.",
+     "良好的營養在疾病治癒過程中扮演關鍵角色。"
+    ],
+    [
+     "Modern technology has significantly improved the rates of disease healing.",
+     "現代技術顯著提升了疾病的治癒率。"
+    ]
+   ]
+  },
+  {
+   "word": "drop by",
+   "ph": "",
+   "pos": "phr. 順道拜訪",
+   "zh": "順道拜訪",
+   "colloc": "drop by the office 順道去辦公室 | drop by later 稍後順道來",
+   "distinct": "come over 專程過來 | visit 正式拜訪",
+   "ex": [
+    [
+     "Feel free to drop by my office if you have questions.",
+     "如果有問題，歡迎隨時順道來我辦公室。"
+    ],
+    [
+     "I will drop by your desk to collect the signed documents.",
+     "我會順道經過你的座位收取簽名文件。"
+    ],
+    [
+     "Could you drop by before the meeting starts this afternoon?",
+     "你能在今天下午會議開始前順道過來嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "end up",
+   "ph": "",
+   "pos": "phr. 結果；最終成為",
+   "zh": "結果；最終成為",
+   "colloc": "end up in trouble 結果惹上麻煩 | end up doing something 最終做了某事",
+   "distinct": "turn out 結果是（情況） | result in 導致",
+   "ex": [
+    [
+     "We ended up hiring the candidate with the most experience.",
+     "我們最終錄用了那位最有經驗的候選人。"
+    ],
+    [
+     "If you do not plan properly, you might end up over budget.",
+     "如果沒有妥善規劃，你最終可能會超出預算。"
+    ],
+    [
+     "The project ended up being a great success for our team.",
+     "這個專案最終對我們團隊而言是一個巨大的成功。"
+    ]
+   ]
+  },
+  {
+   "word": "feel sick",
+   "ph": "",
+   "pos": "phr. 感到不適；噁心",
+   "zh": "感到不適；噁心",
+   "colloc": "feel sick to one's stomach 感到噁心 | call in sick 因病請假",
+   "distinct": "be ill 生病（狀態） | feel nauseous 感到反胃",
+   "ex": [
+    [
+     "He started to feel sick after eating the cafeteria lunch.",
+     "吃了員工餐廳的午餐後，他開始感到身體不適。"
+    ],
+    [
+     "Please call the supervisor if you feel sick this morning.",
+     "如果您今天早上感到不適，請致電主管。"
+    ],
+    [
+     "I felt sick during the presentation due to the stress.",
+     "因為壓力的關係，我在簡報時感到身體不太舒服。"
+    ]
+   ]
+  }
+ ]
+}

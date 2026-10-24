@@ -1,0 +1,448 @@
+{
+ "day": 52,
+ "theme": "教材字彙・中高階 750–850 第 52 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "punishment",
+   "ph": "/ˈpʌnɪʃmənt/",
+   "pos": "n. 懲罰 | 處罰",
+   "zh": "懲罰；處罰",
+   "colloc": "capital punishment 死刑 | harsh punishment 嚴厲懲罰",
+   "distinct": "penalty 罰款；罰球 | sanction 制裁",
+   "ex": [
+    [
+     "The company imposes strict punishment for tardiness.",
+     "公司針對遲到實施嚴格懲罰。"
+    ],
+    [
+     "The new policy aims to reduce employee punishment.",
+     "新政策旨在減少對員工的懲處。"
+    ],
+    [
+     "He accepted the punishment for his negligence.",
+     "他接受了對自己疏忽的懲罰。"
+    ]
+   ]
+  },
+  {
+   "word": "reasonable",
+   "ph": "/ˈriːznəbl/",
+   "pos": "adj. 合理的 | 通情達理的",
+   "zh": "合理的；通情達理的",
+   "colloc": "reasonable price 合理價格 | reasonable request 合理要求",
+   "distinct": "rational 理性的 | sensible 明智的",
+   "ex": [
+    [
+     "We offer a reasonable price for these services.",
+     "我們為這些服務提供合理價格。"
+    ],
+    [
+     "The manager made a very reasonable request.",
+     "經理提出了一個非常合理的要求。"
+    ],
+    [
+     "Is it reasonable to expect a quick reply?",
+     "期待快速回覆是否合理？"
+    ]
+   ]
+  },
+  {
+   "word": "reduced",
+   "ph": "/rɪˈdjuːst/",
+   "pos": "adj. 減少的 | 被削減的",
+   "zh": "減少的；被削減的",
+   "colloc": "reduced rate 折扣價 | reduced capacity 減產能力",
+   "distinct": "decreased 減少的 | lessened 減輕的",
+   "ex": [
+    [
+     "Customers can enjoy a reduced rate this month.",
+     "顧客本月可以享受折扣價。"
+    ],
+    [
+     "The company faces reduced demand for its products.",
+     "公司正面臨產品需求減少的情況。"
+    ],
+    [
+     "We have reduced costs through better efficiency.",
+     "我們透過提升效率降低了成本。"
+    ]
+   ]
+  },
+  {
+   "word": "reform",
+   "ph": "/rɪˈfɔːrm/",
+   "pos": "n. 改革 | v. 改良",
+   "zh": "改革；改良",
+   "colloc": "tax reform 稅制改革 | social reform 社會改革",
+   "distinct": "amendment 修正案 | transformation 轉型",
+   "ex": [
+    [
+     "The government plans to reform the tax system.",
+     "政府計畫進行稅制改革。"
+    ],
+    [
+     "This reform will improve overall business operations.",
+     "這項改革將改善整體營運狀況。"
+    ],
+    [
+     "There is an urgent need for structural reform.",
+     "目前迫切需要結構性改革。"
+    ]
+   ]
+  },
+  {
+   "word": "relevantly",
+   "ph": "/ˈreləvəntli/",
+   "pos": "adv. 有關聯地 | 切題地",
+   "zh": "有關聯地；切題地",
+   "colloc": "speak relevantly 切中要點地發言 | act relevantly 適當地行動",
+   "distinct": "appropriately 適當地 | accordingly 相應地",
+   "ex": [
+    [
+     "He spoke relevantly about the market trends.",
+     "他切中要點地談論了市場趨勢。"
+    ],
+    [
+     "Data must be used relevantly in the report.",
+     "數據必須在報告中切題地使用。"
+    ],
+    [
+     "The consultant answered all questions relevantly.",
+     "顧問切題地回答了所有問題。"
+    ]
+   ]
+  },
+  {
+   "word": "rightly",
+   "ph": "/ˈraɪtli/",
+   "pos": "adv. 正確地 | 理應地",
+   "zh": "正確地；理應地",
+   "colloc": "rightly assume 理所當然地認為 | rightly concerned 正當地感到擔心",
+   "distinct": "correctly 正確地 | properly 適當地",
+   "ex": [
+    [
+     "Management is rightly concerned about the delay.",
+     "管理層理應對這次延遲感到擔心。"
+    ],
+    [
+     "We rightly expected a higher profit margin.",
+     "我們理應期待更高的利潤率。"
+    ],
+    [
+     "The committee rightly rejected the flawed proposal.",
+     "委員會正確地否決了那份瑕疵提案。"
+    ]
+   ]
+  },
+  {
+   "word": "seal",
+   "ph": "/siːl/",
+   "pos": "n. 印章；封條 | v. 密封",
+   "zh": "封條；密封",
+   "colloc": "official seal 公章 | seal a deal 達成協議",
+   "distinct": "stamp 郵票；蓋章 | adhesive 黏合劑",
+   "ex": [
+    [
+     "Please ensure you seal the envelope carefully.",
+     "請確保你仔細密封信封。"
+    ],
+    [
+     "The contract requires an official company seal.",
+     "合約需要加蓋正式公司印章。"
+    ],
+    [
+     "Both parties finally managed to seal the deal.",
+     "雙方終於成功達成協議。"
+    ]
+   ]
+  },
+  {
+   "word": "secured",
+   "ph": "/sɪˈkjʊərd/",
+   "pos": "adj. 安全的 | 獲得的",
+   "zh": "安全的；獲得的",
+   "colloc": "secured loan 有擔保貸款 | secured area 安全區域",
+   "distinct": "safe 安全的 | protected 受保護的",
+   "ex": [
+    [
+     "Access is limited to the secured zone.",
+     "進入權限僅限於安全區域。"
+    ],
+    [
+     "Our team secured a major contract yesterday.",
+     "我們的團隊昨天獲得了一份大合約。"
+    ],
+    [
+     "All documents are kept in a secured cabinet.",
+     "所有文件都存放在安全的櫃子裡。"
+    ]
+   ]
+  },
+  {
+   "word": "society",
+   "ph": "/səˈsaɪəti/",
+   "pos": "n. 社會 | 協會",
+   "zh": "社會；協會",
+   "colloc": "modern society 現代社會 | business society 商業界",
+   "distinct": "community 社區 | association 協會",
+   "ex": [
+    [
+     "Technology has changed our modern society.",
+     "科技已經改變了我們的現代社會。"
+    ],
+    [
+     "The professional society holds annual meetings.",
+     "該專業協會每年舉辦年會。"
+    ],
+    [
+     "Companies should contribute to the society.",
+     "企業應該對社會做出貢獻。"
+    ]
+   ]
+  },
+  {
+   "word": "specialist",
+   "ph": "/ˈspeʃəlɪst/",
+   "pos": "n. 專家 | 專科醫師",
+   "zh": "專家；專科醫師",
+   "colloc": "marketing specialist 行銷專家 | medical specialist 醫療專家",
+   "distinct": "expert 專家 | professional 專業人士",
+   "ex": [
+    [
+     "We hired a specialist to fix the software.",
+     "我們聘請了一位專家來修復軟體。"
+    ],
+    [
+     "The marketing specialist analyzed the target audience.",
+     "行銷專家分析了目標受眾。"
+    ],
+    [
+     "Consult a specialist before making that decision.",
+     "在做決定前請諮詢專家。"
+    ]
+   ]
+  },
+  {
+   "word": "specially",
+   "ph": "/ˈspeʃəli/",
+   "pos": "adv. 特別地 | 專門地",
+   "zh": "特別地；專門地",
+   "colloc": "specially designed 特別設計的 | specially trained 受過特殊訓練的",
+   "distinct": "especially 特別地（強調程度） | particularly 特別地",
+   "ex": [
+    [
+     "This tool was specially designed for technicians.",
+     "這項工具是專門為技術人員設計的。"
+    ],
+    [
+     "She was specially trained to handle complaints.",
+     "她受過特別訓練以處理客訴。"
+    ],
+    [
+     "These items are specially packaged for export.",
+     "這些商品是專門為出口進行包裝的。"
+    ]
+   ]
+  },
+  {
+   "word": "squeeze",
+   "ph": "/skwiːz/",
+   "pos": "v. 擠壓 | 緊縮 | n. 擠壓",
+   "zh": "擠壓；緊縮",
+   "colloc": "profit squeeze 利潤壓縮 | squeeze in 勉強擠出時間",
+   "distinct": "press 按壓 | compress 壓縮",
+   "ex": [
+    [
+     "High costs caused a severe profit squeeze.",
+     "高成本導致了嚴重的利潤壓縮。"
+    ],
+    [
+     "Can you squeeze a meeting into your schedule?",
+     "你可以勉強在行程中擠出時間開會嗎？"
+    ],
+    [
+     "The budget squeeze forced us to cut spending.",
+     "預算緊縮迫使我們刪減開支。"
+    ]
+   ]
+  },
+  {
+   "word": "state",
+   "ph": "/steɪt/",
+   "pos": "n. 狀態；國家 | v. 陳述",
+   "zh": "狀態；國家；陳述",
+   "colloc": "financial state 財務狀況 | state clearly 明確陳述",
+   "distinct": "condition 條件；狀態 | nation 國家",
+   "ex": [
+    [
+     "The report must state the facts clearly.",
+     "報告必須明確陳述事實。"
+    ],
+    [
+     "Our equipment is in a poor state.",
+     "我們的設備處於不良狀態。"
+    ],
+    [
+     "The company operates in several different states.",
+     "該公司在多個不同州別運作。"
+    ]
+   ]
+  },
+  {
+   "word": "status",
+   "ph": "/ˈsteɪtəs/",
+   "pos": "n. 地位 | 狀態；身分",
+   "zh": "地位；狀態；身分",
+   "colloc": "current status 目前狀態 | social status 社會地位",
+   "distinct": "rank 階級 | position 職位",
+   "ex": [
+    [
+     "Please update me on the project status.",
+     "請向我更新專案的目前進度。"
+    ],
+    [
+     "His status in the industry is very high.",
+     "他在該產業的地位非常高。"
+    ],
+    [
+     "We checked the shipping status online.",
+     "我們在網上查詢了運送狀態。"
+    ]
+   ]
+  },
+  {
+   "word": "steer",
+   "ph": "/stɪər/",
+   "pos": "v. 駕駛 | 引導",
+   "zh": "駕駛；引導",
+   "colloc": "steer the company 引導公司 | steer clear of 避開",
+   "distinct": "drive 開車 | guide 指導",
+   "ex": [
+    [
+     "He helped steer the company toward success.",
+     "他協助引導公司邁向成功。"
+    ],
+    [
+     "Management needs to steer the team carefully.",
+     "管理層需要謹慎引導團隊。"
+    ],
+    [
+     "You should steer clear of risky investments.",
+     "你應該避開高風險的投資。"
+    ]
+   ]
+  },
+  {
+   "word": "stove",
+   "ph": "/stəʊv/",
+   "pos": "n. 火爐 | 爐灶",
+   "zh": "火爐；爐灶",
+   "colloc": "gas stove 瓦斯爐 | kitchen stove 廚房爐具",
+   "distinct": "oven 烤箱 | furnace 暖爐",
+   "ex": [
+    [
+     "The factory produces high-quality kitchen stoves.",
+     "這家工廠生產高品質的廚房爐灶。"
+    ],
+    [
+     "We need a new stove for the breakroom.",
+     "休息室需要一台新爐灶。"
+    ],
+    [
+     "Turn off the stove after you finish cooking.",
+     "煮完飯後請關掉爐灶。"
+    ]
+   ]
+  },
+  {
+   "word": "strike",
+   "ph": "/straɪk/",
+   "pos": "v. 罷工；擊中 | n. 罷工",
+   "zh": "罷工；擊中",
+   "colloc": "go on strike 進行罷工 | air strike 空襲",
+   "distinct": "protest 抗議 | attack 攻擊",
+   "ex": [
+    [
+     "The workers threatened to go on strike.",
+     "工人們威脅要進行罷工。"
+    ],
+    [
+     "The union decided to strike for higher wages.",
+     "工會決定為爭取更高薪資而罷工。"
+    ],
+    [
+     "A sudden crisis struck the department yesterday.",
+     "一場突如其來的危機昨日襲擊了該部門。"
+    ]
+   ]
+  },
+  {
+   "word": "struggle",
+   "ph": "/ˈstrʌɡl/",
+   "pos": "v. 奮鬥 | 掙扎 | n. 奮鬥",
+   "zh": "奮鬥；掙扎",
+   "colloc": "struggle for 為了...而奮鬥 | daily struggle 日常掙扎",
+   "distinct": "fight 打鬥 | effort 努力",
+   "ex": [
+    [
+     "Many startups struggle to survive the first year.",
+     "許多新創公司為了生存撐過第一年而掙扎。"
+    ],
+    [
+     "The team continues to struggle with the deadline.",
+     "團隊仍在為趕上期限而奮鬥。"
+    ],
+    [
+     "It was a long struggle to gain market share.",
+     "爭取市場佔有率是一場長期奮鬥。"
+    ]
+   ]
+  },
+  {
+   "word": "suitable",
+   "ph": "/ˈsuːtəbl/",
+   "pos": "adj. 合適的 | 適宜的",
+   "zh": "合適的；適宜的",
+   "colloc": "suitable for 合適的 | suitable candidate 合適人選",
+   "distinct": "appropriate 合適的 | fitting 恰當的",
+   "ex": [
+    [
+     "We are looking for a suitable candidate today.",
+     "我們今天正在尋找合適的人選。"
+    ],
+    [
+     "The new software is suitable for small teams.",
+     "這套新軟體適合小型團隊使用。"
+    ],
+    [
+     "Is this location suitable for the conference?",
+     "這個地點適合舉辦會議嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "technical",
+   "ph": "/ˈteknɪkl/",
+   "pos": "adj. 技術的 | 專門的",
+   "zh": "技術的；專門的",
+   "colloc": "technical support 技術支援 | technical problem 技術問題",
+   "distinct": "technological 科技的 | mechanical 機械的",
+   "ex": [
+    [
+     "Please contact the technical support team immediately.",
+     "請立即聯絡技術支援團隊。"
+    ],
+    [
+     "The project faced many complex technical issues.",
+     "該專案面臨許多複雜的技術問題。"
+    ],
+    [
+     "He provided a detailed technical explanation.",
+     "他提供了詳細的技術說明。"
+    ]
+   ]
+  }
+ ]
+}

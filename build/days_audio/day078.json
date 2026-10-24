@@ -1,0 +1,448 @@
+{
+ "day": 78,
+ "theme": "教材片語・中高階 750–850 第 14 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "have a discussion",
+   "ph": "",
+   "pos": "phr. 進行討論",
+   "zh": "討論；商討",
+   "colloc": "have a brief discussion 簡短討論 | have a further discussion 進一步討論",
+   "distinct": "hold a meeting 正式會議 | engage in a conversation 對話交流",
+   "ex": [
+    [
+     "The department heads will have a discussion regarding the budget.",
+     "部門主管將針對預算進行討論。"
+    ],
+    [
+     "We need to have a discussion about the new marketing strategy.",
+     "我們需要商討一下新的行銷策略。"
+    ],
+    [
+     "After having a discussion, the team reached a consensus.",
+     "經過討論後，團隊達成了一致意見。"
+    ]
+   ]
+  },
+  {
+   "word": "have a flat tire",
+   "ph": "",
+   "pos": "phr. 爆胎",
+   "zh": "輪胎沒氣；爆胎",
+   "colloc": "change a flat tire 更換爆胎 | end up with a flat tire 遭遇爆胎",
+   "distinct": "have a blowout 輪胎爆裂 | be out of gas 沒油",
+   "ex": [
+    [
+     "I was late because I had a flat tire on the way.",
+     "我遲到了，因為路上輪胎爆了。"
+    ],
+    [
+     "Drivers should check their pressure to avoid having a flat tire.",
+     "駕駛應檢查胎壓以避免發生爆胎。"
+    ],
+    [
+     "She had a flat tire while driving to the client meeting.",
+     "她在開車去客戶會議的途中遇到了爆胎。"
+    ]
+   ]
+  },
+  {
+   "word": "have control over",
+   "ph": "",
+   "pos": "phr. 對…有控制權",
+   "zh": "控制；掌控",
+   "colloc": "have full control over 完全掌控 | have limited control over 有限控制",
+   "distinct": "be in control of 負責管理 | lose control of 失去對...的控制",
+   "ex": [
+    [
+     "Management must have control over all project expenditures.",
+     "管理層必須對所有專案支出有控制權。"
+    ],
+    [
+     "Do you have control over the production timeline?",
+     "你對生產時程有控制權嗎？"
+    ],
+    [
+     "He does not have control over the current market fluctuations.",
+     "他無法掌控目前的市場波動。"
+    ]
+   ]
+  },
+  {
+   "word": "have reason to do",
+   "ph": "",
+   "pos": "phr. 有理由做某事",
+   "zh": "有理由做；有正當性做",
+   "colloc": "have every reason to do 完全有理由做 | have no reason to do 沒有理由做",
+   "distinct": "have a reason for 對...有理由 | be reasonable 講道理的",
+   "ex": [
+    [
+     "We have reason to believe that the profit will increase.",
+     "我們有理由相信利潤將會增加。"
+    ],
+    [
+     "The board has reason to do an audit of the accounts.",
+     "董事會有理由對帳目進行審計。"
+    ],
+    [
+     "Employees have reason to expect a year-end bonus this term.",
+     "員工有理由期待本期的年終獎金。"
+    ]
+   ]
+  },
+  {
+   "word": "heart disease",
+   "ph": "",
+   "pos": "n. 心臟病",
+   "zh": "心臟病",
+   "colloc": "prevent heart disease 預防心臟病 | risk of heart disease 心臟病風險",
+   "distinct": "cardiac arrest 心臟驟停 | stroke 中風",
+   "ex": [
+    [
+     "Regular exercise helps to lower the risk of heart disease.",
+     "規律運動有助於降低患心臟病的風險。"
+    ],
+    [
+     "The company offers wellness programs to prevent heart disease.",
+     "公司提供健康計畫以預防心臟病。"
+    ],
+    [
+     "High stress levels are linked to an increased risk of heart disease.",
+     "高壓力水準與增加的心臟病風險有關。"
+    ]
+   ]
+  },
+  {
+   "word": "in an attempt to",
+   "ph": "",
+   "pos": "phr. 試圖做…",
+   "zh": "試圖；企圖",
+   "colloc": "in an attempt to improve 為了改善 | in an attempt to resolve 試圖解決",
+   "distinct": "in a bid to 為爭取...而 | with the aim of 以...為目標",
+   "ex": [
+    [
+     "The firm cut costs in an attempt to boost earnings.",
+     "該公司為了提高獲利而削減成本。"
+    ],
+    [
+     "They launched the product in an attempt to capture market share.",
+     "他們推出產品是為了試圖搶佔市場份額。"
+    ],
+    [
+     "She worked overtime in an attempt to finish the report early.",
+     "她加班是為了試圖早點完成報告。"
+    ]
+   ]
+  },
+  {
+   "word": "in conclusion",
+   "ph": "",
+   "pos": "phr. 總之；最後",
+   "zh": "結論是；總之",
+   "colloc": "reach a conclusion 得出結論 | draw a conclusion 下結論",
+   "distinct": "in summary 簡而言之 | to sum up 總而言之",
+   "ex": [
+    [
+     "In conclusion, this investment will yield long-term benefits.",
+     "總之，這項投資將產生長期效益。"
+    ],
+    [
+     "The report states, in conclusion, that the merger is beneficial.",
+     "報告在結論中指出，合併是有益的。"
+    ],
+    [
+     "In conclusion, we must prioritize customer satisfaction above all.",
+     "總之，我們必須將客戶滿意度放在首位。"
+    ]
+   ]
+  },
+  {
+   "word": "in print",
+   "ph": "",
+   "pos": "phr. 已出版；印刷中",
+   "zh": "出版；印成書面",
+   "colloc": "available in print 有印刷版 | be in print 仍在發行",
+   "distinct": "out of print 絕版 | online version 網路版本",
+   "ex": [
+    [
+     "The article is expected to be in print by next week.",
+     "該文章預計下週會以印刷版發行。"
+    ],
+    [
+     "Many classic books are no longer available in print.",
+     "許多經典書籍已不再印刷出版。"
+    ],
+    [
+     "You can find the updated policy in print at the reception.",
+     "你可以在櫃檯找到列印出來的最新政策。"
+    ]
+   ]
+  },
+  {
+   "word": "in support of",
+   "ph": "",
+   "pos": "phr. 支持",
+   "zh": "支持；贊成",
+   "colloc": "vote in support of 投票支持 | speak in support of 發言支持",
+   "distinct": "in favor of 贊同 | in opposition to 反對",
+   "ex": [
+    [
+     "The CEO spoke in support of the new sustainability initiative.",
+     "執行長發言支持新的永續發展計畫。"
+    ],
+    [
+     "Many shareholders are in support of the proposed acquisition.",
+     "許多股東都支持這項收購提議。"
+    ],
+    [
+     "Evidence was presented in support of the current safety regulations.",
+     "證據被提出以支持目前的安全性規定。"
+    ]
+   ]
+  },
+  {
+   "word": "in the event of",
+   "ph": "",
+   "pos": "phr. 若發生…的情況",
+   "zh": "萬一；如果發生",
+   "colloc": "in the event of delay 若發生延誤 | in the event of failure 若失敗",
+   "distinct": "in case of 萬一 | in the event that 若...情況發生",
+   "ex": [
+    [
+     "In the event of an emergency, please use the fire exit.",
+     "若發生緊急情況，請使用安全出口。"
+    ],
+    [
+     "Staff will be notified in the event of a system shutdown.",
+     "若發生系統關閉，員工將會收到通知。"
+    ],
+    [
+     "Please contact us in the event of any discrepancies in billing.",
+     "若帳單出現任何不符，請與我們聯繫。"
+    ]
+   ]
+  },
+  {
+   "word": "in the finance of",
+   "ph": "",
+   "pos": "phr. 在…的財務中",
+   "zh": "財務方面；資金方面",
+   "colloc": "manage the finance of 管理...的財務 | oversee the finance of 監督...的資金",
+   "distinct": "in the field of 在...領域 | regarding the finance of 關於...的財務",
+   "ex": [
+    [
+     "We need to be transparent in the finance of this venture.",
+     "我們在這次創投的財務上必須保持透明。"
+    ],
+    [
+     "He plays a key role in the finance of large-scale projects.",
+     "他在大型專案的財務方面扮演關鍵角色。"
+    ],
+    [
+     "Significant changes occurred in the finance of the public sector.",
+     "公共部門的財務方面發生了重大變革。"
+    ]
+   ]
+  },
+  {
+   "word": "in the middle of",
+   "ph": "",
+   "pos": "phr. 在…中間；正忙於",
+   "zh": "在...之中；正在進行",
+   "colloc": "in the middle of a meeting 開會中 | in the middle of a process 過程中",
+   "distinct": "at the center of 在中心點 | during the time of 在...期間",
+   "ex": [
+    [
+     "I am currently in the middle of a very important negotiation.",
+     "我目前正忙於一場非常重要的談判。"
+    ],
+    [
+     "They arrived while we were in the middle of a presentation.",
+     "我們正進行簡報時他們抵達了。"
+    ],
+    [
+     "We are in the middle of upgrading our computer software systems.",
+     "我們正處於升級電腦軟體系統的過程中。"
+    ]
+   ]
+  },
+  {
+   "word": "knock off",
+   "ph": "",
+   "pos": "phr. 停工；下班；減價",
+   "zh": "下班；停止工作；扣除",
+   "colloc": "knock off early 早退 | knock off work 下班",
+   "distinct": "clock off 打卡下班 | finish up 完成工作",
+   "ex": [
+    [
+     "Let us knock off for the day and resume tomorrow morning.",
+     "我們今天先下班，明天早上再繼續吧。"
+    ],
+    [
+     "Most employees knock off work at exactly five o'clock.",
+     "大多數員工準時五點下班。"
+    ],
+    [
+     "The company decided to knock off ten percent for early payment.",
+     "公司決定針對提前付款提供百分之十的折扣。"
+    ]
+   ]
+  },
+  {
+   "word": "left over",
+   "ph": "",
+   "pos": "phr. 剩下的；剩餘的",
+   "zh": "剩餘；留下",
+   "colloc": "left over food 剩菜 | money left over 剩餘資金",
+   "distinct": "carry over 結轉 | surplus 盈餘",
+   "ex": [
+    [
+     "There was little budget left over after the event expenses.",
+     "活動開銷後剩下的預算不多了。"
+    ],
+    [
+     "Any parts left over should be returned to the warehouse.",
+     "任何剩下的零件都應歸還到倉庫。"
+    ],
+    [
+     "She distributed the left over supplies to the regional offices.",
+     "她將剩餘的物資分發給各個區域辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "link together",
+   "ph": "",
+   "pos": "phr. 連結；聯繫起來",
+   "zh": "連結；銜接",
+   "colloc": "link data together 連結資料 | link departments together 聯繫各部門",
+   "distinct": "connect with 與...連結 | join together 合併",
+   "ex": [
+    [
+     "The new software helps to link the databases together efficiently.",
+     "這套新軟體有助於有效地連結各資料庫。"
+    ],
+    [
+     "We need to link our marketing efforts together for consistency.",
+     "為了保持一致性，我們需要將行銷工作連結起來。"
+    ],
+    [
+     "The project will link together various regional branch offices.",
+     "該專案將連結各地的區域分公司。"
+    ]
+   ]
+  },
+  {
+   "word": "make a conclusion",
+   "ph": "",
+   "pos": "phr. 下結論",
+   "zh": "作出結論；總結",
+   "colloc": "make a logical conclusion 作出合乎邏輯的結論 | fail to make a conclusion 未能得出結論",
+   "distinct": "come to a conclusion 得出結論 | draw a conclusion 歸納結論",
+   "ex": [
+    [
+     "It is too early to make a conclusion about the survey results.",
+     "現在就針對調查結果下結論還太早。"
+    ],
+    [
+     "The committee will make a conclusion after reviewing the evidence.",
+     "委員會在審閱證據後將會作出結論。"
+    ],
+    [
+     "He refused to make a conclusion without further market data.",
+     "在沒有進一步市場數據的情況下，他拒絕下結論。"
+    ]
+   ]
+  },
+  {
+   "word": "make a decision",
+   "ph": "",
+   "pos": "phr. 做決定",
+   "zh": "做決策；決定",
+   "colloc": "make a difficult decision 做艱難決定 | make a final decision 做最後決定",
+   "distinct": "reach a decision 達成決議 | take a decision 採取行動(較不常用)",
+   "ex": [
+    [
+     "Management needs to make a decision regarding the contract renewal.",
+     "管理層需要針對合約續簽做出決定。"
+    ],
+    [
+     "We must make a decision before the end of the business day.",
+     "我們必須在下班前做出決定。"
+    ],
+    [
+     "It is often hard to make a decision under such pressure.",
+     "在這種壓力下做出決定往往很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "make a deposit",
+   "ph": "",
+   "pos": "phr. 存款；存入保證金",
+   "zh": "存入；支付訂金",
+   "colloc": "make a cash deposit 現金存款 | make a security deposit 繳交保證金",
+   "distinct": "open an account 開戶 | withdraw money 提款",
+   "ex": [
+    [
+     "You need to make a deposit before the lease agreement starts.",
+     "在租約開始前，你需要支付一筆押金。"
+    ],
+    [
+     "He went to the bank to make a deposit this morning.",
+     "他今天早上去了銀行存款。"
+    ],
+    [
+     "The client will make a deposit to secure the shipping space.",
+     "客戶將支付一筆訂金以預留艙位。"
+    ]
+   ]
+  },
+  {
+   "word": "make a final change",
+   "ph": "",
+   "pos": "phr. 做最後的修改",
+   "zh": "最後修正；定稿",
+   "colloc": "make a final change to 修改最後稿件 | require a final change 需要最後調整",
+   "distinct": "make an adjustment 進行調整 | finalize a document 將文件定稿",
+   "ex": [
+    [
+     "Please make a final change to the layout before printing.",
+     "請在列印前對版面進行最後的修改。"
+    ],
+    [
+     "The editor will make a final change to the manuscript today.",
+     "編輯今天會對手稿進行最後的修正。"
+    ],
+    [
+     "We are ready to submit once we make a final change.",
+     "一旦我們完成最後的修改，就可以提交了。"
+    ]
+   ]
+  },
+  {
+   "word": "make clear",
+   "ph": "",
+   "pos": "phr. 講清楚；闡明",
+   "zh": "使清楚；說明清楚",
+   "colloc": "make it clear 說明清楚 | make one's position clear 表明立場",
+   "distinct": "clarify 澄清 | explain 解釋",
+   "ex": [
+    [
+     "The manager wanted to make clear the goals for this quarter.",
+     "經理想要把本季的目標說明清楚。"
+    ],
+    [
+     "She made clear that all deadlines must be strictly followed.",
+     "她明確表示所有截止期限都必須嚴格遵守。"
+    ],
+    [
+     "Please make clear your requirements in the initial email.",
+     "請在第一封郵件中把你的需求講清楚。"
+    ]
+   ]
+  }
+ ]
+}

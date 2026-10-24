@@ -1,0 +1,448 @@
+{
+ "day": 33,
+ "theme": "教材字彙・進階 650–750 第 33 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "hook",
+   "ph": "/hʊk/",
+   "pos": "v. 鉤住；吸引 | n. 鉤子",
+   "zh": "鉤住；吸引；圈套",
+   "colloc": "hook onto 鉤住... | get hooked on 對...上癮",
+   "distinct": "catch 抓住；接住 | clasp 緊扣",
+   "ex": [
+    [
+     "The advertising campaign aims to hook potential customers.",
+     "這次廣告宣傳旨在吸引潛在客戶。"
+    ],
+    [
+     "Please hook the documents together with this clip.",
+     "請用這個夾子把文件鉤在一起。"
+    ],
+    [
+     "He was hooked on the idea of expanding overseas.",
+     "他對擴張海外市場的想法深深著迷。"
+    ]
+   ]
+  },
+  {
+   "word": "shade",
+   "ph": "/ʃeɪd/",
+   "pos": "n. 陰涼處；色調 | v. 遮蔽",
+   "zh": "陰影；色調；細微差異",
+   "colloc": "in the shade 在陰涼處 | a shade of 色調",
+   "distinct": "shadow 影子（輪廓） | tint 色澤",
+   "ex": [
+    [
+     "We sat in the shade during the lunch break.",
+     "午休時我們坐在陰涼處休息。"
+    ],
+    [
+     "This blue paint comes in several different shades.",
+     "這種藍色油漆有幾種不同的色調。"
+    ],
+    [
+     "The trees shade the parking lot from the sun.",
+     "這些樹木為停車場遮擋陽光。"
+    ]
+   ]
+  },
+  {
+   "word": "avoid",
+   "ph": "/əˈvɔɪd/",
+   "pos": "v. 避免；避開",
+   "zh": "避免；防止；避開",
+   "colloc": "avoid doing sth. 避免做某事 | avoid the issue 迴避問題",
+   "distinct": "prevent 預防；阻止 | evade 逃避（責任或義務）",
+   "ex": [
+    [
+     "We should avoid making unnecessary expenses this quarter.",
+     "本季度我們應該避免不必要的開支。"
+    ],
+    [
+     "Careful planning helps to avoid potential project delays.",
+     "詳盡的規劃有助於避免潛在的專案延誤。"
+    ],
+    [
+     "He tried to avoid answering the difficult question.",
+     "他試圖迴避回答那個棘手的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "border",
+   "ph": "/ˈbɔːrdər/",
+   "pos": "n. 邊界；邊緣 | v. 與...接壤",
+   "zh": "邊界；國界；邊緣",
+   "colloc": "cross the border 越過邊界 | on the border of 在...邊緣",
+   "distinct": "boundary 界線（抽象） | edge 邊緣",
+   "ex": [
+    [
+     "The company operates across the border in Canada.",
+     "這家公司在國界另一端的加拿大營運。"
+    ],
+    [
+     "Heavy traffic was reported at the national border.",
+     "據報導國界處出現嚴重交通壅塞。"
+    ],
+    [
+     "The park is bordered by a long stone wall.",
+     "公園邊緣有一道長長的石牆。"
+    ]
+   ]
+  },
+  {
+   "word": "case",
+   "ph": "/keɪs/",
+   "pos": "n. 個案；箱子；情況",
+   "zh": "案例；情況；箱子",
+   "colloc": "in any case 無論如何 | in case of 以防萬一",
+   "distinct": "instance 實例 | container 容器",
+   "ex": [
+    [
+     "We are reviewing the case of the missing shipment.",
+     "我們正在審查遺失貨物的案件。"
+    ],
+    [
+     "In case of emergency, please contact the manager.",
+     "若遇緊急情況，請聯繫經理。"
+    ],
+    [
+     "They analyzed each business case before making decisions.",
+     "他們在做決定前分析了每個商業案例。"
+    ]
+   ]
+  },
+  {
+   "word": "introduction",
+   "ph": "/ˌɪntrəˈdʌkʃn/",
+   "pos": "n. 介紹；引進；序言",
+   "zh": "介紹；引進；開端",
+   "colloc": "make an introduction 做介紹 | introduction to 對...的介紹",
+   "distinct": "preface 前言（書籍） | presentation 簡報；發表",
+   "ex": [
+    [
+     "The introduction of new software improved our efficiency.",
+     "新軟體的引進提升了我們的工作效率。"
+    ],
+    [
+     "She made a formal introduction of the keynote speaker.",
+     "她對主講人做了正式介紹。"
+    ],
+    [
+     "Please read the introduction before starting the manual.",
+     "開始閱讀手冊前請先看序言。"
+    ]
+   ]
+  },
+  {
+   "word": "party",
+   "ph": "/ˈpɑːrti/",
+   "pos": "n. 派對；當事人；政黨",
+   "zh": "社交聚會；當事人；團體",
+   "colloc": "third party 第三方 | hold a party 舉辦派對",
+   "distinct": "group 團體 | side 一方（立場）",
+   "ex": [
+    [
+     "The legal contract binds both parties involved.",
+     "法律合約對涉及的雙方皆具約束力。"
+    ],
+    [
+     "We are hosting a retirement party for our colleague.",
+     "我們正為同事舉辦退休派對。"
+    ],
+    [
+     "The third party will audit our financial records.",
+     "第三方將會稽核我們的財務紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "reporter",
+   "ph": "/rɪˈpɔːrtər/",
+   "pos": "n. 記者；報導員",
+   "zh": "記者；通訊員",
+   "colloc": "news reporter 新聞記者 | interview a reporter 採訪記者",
+   "distinct": "journalist 新聞工作者 | correspondent 特派員",
+   "ex": [
+    [
+     "A local reporter covered the company's annual conference.",
+     "一位當地記者報導了公司的年度會議。"
+    ],
+    [
+     "The reporter asked several questions about the merger.",
+     "該記者詢問了幾個關於合併的問題。"
+    ],
+    [
+     "She works as a financial reporter for the magazine.",
+     "她在該雜誌擔任財經記者。"
+    ]
+   ]
+  },
+  {
+   "word": "section",
+   "ph": "/ˈsekʃn/",
+   "pos": "n. 部門；部分；章節",
+   "zh": "部分；部門；區域",
+   "colloc": "in the section of 在...部門 | a section of 一部分",
+   "distinct": "department 部門（組織） | segment 分段",
+   "ex": [
+    [
+     "Please review the financial section of the report.",
+     "請審閱報告中的財務部分。"
+    ],
+    [
+     "He manages the sales section of the company.",
+     "他管理公司的銷售部門。"
+    ],
+    [
+     "This section of the highway is currently under construction.",
+     "這段高速公路目前正在施工中。"
+    ]
+   ]
+  },
+  {
+   "word": "spicy",
+   "ph": "/ˈspaɪsi/",
+   "pos": "adj. 辛辣的；熱鬧的",
+   "zh": "辣的；香料重的",
+   "colloc": "spicy food 辣味食物 | extra spicy 特辣",
+   "distinct": "hot 熱的；辣的（口語） | pungent 刺鼻的",
+   "ex": [
+    [
+     "Most clients prefer less spicy dishes during lunch.",
+     "大多數客戶午餐時偏好辣度較低的餐點。"
+    ],
+    [
+     "The menu features several spicy options from Thailand.",
+     "菜單上提供幾種泰式辣味選擇。"
+    ],
+    [
+     "He ordered a spicy meal at the business dinner.",
+     "他在商務晚餐點了一份辛辣的餐點。"
+    ]
+   ]
+  },
+  {
+   "word": "application",
+   "ph": "/ˌæplɪˈkeɪʃn/",
+   "pos": "n. 申請；應用程式；應用",
+   "zh": "申請；應用；用途",
+   "colloc": "submit an application 提交申請 | job application 求職申請",
+   "distinct": "request 要求 | implementation 執行",
+   "ex": [
+    [
+     "You must submit your job application by Friday.",
+     "你必須在週五前提交求職申請。"
+    ],
+    [
+     "This mobile application helps track daily expenses.",
+     "這個行動應用程式有助於追蹤日常開銷。"
+    ],
+    [
+     "The application of new technology saved significant costs.",
+     "新技術的應用節省了可觀成本。"
+    ]
+   ]
+  },
+  {
+   "word": "attempt",
+   "ph": "/əˈtempt/",
+   "pos": "v. 嘗試；試圖 | n. 企圖；努力",
+   "zh": "嘗試；努力；企圖",
+   "colloc": "make an attempt 嘗試 | attempt to do sth. 試圖做某事",
+   "distinct": "try 嘗試（口語） | effort 努力",
+   "ex": [
+    [
+     "They will attempt to resolve the issue today.",
+     "他們將嘗試在今天解決該問題。"
+    ],
+    [
+     "His first attempt to launch the product failed.",
+     "他首次推出該產品的嘗試失敗了。"
+    ],
+    [
+     "Management made an attempt to improve communication.",
+     "管理層嘗試改善溝通狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "barrier",
+   "ph": "/ˈbæriər/",
+   "pos": "n. 障礙；柵欄；隔閡",
+   "zh": "障礙；阻礙；圍欄",
+   "colloc": "language barrier 語言障礙 | break down barriers 打破障礙",
+   "distinct": "obstacle 障礙物 | hurdle 難關",
+   "ex": [
+    [
+     "Language barriers can hinder effective team collaboration.",
+     "語言障礙可能會阻礙有效的團隊合作。"
+    ],
+    [
+     "Price is a major barrier to entering this market.",
+     "價格是進入該市場的主要障礙。"
+    ],
+    [
+     "Safety barriers were installed around the construction site.",
+     "工地周圍安裝了安全防護欄。"
+    ]
+   ]
+  },
+  {
+   "word": "base",
+   "ph": "/beɪs/",
+   "pos": "n. 基地；基礎 | v. 以...為基礎",
+   "zh": "基礎；底部；基地",
+   "colloc": "based on 根據 | customer base 客戶群",
+   "distinct": "foundation 地基；基礎 | headquarters 總部",
+   "ex": [
+    [
+     "Our company has a strong customer base in Asia.",
+     "我們公司在亞洲擁有強大的客戶群。"
+    ],
+    [
+     "The decisions are based on recent market research.",
+     "這些決定是根據近期的市場研究做出的。"
+    ],
+    [
+     "We need a solid base for our future expansion.",
+     "我們需要為未來的擴張打下穩固基礎。"
+    ]
+   ]
+  },
+  {
+   "word": "based",
+   "ph": "/beɪst/",
+   "pos": "adj. 位於...的；以...為基礎的",
+   "zh": "根據；總部設在",
+   "colloc": "home-based 居家工作的 | city-based 城市為據點的",
+   "distinct": "located 位於 | established 確立的",
+   "ex": [
+    [
+     "The company is based in Taipei for better logistics.",
+     "為了更好的物流，該公司總部設在台北。"
+    ],
+    [
+     "The report is based on interviews with managers.",
+     "這份報告是根據與經理們的訪談編寫的。"
+    ],
+    [
+     "They provide web-based training for all employees.",
+     "他們為所有員工提供網路培訓課程。"
+    ]
+   ]
+  },
+  {
+   "word": "boat",
+   "ph": "/boʊt/",
+   "pos": "n. 船；小艇",
+   "zh": "船；小舟",
+   "colloc": "by boat 搭船 | cargo boat 貨船",
+   "distinct": "ship 大船（輪船） | vessel 船艦（正式）",
+   "ex": [
+    [
+     "The goods were transported by boat across the river.",
+     "貨物是搭船運過河的。"
+    ],
+    [
+     "They rented a boat for the corporate retreat.",
+     "他們為公司務虛會租了一艘船。"
+    ],
+    [
+     "The boat arrived at the dock early this morning.",
+     "船於今天清晨抵達碼頭。"
+    ]
+   ]
+  },
+  {
+   "word": "chat",
+   "ph": "/tʃæt/",
+   "pos": "v. 聊天；閒談 | n. 閒談",
+   "zh": "聊天；閒聊",
+   "colloc": "have a chat 聊一聊 | online chat 線上聊天",
+   "distinct": "discuss 討論（正式） | converse 交談",
+   "ex": [
+    [
+     "Let us have a quick chat about the agenda.",
+     "我們來針對議程簡單聊一下。"
+    ],
+    [
+     "She was chatting with a client during the break.",
+     "她在休息時間與客戶閒聊。"
+    ],
+    [
+     "We used the online chat to solve technical problems.",
+     "我們使用線上聊天解決了技術問題。"
+    ]
+   ]
+  },
+  {
+   "word": "cinema",
+   "ph": "/ˈsɪnəmə/",
+   "pos": "n. 電影院；電影業",
+   "zh": "電影院；電影藝術",
+   "colloc": "go to the cinema 去看電影 | local cinema 當地電影院",
+   "distinct": "movie theater 電影院（美式） | film 電影",
+   "ex": [
+    [
+     "The cinema is located near the central station.",
+     "電影院位於中央車站附近。"
+    ],
+    [
+     "They are visiting the cinema for a team event.",
+     "他們正前往電影院參加團隊活動。"
+    ],
+    [
+     "Modern cinema technology offers a better viewing experience.",
+     "現代電影技術提供了更好的觀影體驗。"
+    ]
+   ]
+  },
+  {
+   "word": "clap",
+   "ph": "/klæp/",
+   "pos": "v. 拍手；鼓掌 | n. 拍手聲",
+   "zh": "鼓掌；拍手",
+   "colloc": "clap for sb. 為某人鼓掌 | burst into applause 爆發掌聲",
+   "distinct": "applaud 稱讚；鼓掌 | cheer 歡呼",
+   "ex": [
+    [
+     "The audience began to clap after the presentation.",
+     "簡報結束後觀眾開始鼓掌。"
+    ],
+    [
+     "Please clap to welcome our guest speaker onstage.",
+     "請鼓掌歡迎我們的客座講者上台。"
+    ],
+    [
+     "He clapped his hands to grab everyone's attention.",
+     "他拍手以吸引大家的注意力。"
+    ]
+   ]
+  },
+  {
+   "word": "clean",
+   "ph": "/kliːn/",
+   "pos": "adj. 乾淨的 | v. 打掃；清理",
+   "zh": "乾淨的；清潔的",
+   "colloc": "keep clean 保持乾淨 | clean up 打掃乾淨",
+   "distinct": "tidy 整潔的 | wash 洗滌",
+   "ex": [
+    [
+     "It is important to keep your workspace clean daily.",
+     "每天保持工作空間乾淨很重要。"
+    ],
+    [
+     "Our cleaning staff will clean the office tonight.",
+     "我們的清潔人員今晚會打掃辦公室。"
+    ],
+    [
+     "The kitchen must be clean before we close.",
+     "我們打烊前廚房必須保持乾淨。"
+    ]
+   ]
+  }
+ ]
+}

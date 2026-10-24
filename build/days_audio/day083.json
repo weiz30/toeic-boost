@@ -1,0 +1,448 @@
+{
+ "day": 83,
+ "theme": "教材片語・中高階 750–850 第 19 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "users guide",
+   "ph": "",
+   "pos": "phr. 使用者指南",
+   "zh": "使用手冊；操作說明",
+   "colloc": "consult the users guide 查閱說明書 | follow the users guide 遵循指南",
+   "distinct": "manual 操作手冊（更正式） | brochure 宣傳小冊子",
+   "ex": [
+    [
+     "Please consult the users guide for setup instructions.",
+     "請查閱使用者指南以了解設定說明。"
+    ],
+    [
+     "The users guide provides a troubleshooting section.",
+     "使用者指南提供了一個疑難排解章節。"
+    ],
+    [
+     "Read the users guide before using the equipment.",
+     "使用設備前請先閱讀使用者指南。"
+    ]
+   ]
+  },
+  {
+   "word": "wait for seats",
+   "ph": "",
+   "pos": "phr. 等候座位",
+   "zh": "排隊候位；等候入座",
+   "colloc": "have to wait for seats 必須候位 | wait for seats in the lobby 在大廳候位",
+   "distinct": "reserve a seat 預訂座位 | take a seat 坐下",
+   "ex": [
+    [
+     "Guests often wait for seats during peak hours.",
+     "顧客在尖峰時段常需候位。"
+    ],
+    [
+     "We have to wait for seats at the restaurant.",
+     "我們得在餐廳等候入座。"
+    ],
+    [
+     "Please wait for seats near the entrance desk.",
+     "請在櫃檯入口附近候位。"
+    ]
+   ]
+  },
+  {
+   "word": "wait in line",
+   "ph": "",
+   "pos": "phr. 排隊",
+   "zh": "排隊；等候",
+   "colloc": "wait in line for tickets 排隊買票 | stand and wait in line 站著排隊",
+   "distinct": "queue up 排隊（英式用法） | line up 排成一列",
+   "ex": [
+    [
+     "Customers wait in line to purchase their tickets.",
+     "顧客排隊購買他們的票券。"
+    ],
+    [
+     "He had to wait in line for thirty minutes.",
+     "他不得不排隊等了三十分鐘。"
+    ],
+    [
+     "Please wait in line for your turn to register.",
+     "請排隊等待輪到你註冊。"
+    ]
+   ]
+  },
+  {
+   "word": "wake up call",
+   "ph": "",
+   "pos": "phr. 晨間叫醒服務",
+   "zh": "電話叫醒服務；警訊",
+   "colloc": "request a wake up call 要求叫醒服務 | receive a wake up call 接到叫醒電話",
+   "distinct": "alarm clock 鬧鐘 | morning call 晨間呼叫",
+   "ex": [
+    [
+     "I would like to request a wake up call at seven.",
+     "我想要求七點的叫醒服務。"
+    ],
+    [
+     "The declining sales served as a wake up call.",
+     "銷售下滑是一個警訊。"
+    ],
+    [
+     "Front desk staff will handle your wake up call.",
+     "櫃檯人員會處理您的叫醒服務。"
+    ]
+   ]
+  },
+  {
+   "word": "walking distance",
+   "ph": "",
+   "pos": "phr. 步行可達距離",
+   "zh": "步行距離內；近距離",
+   "colloc": "within walking distance 在步行距離內 | at a short walking distance 步行短距離",
+   "distinct": "commutable distance 可通勤距離 | stone's throw 一箭之遙",
+   "ex": [
+    [
+     "The hotel is within walking distance of the station.",
+     "飯店距離車站僅步行可達之處。"
+    ],
+    [
+     "Our office is located at a convenient walking distance.",
+     "我們的辦公室位於方便的步行距離內。"
+    ],
+    [
+     "Is the conference center within walking distance?",
+     "會議中心在步行可達的距離內嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "wear out",
+   "ph": "",
+   "pos": "phr. 磨損；用壞",
+   "zh": "磨損；穿破；疲憊",
+   "colloc": "wear out the tires 磨損輪胎 | wear out the machinery 用壞機器",
+   "distinct": "break down 故障 | consume 消耗",
+   "ex": [
+    [
+     "These parts will eventually wear out with constant use.",
+     "這些零件在持續使用下終會磨損。"
+    ],
+    [
+     "The heavy workload will wear out the staff.",
+     "沉重的工作負荷會讓員工精疲力竭。"
+    ],
+    [
+     "He managed to wear out his shoes quickly.",
+     "他很快就把他的鞋子穿壞了。"
+    ]
+   ]
+  },
+  {
+   "word": "weather forecast",
+   "ph": "",
+   "pos": "phr. 天氣預報",
+   "zh": "天氣預測；氣象報告",
+   "colloc": "check the weather forecast 查看天氣預報 | according to the weather forecast 根據氣象預報",
+   "distinct": "meteorology 氣象學 | climate change 氣候變遷",
+   "ex": [
+    [
+     "Please check the weather forecast before your trip.",
+     "旅行前請先查看天氣預報。"
+    ],
+    [
+     "The weather forecast predicts heavy rain this afternoon.",
+     "氣象預報預測今天下午會有大雨。"
+    ],
+    [
+     "We adjusted our outdoor event based on the forecast.",
+     "我們根據預報調整了戶外活動。"
+    ]
+   ]
+  },
+  {
+   "word": "well prepared",
+   "ph": "",
+   "pos": "phr. 準備充分的",
+   "zh": "準備周全的；準備好的",
+   "colloc": "be well prepared for the meeting 為會議做足準備 | stay well prepared 保持準備狀態",
+   "distinct": "fully equipped 裝備齊全 | ready-made 現成的",
+   "ex": [
+    [
+     "The team was well prepared for the presentation.",
+     "團隊為簡報做了充分準備。"
+    ],
+    [
+     "She is always well prepared for difficult questions.",
+     "她總是為難題做好萬全準備。"
+    ],
+    [
+     "Being well prepared increases your chances of success.",
+     "準備充分能增加你的成功機會。"
+    ]
+   ]
+  },
+  {
+   "word": "with respect to",
+   "ph": "",
+   "pos": "phr. 關於；就...而言",
+   "zh": "關於；論及",
+   "colloc": "with respect to the contract 關於合約 | with respect to our policy 就我們的政策而言",
+   "distinct": "in regard to 關於 | in terms of 在...方面",
+   "ex": [
+    [
+     "We have some concerns with respect to the budget.",
+     "我們對於預算有一些擔憂。"
+    ],
+    [
+     "There were no changes with respect to the deadline.",
+     "關於截止日期沒有任何變動。"
+    ],
+    [
+     "The report provides details with respect to sales.",
+     "這份報告提供了關於銷售的細節。"
+    ]
+   ]
+  },
+  {
+   "word": "with the lights on",
+   "ph": "",
+   "pos": "phr. 在開燈的情況下",
+   "zh": "開著燈",
+   "colloc": "work with the lights on 開著燈工作 | keep the office with the lights on 辦公室保持開燈",
+   "distinct": "turn on the lights 開燈 | keep the lights on 保持開燈",
+   "ex": [
+    [
+     "He prefers to work with the lights on.",
+     "他喜歡開著燈工作。"
+    ],
+    [
+     "The warehouse was left with the lights on overnight.",
+     "倉庫整晚都沒關燈。"
+    ],
+    [
+     "You can read better with the lights on.",
+     "開著燈你看書會比較清楚。"
+    ]
+   ]
+  },
+  {
+   "word": "within reason",
+   "ph": "",
+   "pos": "phr. 合情合理地",
+   "zh": "合理範圍內；適度",
+   "colloc": "accommodate within reason 合理範圍內配合 | do within reason 在合理範圍內做",
+   "distinct": "reasonable 合理的 | irrational 不理性的",
+   "ex": [
+    [
+     "We can adjust the schedule within reason.",
+     "我們可以在合理範圍內調整行程。"
+    ],
+    [
+     "The manager supports requests within reason.",
+     "經理支持合理範圍內的請求。"
+    ],
+    [
+     "Expenses will be reimbursed within reason.",
+     "支出將在合理範圍內獲得報銷。"
+    ]
+   ]
+  },
+  {
+   "word": "work properly",
+   "ph": "",
+   "pos": "phr. 正常運作",
+   "zh": "運作正常；功能正常",
+   "colloc": "ensure it works properly 確保運作正常 | fail to work properly 無法正常運作",
+   "distinct": "function well 功能良好 | operate efficiently 高效率運作",
+   "ex": [
+    [
+     "Please check if the equipment works properly.",
+     "請檢查該設備是否運作正常。"
+    ],
+    [
+     "The new software does not work properly yet.",
+     "新軟體目前無法正常運作。"
+    ],
+    [
+     "We need the system to work properly by Monday.",
+     "我們需要系統在週一前運作正常。"
+    ]
+   ]
+  },
+  {
+   "word": "wrap up",
+   "ph": "",
+   "pos": "phr. 結束；總結",
+   "zh": "收尾；包裝；總結",
+   "colloc": "wrap up the meeting 結束會議 | wrap up the project 總結專案",
+   "distinct": "finish 完成 | summarize 摘要",
+   "ex": [
+    [
+     "Let us wrap up the discussion in five minutes.",
+     "讓我們在五分鐘內結束討論。"
+    ],
+    [
+     "He wants to wrap up the deal before leaving.",
+     "他想在離開前完成這筆交易。"
+    ],
+    [
+     "The manager will wrap up the seminar soon.",
+     "經理很快會為研討會做總結。"
+    ]
+   ]
+  },
+  {
+   "word": "a glass of",
+   "ph": "",
+   "pos": "phr. 一杯",
+   "zh": "一杯；玻璃杯份量的",
+   "colloc": "a glass of water 一杯水 | a glass of juice 一杯果汁",
+   "distinct": "a cup of 熱飲用杯 | a mug of 馬克杯",
+   "ex": [
+    [
+     "Would you like a glass of water?",
+     "您想要來一杯水嗎？"
+    ],
+    [
+     "She ordered a glass of wine for the guest.",
+     "她為客人點了一杯紅酒。"
+    ],
+    [
+     "Each person will receive a glass of juice.",
+     "每個人會收到一杯果汁。"
+    ]
+   ]
+  },
+  {
+   "word": "a great deal",
+   "ph": "",
+   "pos": "phr. 大量",
+   "zh": "許多；大量",
+   "colloc": "a great deal of effort 大量心力 | a great deal of money 大筆資金",
+   "distinct": "a lot of 許多（口語） | a large amount of 大量（不可數）",
+   "ex": [
+    [
+     "The project required a great deal of effort.",
+     "這項專案需要投入大量的心力。"
+    ],
+    [
+     "We spent a great deal of time on research.",
+     "我們在研究上花費了大量的時間。"
+    ],
+    [
+     "He has a great deal of experience in marketing.",
+     "他在行銷方面擁有豐富的經驗。"
+    ]
+   ]
+  },
+  {
+   "word": "a series of",
+   "ph": "",
+   "pos": "phr. 一連串；系列",
+   "zh": "一連串；系列",
+   "colloc": "a series of meetings 一連串會議 | a series of events 一系列活動",
+   "distinct": "a sequence of 一連串（強調順序） | a variety of 各式各樣",
+   "ex": [
+    [
+     "The company announced a series of new policies.",
+     "公司宣布了一系列新政策。"
+    ],
+    [
+     "A series of workshops will be held next week.",
+     "下週將舉辦一系列的工作坊。"
+    ],
+    [
+     "He gave a series of lectures on economics.",
+     "他舉辦了一系列的經濟學講座。"
+    ]
+   ]
+  },
+  {
+   "word": "a string of",
+   "ph": "",
+   "pos": "phr. 一連串；一串",
+   "zh": "一連串；一串",
+   "colloc": "a string of successes 一連串成功 | a string of failures 一連串失敗",
+   "distinct": "a chain of 一連串（因果關係） | a series of 一系列",
+   "ex": [
+    [
+     "The firm has enjoyed a string of successes.",
+     "該公司享有一連串的成功。"
+    ],
+    [
+     "There was a string of errors in the report.",
+     "報告中有一連串的錯誤。"
+    ],
+    [
+     "She dealt with a string of complaints today.",
+     "她今天處理了一連串的投訴。"
+    ]
+   ]
+  },
+  {
+   "word": "adjust the mirror",
+   "ph": "",
+   "pos": "phr. 調整鏡子",
+   "zh": "調整後視鏡；調整鏡子",
+   "colloc": "adjust the rearview mirror 調整後視鏡 | adjust the mirror position 調整鏡子位置",
+   "distinct": "fix the mirror 修理鏡子 | replace the mirror 更換鏡子",
+   "ex": [
+    [
+     "Please adjust the mirror before you start driving.",
+     "開始駕駛前請先調整後視鏡。"
+    ],
+    [
+     "He tried to adjust the mirror for better visibility.",
+     "他試著調整鏡子以獲得更好的視野。"
+    ],
+    [
+     "Check if you need to adjust the mirror again.",
+     "檢查一下是否需要再次調整鏡子。"
+    ]
+   ]
+  },
+  {
+   "word": "ahead of schedule",
+   "ph": "",
+   "pos": "phr. 超前進度",
+   "zh": "提前；超前",
+   "colloc": "finish ahead of schedule 提前完成 | be ahead of schedule 進度超前",
+   "distinct": "on schedule 按進度 | behind schedule 落後",
+   "ex": [
+    [
+     "The construction project is ahead of schedule.",
+     "營建專案的進度超前。"
+    ],
+    [
+     "We managed to complete the task ahead of schedule.",
+     "我們成功提前完成了任務。"
+    ],
+    [
+     "Staying ahead of schedule gives us more flexibility.",
+     "進度超前給了我們更多彈性。"
+    ]
+   ]
+  },
+  {
+   "word": "along with",
+   "ph": "",
+   "pos": "phr. 連同；以及",
+   "zh": "連同；以及；隨同",
+   "colloc": "along with the report 連同報告 | along with his colleagues 以及他的同事",
+   "distinct": "as well as 以及 | together with 和...一起",
+   "ex": [
+    [
+     "Please send the invoice along with the report.",
+     "請連同報告一併寄送發票。"
+    ],
+    [
+     "He attended the event along with his team.",
+     "他連同他的團隊參加了活動。"
+    ],
+    [
+     "Documents are attached along with the email.",
+     "文件已連同這封電子郵件一併附上。"
+    ]
+   ]
+  }
+ ]
+}

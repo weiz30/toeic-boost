@@ -1,0 +1,448 @@
+{
+ "day": 89,
+ "theme": "教材片語・中高階 750–850 第 25 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "in error",
+   "ph": "",
+   "pos": "phr. 錯誤地",
+   "zh": "錯誤地；搞錯了",
+   "colloc": "admit in error 承認錯誤 | act in error 錯誤行事",
+   "distinct": "by mistake 無意間犯錯 | incorrectly 不正確地",
+   "ex": [
+    [
+     "The invoice was issued in error last week.",
+     "這張發票上週開立錯誤。"
+    ],
+    [
+     "Our team realized the data was entered in error.",
+     "我們團隊意識到資料輸入錯誤。"
+    ],
+    [
+     "He apologized for sending the email in error.",
+     "他為誤傳郵件而道歉。"
+    ]
+   ]
+  },
+  {
+   "word": "in experience",
+   "ph": "",
+   "pos": "phr. 在經驗中",
+   "zh": "在經驗中；憑藉經驗",
+   "colloc": "gain in experience 累積經驗 | grow in experience 增長經驗",
+   "distinct": "inexperience 缺乏經驗（名詞） | inexperienced 未經世面的（形容詞）",
+   "ex": [
+    [
+     "Young employees grow in experience through challenging tasks.",
+     "年輕員工透過挑戰性任務累積經驗。"
+    ],
+    [
+     "Managers improve in experience by handling various crises.",
+     "經理人藉由處理各種危機提升經驗值。"
+    ],
+    [
+     "Staff gain in experience during the internship program.",
+     "員工在實習計畫期間獲得經驗。"
+    ]
+   ]
+  },
+  {
+   "word": "in light of",
+   "ph": "",
+   "pos": "phr. 鑒於；考慮到",
+   "zh": "鑒於；考量到",
+   "colloc": "in light of facts 鑒於事實 | in light of evidence 考量證據",
+   "distinct": "due to 由於 | considering 考慮到",
+   "ex": [
+    [
+     "We revised the budget in light of recent losses.",
+     "鑒於近期的損失，我們修改了預算。"
+    ],
+    [
+     "In light of the feedback, we updated the policy.",
+     "考量到回饋意見，我們更新了政策。"
+    ],
+    [
+     "Operations were halted in light of safety concerns.",
+     "鑒於安全疑慮，營運作業已暫停。"
+    ]
+   ]
+  },
+  {
+   "word": "in line with",
+   "ph": "",
+   "pos": "phr. 與…一致；符合",
+   "zh": "與…一致；符合",
+   "colloc": "in line with policy 符合規定 | in line with expectations 符合預期",
+   "distinct": "according to 根據 | consistent with 一致的",
+   "ex": [
+    [
+     "The new strategy is in line with company goals.",
+     "新策略與公司目標一致。"
+    ],
+    [
+     "Expenses are in line with our quarterly projections.",
+     "支出符合我們的季度預估。"
+    ],
+    [
+     "These changes are in line with local regulations.",
+     "這些變動符合當地法規。"
+    ]
+   ]
+  },
+  {
+   "word": "in particular",
+   "ph": "",
+   "pos": "phr. 特別地；尤其是",
+   "zh": "特別；尤其",
+   "colloc": "something in particular 特定的事物 | mention in particular 特別提到",
+   "distinct": "especially 特別地 | specifically 明確地",
+   "ex": [
+    [
+     "Our department, in particular, requires more resources.",
+     "我們的部門特別需要更多資源。"
+    ],
+    [
+     "There is nothing in particular to worry about.",
+     "沒有什麼特別需要擔心的事。"
+    ],
+    [
+     "The CEO praised the marketing team in particular.",
+     "執行長特別讚揚了行銷團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "in person",
+   "ph": "",
+   "pos": "phr. 親自；本人",
+   "zh": "親自；本人",
+   "colloc": "meet in person 親自見面 | apply in person 親自申請",
+   "distinct": "face-to-face 面對面 | individually 個別地",
+   "ex": [
+    [
+     "The director requested to meet the client in person.",
+     "總監要求親自會見客戶。"
+    ],
+    [
+     "You must submit the documents in person at the office.",
+     "你必須親自到辦公室遞交文件。"
+    ],
+    [
+     "She will explain the proposal in person tomorrow.",
+     "她明天會親自說明這份提案。"
+    ]
+   ]
+  },
+  {
+   "word": "in place of",
+   "ph": "",
+   "pos": "phr. 代替；取代",
+   "zh": "代替；取代",
+   "colloc": "use in place of 使用以取代 | acting in place of 代理",
+   "distinct": "instead of 而非 | replace 取代（動詞）",
+   "ex": [
+    [
+     "We used digital reports in place of paper copies.",
+     "我們使用數位報告來取代紙本。"
+    ],
+    [
+     "A temporary manager was hired in place of the director.",
+     "一位代理經理被聘用來取代總監。"
+    ],
+    [
+     "New software was installed in place of the old system.",
+     "新軟體被安裝以取代舊系統。"
+    ]
+   ]
+  },
+  {
+   "word": "in private",
+   "ph": "",
+   "pos": "phr. 私下地；非公開地",
+   "zh": "私下；不公開",
+   "colloc": "discuss in private 私下討論 | speak in private 單獨談話",
+   "distinct": "in public 公開地 | behind closed doors 秘密進行",
+   "ex": [
+    [
+     "The manager asked to speak with the employee in private.",
+     "經理要求與該員工私下談話。"
+    ],
+    [
+     "Sensitive topics should be handled in private.",
+     "敏感話題應該私下處理。"
+    ],
+    [
+     "They finalized the contract terms in private.",
+     "他們私下敲定了合約條款。"
+    ]
+   ]
+  },
+  {
+   "word": "in the field of",
+   "ph": "",
+   "pos": "phr. 在…領域中",
+   "zh": "在…領域",
+   "colloc": "expert in the field of 該領域專家 | research in the field of 該領域研究",
+   "distinct": "in the area of 在…方面 | within the scope of 在…範圍內",
+   "ex": [
+    [
+     "She is a renowned expert in the field of finance.",
+     "她是金融領域知名的專家。"
+    ],
+    [
+     "We are leading in the field of renewable energy.",
+     "我們在再生能源領域處於領先地位。"
+    ],
+    [
+     "Advanced training is required in the field of engineering.",
+     "工程領域需要進階培訓。"
+    ]
+   ]
+  },
+  {
+   "word": "in the process of",
+   "ph": "",
+   "pos": "phr. 正在…的過程中",
+   "zh": "正在…的過程中",
+   "colloc": "in the process of change 轉型中 | in the process of negotiation 洽談中",
+   "distinct": "underway 進行中 | currently 正在",
+   "ex": [
+    [
+     "The company is in the process of moving offices.",
+     "公司目前正在搬遷辦公室的過程中。"
+    ],
+    [
+     "We are in the process of reviewing all applications.",
+     "我們正在審核所有申請案。"
+    ],
+    [
+     "The system is in the process of being upgraded.",
+     "系統正在進行升級的過程中。"
+    ]
+   ]
+  },
+  {
+   "word": "infectious disease",
+   "ph": "",
+   "pos": "n. 傳染病",
+   "zh": "傳染病",
+   "colloc": "prevent infectious disease 預防傳染病 | spread of infectious disease 傳染病擴散",
+   "distinct": "contagious disease 接觸傳染病 | epidemic 流行病",
+   "ex": [
+    [
+     "The hospital specializes in treating infectious diseases.",
+     "這間醫院專門治療傳染病。"
+    ],
+    [
+     "Strict protocols help prevent the spread of infectious disease.",
+     "嚴格的程序有助於預防傳染病擴散。"
+    ],
+    [
+     "Public awareness is key to controlling infectious diseases.",
+     "大眾意識是控制傳染病的關鍵。"
+    ]
+   ]
+  },
+  {
+   "word": "it could have been worse",
+   "ph": "",
+   "pos": "phr. 情況原本可能更糟",
+   "zh": "情況原可能更糟",
+   "colloc": "fortunately it could have been worse 幸運的是原本可能更糟 | think it could have been worse 認為原本可能更糟",
+   "distinct": "the worst is over 最糟的過去了 | worse off 境況更差",
+   "ex": [
+    [
+     "Although we lost the contract, it could have been worse.",
+     "雖然我們失去了合約，但原本可能更糟。"
+    ],
+    [
+     "The delay was frustrating, but it could have been worse.",
+     "延誤令人沮喪，但原本可能更糟。"
+    ],
+    [
+     "Given the market crash, it could have been worse.",
+     "鑒於市場崩盤，情況原本可能更糟。"
+    ]
+   ]
+  },
+  {
+   "word": "just in case",
+   "ph": "",
+   "pos": "phr. 以防萬一",
+   "zh": "以防萬一",
+   "colloc": "carry just in case 以防萬一攜帶 | keep a copy just in case 以防萬一留存副本",
+   "distinct": "in case of 若發生... | to be safe 為了安全起見",
+   "ex": [
+    [
+     "I kept an extra key just in case I lose mine.",
+     "我多留了一把鑰匙，以防萬一我弄丟了。"
+    ],
+    [
+     "Please bring the presentation file just in case.",
+     "請帶上簡報檔案，以防萬一。"
+    ],
+    [
+     "She saved the work frequently just in case of errors.",
+     "她頻繁地儲存工作，以防發生錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "just to make sure",
+   "ph": "",
+   "pos": "phr. 為了確認一下",
+   "zh": "為了確認",
+   "colloc": "call just to make sure 打電話確認 | check just to make sure 檢查確認",
+   "distinct": "to confirm 為了確認 | for verification 為了核實",
+   "ex": [
+    [
+     "I am calling just to make sure you received the email.",
+     "我打電話是為了確認你有收到郵件。"
+    ],
+    [
+     "Please recheck the figures just to make sure.",
+     "請再檢查一下數字，以確保無誤。"
+    ],
+    [
+     "I asked for a receipt just to make sure.",
+     "我索取收據是為了確認一下。"
+    ]
+   ]
+  },
+  {
+   "word": "keep a up to date",
+   "ph": "",
+   "pos": "phr. 保持最新狀態",
+   "zh": "保持更新",
+   "colloc": "keep a up to date with trends 跟上趨勢 | keep a up to date with news 掌握最新消息",
+   "distinct": "up to date 最新的 | keep informed 隨時獲悉",
+   "ex": [
+    [
+     "The manager wants to keep a up to date status report.",
+     "經理希望保持狀態報告更新。"
+    ],
+    [
+     "We try to keep a up to date inventory list.",
+     "我們試著保持庫存清單的更新。"
+    ],
+    [
+     "It is vital to keep a up to date client database.",
+     "保持客戶資料庫的更新至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "keep on top of",
+   "ph": "",
+   "pos": "phr. 掌握；控制；處理好",
+   "zh": "掌握；處理好",
+   "colloc": "keep on top of work 掌握工作進度 | keep on top of tasks 處理好任務",
+   "distinct": "manage 管理 | stay ahead of 領先",
+   "ex": [
+    [
+     "She works hard to keep on top of her schedule.",
+     "她努力掌握自己的行程安排。"
+    ],
+    [
+     "Our team needs to keep on top of industry changes.",
+     "我們團隊需要掌握產業變化。"
+    ],
+    [
+     "He manages to keep on top of all his emails.",
+     "他設法處理好所有的電子郵件。"
+    ]
+   ]
+  },
+  {
+   "word": "key to success",
+   "ph": "",
+   "pos": "phr. 成功的關鍵",
+   "zh": "成功的關鍵",
+   "colloc": "find the key to success 尋找成功的關鍵 | essential key to success 成功的必要關鍵",
+   "distinct": "recipe for success 成功秘訣 | secret of success 成功秘密",
+   "ex": [
+    [
+     "Customer satisfaction is the key to success.",
+     "客戶滿意度是成功的關鍵。"
+    ],
+    [
+     "Effective communication is the key to success in business.",
+     "有效的溝通是商業成功的關鍵。"
+    ],
+    [
+     "Hard work is often cited as the key to success.",
+     "努力工作常被視為成功的關鍵。"
+    ]
+   ]
+  },
+  {
+   "word": "lamp post",
+   "ph": "",
+   "pos": "n. 燈柱",
+   "zh": "燈柱；路燈杆",
+   "colloc": "beside the lamp post 在燈柱旁 | hit a lamp post 撞上燈柱",
+   "distinct": "street light 路燈 | utility pole 電線桿",
+   "ex": [
+    [
+     "The office building is right next to the lamp post.",
+     "辦公大樓就在那根燈柱旁邊。"
+    ],
+    [
+     "Maintenance crews are painting the old lamp posts today.",
+     "維修人員今天正在粉刷舊燈柱。"
+    ],
+    [
+     "The sign is attached to the lamp post outside.",
+     "標誌貼在外面的燈柱上。"
+    ]
+   ]
+  },
+  {
+   "word": "latest work",
+   "ph": "",
+   "pos": "n. 最新作品；最近的工作",
+   "zh": "最新作品；最近的工作",
+   "colloc": "review the latest work 審閱最新作品 | publish latest work 出版最新作品",
+   "distinct": "newest release 最新發布 | recent project 最近專案",
+   "ex": [
+    [
+     "Have you seen the architect’s latest work?",
+     "你看過那位建築師的最新作品了嗎？"
+    ],
+    [
+     "The department is reviewing the intern's latest work.",
+     "該部門正在審閱實習生的最新工作成果。"
+    ],
+    [
+     "Her latest work will be presented at the conference.",
+     "她的最新作品將在會議上發表。"
+    ]
+   ]
+  },
+  {
+   "word": "lead down to",
+   "ph": "",
+   "pos": "phr. 通往；導致",
+   "zh": "通往；導致",
+   "colloc": "path lead down to 通往...的路徑 | lead down to a result 導致結果",
+   "distinct": "result in 導致 | head towards 朝向...前進",
+   "ex": [
+    [
+     "The small corridor will lead down to the lobby.",
+     "這條小走廊將通往大廳。"
+    ],
+    [
+     "Internal issues eventually lead down to lower profits.",
+     "內部問題最終導致利潤下降。"
+    ],
+    [
+     "This narrow path will lead down to the beach.",
+     "這條狹窄小徑將通往海灘。"
+    ]
+   ]
+  }
+ ]
+}

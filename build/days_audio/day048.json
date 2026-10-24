@@ -1,0 +1,448 @@
+{
+ "day": 48,
+ "theme": "教材字彙・中高階 750–850 第 48 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "tidy",
+   "ph": "/ˈtaɪdi/",
+   "pos": "adj. 整潔的 | v. 整理",
+   "zh": "整潔的；整理",
+   "colloc": "tidy up 收拾 | keep tidy 保持整潔",
+   "distinct": "neat 整齊的 | clean 乾淨的",
+   "ex": [
+    [
+     "Please keep your workspace tidy at all times.",
+     "請隨時保持你的工作空間整潔。"
+    ],
+    [
+     "I need to tidy up these files before the meeting.",
+     "開會前我需要整理一下這些檔案。"
+    ],
+    [
+     "The office looks very tidy after the renovation.",
+     "翻修後辦公室看起來非常整潔。"
+    ]
+   ]
+  },
+  {
+   "word": "vacation",
+   "ph": "/veɪˈkeɪʃn/",
+   "pos": "n. 假期",
+   "zh": "假期；休假",
+   "colloc": "take a vacation 去度假 | paid vacation 有薪假",
+   "distinct": "holiday 節日；假期 | leave 請假",
+   "ex": [
+    [
+     "She is planning to take a vacation next month.",
+     "她計畫下個月去度假。"
+    ],
+    [
+     "Our company offers three weeks of paid vacation.",
+     "我們公司提供三週的有薪假。"
+    ],
+    [
+     "All employees are eligible for annual vacation.",
+     "所有員工都有資格享有年度休假。"
+    ]
+   ]
+  },
+  {
+   "word": "wall",
+   "ph": "/wɔːl/",
+   "pos": "n. 牆壁",
+   "zh": "牆壁；隔板",
+   "colloc": "on the wall 在牆上 | office wall 辦公室隔間",
+   "distinct": "partition 分隔板 | fence 圍籬",
+   "ex": [
+    [
+     "There is a new company logo on the wall.",
+     "牆上有一個新的公司標誌。"
+    ],
+    [
+     "The soundproofing of this wall is quite good.",
+     "這面牆的隔音效果相當好。"
+    ],
+    [
+     "Please do not hang heavy items on the wall.",
+     "請不要將重物掛在牆上。"
+    ]
+   ]
+  },
+  {
+   "word": "wheel",
+   "ph": "/wiːl/",
+   "pos": "n. 車輪；輪子",
+   "zh": "車輪；輪子",
+   "colloc": "at the wheel 駕駛中 | steering wheel 方向盤",
+   "distinct": "tire 輪胎 | rim 輪圈",
+   "ex": [
+    [
+     "The delivery cart has a broken wheel.",
+     "送貨推車有一個輪子壞了。"
+    ],
+    [
+     "Check if every wheel is locked before moving.",
+     "移動前請檢查每個輪子是否已鎖定。"
+    ],
+    [
+     "Replacing the wheel will take about ten minutes.",
+     "更換輪子大約需要十分鐘。"
+    ]
+   ]
+  },
+  {
+   "word": "desperate",
+   "ph": "/ˈdespərət/",
+   "pos": "adj. 極度渴望的；孤注一擲的",
+   "zh": "極度渴望的；絕望的",
+   "colloc": "desperate need 極度需求 | desperate attempt 拼命嘗試",
+   "distinct": "eager 急切的 | hopeless 無望的",
+   "ex": [
+    [
+     "The department is in desperate need of staff.",
+     "部門極度需要人手。"
+    ],
+    [
+     "Management made a desperate attempt to cut costs.",
+     "管理層為了削減成本做了最後的嘗試。"
+    ],
+    [
+     "He is desperate to finish the report tonight.",
+     "他非常渴望今晚完成報告。"
+    ]
+   ]
+  },
+  {
+   "word": "fan",
+   "ph": "/fæn/",
+   "pos": "n. 風扇；迷",
+   "zh": "風扇；愛好者",
+   "colloc": "ceiling fan 天花板風扇 | big fan 死忠粉絲",
+   "distinct": "ventilator 通風設備 | enthusiast 熱衷者",
+   "ex": [
+    [
+     "The ceiling fan is making a strange noise.",
+     "天花板風扇發出了奇怪的聲音。"
+    ],
+    [
+     "I am a big fan of this software update.",
+     "我是這個軟體更新的忠實愛好者。"
+    ],
+    [
+     "Please turn on the fan to improve ventilation.",
+     "請打開風扇以改善通風。"
+    ]
+   ]
+  },
+  {
+   "word": "normal",
+   "ph": "/ˈnɔːrml/",
+   "pos": "adj. 正常的；標準的",
+   "zh": "正常的；標準的",
+   "colloc": "normal business hours 正常營業時間 | back to normal 恢復正常",
+   "distinct": "regular 規律的 | standard 標準的",
+   "ex": [
+    [
+     "Operations will return to normal next week.",
+     "業務下週將會恢復正常。"
+    ],
+    [
+     "This level of traffic is normal for Monday.",
+     "這種交通流量在週一是很正常的。"
+    ],
+    [
+     "Please work within normal business hours.",
+     "請在正常的營業時間內工作。"
+    ]
+   ]
+  },
+  {
+   "word": "bear",
+   "ph": "/ber/",
+   "pos": "v. 忍受；負擔 | n. 熊",
+   "zh": "忍受；負擔",
+   "colloc": "bear the cost 負擔費用 | bear in mind 記住",
+   "distinct": "endure 持久忍受 | tolerate 寬容",
+   "ex": [
+    [
+     "The company will bear the cost of training.",
+     "公司將負擔培訓費用。"
+    ],
+    [
+     "Please bear in mind the deadline is Friday.",
+     "請記住截止日期是週五。"
+    ],
+    [
+     "I cannot bear the noise in this office.",
+     "我無法忍受辦公室裡的噪音。"
+    ]
+   ]
+  },
+  {
+   "word": "principle",
+   "ph": "/ˈprɪnsəpl/",
+   "pos": "n. 原則；原理",
+   "zh": "原則；原理",
+   "colloc": "in principle 原則上 | ethical principle 道德準則",
+   "distinct": "principal 主要的；校長 | rule 規則",
+   "ex": [
+    [
+     "We agree to the proposal in principle.",
+     "我們原則上同意這項提案。"
+    ],
+    [
+     "The machine works on a simple principle.",
+     "這台機器是根據簡單的原理運作。"
+    ],
+    [
+     "Adhering to principles is crucial for leadership.",
+     "堅持原則對領導力至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "disapproval",
+   "ph": "/ˌdɪsəˈpruːvl/",
+   "pos": "n. 不贊成；不滿",
+   "zh": "不贊成；不滿",
+   "colloc": "express disapproval 表達不滿 | show disapproval 表現出反對",
+   "distinct": "disagreement 不同意 | objection 反對",
+   "ex": [
+    [
+     "The manager showed clear disapproval of the plan.",
+     "經理對該計畫表現出明顯的不滿。"
+    ],
+    [
+     "Public disapproval forced a change in strategy.",
+     "大眾的不滿迫使策略做出改變。"
+    ],
+    [
+     "She expressed her disapproval during the meeting.",
+     "她在會議中表達了她的不贊成。"
+    ]
+   ]
+  },
+  {
+   "word": "poor",
+   "ph": "/pʊr/",
+   "pos": "adj. 貧窮的；劣質的",
+   "zh": "貧窮的；品質差的",
+   "colloc": "poor quality 品質低劣 | poor performance 表現不佳",
+   "distinct": "weak 虛弱的 | inferior 次等的",
+   "ex": [
+    [
+     "The project failed due to poor planning.",
+     "由於計畫不周，該專案失敗了。"
+    ],
+    [
+     "This product has a reputation for poor quality.",
+     "這個產品以品質低劣聞名。"
+    ],
+    [
+     "Her poor performance led to a formal review.",
+     "她表現不佳導致了正式考核。"
+    ]
+   ]
+  },
+  {
+   "word": "scare",
+   "ph": "/sker/",
+   "pos": "v. 驚嚇 | n. 恐慌",
+   "zh": "驚嚇；恐慌",
+   "colloc": "scare off 嚇跑 | market scare 市場恐慌",
+   "distinct": "frighten 使害怕 | terrify 使恐懼",
+   "ex": [
+    [
+     "High prices might scare off potential buyers.",
+     "高價可能會嚇跑潛在的買家。"
+    ],
+    [
+     "The sudden announcement caused a market scare.",
+     "突如其來的公告引起了市場恐慌。"
+    ],
+    [
+     "We do not want to scare the new staff.",
+     "我們不想嚇到新進員工。"
+    ]
+   ]
+  },
+  {
+   "word": "command",
+   "ph": "/kəˈmænd/",
+   "pos": "n. 指揮；命令 | v. 指揮",
+   "zh": "指揮；命令；掌握",
+   "colloc": "in command of 指揮 | command attention 吸引注意",
+   "distinct": "order 命令 | authority 權威",
+   "ex": [
+    [
+     "He is in command of the marketing department.",
+     "他負責指揮行銷部門。"
+    ],
+    [
+     "The CEO commands great respect from staff.",
+     "執行長受到員工的高度尊重。"
+    ],
+    [
+     "The software uses a simple voice command.",
+     "該軟體使用簡單的語音指令。"
+    ]
+   ]
+  },
+  {
+   "word": "opposition",
+   "ph": "/ˌɑːpəˈzɪʃn/",
+   "pos": "n. 反對；反對派",
+   "zh": "反對；反對立場",
+   "colloc": "face opposition 面臨反對 | in opposition to 與...對立",
+   "distinct": "resistance 抵抗 | objection 反對意見",
+   "ex": [
+    [
+     "The new policy faced strong opposition from workers.",
+     "新政策面臨員工的強烈反對。"
+    ],
+    [
+     "There is some opposition to the merger plan.",
+     "對於合併計畫存在一些反對聲音。"
+    ],
+    [
+     "He stood in opposition to the current management.",
+     "他站在現行管理層的對立面。"
+    ]
+   ]
+  },
+  {
+   "word": "screen",
+   "ph": "/skriːn/",
+   "pos": "n. 螢幕 | v. 篩選",
+   "zh": "螢幕；篩選；過濾",
+   "colloc": "computer screen 電腦螢幕 | screen candidates 篩選候選人",
+   "distinct": "monitor 顯示器 | filter 過濾器",
+   "ex": [
+    [
+     "Please clean the screen after your shift.",
+     "請在輪班後清潔螢幕。"
+    ],
+    [
+     "Human resources will screen all incoming resumes.",
+     "人力資源部會篩選所有收到的履歷。"
+    ],
+    [
+     "The screen is too small for data analysis.",
+     "這個螢幕對於數據分析來說太小了。"
+    ]
+   ]
+  },
+  {
+   "word": "valuable",
+   "ph": "/ˈvæljuəbl/",
+   "pos": "adj. 有價值的；貴重的",
+   "zh": "有價值的；貴重的",
+   "colloc": "valuable asset 有價值的資產 | valuable feedback 寶貴意見",
+   "distinct": "invaluable 無價的 | expensive 昂貴的",
+   "ex": [
+    [
+     "Your feedback is valuable to our improvement.",
+     "你的意見對我們的改善很有價值。"
+    ],
+    [
+     "This data is a valuable asset for research.",
+     "這份數據是研究的重要資產。"
+    ],
+    [
+     "She gained valuable experience from the internship.",
+     "她從實習中獲得了寶貴的經驗。"
+    ]
+   ]
+  },
+  {
+   "word": "acting",
+   "ph": "/ˈæktɪŋ/",
+   "pos": "adj. 代理的 | n. 演戲",
+   "zh": "代理的；演戲",
+   "colloc": "acting manager 代理經理 | acting director 代理董事",
+   "distinct": "temporary 暫時的 | substitute 替代的",
+   "ex": [
+    [
+     "She is serving as the acting manager now.",
+     "她目前擔任代理經理。"
+    ],
+    [
+     "The acting director will lead the meeting.",
+     "代理董事將主持這次會議。"
+    ],
+    [
+     "He took the acting role during the vacancy.",
+     "在職位空缺期間，他接任了代理職務。"
+    ]
+   ]
+  },
+  {
+   "word": "adapt",
+   "ph": "/əˈdæpt/",
+   "pos": "v. 適應；修改",
+   "zh": "適應；改編",
+   "colloc": "adapt to 適應 | adapt to change 適應變化",
+   "distinct": "adjust 調整 | adopt 採用",
+   "ex": [
+    [
+     "We must adapt to the changing market conditions.",
+     "我們必須適應不斷變化的市場狀況。"
+    ],
+    [
+     "It takes time to adapt to a new job.",
+     "適應新工作需要時間。"
+    ],
+    [
+     "The software was adapted for mobile use.",
+     "該軟體已針對行動裝置進行修改。"
+    ]
+   ]
+  },
+  {
+   "word": "adapted",
+   "ph": "/əˈdæptɪd/",
+   "pos": "adj. 適應的；改編的",
+   "zh": "已適應的；改編的",
+   "colloc": "well adapted 適應良好的 | adapted from 改編自",
+   "distinct": "modified 修改過的 | adjusted 調整過的",
+   "ex": [
+    [
+     "The plant is well adapted to dry climates.",
+     "這種植物非常適應乾燥氣候。"
+    ],
+    [
+     "This report is adapted from the original data.",
+     "這份報告是從原始數據改編而來的。"
+    ],
+    [
+     "He is well adapted to the office culture.",
+     "他非常適應辦公室文化。"
+    ]
+   ]
+  },
+  {
+   "word": "admired",
+   "ph": "/ədˈmaɪərd/",
+   "pos": "adj. 被欽佩的",
+   "zh": "令人欽佩的；讚賞的",
+   "colloc": "widely admired 廣受欽佩 | much admired 非常受讚賞",
+   "distinct": "respected 受尊重的 | popular 受歡迎的",
+   "ex": [
+    [
+     "She is a widely admired leader in tech.",
+     "她是科技界廣受欽佩的領導者。"
+    ],
+    [
+     "His work is admired by all his colleagues.",
+     "他的工作受到所有同事的讚賞。"
+    ],
+    [
+     "The company has an admired reputation for service.",
+     "該公司在服務方面享有令人欽佩的聲譽。"
+    ]
+   ]
+  }
+ ]
+}

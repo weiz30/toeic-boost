@@ -1,0 +1,448 @@
+{
+ "day": 65,
+ "theme": "教材片語・基礎 550–650 第 1 群",
+ "level": "基礎 550–650",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "make a copy",
+   "ph": "",
+   "pos": "phr. 影印；複製",
+   "zh": "影印；複製",
+   "colloc": "make a copy of 影印一份... | make extra copies 多印幾份",
+   "distinct": "photocopy 影印機影本 | duplicate 副本",
+   "ex": [
+    [
+     "Could you please make a copy of this report?",
+     "你能幫我把這份報告影印一份嗎？"
+    ],
+    [
+     "I need to make a copy for the accounting department.",
+     "我需要為會計部門做一份影印副本。"
+    ],
+    [
+     "Please make a copy before you hand in the file.",
+     "繳交檔案之前請先影印一份。"
+    ]
+   ]
+  },
+  {
+   "word": "depend on",
+   "ph": "",
+   "pos": "phr. 依賴；取決於",
+   "zh": "依賴；取決於",
+   "colloc": "depend on someone 依賴某人 | depend on the situation 取決於情況",
+   "distinct": "rely on 依賴；信賴 | count on 指望",
+   "ex": [
+    [
+     "Our success will depend on the marketing strategy.",
+     "我們的成功將取決於行銷策略。"
+    ],
+    [
+     "The delivery time depends on your specific location.",
+     "配送時間取決於您的具體地點。"
+    ],
+    [
+     "We cannot always depend on one single supplier.",
+     "我們不能總是依賴單一供應商。"
+    ]
+   ]
+  },
+  {
+   "word": "in common",
+   "ph": "",
+   "pos": "phr. 共同的；共有的",
+   "zh": "共同的；共有的",
+   "colloc": "have in common 有共同點 | nothing in common 毫無共同點",
+   "distinct": "shared 分享的；共享的 | mutual 互相的",
+   "ex": [
+    [
+     "Both companies have a lot in common culturally.",
+     "兩家公司在企業文化上有許多共同點。"
+    ],
+    [
+     "We have nothing in common regarding our business goals.",
+     "我們在商業目標上毫無共同點。"
+    ],
+    [
+     "They found they had much in common during the meeting.",
+     "會議中他們發現彼此有許多共同點。"
+    ]
+   ]
+  },
+  {
+   "word": "make payment",
+   "ph": "",
+   "pos": "phr. 付款；支付",
+   "zh": "付款；支付",
+   "colloc": "make payment by check 以支票付款 | make payment online 線上付款",
+   "distinct": "settle the bill 結帳 | pay off 還清債務",
+   "ex": [
+    [
+     "Please make payment within thirty days of purchase.",
+     "請於購買後三十天內完成付款。"
+    ],
+    [
+     "You can make payment through our secure portal.",
+     "您可以透過我們的安全入口網站付款。"
+    ],
+    [
+     "Failure to make payment will result in a penalty.",
+     "未完成付款將會導致罰款。"
+    ]
+   ]
+  },
+  {
+   "word": "in advance",
+   "ph": "",
+   "pos": "phr. 事先；預先",
+   "zh": "事先；預先",
+   "colloc": "book in advance 事先預訂 | payment in advance 預付",
+   "distinct": "ahead of time 提前 | beforehand 事先",
+   "ex": [
+    [
+     "Please notify us in advance if you cannot attend.",
+     "如果您無法出席請事先通知我們。"
+    ],
+    [
+     "All tickets must be purchased in advance online.",
+     "所有票券都必須事先在網上購買。"
+    ],
+    [
+     "It is better to prepare the slides in advance.",
+     "最好能事先準備好簡報投影片。"
+    ]
+   ]
+  },
+  {
+   "word": "on behalf of",
+   "ph": "",
+   "pos": "phr. 代表；作為...的代理人",
+   "zh": "代表；作為...的代理人",
+   "colloc": "on behalf of the company 代表公司 | on behalf of the team 代表團隊",
+   "distinct": "represent 代表 | in the name of 以...的名義",
+   "ex": [
+    [
+     "I am signing this contract on behalf of my boss.",
+     "我正代表我的老闆簽署這份合約。"
+    ],
+    [
+     "She accepted the award on behalf of the staff.",
+     "她代表員工接受了這項獎項。"
+    ],
+    [
+     "The lawyer spoke on behalf of the accused client.",
+     "律師代表被告客戶發言。"
+    ]
+   ]
+  },
+  {
+   "word": "pick up",
+   "ph": "",
+   "pos": "phr. 領取；接（人）；撿起",
+   "zh": "領取；接（人）；撿起",
+   "colloc": "pick up a package 領取包裹 | pick up a client 接客戶",
+   "distinct": "collect 收集；領取 | gather 聚集",
+   "ex": [
+    [
+     "I will pick up the documents from the reception.",
+     "我會去櫃檯領取文件。"
+    ],
+    [
+     "The driver will pick up the guest at noon.",
+     "司機會在中午去接那位客人。"
+    ],
+    [
+     "Please pick up your badge at the registration desk.",
+     "請在報到處領取您的識別證。"
+    ]
+   ]
+  },
+  {
+   "word": "a custom",
+   "ph": "",
+   "pos": "n. 習俗；習慣",
+   "zh": "習俗；習慣",
+   "colloc": "local custom 當地習俗 | business custom 商業習慣",
+   "distinct": "habit 個人習慣 | tradition 傳統",
+   "ex": [
+    [
+     "It is a custom to exchange business cards politely.",
+     "有禮貌地交換名片是一種商業習慣。"
+    ],
+    [
+     "The company respects every local custom abroad.",
+     "該公司尊重在國外的每一項當地習俗。"
+    ],
+    [
+     "Understanding business customs helps with international negotiations.",
+     "了解商業習慣有助於國際談判。"
+    ]
+   ]
+  },
+  {
+   "word": "a point",
+   "ph": "",
+   "pos": "n. 重點；觀點；分數",
+   "zh": "重點；觀點；分數",
+   "colloc": "make a point 強調；主張 | the main point 主要重點",
+   "distinct": "viewpoint 觀點 | argument 論點",
+   "ex": [
+    [
+     "That is a good point for our next meeting.",
+     "那是我們下次會議的一個好觀點。"
+    ],
+    [
+     "He made a point of arriving early for work.",
+     "他特別注意提早抵達工作崗位。"
+    ],
+    [
+     "Please get straight to the point of your request.",
+     "請直接進入你請求的重點。"
+    ]
+   ]
+  },
+  {
+   "word": "a fix",
+   "ph": "",
+   "pos": "n. 修理；解決方案",
+   "zh": "修理；解決方案",
+   "colloc": "a quick fix 權宜之計 | a permanent fix 永久解決方案",
+   "distinct": "repair 修理 | solution 解決方案",
+   "ex": [
+    [
+     "We need a long-term fix for the software bug.",
+     "我們需要針對軟體錯誤提出長期的解決方案。"
+    ],
+    [
+     "That is just a quick fix for the problem.",
+     "那只是該問題的一個權宜之計。"
+    ],
+    [
+     "The technician provided a fix for the broken printer.",
+     "技術人員為故障的印表機提供了修理方案。"
+    ]
+   ]
+  },
+  {
+   "word": "a journey",
+   "ph": "",
+   "pos": "n. 旅行；歷程",
+   "zh": "旅行；歷程",
+   "colloc": "a long journey 長途旅行 | start a journey 開始旅程",
+   "distinct": "trip 短程旅行 | voyage 海上航行",
+   "ex": [
+    [
+     "The business journey to Tokyo was very productive.",
+     "前往東京的商務旅程非常有成效。"
+    ],
+    [
+     "Our company began its journey over ten years ago.",
+     "我們公司是在十多年前開始發展歷程的。"
+    ],
+    [
+     "It was a long journey from the office to the factory.",
+     "從辦公室到工廠是一段漫長的旅程。"
+    ]
+   ]
+  },
+  {
+   "word": "fill in",
+   "ph": "",
+   "pos": "phr. 填寫；補充說明",
+   "zh": "填寫；補充說明",
+   "colloc": "fill in a form 填寫表格 | fill in the gaps 補齊空缺",
+   "distinct": "fill out 填寫（全部資訊） | complete 完成",
+   "ex": [
+    [
+     "Please fill in your name on the guest list.",
+     "請在訪客名單上填寫您的姓名。"
+    ],
+    [
+     "Can you fill in for me at the board meeting?",
+     "你能幫我參加董事會議並補充說明嗎？"
+    ],
+    [
+     "Fill in the required information on this document.",
+     "請在這份文件上填寫必要的資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "fill out",
+   "ph": "",
+   "pos": "phr. 填寫（完整表格）",
+   "zh": "填寫（完整表格）",
+   "colloc": "fill out an application 填寫申請表 | fill out the survey 填寫問卷",
+   "distinct": "fill in 填寫（細節） | write down 寫下",
+   "ex": [
+    [
+     "You need to fill out this form to apply.",
+     "你需要填寫這份表格來申請。"
+    ],
+    [
+     "Please fill out the feedback survey before leaving today.",
+     "請在今天離開前填寫意見回饋問卷。"
+    ],
+    [
+     "All employees must fill out their tax forms annually.",
+     "所有員工必須每年填寫稅務表格。"
+    ]
+   ]
+  },
+  {
+   "word": "traditionally",
+   "ph": "",
+   "pos": "adv. 傳統上；習慣上",
+   "zh": "傳統上；習慣上",
+   "colloc": "traditionally held 傳統上舉行 | traditionally associated 傳統上相關",
+   "distinct": "customarily 慣例上 | conventionally 慣例地",
+   "ex": [
+    [
+     "This industry is traditionally dominated by large corporations.",
+     "這個產業傳統上由大型企業主導。"
+    ],
+    [
+     "The company meeting is traditionally held every January.",
+     "公司會議傳統上在每年一月舉行。"
+    ],
+    [
+     "They traditionally provide bonuses at the end of year.",
+     "他們傳統上會在年底發放獎金。"
+    ]
+   ]
+  },
+  {
+   "word": "in title",
+   "ph": "",
+   "pos": "phr. 名義上；稱謂上",
+   "zh": "名義上；稱謂上",
+   "colloc": "in title only 僅有名義 | formal title 正式頭銜",
+   "distinct": "by name 以名字 | on paper 在文件上",
+   "ex": [
+    [
+     "He is the manager in title but has no authority.",
+     "他名義上是經理，但並沒有實權。"
+    ],
+    [
+     "The position exists in title but remains vacant.",
+     "該職位僅有名義存在，但仍處於空缺狀態。"
+    ],
+    [
+     "She is the owner in title of this small firm.",
+     "她名義上是這家小公司的負責人。"
+    ]
+   ]
+  },
+  {
+   "word": "miss place",
+   "ph": "",
+   "pos": "v. 亂放；找不到",
+   "zh": "亂放；找不到",
+   "colloc": "misplace a file 弄丟文件 | misplace the key 弄丟鑰匙",
+   "distinct": "lose 遺失 | mislay 隨手放錯",
+   "ex": [
+    [
+     "I seem to have misplaced the signed contract copy.",
+     "我似乎把簽署過的合約副本弄丟了。"
+    ],
+    [
+     "Please do not misplace the important project documents.",
+     "請不要弄丟重要的專案文件。"
+    ],
+    [
+     "He often misplaces his glasses during busy work hours.",
+     "他在忙碌工作時經常弄丟眼鏡。"
+    ]
+   ]
+  },
+  {
+   "word": "a man",
+   "ph": "",
+   "pos": "n. 男人；人類；員工",
+   "zh": "男人；人類；員工",
+   "colloc": "a man of action 有執行力的人 | a man of experience 經驗豐富的人",
+   "distinct": "staff 員工 | employee 受雇者",
+   "ex": [
+    [
+     "He is a man of great integrity in business.",
+     "他在商場上是一位非常有操守的人。"
+    ],
+    [
+     "We need a man for the maintenance team immediately.",
+     "我們現在需要一位男性加入維修團隊。"
+    ],
+    [
+     "That man is the new consultant for our project.",
+     "那位先生是我們專案的新任顧問。"
+    ]
+   ]
+  },
+  {
+   "word": "charge",
+   "ph": "",
+   "pos": "v. 收費；充電 | n. 費用；負責",
+   "zh": "收費；費用；負責",
+   "colloc": "free of charge 免費 | in charge of 負責",
+   "distinct": "fee 費用 | cost 成本",
+   "ex": [
+    [
+     "The hotel will charge for the extra room service.",
+     "飯店會針對額外的客房服務收費。"
+    ],
+    [
+     "Who is in charge of the training program?",
+     "誰負責這個培訓計畫？"
+    ],
+    [
+     "There is no charge for the initial consultation service.",
+     "初次諮詢服務不收取任何費用。"
+    ]
+   ]
+  },
+  {
+   "word": "get your",
+   "ph": "",
+   "pos": "phr. 取得你的；得到你的",
+   "zh": "取得你的；得到你的",
+   "colloc": "get your feedback 取得你的回饋 | get your approval 得到你的批准",
+   "distinct": "receive 收到 | acquire 取得",
+   "ex": [
+    [
+     "I need to get your signature on this document.",
+     "我需要你在這份文件上簽名。"
+    ],
+    [
+     "Please get your reports ready by tomorrow morning.",
+     "請在明天早上前準備好你的報告。"
+    ],
+    [
+     "I want to get your opinion on the new design.",
+     "我想聽聽你對新設計的看法。"
+    ]
+   ]
+  },
+  {
+   "word": "in voice",
+   "ph": "",
+   "pos": "n. 發票；發貨單",
+   "zh": "發票；發貨單",
+   "colloc": "issue an invoice 開發票 | settle the invoice 付清發票金額",
+   "distinct": "receipt 收據 | bill 帳單",
+   "ex": [
+    [
+     "Please send the invoice to our accounting department.",
+     "請將發票寄給我們的會計部門。"
+    ],
+    [
+     "The invoice must match the total order amount.",
+     "發票金額必須與訂單總額相符。"
+    ],
+    [
+     "I received the invoice for the supplies today.",
+     "我今天收到了這些物資的發票。"
+    ]
+   ]
+  }
+ ]
+}

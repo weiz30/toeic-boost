@@ -1,0 +1,448 @@
+{
+ "day": 46,
+ "theme": "教材字彙・進階 650–750 第 46 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "sudden",
+   "ph": "/ˈsʌdən/",
+   "pos": "adj. 突然的；意外的",
+   "zh": "突然的；意外的",
+   "colloc": "sudden change 突然的變化 | sudden increase 突然增加",
+   "distinct": "abrupt 突然且粗魯的 | unexpected 未預料到的",
+   "ex": [
+    [
+     "A sudden drop in sales caused concern.",
+     "銷售額突然下滑引起了擔憂。"
+    ],
+    [
+     "We had to make a sudden decision.",
+     "我們必須做出一個突然的決定。"
+    ],
+    [
+     "The sudden rain delayed the construction work.",
+     "突如其來的雨延誤了工程進度。"
+    ]
+   ]
+  },
+  {
+   "word": "travel",
+   "ph": "/ˈtrævəl/",
+   "pos": "v. 旅行；行進 | n. 旅行",
+   "zh": "旅行；差旅",
+   "colloc": "travel expenses 差旅費 | travel agent 旅行社代理人",
+   "distinct": "trip 短途旅行 | journey 長途旅行",
+   "ex": [
+    [
+     "She travels frequently for business meetings.",
+     "她經常為了商務會議出差。"
+    ],
+    [
+     "Please submit your travel expenses report.",
+     "請提交您的差旅費報銷單。"
+    ],
+    [
+     "Global travel has become easier these days.",
+     "如今全球旅遊變得更加容易了。"
+    ]
+   ]
+  },
+  {
+   "word": "unique",
+   "ph": "/juːˈniːk/",
+   "pos": "adj. 獨特的；唯一的",
+   "zh": "獨特的；唯一的",
+   "colloc": "unique opportunity 絕佳機會 | unique feature 獨特功能",
+   "distinct": "special 特別的 | rare 罕見的",
+   "ex": [
+    [
+     "This software offers a unique solution.",
+     "這套軟體提供了獨特的解決方案。"
+    ],
+    [
+     "The brand has a unique marketing strategy.",
+     "該品牌擁有獨特的行銷策略。"
+    ],
+    [
+     "It is a unique chance to expand globally.",
+     "這是一個向全球擴張的絕佳機會。"
+    ]
+   ]
+  },
+  {
+   "word": "visitor",
+   "ph": "/ˈvɪzɪtər/",
+   "pos": "n. 訪客；參觀者",
+   "zh": "訪客；參觀者",
+   "colloc": "visitor center 遊客中心 | registered visitor 已登記訪客",
+   "distinct": "guest 賓客 | tourist 觀光客",
+   "ex": [
+    [
+     "All visitors must sign in at reception.",
+     "所有訪客必須在接待處簽到。"
+    ],
+    [
+     "The visitor center provides helpful brochures.",
+     "遊客中心提供實用的手冊。"
+    ],
+    [
+     "Many visitors attended the trade exhibition.",
+     "許多參觀者出席了貿易展覽。"
+    ]
+   ]
+  },
+  {
+   "word": "showing",
+   "ph": "/ˈʃoʊɪŋ/",
+   "pos": "n. 展出；放映 | v. 表現（show的現在分詞）",
+   "zh": "展出；表現",
+   "colloc": "strong showing 強勢表現 | private showing 私人展出",
+   "distinct": "exhibition 展覽會 | display 陳列",
+   "ex": [
+    [
+     "The company had a strong market showing.",
+     "公司在市場上有強勢的表現。"
+    ],
+    [
+     "We arranged a private showing for investors.",
+     "我們為投資者安排了私人展出。"
+    ],
+    [
+     "His presentation was a showing of true talent.",
+     "他的簡報展現了真正的才華。"
+    ]
+   ]
+  },
+  {
+   "word": "differently",
+   "ph": "/ˈdɪfərəntli/",
+   "pos": "adv. 不同地；以不同方式",
+   "zh": "不同地；以不同方式",
+   "colloc": "think differently 換個角度思考 | treat differently 不同對待",
+   "distinct": "distinctly 明顯地 | otherwise 其他地",
+   "ex": [
+    [
+     "We need to approach this task differently.",
+     "我們需要以不同的方式處理這項任務。"
+    ],
+    [
+     "Customers often react differently to price hikes.",
+     "客戶對漲價的反應往往不同。"
+    ],
+    [
+     "They handle client complaints quite differently.",
+     "他們處理客戶投訴的方式相當不同。"
+    ]
+   ]
+  },
+  {
+   "word": "arrive",
+   "ph": "/əˈraɪv/",
+   "pos": "v. 到達；抵達",
+   "zh": "到達；抵達",
+   "colloc": "arrive at 到達某處 | arrive in 到達（城市/國家）",
+   "distinct": "reach 到達 | get to 抵達",
+   "ex": [
+    [
+     "The shipment should arrive by tomorrow morning.",
+     "貨物應該會在明天早上前抵達。"
+    ],
+    [
+     "Please arrive at the office before nine.",
+     "請在九點前抵達辦公室。"
+    ],
+    [
+     "We arrived in Tokyo for the conference.",
+     "我們抵達東京參加研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "bill",
+   "ph": "/bɪl/",
+   "pos": "n. 帳單；法案 | v. 開帳單",
+   "zh": "帳單；法案",
+   "colloc": "utility bill 水電費帳單 | pay the bill 付帳",
+   "distinct": "invoice 發票 | receipt 收據",
+   "ex": [
+    [
+     "Please pay your utility bill on time.",
+     "請準時支付您的水電費帳單。"
+    ],
+    [
+     "The company will bill us next week.",
+     "公司下週會寄帳單給我們。"
+    ],
+    [
+     "The new bill will impact small businesses.",
+     "這項新法案將影響小型企業。"
+    ]
+   ]
+  },
+  {
+   "word": "city",
+   "ph": "/ˈsɪti/",
+   "pos": "n. 城市",
+   "zh": "城市",
+   "colloc": "city center 市中心 | city council 市議會",
+   "distinct": "town 城鎮 | downtown 市中心區",
+   "ex": [
+    [
+     "The head office is located in the city.",
+     "總部設在市中心。"
+    ],
+    [
+     "Many city officials attended the event.",
+     "許多城市官員參加了這次活動。"
+    ],
+    [
+     "We are expanding into several major cities.",
+     "我們正在擴展到幾個主要城市。"
+    ]
+   ]
+  },
+  {
+   "word": "clerk",
+   "ph": "/klɜːrk/",
+   "pos": "n. 店員；辦事員",
+   "zh": "店員；辦事員",
+   "colloc": "sales clerk 店員 | office clerk 辦事員",
+   "distinct": "receptionist 接待員 | assistant 助理",
+   "ex": [
+    [
+     "The store clerk offered excellent service.",
+     "那位店員提供了優質的服務。"
+    ],
+    [
+     "An office clerk processed the documents.",
+     "一位辦事員處理了那些文件。"
+    ],
+    [
+     "Ask the clerk for the return policy.",
+     "向店員詢問退貨政策。"
+    ]
+   ]
+  },
+  {
+   "word": "coin",
+   "ph": "/kɔɪn/",
+   "pos": "n. 硬幣 | v. 創造（新詞）",
+   "zh": "硬幣；鑄造",
+   "colloc": "gold coin 金幣 | coin operated 投幣式的",
+   "distinct": "currency 貨幣 | cash 現金",
+   "ex": [
+    [
+     "The machine does not accept small coins.",
+     "這台機器不接受小額硬幣。"
+    ],
+    [
+     "They coined a new term for the product.",
+     "他們為該產品創造了一個新詞。"
+    ],
+    [
+     "You need coins to use the locker.",
+     "你需要硬幣才能使用寄物櫃。"
+    ]
+   ]
+  },
+  {
+   "word": "concrete",
+   "ph": "/ˈkɒŋkriːt/",
+   "pos": "n. 混凝土 | adj. 具體的；實在的",
+   "zh": "混凝土；具體的",
+   "colloc": "concrete evidence 具體證據 | concrete wall 混凝土牆",
+   "distinct": "specific 明確的 | tangible 有形的",
+   "ex": [
+    [
+     "We need a concrete plan by Friday.",
+     "我們週五前需要一個具體的計畫。"
+    ],
+    [
+     "The building is made of reinforced concrete.",
+     "這棟建築是由鋼筋混凝土建造的。"
+    ],
+    [
+     "Do you have concrete proof of the error?",
+     "你有錯誤的具體證據嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "dress",
+   "ph": "/dres/",
+   "pos": "n. 洋裝 | v. 穿著",
+   "zh": "洋裝；穿衣",
+   "colloc": "dress code 服裝規定 | dress up 打扮",
+   "distinct": "wear 穿著（狀態）| put on 穿上（動作）",
+   "ex": [
+    [
+     "Employees should follow the dress code.",
+     "員工應遵守服裝規定。"
+    ],
+    [
+     "Please dress professionally for the interview.",
+     "面試請穿著專業。"
+    ],
+    [
+     "She wore a formal dress to the gala.",
+     "她穿了一件正式禮服參加晚宴。"
+    ]
+   ]
+  },
+  {
+   "word": "earn",
+   "ph": "/ɜːrn/",
+   "pos": "v. 賺取；贏得",
+   "zh": "賺取；贏得",
+   "colloc": "earn a living 謀生 | earn interest 賺取利息",
+   "distinct": "gain 獲得 | win 贏得（比賽/獎項）",
+   "ex": [
+    [
+     "He works hard to earn a salary.",
+     "他努力工作以賺取薪水。"
+    ],
+    [
+     "The project earned the team high praise.",
+     "該專案為團隊贏得了高度讚揚。"
+    ],
+    [
+     "Saving accounts help you earn interest.",
+     "儲蓄帳戶能幫助你賺取利息。"
+    ]
+   ]
+  },
+  {
+   "word": "economy",
+   "ph": "/ɪˈkɒnəmi/",
+   "pos": "n. 經濟；節約",
+   "zh": "經濟；節約",
+   "colloc": "global economy 全球經濟 | market economy 市場經濟",
+   "distinct": "economic 經濟上的 | economical 節約的",
+   "ex": [
+    [
+     "The global economy is showing recovery signs.",
+     "全球經濟正顯示出復甦跡象。"
+    ],
+    [
+     "High inflation affects the national economy.",
+     "高通膨影響著國民經濟。"
+    ],
+    [
+     "We chose an economical business travel plan.",
+     "我們選擇了一個經濟實惠的差旅計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "employ",
+   "ph": "/ɪmˈplɔɪ/",
+   "pos": "v. 僱用；運用",
+   "zh": "僱用；運用",
+   "colloc": "employ staff 僱用員工 | employ strategies 運用策略",
+   "distinct": "hire 僱用 | utilize 利用",
+   "ex": [
+    [
+     "The firm plans to employ more specialists.",
+     "該公司計畫僱用更多專家。"
+    ],
+    [
+     "They employ various methods to save time.",
+     "他們運用多種方法來節省時間。"
+    ],
+    [
+     "The restaurant currently employs twenty staff.",
+     "這家餐廳目前僱用了二十名員工。"
+    ]
+   ]
+  },
+  {
+   "word": "exception",
+   "ph": "/ɪkˈsepʃən/",
+   "pos": "n. 例外",
+   "zh": "例外",
+   "colloc": "make an exception 做個例外 | with the exception of 除了...之外",
+   "distinct": "exclusion 排除 | deviation 偏差",
+   "ex": [
+    [
+     "No exceptions will be made to this rule.",
+     "此項規定不會有任何例外。"
+    ],
+    [
+     "Everyone attended, with the exception of one.",
+     "除了一個人外，大家都出席了。"
+    ],
+    [
+     "They decided to make an exception for us.",
+     "他們決定為我們做個例外。"
+    ]
+   ]
+  },
+  {
+   "word": "formerly",
+   "ph": "/ˈfɔːrmərli/",
+   "pos": "adv. 以前；從前",
+   "zh": "以前；從前",
+   "colloc": "formerly known as 原名為 | formerly employed 曾受僱於",
+   "distinct": "previously 先前 | initially 最初",
+   "ex": [
+    [
+     "The building was formerly a bank branch.",
+     "這棟建築以前是銀行分行。"
+    ],
+    [
+     "She was formerly the head of marketing.",
+     "她曾擔任過行銷主管。"
+    ],
+    [
+     "The company was formerly a small startup.",
+     "這家公司從前是一家小型的創業公司。"
+    ]
+   ]
+  },
+  {
+   "word": "free",
+   "ph": "/friː/",
+   "pos": "adj. 免費的；空閒的 | v. 解放",
+   "zh": "免費的；空閒的",
+   "colloc": "free of charge 免費 | free time 空閒時間",
+   "distinct": "vacant 空缺的 | available 可用的",
+   "ex": [
+    [
+     "Registration for the seminar is free.",
+     "研討會報名是免費的。"
+    ],
+    [
+     "Are you free for a meeting tomorrow?",
+     "你明天有空開會嗎？"
+    ],
+    [
+     "The upgrade is free of charge today.",
+     "今天升級是免費的。"
+    ]
+   ]
+  },
+  {
+   "word": "fund",
+   "ph": "/fʌnd/",
+   "pos": "n. 基金；資金 | v. 資助",
+   "zh": "資金；資助",
+   "colloc": "mutual fund 共同基金 | raise funds 籌集資金",
+   "distinct": "capital 資本 | budget 預算",
+   "ex": [
+    [
+     "The bank will fund the new project.",
+     "銀行將資助這項新專案。"
+    ],
+    [
+     "They are trying to raise funds for charity.",
+     "他們正在嘗試為慈善機構籌款。"
+    ],
+    [
+     "The pension fund has grown significantly.",
+     "退休基金已經顯著成長。"
+    ]
+   ]
+  }
+ ]
+}

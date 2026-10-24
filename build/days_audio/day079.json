@@ -1,0 +1,448 @@
+{
+ "day": 79,
+ "theme": "教材片語・中高階 750–850 第 15 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "make forecast",
+   "ph": "",
+   "pos": "phr. 做出預測",
+   "zh": "做出預測",
+   "colloc": "make an accurate forecast 精確預測 | make a sales forecast 做出銷售預測",
+   "distinct": "predict 預測（動詞） | projection 預估值",
+   "ex": [
+    [
+     "The analyst will make forecast for the next quarter.",
+     "分析師將為下一季做出預測。"
+    ],
+    [
+     "It is difficult to make forecast during market volatility.",
+     "在市場波動期間很難做出預測。"
+    ],
+    [
+     "Our team needs to make forecast regarding annual revenue.",
+     "我們的團隊需要對年度營收做出預測。"
+    ]
+   ]
+  },
+  {
+   "word": "make money",
+   "ph": "",
+   "pos": "phr. 賺錢",
+   "zh": "賺錢；獲利",
+   "colloc": "make money quickly 快速賺錢 | make money from investments 從投資中獲利",
+   "distinct": "earn a living 維持生計 | generate profit 產生利潤",
+   "ex": [
+    [
+     "Their primary goal is to make money for shareholders.",
+     "他們的主要目標是為股東賺錢。"
+    ],
+    [
+     "Many startups struggle to make money in the early stages.",
+     "許多新創公司在早期階段很難獲利。"
+    ],
+    [
+     "Investing in technology can help you make money.",
+     "投資科技產業有助於你賺錢。"
+    ]
+   ]
+  },
+  {
+   "word": "make the first move",
+   "ph": "",
+   "pos": "phr. 採取主動",
+   "zh": "採取主動；先發制人",
+   "colloc": "make the first move in negotiations 在談判中採取主動 | wait for someone to make the first move 等待對方採取主動",
+   "distinct": "take the initiative 採取主動權 | strike first 先下手為強",
+   "ex": [
+    [
+     "It is time for us to make the first move.",
+     "現在是我們採取主動的時候了。"
+    ],
+    [
+     "He decided to make the first move to close the deal.",
+     "他決定採取主動來達成這筆交易。"
+    ],
+    [
+     "Sometimes it pays to make the first move in business.",
+     "有時在商場上先發制人是有利的。"
+    ]
+   ]
+  },
+  {
+   "word": "market value",
+   "ph": "",
+   "pos": "phr. 市場價值",
+   "zh": "市場價值；市價",
+   "colloc": "assess market value 評估市場價值 | exceed market value 超過市場價值",
+   "distinct": "book value 帳面價值 | asset value 資產價值",
+   "ex": [
+    [
+     "The company has a high market value right now.",
+     "這家公司目前有很高的市場價值。"
+    ],
+    [
+     "We need to determine the market value of the property.",
+     "我們需要確定該房產的市場價值。"
+    ],
+    [
+     "Changes in the economy affect the market value of stocks.",
+     "經濟變化影響股票的市場價值。"
+    ]
+   ]
+  },
+  {
+   "word": "move forward",
+   "ph": "",
+   "pos": "phr. 前進",
+   "zh": "前進；推進；進行",
+   "colloc": "move forward with the plan 推進計畫 | move forward to the next stage 進入下一階段",
+   "distinct": "go ahead 進行；同意 | carry on 繼續進行",
+   "ex": [
+    [
+     "We are ready to move forward with the merger.",
+     "我們準備推進合併案。"
+    ],
+    [
+     "The board decided to move forward despite the risks.",
+     "董事會決定儘管有風險仍繼續推進。"
+    ],
+    [
+     "Please let us know how to move forward from here.",
+     "請讓我們知道接下來該如何進行。"
+    ]
+   ]
+  },
+  {
+   "word": "much to one surprise",
+   "ph": "",
+   "pos": "phr. 令某人驚訝的是",
+   "zh": "令某人驚訝的是",
+   "colloc": "much to one's surprise and delight 令某人又驚又喜 | much to everyone's surprise 令大家驚訝的是",
+   "distinct": "to one's astonishment 令某人震驚的是 | unexpectedly 意外地",
+   "ex": [
+    [
+     "Much to our surprise, the project was completed early.",
+     "令我們驚訝的是，該專案提前完成了。"
+    ],
+    [
+     "Much to his surprise, he received a promotion today.",
+     "令他驚訝的是，他今天獲得了晉升。"
+    ],
+    [
+     "The client canceled the order, much to our surprise.",
+     "令我們驚訝的是，客戶取消了訂單。"
+    ]
+   ]
+  },
+  {
+   "word": "newly established",
+   "ph": "",
+   "pos": "phr. 新成立的",
+   "zh": "新成立的；新設立的",
+   "colloc": "a newly established company 一家新成立的公司 | a newly established policy 一項新設立的政策",
+   "distinct": "newly founded 新創立的 | newly created 新創造的",
+   "ex": [
+    [
+     "The newly established department handles client complaints.",
+     "這個新成立的部門負責處理客戶投訴。"
+    ],
+    [
+     "He works for a newly established firm in Taipei.",
+     "他在台北一家新成立的公司工作。"
+    ],
+    [
+     "The newly established rules apply to all employees.",
+     "這些新設立的規則適用於所有員工。"
+    ]
+   ]
+  },
+  {
+   "word": "off limits",
+   "ph": "",
+   "pos": "phr. 禁止進入的",
+   "zh": "禁止進入的；禁止觸碰的",
+   "colloc": "be off limits to staff 對員工禁止進入 | declare an area off limits 宣布該區域為禁區",
+   "distinct": "restricted 限制的 | prohibited 被禁止的",
+   "ex": [
+    [
+     "The laboratory is off limits to unauthorized personnel.",
+     "實驗室禁止未經授權的人員進入。"
+    ],
+    [
+     "Discussing salaries is off limits in this meeting.",
+     "在這次會議中禁止討論薪資問題。"
+    ],
+    [
+     "The executive office is off limits during lunch time.",
+     "午餐時間行政辦公室禁止進入。"
+    ]
+   ]
+  },
+  {
+   "word": "official title",
+   "ph": "",
+   "pos": "phr. 正式職稱",
+   "zh": "正式職稱；正式頭銜",
+   "colloc": "hold an official title 擁有正式職稱 | use an official title 使用正式頭銜",
+   "distinct": "job description 工作描述 | position 職位",
+   "ex": [
+    [
+     "What is your official title in this organization?",
+     "你在這個組織裡的正式職稱是什麼？"
+    ],
+    [
+     "He prefers to use his official title on business cards.",
+     "他偏好在名片上使用他的正式職稱。"
+    ],
+    [
+     "Her official title changed after the restructuring.",
+     "組織重組後她的正式職稱改變了。"
+    ]
+   ]
+  },
+  {
+   "word": "on the waiting list",
+   "ph": "",
+   "pos": "phr. 在候補名單上",
+   "zh": "在候補名單上",
+   "colloc": "put on the waiting list 列入候補名單 | remain on the waiting list 停留在候補名單",
+   "distinct": "on standby 備用狀態 | at a queue 排隊中",
+   "ex": [
+    [
+     "I am currently on the waiting list for the seminar.",
+     "我目前在研討會的候補名單上。"
+    ],
+    [
+     "Many clients are on the waiting list for this service.",
+     "許多客戶都在這項服務的候補名單上。"
+    ],
+    [
+     "Can you put my name on the waiting list?",
+     "你可以把我的名字加到候補名單上嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "one way ticket",
+   "ph": "",
+   "pos": "phr. 單程票",
+   "zh": "單程票",
+   "colloc": "book a one way ticket 預訂單程票 | purchase a one way ticket 購買單程票",
+   "distinct": "round trip ticket 來回票 | return ticket 回程票",
+   "ex": [
+    [
+     "He bought a one way ticket for his business trip.",
+     "他買了一張出差用的單程票。"
+    ],
+    [
+     "The company prefers booking a one way ticket for flexibility.",
+     "公司為了靈活性傾向預訂單程票。"
+    ],
+    [
+     "I only need a one way ticket to the conference.",
+     "我只需要一張去開會的單程票。"
+    ]
+   ]
+  },
+  {
+   "word": "order a meal",
+   "ph": "",
+   "pos": "phr. 點餐",
+   "zh": "點餐",
+   "colloc": "order a meal online 線上點餐 | order a meal for delivery 點餐外送",
+   "distinct": "place an order 下訂單 | reserve a table 訂位",
+   "ex": [
+    [
+     "We can order a meal before the meeting starts.",
+     "我們可以在會議開始前先點餐。"
+    ],
+    [
+     "It is convenient to order a meal through the app.",
+     "透過應用程式點餐很方便。"
+    ],
+    [
+     "She helped the guests order a meal at the hotel.",
+     "她協助客人在飯店點餐。"
+    ]
+   ]
+  },
+  {
+   "word": "parking garage",
+   "ph": "",
+   "pos": "phr. 立體停車場",
+   "zh": "立體停車場；停車庫",
+   "colloc": "use the parking garage 使用停車場 | enter the parking garage 進入停車場",
+   "distinct": "parking lot 停車場（平面） | street parking 路邊停車",
+   "ex": [
+    [
+     "The office building has a spacious parking garage.",
+     "辦公大樓有一個寬敞的立體停車場。"
+    ],
+    [
+     "Visitors can park in the underground parking garage.",
+     "訪客可以停在地下停車場。"
+    ],
+    [
+     "She parked her car in the parking garage nearby.",
+     "她把車停在附近的立體停車場。"
+    ]
+   ]
+  },
+  {
+   "word": "pass by",
+   "ph": "",
+   "pos": "phr. 經過",
+   "zh": "經過；路過",
+   "colloc": "pass by the office 路過辦公室 | pass by the building 經過建築物",
+   "distinct": "go past 經過 | drop by 順道拜訪",
+   "ex": [
+    [
+     "I will pass by your desk later this afternoon.",
+     "今天下午稍晚我會經過你的座位。"
+    ],
+    [
+     "Did you pass by the construction site today?",
+     "你今天有經過工地嗎？"
+    ],
+    [
+     "The courier will pass by to pick up the parcel.",
+     "快遞員會順道過來領取包裹。"
+    ]
+   ]
+  },
+  {
+   "word": "people of all ages",
+   "ph": "",
+   "pos": "phr. 所有年齡層的人",
+   "zh": "所有年齡層的人",
+   "colloc": "cater to people of all ages 滿足所有年齡層的人 | attract people of all ages 吸引各年齡層的人",
+   "distinct": "all age groups 所有年齡組 | various age groups 各種年齡組",
+   "ex": [
+    [
+     "The event is suitable for people of all ages.",
+     "這個活動適合所有年齡層的人參與。"
+    ],
+    [
+     "Our products are designed for people of all ages.",
+     "我們的產品專為所有年齡層的人設計。"
+    ],
+    [
+     "This park attracts people of all ages every weekend.",
+     "這個公園每個週末都吸引各年齡層的人。"
+    ]
+   ]
+  },
+  {
+   "word": "post a notice on",
+   "ph": "",
+   "pos": "phr. 張貼公告於",
+   "zh": "張貼公告於",
+   "colloc": "post a notice on the board 在佈告欄貼公告 | post a notice on the wall 在牆上貼公告",
+   "distinct": "put up a sign 豎立標誌 | announce an update 發布更新",
+   "ex": [
+    [
+     "The manager will post a notice on the bulletin board.",
+     "經理將在佈告欄張貼公告。"
+    ],
+    [
+     "Please post a notice on the door regarding the closure.",
+     "請在門上張貼關於關閉的公告。"
+    ],
+    [
+     "They decided to post a notice on the company website.",
+     "他們決定在公司網站上張貼公告。"
+    ]
+   ]
+  },
+  {
+   "word": "provided that",
+   "ph": "",
+   "pos": "phr. 如果；在...條件下",
+   "zh": "如果；假設",
+   "colloc": "provided that the terms are met 只要條件符合 | provided that we agree 假設我們同意",
+   "distinct": "on condition that 在...條件下 | as long as 只要",
+   "ex": [
+    [
+     "We can proceed provided that you sign the contract.",
+     "只要你簽署合約，我們就可以繼續進行。"
+    ],
+    [
+     "The deal is valid provided that the funds are cleared.",
+     "只要資金到位，這筆交易即有效。"
+    ],
+    [
+     "You may take leave provided that your work is finished.",
+     "只要你的工作完成了，你就可以請假。"
+    ]
+   ]
+  },
+  {
+   "word": "pull down",
+   "ph": "",
+   "pos": "phr. 拆除",
+   "zh": "拆除；拉下",
+   "colloc": "pull down the old building 拆除舊建築 | pull down the shades 拉下遮陽簾",
+   "distinct": "tear down 拆除 | take down 拆卸",
+   "ex": [
+    [
+     "The city plans to pull down the old warehouse.",
+     "市政府計畫拆除這座舊倉庫。"
+    ],
+    [
+     "They decided to pull down the posters before the event.",
+     "他們決定在活動前把海報取下。"
+    ],
+    [
+     "Workers will pull down the structure next month.",
+     "工人下個月將拆除這個建築結構。"
+    ]
+   ]
+  },
+  {
+   "word": "pull into",
+   "ph": "",
+   "pos": "phr. 駛入",
+   "zh": "駛入（車站或停車處）",
+   "colloc": "pull into the station 駛入車站 | pull into the driveway 駛入車道",
+   "distinct": "drive into 開進 | enter 進入",
+   "ex": [
+    [
+     "The train will pull into the station shortly.",
+     "火車即將駛入車站。"
+    ],
+    [
+     "He slowly pulled into the parking space.",
+     "他緩慢地將車開入停車位。"
+    ],
+    [
+     "We watched the bus pull into the depot.",
+     "我們看著巴士駛入車廠。"
+    ]
+   ]
+  },
+  {
+   "word": "put away",
+   "ph": "",
+   "pos": "phr. 收拾",
+   "zh": "收拾；儲存",
+   "colloc": "put away the files 收拾檔案 | put away documents 整理文件",
+   "distinct": "pack up 打包 | store away 儲藏",
+   "ex": [
+    [
+     "Please put away your reports after the meeting.",
+     "會議結束後請把你的報告收拾好。"
+    ],
+    [
+     "She took a moment to put away the office supplies.",
+     "她花了一點時間收拾辦公用品。"
+    ],
+    [
+     "Make sure to put away all sensitive documents securely.",
+     "務必將所有機密文件妥善收好。"
+    ]
+   ]
+  }
+ ]
+}

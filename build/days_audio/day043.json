@@ -1,0 +1,448 @@
+{
+ "day": 43,
+ "theme": "教材字彙・進階 650–750 第 43 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "bite",
+   "ph": "/baɪt/",
+   "pos": "v. 咬 | n. 一口",
+   "zh": "咬；咬傷；一口量",
+   "colloc": "bite the bullet 咬牙堅持 | take a bite 吃一口",
+   "distinct": "chew 咀嚼 | sting 螫傷",
+   "ex": [
+    [
+     "The office dog might bite if you approach quickly.",
+     "如果你靠近太快，辦公室的狗可能會咬人。"
+    ],
+    [
+     "She took a quick bite of her sandwich during the meeting.",
+     "她在會議期間匆匆咬了一口三明治。"
+    ],
+    [
+     "He had to bite his tongue to avoid arguing with the boss.",
+     "他不得不強忍住不去跟老闆爭辯。"
+    ]
+   ]
+  },
+  {
+   "word": "blind",
+   "ph": "/blaɪnd/",
+   "pos": "adj. 瞎的；盲目的 | v. 使失明",
+   "zh": "失明的；盲目的",
+   "colloc": "blind spot 盲點 | turn a blind eye 視而不見",
+   "distinct": "deaf 聾的 | blurred 模糊的",
+   "ex": [
+    [
+     "The team had a blind spot in their marketing strategy.",
+     "團隊在行銷策略上有個盲點。"
+    ],
+    [
+     "Do not turn a blind eye to the safety violations.",
+     "不要對安全違規事項視而不見。"
+    ],
+    [
+     "His lack of experience left him blind to the potential risks.",
+     "缺乏經驗使他看不見潛在風險。"
+    ]
+   ]
+  },
+  {
+   "word": "bother",
+   "ph": "/ˈbɑːðər/",
+   "pos": "v. 打擾；煩擾 | n. 麻煩",
+   "zh": "打擾；煩擾；麻煩",
+   "colloc": "bother to do something 費心做某事 | do not bother 不必費心",
+   "distinct": "disturb 干擾 | annoy 惱怒",
+   "ex": [
+    [
+     "I do not want to bother you with these minor issues.",
+     "我不想用這些小問題來打擾你。"
+    ],
+    [
+     "Please do not bother to rewrite the entire report today.",
+     "請不必費心在今天重寫整份報告。"
+    ],
+    [
+     "It is a lot of bother to move all the office equipment.",
+     "移動所有的辦公設備相當麻煩。"
+    ]
+   ]
+  },
+  {
+   "word": "celebration",
+   "ph": "/ˌselɪˈbreɪʃn/",
+   "pos": "n. 慶祝；慶祝活動",
+   "zh": "慶祝；慶典",
+   "colloc": "in celebration of 為了慶祝 | host a celebration 舉辦慶祝活動",
+   "distinct": "ceremony 儀式 | festival 節日",
+   "ex": [
+    [
+     "The company held a celebration for the successful product launch.",
+     "公司為成功發表新產品舉辦了慶祝活動。"
+    ],
+    [
+     "We are planning a small celebration to mark the store opening.",
+     "我們正在規劃一場小小的慶祝會來紀念商店開幕。"
+    ],
+    [
+     "The celebration will take place in the main conference hall.",
+     "慶祝活動將在主要會議廳舉行。"
+    ]
+   ]
+  },
+  {
+   "word": "central",
+   "ph": "/ˈsentrəl/",
+   "pos": "adj. 中央的；主要的",
+   "zh": "中央的；核心的",
+   "colloc": "central office 總公司 | central location 中心位置",
+   "distinct": "middle 中間的 | main 主要的",
+   "ex": [
+    [
+     "Our central office is located in the heart of the city.",
+     "我們的總公司位於市中心。"
+    ],
+    [
+     "Providing excellent service is central to our business philosophy.",
+     "提供優質服務是我們商業哲學的核心。"
+    ],
+    [
+     "The hotel features a central location near the subway station.",
+     "這間飯店位於靠近地鐵站的中心地段。"
+    ]
+   ]
+  },
+  {
+   "word": "challenge",
+   "ph": "/ˈtʃælɪndʒ/",
+   "pos": "n. 挑戰 | v. 向……挑戰",
+   "zh": "挑戰；質疑",
+   "colloc": "face a challenge 面臨挑戰 | meet a challenge 迎接挑戰",
+   "distinct": "difficulty 困難 | competition 競爭",
+   "ex": [
+    [
+     "This project presents a significant challenge for our design team.",
+     "這個專案對我們的設計團隊來說是一項重大挑戰。"
+    ],
+    [
+     "The management team challenged the accuracy of the financial report.",
+     "管理團隊質疑了這份財務報告的準確性。"
+    ],
+    [
+     "Employees are encouraged to meet every challenge with confidence.",
+     "公司鼓勵員工充滿自信地迎接每一項挑戰。"
+    ]
+   ]
+  },
+  {
+   "word": "chemist",
+   "ph": "/ˈkemɪst/",
+   "pos": "n. 化學家；藥劑師",
+   "zh": "化學家；藥劑師",
+   "colloc": "head chemist 首席化學家 | chemist's shop 藥局",
+   "distinct": "pharmacist 藥劑師（美式）| scientist 科學家",
+   "ex": [
+    [
+     "The lead chemist developed a new formula for the detergent.",
+     "首席化學家為清潔劑研發了一種新配方。"
+    ],
+    [
+     "He works as a chemist in a pharmaceutical research laboratory.",
+     "他在一家製藥研究實驗室擔任化學家。"
+    ],
+    [
+     "You can consult the chemist about the side effects of this medicine.",
+     "你可以向藥劑師諮詢這種藥物的副作用。"
+    ]
+   ]
+  },
+  {
+   "word": "chief",
+   "ph": "/tʃiːf/",
+   "pos": "adj. 首要的 | n. 首領；主管",
+   "zh": "首要的；主管",
+   "colloc": "chief executive officer 執行長 | chief concern 主要關切事項",
+   "distinct": "head 負責人 | principal 主要的",
+   "ex": [
+    [
+     "Our chief priority this quarter is to increase total sales.",
+     "本季我們的首要任務是提升總銷售額。"
+    ],
+    [
+     "The chief accountant will review the budget proposal tomorrow.",
+     "總會計師明天將審查預算提案。"
+    ],
+    [
+     "Communication is our chief concern during the transition period.",
+     "溝通是我們過渡期間的主要關切事項。"
+    ]
+   ]
+  },
+  {
+   "word": "clothing",
+   "ph": "/ˈkloʊðɪŋ/",
+   "pos": "n. 服裝；衣著",
+   "zh": "服裝；衣物",
+   "colloc": "clothing store 服飾店 | casual clothing 休閒服裝",
+   "distinct": "clothes 衣服（複數）| garment 服裝（單件）",
+   "ex": [
+    [
+     "The retailer specializes in high-quality professional clothing.",
+     "這家零售商專門銷售高品質的專業服裝。"
+    ],
+    [
+     "Please donate your unwanted clothing to the local charity.",
+     "請將您不再需要的衣物捐贈給當地慈善機構。"
+    ],
+    [
+     "The brand is launching a new line of winter clothing.",
+     "該品牌正在推出一系列冬季服飾。"
+    ]
+   ]
+  },
+  {
+   "word": "cold",
+   "ph": "/koʊld/",
+   "pos": "adj. 寒冷的；冷漠的 | n. 感冒",
+   "zh": "寒冷的；冷淡的；感冒",
+   "colloc": "catch a cold 感冒 | cold reception 冷淡的回應",
+   "distinct": "chilly 寒涼的 | freezing 極冷的",
+   "ex": [
+    [
+     "The office was quite cold due to the broken heating system.",
+     "因為暖氣系統壞了，辦公室裡相當冷。"
+    ],
+    [
+     "She received a cold reception after proposing the unpopular plan.",
+     "她在提出那個不受歡迎的計畫後，受到了冷淡的回應。"
+    ],
+    [
+     "He took a sick leave because he caught a bad cold.",
+     "他因為得了重感冒而請病假。"
+    ]
+   ]
+  },
+  {
+   "word": "communicate",
+   "ph": "/kəˈmjuːnɪkeɪt/",
+   "pos": "v. 溝通；傳達",
+   "zh": "溝通；傳達",
+   "colloc": "communicate with 與……溝通 | communicate clearly 清晰傳達",
+   "distinct": "connect 連結 | contact 聯繫",
+   "ex": [
+    [
+     "It is essential to communicate effectively with all team members.",
+     "與所有團隊成員有效溝通至關重要。"
+    ],
+    [
+     "The manager failed to communicate the changes to the staff.",
+     "主管沒有將變動事項傳達給員工。"
+    ],
+    [
+     "We use digital platforms to communicate our brand values.",
+     "我們使用數位平台來傳達我們的品牌價值。"
+    ]
+   ]
+  },
+  {
+   "word": "computer",
+   "ph": "/kəmˈpjuːtər/",
+   "pos": "n. 電腦",
+   "zh": "電腦",
+   "colloc": "computer program 電腦程式 | computer science 電腦科學",
+   "distinct": "laptop 筆記型電腦 | workstation 工作站",
+   "ex": [
+    [
+     "The company provided each employee with a new computer.",
+     "公司為每位員工提供了一台新電腦。"
+    ],
+    [
+     "You should back up your files on the computer daily.",
+     "你應該每天備份電腦裡的檔案。"
+    ],
+    [
+     "A computer error caused a delay in processing the orders.",
+     "電腦錯誤導致訂單處理延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "continue",
+   "ph": "/kənˈtɪnjuː/",
+   "pos": "v. 繼續；持續",
+   "zh": "繼續；持續",
+   "colloc": "continue to do something 繼續做某事 | continue with 繼續進行",
+   "distinct": "sustain 維持 | persist 堅持",
+   "ex": [
+    [
+     "We will continue to improve our services next year.",
+     "我們明年將持續改善我們的服務。"
+    ],
+    [
+     "The meeting will continue after a short coffee break.",
+     "會議將在短暫的咖啡休息後繼續進行。"
+    ],
+    [
+     "Does the rain continue to fall in the downtown area?",
+     "市區的雨還在持續下嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "correct",
+   "ph": "/kəˈrekt/",
+   "pos": "adj. 正確的 | v. 改正",
+   "zh": "正確的；改正",
+   "colloc": "correct answer 正確答案 | make a correction 進行修正",
+   "distinct": "accurate 精確的 | right 正確的",
+   "ex": [
+    [
+     "Please ensure that all the contact information is correct.",
+     "請確保所有的聯絡資訊都是正確的。"
+    ],
+    [
+     "The editor will correct any errors in the manuscript.",
+     "編輯將會修正手稿中的任何錯誤。"
+    ],
+    [
+     "It is important to provide the correct data for analysis.",
+     "提供正確的資料供分析是很重要的。"
+    ]
+   ]
+  },
+  {
+   "word": "counter",
+   "ph": "/ˈkaʊntər/",
+   "pos": "n. 櫃檯 | v. 反擊；反駁",
+   "zh": "櫃檯；反擊",
+   "colloc": "check-in counter 報到櫃檯 | over the counter 在櫃檯交易",
+   "distinct": "desk 辦公桌 | table 桌子",
+   "ex": [
+    [
+     "Please leave the documents at the front service counter.",
+     "請將文件留在前台服務櫃檯。"
+    ],
+    [
+     "The lawyer tried to counter the argument presented by the witness.",
+     "律師試圖反駁證人提出的論點。"
+    ],
+    [
+     "Customers are waiting at the counter to return their items.",
+     "顧客正在櫃檯等待退貨。"
+    ]
+   ]
+  },
+  {
+   "word": "daily",
+   "ph": "/ˈdeɪli/",
+   "pos": "adj. 每日的 | adv. 每日地 | n. 日報",
+   "zh": "每日的；日常的",
+   "colloc": "daily routine 日常作息 | daily operation 日常營運",
+   "distinct": "diurnal 白天的 | everyday 日常的",
+   "ex": [
+    [
+     "We hold a daily meeting to discuss the project progress.",
+     "我們舉行每日會議來討論專案進度。"
+    ],
+    [
+     "The company updates its website on a daily basis.",
+     "公司每天更新其網站。"
+    ],
+    [
+     "Checking emails is part of my daily routine at work.",
+     "查看電子郵件是我工作日常的一部分。"
+    ]
+   ]
+  },
+  {
+   "word": "decoration",
+   "ph": "/ˌdekəˈreɪʃn/",
+   "pos": "n. 裝飾；裝飾品",
+   "zh": "裝飾；裝潢",
+   "colloc": "office decoration 辦公室裝飾 | holiday decoration 節日裝飾",
+   "distinct": "ornament 裝飾物 | furniture 家具",
+   "ex": [
+    [
+     "The new office decoration makes the environment more inviting.",
+     "新的辦公室裝飾讓環境更吸引人。"
+    ],
+    [
+     "They spent a lot of money on the event decoration.",
+     "他們在活動佈置上花了很多錢。"
+    ],
+    [
+     "The seasonal decoration will be removed after the festival.",
+     "季節性裝飾將在節日過後拆除。"
+    ]
+   ]
+  },
+  {
+   "word": "developer",
+   "ph": "/dɪˈveləpər/",
+   "pos": "n. 開發者；開發商",
+   "zh": "開發者；開發商",
+   "colloc": "software developer 軟體開發人員 | property developer 房地產開發商",
+   "distinct": "designer 設計師 | engineer 工程師",
+   "ex": [
+    [
+     "The software developer fixed the bug in the new application.",
+     "軟體開發人員修復了新應用程式中的錯誤。"
+    ],
+    [
+     "He works for a large real estate developer in Taipei.",
+     "他在台北一家大型房地產開發商工作。"
+    ],
+    [
+     "We need another developer to join our mobile app project.",
+     "我們需要另一位開發人員加入我們的行動應用程式專案。"
+    ]
+   ]
+  },
+  {
+   "word": "distance",
+   "ph": "/ˈdɪstəns/",
+   "pos": "n. 距離；遠處",
+   "zh": "距離；路程",
+   "colloc": "long distance 長途 | short distance 短距離",
+   "distinct": "length 長度 | range 範圍",
+   "ex": [
+    [
+     "The hotel is within walking distance of the train station.",
+     "這間飯店距離火車站僅步行可達。"
+    ],
+    [
+     "Working long distance requires a reliable internet connection.",
+     "遠距工作需要穩定的網路連線。"
+    ],
+    [
+     "Please keep a safe distance from the heavy machinery.",
+     "請與重型機械保持安全距離。"
+    ]
+   ]
+  },
+  {
+   "word": "dying",
+   "ph": "/ˈdaɪɪŋ/",
+   "pos": "adj. 垂死的；即將結束的 | v. 死（die的現在分詞）",
+   "zh": "垂死的；衰退的",
+   "colloc": "dying industry 衰退產業 | dying embers 餘燼",
+   "distinct": "dead 已死的 | deceased 已故的",
+   "ex": [
+    [
+     "The company is trying to revive its dying business model.",
+     "公司正試圖重振其衰退的商業模式。"
+    ],
+    [
+     "He is dedicated to saving the dying forest in the region.",
+     "他致力於拯救該地區即將消失的森林。"
+    ],
+    [
+     "They are discussing the future of the dying retail sector.",
+     "他們正在討論衰退中零售業的未來。"
+    ]
+   ]
+  }
+ ]
+}

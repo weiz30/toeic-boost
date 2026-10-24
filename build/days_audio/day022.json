@@ -1,0 +1,448 @@
+{
+ "day": 22,
+ "theme": "教材字彙・基礎 550–650 第 22 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "completely",
+   "ph": "/kəmˈpliːtli/",
+   "pos": "adv. 完全地；徹底地",
+   "zh": "完全地；徹底地",
+   "colloc": "completely different 完全不同 | completely satisfied 完全滿意",
+   "distinct": "totally 完全地 | absolutely 絕對地",
+   "ex": [
+    [
+     "The report is now completely finished.",
+     "這份報告現在已經徹底完成了。"
+    ],
+    [
+     "We are completely satisfied with the service.",
+     "我們對這項服務感到完全滿意。"
+    ],
+    [
+     "The office was completely renovated last month.",
+     "辦公室上個月經過了全面翻新。"
+    ]
+   ]
+  },
+  {
+   "word": "crowded",
+   "ph": "/ˈkraʊdɪd/",
+   "pos": "adj. 擁擠的；擠滿的",
+   "zh": "擁擠的；擠滿的",
+   "colloc": "crowded space 擁擠空間 | crowded street 擁擠街道",
+   "distinct": "congested 阻塞的（交通）| packed 裝滿的",
+   "ex": [
+    [
+     "The lobby is very crowded during lunch.",
+     "午餐時間大廳非常擁擠。"
+    ],
+    [
+     "We avoided the crowded train station today.",
+     "我們今天避開了擁擠的火車站。"
+    ],
+    [
+     "This area becomes crowded with tourists daily.",
+     "這個區域每天都擠滿了遊客。"
+    ]
+   ]
+  },
+  {
+   "word": "declare",
+   "ph": "/dɪˈkleər/",
+   "pos": "v. 申報；宣布；聲明",
+   "zh": "申報；宣布；聲明",
+   "colloc": "declare bankruptcy 宣告破產 | declare items 申報物品",
+   "distinct": "announce 公告 | proclaim 公開宣告",
+   "ex": [
+    [
+     "Passengers must declare any valuable items.",
+     "旅客必須申報任何貴重物品。"
+    ],
+    [
+     "The manager will declare the results soon.",
+     "經理很快會宣布結果。"
+    ],
+    [
+     "They had to declare their assets formally.",
+     "他們必須正式申報資產。"
+    ]
+   ]
+  },
+  {
+   "word": "decorate",
+   "ph": "/ˈdekəreɪt/",
+   "pos": "v. 裝飾；裝潢",
+   "zh": "裝飾；裝潢",
+   "colloc": "decorate the office 裝飾辦公室 | decorate for events 為活動佈置",
+   "distinct": "furnish 配備家具 | renovate 翻新",
+   "ex": [
+    [
+     "Staff helped decorate the hall for parties.",
+     "員工協助為派對裝飾大廳。"
+    ],
+    [
+     "We need to decorate the lobby area.",
+     "我們需要裝飾大廳區域。"
+    ],
+    [
+     "She will decorate the room with flowers.",
+     "她將用鮮花裝飾房間。"
+    ]
+   ]
+  },
+  {
+   "word": "district",
+   "ph": "/ˈdɪstrɪkt/",
+   "pos": "n. 地區；區域；行政區",
+   "zh": "地區；區域；行政區",
+   "colloc": "business district 商業區 | shopping district 購物區",
+   "distinct": "region 地區（較大）| zone 區域（特定用途）",
+   "ex": [
+    [
+     "Our office is in the financial district.",
+     "我們的辦公室位於金融區。"
+    ],
+    [
+     "Many companies moved to this industrial district.",
+     "許多公司搬到了這個工業區。"
+    ],
+    [
+     "The local district council held a meeting.",
+     "當地的地區委員會舉行了會議。"
+    ]
+   ]
+  },
+  {
+   "word": "disturb",
+   "ph": "/dɪˈstɜːrb/",
+   "pos": "v. 打擾；干擾；擾亂",
+   "zh": "打擾；干擾；擾亂",
+   "colloc": "do not disturb 請勿打擾 | disturb the meeting 干擾會議",
+   "distinct": "bother 煩擾 | interrupt 中斷；打斷",
+   "ex": [
+    [
+     "Please do not disturb the working team.",
+     "請勿打擾工作中的團隊。"
+    ],
+    [
+     "Loud noise can disturb our concentration.",
+     "巨大的噪音可能會擾亂我們的注意力。"
+    ],
+    [
+     "Sorry to disturb you during the break.",
+     "抱歉在休息時間打擾你。"
+    ]
+   ]
+  },
+  {
+   "word": "drive",
+   "ph": "/draɪv/",
+   "pos": "v. 開車；推動 | n. 驅動力；車程",
+   "zh": "開車；推動；驅動力",
+   "colloc": "drive sales 提升銷售 | drive a car 開車",
+   "distinct": "operate 操作 | steer 駕駛（操縱方向）",
+   "ex": [
+    [
+     "New marketing campaigns will drive sales growth.",
+     "新的行銷活動將推動銷售成長。"
+    ],
+    [
+     "Does he drive to work every morning?",
+     "他每天早上都開車去上班嗎？"
+    ],
+    [
+     "Innovation remains the drive for our company.",
+     "創新依然是我們公司的驅動力。"
+    ]
+   ]
+  },
+  {
+   "word": "duty",
+   "ph": "/ˈduːti/",
+   "pos": "n. 職責；責任；關稅",
+   "zh": "職責；責任；關稅",
+   "colloc": "on duty 值班 | duty free 免稅",
+   "distinct": "responsibility 責任 | task 任務",
+   "ex": [
+    [
+     "It is my duty to check reports.",
+     "檢查報告是我的職責。"
+    ],
+    [
+     "The staff is currently on duty today.",
+     "員工今天正在值班。"
+    ],
+    [
+     "We need to pay import duty now.",
+     "我們現在需要支付進口關稅。"
+    ]
+   ]
+  },
+  {
+   "word": "easy",
+   "ph": "/ˈiːzi/",
+   "pos": "adj. 容易的；舒適的",
+   "zh": "容易的；舒適的",
+   "colloc": "easy access 容易進入 | easy task 簡單任務",
+   "distinct": "simple 簡單的 | effortless 不費力的",
+   "ex": [
+    [
+     "The software makes data entry very easy.",
+     "這套軟體讓資料輸入變得很容易。"
+    ],
+    [
+     "It is easy to find the location.",
+     "找到那個地點很容易。"
+    ],
+    [
+     "We want an easy way to communicate.",
+     "我們想要一種容易溝通的方式。"
+    ]
+   ]
+  },
+  {
+   "word": "edge",
+   "ph": "/edʒ/",
+   "pos": "n. 優勢；邊緣 | v. 緩慢移動",
+   "zh": "優勢；邊緣；緩慢移動",
+   "colloc": "competitive edge 競爭優勢 | leading edge 尖端",
+   "distinct": "margin 利潤空間 | border 邊界",
+   "ex": [
+    [
+     "Our product has a competitive edge today.",
+     "我們的產品目前具有競爭優勢。"
+    ],
+    [
+     "She sat on the edge of the chair.",
+     "她坐在椅子邊緣。"
+    ],
+    [
+     "This company is at the edge of technology.",
+     "這家公司處於技術的最尖端。"
+    ]
+   ]
+  },
+  {
+   "word": "edition",
+   "ph": "/ɪˈdɪʃn/",
+   "pos": "n. 版本；版次",
+   "zh": "版本；版次",
+   "colloc": "latest edition 最新版 | special edition 特別版",
+   "distinct": "version 版本（軟體常用）| issue 期刊期數",
+   "ex": [
+    [
+     "Please check the latest edition online.",
+     "請在線上查閱最新版本。"
+    ],
+    [
+     "They published a special edition magazine.",
+     "他們發行了一本特別版雜誌。"
+    ],
+    [
+     "The first edition sold out very quickly.",
+     "第一版很快就售罄了。"
+    ]
+   ]
+  },
+  {
+   "word": "elegant",
+   "ph": "/ˈelɪɡənt/",
+   "pos": "adj. 優雅的；精緻的",
+   "zh": "優雅的；精緻的",
+   "colloc": "elegant design 優雅設計 | elegant solution 優雅的解決方案",
+   "distinct": "graceful 優美的 | sophisticated 精密的",
+   "ex": [
+    [
+     "The hotel offers an elegant dining room.",
+     "這家飯店提供優雅的用餐空間。"
+    ],
+    [
+     "He proposed an elegant solution for us.",
+     "他為我們提出了一個精妙的解決方案。"
+    ],
+    [
+     "Her presentation style was very elegant.",
+     "她的簡報風格非常優雅。"
+    ]
+   ]
+  },
+  {
+   "word": "emphasis",
+   "ph": "/ˈemfəsɪs/",
+   "pos": "n. 強調；重點",
+   "zh": "強調；重點",
+   "colloc": "place emphasis on 強調 | major emphasis 主要重點",
+   "distinct": "importance 重要性 | priority 優先順序",
+   "ex": [
+    [
+     "Our company places emphasis on customer service.",
+     "我們公司強調客戶服務。"
+    ],
+    [
+     "The project puts emphasis on cost control.",
+     "該專案強調成本控制。"
+    ],
+    [
+     "There is a new emphasis on quality.",
+     "現在更加強調品質。"
+    ]
+   ]
+  },
+  {
+   "word": "encourage",
+   "ph": "/ɪnˈkɜːrɪdʒ/",
+   "pos": "v. 鼓勵；促進",
+   "zh": "鼓勵；促進",
+   "colloc": "encourage employees 鼓勵員工 | encourage growth 促進成長",
+   "distinct": "urge 力勸 | support 支持",
+   "ex": [
+    [
+     "Managers should encourage team communication daily.",
+     "經理應該每天鼓勵團隊溝通。"
+    ],
+    [
+     "We encourage staff to share new ideas.",
+     "我們鼓勵員工分享新點子。"
+    ],
+    [
+     "The policy is meant to encourage investment.",
+     "這項政策旨在促進投資。"
+    ]
+   ]
+  },
+  {
+   "word": "ensure",
+   "ph": "/ɪnˈʃʊr/",
+   "pos": "v. 確保；保證",
+   "zh": "確保；保證",
+   "colloc": "ensure safety 確保安全 | ensure success 確保成功",
+   "distinct": "assure 向人保證 | insure 投保",
+   "ex": [
+    [
+     "Please ensure that all files are saved.",
+     "請確保所有檔案都已儲存。"
+    ],
+    [
+     "We must ensure the delivery arrives soon.",
+     "我們必須確保貨物儘快送達。"
+    ],
+    [
+     "Strict tests ensure the product quality.",
+     "嚴格的測試確保了產品品質。"
+    ]
+   ]
+  },
+  {
+   "word": "establish",
+   "ph": "/ɪˈstæblɪʃ/",
+   "pos": "v. 建立；創立；確立",
+   "zh": "建立；創立；確立",
+   "colloc": "establish a business 創業 | establish contact 建立聯繫",
+   "distinct": "found 創立（組織）| set up 設立",
+   "ex": [
+    [
+     "They want to establish a new office.",
+     "他們想要建立一個新的辦公室。"
+    ],
+    [
+     "We hope to establish good business ties.",
+     "我們希望建立良好的業務關係。"
+    ],
+    [
+     "Rules were established to improve efficiency.",
+     "為了提升效率，規定已建立起來。"
+    ]
+   ]
+  },
+  {
+   "word": "examination",
+   "ph": "/ɪɡˌzæmɪˈneɪʃn/",
+   "pos": "n. 檢查；考試；審查",
+   "zh": "檢查；考試；審查",
+   "colloc": "medical examination 健康檢查 | careful examination 仔細審查",
+   "distinct": "test 測試 | inspection 視察；檢驗",
+   "ex": [
+    [
+     "The final examination is scheduled for June.",
+     "期末考試定於六月舉行。"
+    ],
+    [
+     "A thorough examination reveals no major errors.",
+     "詳細審查後未發現重大錯誤。"
+    ],
+    [
+     "She went for her annual medical examination.",
+     "她去做了年度健康檢查。"
+    ]
+   ]
+  },
+  {
+   "word": "feature",
+   "ph": "/ˈfiːtʃər/",
+   "pos": "n. 特色；特徵 | v. 以…為特色",
+   "zh": "特色；特徵；以…為特色",
+   "colloc": "key feature 主要特色 | advanced feature 進階功能",
+   "distinct": "characteristic 特性 | aspect 層面",
+   "ex": [
+    [
+     "This new model has many useful features.",
+     "這款新機型有許多實用的功能。"
+    ],
+    [
+     "The magazine will feature the CEO today.",
+     "這本雜誌今天將專題報導執行長。"
+    ],
+    [
+     "Safety is a key feature of cars.",
+     "安全性是汽車的一項關鍵特色。"
+    ]
+   ]
+  },
+  {
+   "word": "forecast",
+   "ph": "/ˈfɔːrkæst/",
+   "pos": "n. 預測；預報 | v. 預測",
+   "zh": "預測；預報",
+   "colloc": "sales forecast 銷售預測 | weather forecast 天氣預報",
+   "distinct": "prediction 預言 | projection 推算",
+   "ex": [
+    [
+     "The sales forecast for next year looks.",
+     "明年的銷售預測看起來不錯。"
+    ],
+    [
+     "Experts forecast a rise in market demand.",
+     "專家預測市場需求將會上升。"
+    ],
+    [
+     "Did you check the weather forecast today?",
+     "你今天看天氣預報了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "forward",
+   "ph": "/ˈfɔːrwərd/",
+   "pos": "adv. 向前 | v. 轉寄 | adj. 前方的",
+   "zh": "向前；轉寄；前方的",
+   "colloc": "look forward to 期待 | forward an email 轉寄郵件",
+   "distinct": "ahead 向前（空間/時間）| advance 前進",
+   "ex": [
+    [
+     "Please forward the message to the team.",
+     "請將這封訊息轉寄給團隊。"
+    ],
+    [
+     "We look forward to meeting you soon.",
+     "我們期待很快與您見面。"
+    ],
+    [
+     "The company is moving forward with plans.",
+     "公司正向前推動各項計畫。"
+    ]
+   ]
+  }
+ ]
+}

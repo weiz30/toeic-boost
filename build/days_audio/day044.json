@@ -1,0 +1,448 @@
+{
+ "day": 44,
+ "theme": "教材字彙・進階 650–750 第 44 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "economic",
+   "ph": "/ˌiːkəˈnɒmɪk/",
+   "pos": "adj. 經濟的；經濟學的",
+   "zh": "經濟的；有利可圖的",
+   "colloc": "economic growth 經濟成長 | economic crisis 經濟危機",
+   "distinct": "economical 節約的 | economy 經濟（名詞）",
+   "ex": [
+    [
+     "The report highlights the current economic situation.",
+     "報告強調了當前的經濟狀況。"
+    ],
+    [
+     "We need to implement new economic reforms.",
+     "我們需要實施新的經濟改革。"
+    ],
+    [
+     "Rapid economic growth boosted the domestic market.",
+     "快速的經濟成長提振了國內市場。"
+    ]
+   ]
+  },
+  {
+   "word": "eggs",
+   "ph": "/eɡz/",
+   "pos": "n. 蛋；卵",
+   "zh": "蛋；卵",
+   "colloc": "fresh eggs 新鮮雞蛋 | organic eggs 有機雞蛋",
+   "distinct": "egg 蛋（單數） | yolk 蛋黃",
+   "ex": [
+    [
+     "Please add two eggs to the recipe.",
+     "請在食譜中加入兩顆雞蛋。"
+    ],
+    [
+     "We only supply organic eggs to local retailers.",
+     "我們只向當地零售商供應有機雞蛋。"
+    ],
+    [
+     "High demand for eggs has driven prices up.",
+     "對雞蛋的高度需求推高了價格。"
+    ]
+   ]
+  },
+  {
+   "word": "extra",
+   "ph": "/ˈekstrə/",
+   "pos": "adj. 額外的；另外的 | n. 額外的人事物",
+   "zh": "額外的；外加的",
+   "colloc": "extra charge 額外費用 | extra time 額外時間",
+   "distinct": "additional 附加的 | surplus 過剩的",
+   "ex": [
+    [
+     "You will incur an extra charge for shipping.",
+     "您將產生額外的運費。"
+    ],
+    [
+     "The team put in extra hours to finish.",
+     "團隊投入額外工時來完成任務。"
+    ],
+    [
+     "Do you need any extra help with reports?",
+     "您在報告方面需要額外的協助嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "fence",
+   "ph": "/fens/",
+   "pos": "n. 籬笆；圍欄 | v. 用籬笆圍住",
+   "zh": "籬笆；圍欄",
+   "colloc": "build a fence 建造圍欄 | sit on the fence 持觀望態度",
+   "distinct": "wall 牆壁 | barrier 障礙物",
+   "ex": [
+    [
+     "They installed a new fence around the factory.",
+     "他們在工廠周圍安裝了新圍欄。"
+    ],
+    [
+     "The property is protected by a high fence.",
+     "該房產由一道高圍欄保護著。"
+    ],
+    [
+     "Management is sitting on the fence about hiring.",
+     "管理層對招聘事宜持觀望態度。"
+    ]
+   ]
+  },
+  {
+   "word": "fit",
+   "ph": "/fɪt/",
+   "pos": "v. 適合；合身 | adj. 健康的；合適的",
+   "zh": "適合；合身；健康",
+   "colloc": "fit perfectly 完全合適 | keep fit 保持健康",
+   "distinct": "suit 相稱（款式/顏色） | match 搭配（風格）",
+   "ex": [
+    [
+     "Does this suit fit the company dress code?",
+     "這套西裝符合公司服裝規定嗎？"
+    ],
+    [
+     "We need to ensure the equipment fits well.",
+     "我們需要確保設備安裝合適。"
+    ],
+    [
+     "Regular exercise helps employees keep physically fit.",
+     "規律運動有助於員工保持身體健康。"
+    ]
+   ]
+  },
+  {
+   "word": "flash",
+   "ph": "/flæʃ/",
+   "pos": "n. 閃光；瞬間 | v. 閃爍；閃現",
+   "zh": "閃光；瞬間；閃現",
+   "colloc": "in a flash 瞬間 | flash drive 隨身碟",
+   "distinct": "glare 強光 | glimmer 微光",
+   "ex": [
+    [
+     "The warning light started to flash red.",
+     "警示燈開始閃爍紅色。"
+    ],
+    [
+     "A flash of inspiration helped solve the issue.",
+     "靈光一閃幫助解決了問題。"
+    ],
+    [
+     "Please save your data on the flash drive.",
+     "請將資料存放在隨身碟中。"
+    ]
+   ]
+  },
+  {
+   "word": "float",
+   "ph": "/fləʊt/",
+   "pos": "v. 漂浮；浮動 | n. 漂浮物；遊行花車",
+   "zh": "漂浮；浮動",
+   "colloc": "float to the surface 浮出水面 | floating rate 浮動匯率",
+   "distinct": "drift 漂流 | sink 下沉",
+   "ex": [
+    [
+     "The company decided to float shares on stock.",
+     "公司決定在股市公開發行股票。"
+    ],
+    [
+     "The wood will float on the water surface.",
+     "木頭會漂浮在水面上。"
+    ],
+    [
+     "Market prices continue to float during the crisis.",
+     "危機期間市場價格持續浮動。"
+    ]
+   ]
+  },
+  {
+   "word": "frame",
+   "ph": "/freɪm/",
+   "pos": "n. 框架；結構 | v. 裝框；構建",
+   "zh": "框架；結構；框子",
+   "colloc": "time frame 時間框架 | frame of mind 心態",
+   "distinct": "structure 結構 | skeleton 骨架",
+   "ex": [
+    [
+     "We need to complete this within the time frame.",
+     "我們需要在這個時間範圍內完成。"
+    ],
+    [
+     "The metal frame supports the entire building structure.",
+     "金屬框架支撐著整棟建築結構。"
+    ],
+    [
+     "They framed the new policy to be fair.",
+     "他們將新政策構建得更加公平。"
+    ]
+   ]
+  },
+  {
+   "word": "gather",
+   "ph": "/ˈɡæðər/",
+   "pos": "v. 收集；聚集；採集",
+   "zh": "收集；聚集",
+   "colloc": "gather information 收集資訊 | gather data 蒐集數據",
+   "distinct": "collect 收藏/蒐集 | assemble 集合/組裝",
+   "ex": [
+    [
+     "Let us gather all the data before meeting.",
+     "讓我們在開會前收集所有數據。"
+    ],
+    [
+     "Employees will gather in the conference hall today.",
+     "員工今天將聚集在會議廳。"
+    ],
+    [
+     "We must gather feedback from our loyal customers.",
+     "我們必須收集忠實客戶的回饋意見。"
+    ]
+   ]
+  },
+  {
+   "word": "get",
+   "ph": "/ɡet/",
+   "pos": "v. 獲得；變得；到達",
+   "zh": "獲得；收到；變得",
+   "colloc": "get feedback 獲得回饋 | get started 開始進行",
+   "distinct": "obtain 獲得（正式） | acquire 購得/獲取",
+   "ex": [
+    [
+     "Did you get the email from the manager?",
+     "你有收到經理的電子郵件嗎？"
+    ],
+    [
+     "It is time to get started on the project.",
+     "是時候開始進行這個專案了。"
+    ],
+    [
+     "We hope to get better results next quarter.",
+     "我們希望下季能獲得更好的結果。"
+    ]
+   ]
+  },
+  {
+   "word": "hand",
+   "ph": "/hænd/",
+   "pos": "n. 手；指針 | v. 傳遞；交付",
+   "zh": "手；交付；指針",
+   "colloc": "hand in 繳交 | at hand 在手邊",
+   "distinct": "palm 手掌 | fist 拳頭",
+   "ex": [
+    [
+     "Please hand in your reports by this afternoon.",
+     "請在今天下午前繳交報告。"
+    ],
+    [
+     "Keep the important documents close at hand.",
+     "將重要文件放在手邊。"
+    ],
+    [
+     "He lent a helping hand during the crisis.",
+     "他在危機期間伸出了援手。"
+    ]
+   ]
+  },
+  {
+   "word": "hang",
+   "ph": "/hæŋ/",
+   "pos": "v. 懸掛；吊著 | n. 懸掛方式",
+   "zh": "懸掛；吊著",
+   "colloc": "hang up 掛斷（電話） | hang out 閒逛",
+   "distinct": "suspend 懸掛（正式） | hook 鉤住",
+   "ex": [
+    [
+     "You can hang your coat in the closet.",
+     "你可以把外套掛在衣櫃裡。"
+    ],
+    [
+     "The artwork hangs in the main lobby area.",
+     "藝術品懸掛在大廳區域。"
+    ],
+    [
+     "I will hang up if the call cuts out.",
+     "如果通話中斷我會掛斷電話。"
+    ]
+   ]
+  },
+  {
+   "word": "highway",
+   "ph": "/ˈhaɪweɪ/",
+   "pos": "n. 公路；幹道",
+   "zh": "公路；高速公路",
+   "colloc": "on the highway 在高速公路上 | highway construction 公路建設",
+   "distinct": "freeway 高速公路 | street 街道",
+   "ex": [
+    [
+     "Traffic on the highway is very heavy today.",
+     "今天高速公路上的交通非常擁堵。"
+    ],
+    [
+     "The new highway reduces travel time significantly.",
+     "新公路顯著減少了通勤時間。"
+    ],
+    [
+     "Road repairs on the highway will start tomorrow.",
+     "高速公路的道路維修將於明天開始。"
+    ]
+   ]
+  },
+  {
+   "word": "internal",
+   "ph": "/ɪnˈtɜːnl/",
+   "pos": "adj. 內部的；國內的",
+   "zh": "內部的",
+   "colloc": "internal audit 內部審計 | internal communication 內部溝通",
+   "distinct": "domestic 國內的 | inner 裡面的",
+   "ex": [
+    [
+     "We are conducting an internal audit this week.",
+     "我們本週正在進行內部審計。"
+    ],
+    [
+     "Improving internal communication is our top priority.",
+     "改善內部溝通是我們的首要任務。"
+    ],
+    [
+     "These internal documents are strictly confidential.",
+     "這些內部文件是嚴格保密的。"
+    ]
+   ]
+  },
+  {
+   "word": "late",
+   "ph": "/leɪt/",
+   "pos": "adj. 遲到的；晚的 | adv. 遲；晚",
+   "zh": "遲到的；晚的",
+   "colloc": "be late for 遲到 | late payment 逾期付款",
+   "distinct": "delayed 延誤的 | later 稍後",
+   "ex": [
+    [
+     "I am sorry for being late for the meeting.",
+     "很抱歉我會議遲到了。"
+    ],
+    [
+     "Please avoid any late payment of your invoices.",
+     "請避免發票逾期付款。"
+    ],
+    [
+     "We finished the presentation late last night.",
+     "我們昨晚很晚才完成簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "lid",
+   "ph": "/lɪd/",
+   "pos": "n. 蓋子；眼瞼",
+   "zh": "蓋子；蓋兒",
+   "colloc": "tight lid 緊閉的蓋子 | plastic lid 塑膠蓋",
+   "distinct": "cover 覆蓋物 | cap 瓶蓋",
+   "ex": [
+    [
+     "Ensure the lid is closed after using paint.",
+     "使用油漆後請確保蓋子已關上。"
+    ],
+    [
+     "The container has a secure lid for storage.",
+     "該容器有一個用於儲存的牢固蓋子。"
+    ],
+    [
+     "Remove the lid before heating in the microwave.",
+     "微波加熱前請先取下蓋子。"
+    ]
+   ]
+  },
+  {
+   "word": "load",
+   "ph": "/ləʊd/",
+   "pos": "v. 裝載；加載 | n. 負載；負擔",
+   "zh": "裝載；負載；工作量",
+   "colloc": "work load 工作量 | load the truck 裝載卡車",
+   "distinct": "unload 卸貨 | weight 重量",
+   "ex": [
+    [
+     "The staff helped load the goods onto trucks.",
+     "員工協助將貨物裝上卡車。"
+    ],
+    [
+     "Her current work load is extremely heavy.",
+     "她目前的工作量非常繁重。"
+    ],
+    [
+     "Please wait while the program files load.",
+     "請等待程式檔案載入中。"
+    ]
+   ]
+  },
+  {
+   "word": "lose",
+   "ph": "/luːz/",
+   "pos": "v. 遺失；輸掉；失去",
+   "zh": "遺失；輸掉；失去",
+   "colloc": "lose money 賠錢 | lose weight 減肥",
+   "distinct": "lost 遺失的（形容詞） | miss 錯過/想念",
+   "ex": [
+    [
+     "Do not lose your access card to the office.",
+     "不要弄丟你的辦公室門禁卡。"
+    ],
+    [
+     "The company did not lose money this year.",
+     "公司今年並沒有賠錢。"
+    ],
+    [
+     "We cannot afford to lose our best clients.",
+     "我們負擔不起失去最佳客戶的後果。"
+    ]
+   ]
+  },
+  {
+   "word": "lung",
+   "ph": "/lʌŋ/",
+   "pos": "n. 肺；肺部",
+   "zh": "肺",
+   "colloc": "lung disease 肺病 | lung cancer 肺癌",
+   "distinct": "organ 器官 | respiratory 呼吸的",
+   "ex": [
+    [
+     "Smoking causes serious damage to your lungs.",
+     "吸菸會對你的肺部造成嚴重損害。"
+    ],
+    [
+     "Air pollution is a major cause of lung disease.",
+     "空氣污染是肺病的主要成因。"
+    ],
+    [
+     "Regular checkups help monitor overall lung health.",
+     "定期檢查有助於監控肺部健康。"
+    ]
+   ]
+  },
+  {
+   "word": "mail",
+   "ph": "/meɪl/",
+   "pos": "n. 信件；郵件 | v. 寄送",
+   "zh": "信件；郵件；寄信",
+   "colloc": "e-mail 電子郵件 | mail service 郵政服務",
+   "distinct": "post 郵政/郵件（英式） | parcel 包裹",
+   "ex": [
+    [
+     "I will mail the contract to you today.",
+     "我今天會把合約郵寄給您。"
+    ],
+    [
+     "Check your mail for the updated schedule.",
+     "查看您的信件以了解最新行程。"
+    ],
+    [
+     "The mail arrived later than expected today.",
+     "今天的郵件比預期晚送達。"
+    ]
+   ]
+  }
+ ]
+}

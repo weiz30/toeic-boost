@@ -1,0 +1,448 @@
+{
+ "day": 27,
+ "theme": "教材字彙・基礎 550–650 第 27 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "expert",
+   "ph": "/ˈek.spɜːrt/",
+   "pos": "n. 專家 | adj. 熟練的",
+   "zh": "專家；熟練的",
+   "colloc": "expert advice 專家建議 | industry expert 產業專家",
+   "distinct": "specialist 專科醫生/專業人員 | professional 職業人士",
+   "ex": [
+    [
+     "Consult an expert for financial planning.",
+     "諮詢專家進行財務規劃。"
+    ],
+    [
+     "She provides expert guidance on marketing.",
+     "她提供市場行銷方面的專家指導。"
+    ],
+    [
+     "Technical support experts are available now.",
+     "技術支援專家現在即可提供服務。"
+    ]
+   ]
+  },
+  {
+   "word": "extend",
+   "ph": "/ɪkˈstend/",
+   "pos": "v. 延長；延伸；擴大",
+   "zh": "延長；延伸；擴大",
+   "colloc": "extend a deadline 延長期限 | extend an invitation 發出邀請",
+   "distinct": "expand 擴大規模/擴張 | prolong 拉長（時間）",
+   "ex": [
+    [
+     "We decided to extend the project deadline.",
+     "我們決定延長專案的截止日期。"
+    ],
+    [
+     "Management will extend the office hours.",
+     "管理層將延長辦公時間。"
+    ],
+    [
+     "Can you extend your stay in Taipei?",
+     "你能延長你在台北的停留時間嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "extension",
+   "ph": "/ɪkˈsten.ʃən/",
+   "pos": "n. 延長；分機；擴展",
+   "zh": "延長；分機；擴展",
+   "colloc": "ask for an extension 要求延期 | dial an extension 撥打分機",
+   "distinct": "extent 程度/範圍 | expansion 擴張/膨脹",
+   "ex": [
+    [
+     "Please request an extension via email.",
+     "請透過電子郵件請求延期。"
+    ],
+    [
+     "My office extension number is 302.",
+     "我的辦公室分機號碼是 302。"
+    ],
+    [
+     "The contract extension requires further approval.",
+     "合約展期需要進一步的批准。"
+    ]
+   ]
+  },
+  {
+   "word": "fall",
+   "ph": "/fɔːl/",
+   "pos": "v. 下跌；墜落 | n. 下降；秋天",
+   "zh": "下跌；下降",
+   "colloc": "fall behind 落後 | fall into a category 屬於某類別",
+   "distinct": "decline 下滑/減少 | drop 落下/急遽下跌",
+   "ex": [
+    [
+     "Stock prices might fall this afternoon.",
+     "股價今天下午可能會下跌。"
+    ],
+    [
+     "Sales figures fall short of expectations.",
+     "銷售數據未達到預期。"
+    ],
+    [
+     "Profits fall during the slow season.",
+     "淡季期間利潤會下降。"
+    ]
+   ]
+  },
+  {
+   "word": "family",
+   "ph": "/ˈfæm.əl.i/",
+   "pos": "n. 家庭；家族 | adj. 家庭的",
+   "zh": "家庭；家族",
+   "colloc": "family business 家族企業 | family responsibilities 家庭責任",
+   "distinct": "household 一家人/住戶 | relatives 親戚",
+   "ex": [
+    [
+     "He manages a successful family business.",
+     "他經營一家成功的家族企業。"
+    ],
+    [
+     "Balancing family life is very important.",
+     "平衡家庭生活非常重要。"
+    ],
+    [
+     "Our company supports employees' family needs.",
+     "我們公司支持員工的家庭需求。"
+    ]
+   ]
+  },
+  {
+   "word": "figure",
+   "ph": "/ˈfɪɡ.jər/",
+   "pos": "n. 數字；人物；圖表 | v. 計算",
+   "zh": "數字；圖表；人物",
+   "colloc": "sales figure 銷售數據 | key figure 關鍵人物",
+   "distinct": "digit 數字（0-9） | number 號碼/總數",
+   "ex": [
+    [
+     "Check the latest sales figures carefully.",
+     "請仔細檢查最新的銷售數據。"
+    ],
+    [
+     "She is a leading figure in tech.",
+     "她是科技領域的領軍人物。"
+    ],
+    [
+     "I need to figure out the costs.",
+     "我需要計算出這些成本。"
+    ]
+   ]
+  },
+  {
+   "word": "fill",
+   "ph": "/fɪl/",
+   "pos": "v. 填滿；填寫；滿足",
+   "zh": "填滿；填寫；滿足",
+   "colloc": "fill out a form 填寫表格 | fill a position 填補職位",
+   "distinct": "fulfill 履行/實現 | complete 完成",
+   "ex": [
+    [
+     "Please fill out the application form.",
+     "請填寫這份申請表格。"
+    ],
+    [
+     "We need to fill this vacant position.",
+     "我們需要填補這個職缺。"
+    ],
+    [
+     "The order will fill our inventory.",
+     "這筆訂單將會補滿我們的庫存。"
+    ]
+   ]
+  },
+  {
+   "word": "force",
+   "ph": "/fɔːrs/",
+   "pos": "n. 力量；武力 | v. 強迫",
+   "zh": "力量；武力；強迫",
+   "colloc": "work force 勞動力 | force someone to do 強迫某人做",
+   "distinct": "power 權力/能源 | strength 體力/實力",
+   "ex": [
+    [
+     "The company increased its work force.",
+     "公司增加了勞動力規模。"
+    ],
+    [
+     "Market trends force us to innovate.",
+     "市場趨勢迫使我們進行創新。"
+    ],
+    [
+     "Do not force a decision too quickly.",
+     "不要太快強迫做出決定。"
+    ]
+   ]
+  },
+  {
+   "word": "frequent",
+   "ph": "/ˈfriː.kwənt/",
+   "pos": "adj. 頻繁的 | v. 常去",
+   "zh": "頻繁的；常去的",
+   "colloc": "frequent traveler 常旅客 | frequent updates 頻繁更新",
+   "distinct": "common 常見的 | regular 定期的",
+   "ex": [
+    [
+     "We provide frequent updates to clients.",
+     "我們提供頻繁的更新給客戶。"
+    ],
+    [
+     "Frequent meetings improve team communication.",
+     "頻繁的會議改善了團隊溝通。"
+    ],
+    [
+     "These shops are frequented by tourists.",
+     "這些商店是遊客常去的地方。"
+    ]
+   ]
+  },
+  {
+   "word": "grow",
+   "ph": "/ɡroʊ/",
+   "pos": "v. 成長；增加；種植",
+   "zh": "成長；增加；種植",
+   "colloc": "grow rapidly 快速成長 | grow into a leader 成長為領導者",
+   "distinct": "increase 增加 | develop 發展",
+   "ex": [
+    [
+     "Our company continues to grow globally.",
+     "我們公司持續在全球成長。"
+    ],
+    [
+     "They want to grow their online business.",
+     "他們想要擴大其線上業務。"
+    ],
+    [
+     "Sales will grow in the next quarter.",
+     "銷售額將在下一季成長。"
+    ]
+   ]
+  },
+  {
+   "word": "higher",
+   "ph": "/ˈhaɪ.ər/",
+   "pos": "adj. 更高的（high 的比較級）",
+   "zh": "更高的",
+   "colloc": "higher education 高等教育 | higher quality 更高品質",
+   "distinct": "tall 更高的（垂直高度） | upper 上方的",
+   "ex": [
+    [
+     "We aim for higher standards of service.",
+     "我們追求更高標準的服務。"
+    ],
+    [
+     "Prices are higher than last year.",
+     "價格比去年更高。"
+    ],
+    [
+     "He was promoted to a higher position.",
+     "他被晉升到更高的職位。"
+    ]
+   ]
+  },
+  {
+   "word": "implication",
+   "ph": "/ˌɪm.plɪˈkeɪ.ʃən/",
+   "pos": "n. 暗示；影響；含義",
+   "zh": "暗示；影響；含義",
+   "colloc": "serious implication 嚴重後果 | legal implication 法律含義",
+   "distinct": "influence 影響力 | consequence 後果",
+   "ex": [
+    [
+     "Consider the implications of this decision.",
+     "考慮這個決定的潛在影響。"
+    ],
+    [
+     "The policy has significant economic implications.",
+     "這項政策有重大的經濟影響。"
+    ],
+    [
+     "They ignored the legal implications involved.",
+     "他們忽略了涉及的法律含義。"
+    ]
+   ]
+  },
+  {
+   "word": "improvement",
+   "ph": "/ɪmˈpruːv.mənt/",
+   "pos": "n. 改進；改善",
+   "zh": "改進；改善",
+   "colloc": "show improvement 顯示進步 | room for improvement 改進空間",
+   "distinct": "advancement 前進/晉升 | progress 進展",
+   "ex": [
+    [
+     "We need continuous improvement in quality.",
+     "我們需要在品質上持續改進。"
+    ],
+    [
+     "There is much room for improvement here.",
+     "這裡還有很大的改善空間。"
+    ],
+    [
+     "She showed great improvement this year.",
+     "她今年的表現有很大的進步。"
+    ]
+   ]
+  },
+  {
+   "word": "increasingly",
+   "ph": "/ɪnˈkriː.sɪŋ.li/",
+   "pos": "adv. 日益；越來越多地",
+   "zh": "日益；越來越地",
+   "colloc": "increasingly popular 日益受歡迎 | increasingly difficult 越來越困難",
+   "distinct": "gradually 逐漸地 | steadily 穩定地",
+   "ex": [
+    [
+     "Digital marketing is increasingly important today.",
+     "數位行銷在今日日益重要。"
+    ],
+    [
+     "It is becoming increasingly difficult to compete.",
+     "競爭變得越來越困難。"
+    ],
+    [
+     "Clients are increasingly demanding high quality.",
+     "客戶日益要求高品質。"
+    ]
+   ]
+  },
+  {
+   "word": "initially",
+   "ph": "/ɪˈnɪʃ.əl.i/",
+   "pos": "adv. 最初；開始",
+   "zh": "最初；開始",
+   "colloc": "initially planned 最初計畫 | initially intended 最初打算",
+   "distinct": "originally 原本 | firstly 第一地",
+   "ex": [
+    [
+     "The project was initially planned differently.",
+     "這個專案最初的計畫與現在不同。"
+    ],
+    [
+     "He was initially hesitant about the deal.",
+     "他最初對這筆交易感到猶豫。"
+    ],
+    [
+     "We initially expected higher sales results.",
+     "我們最初預期會有更高的銷售成績。"
+    ]
+   ]
+  },
+  {
+   "word": "insert",
+   "ph": "/ɪnˈsɜːrt/",
+   "pos": "v. 插入；放入",
+   "zh": "插入；放入",
+   "colloc": "insert a card 插入卡片 | insert an image 插入圖片",
+   "distinct": "include 包含 | input 輸入",
+   "ex": [
+    [
+     "Please insert your card into the reader.",
+     "請將您的卡片插入讀卡機。"
+    ],
+    [
+     "You can insert a chart in reports.",
+     "你可以在報告中插入圖表。"
+    ],
+    [
+     "Don't forget to insert the signature here.",
+     "別忘了在這裡插入簽名。"
+    ]
+   ]
+  },
+  {
+   "word": "largely",
+   "ph": "/ˈlɑːrdʒ.li/",
+   "pos": "adv. 主要地；很大程度上",
+   "zh": "主要地；很大程度上",
+   "colloc": "largely due to 主要因為 | largely successful 大致成功",
+   "distinct": "mainly 主要地 | mostly 大部分",
+   "ex": [
+    [
+     "Success is largely due to hard work.",
+     "成功很大程度上歸功於努力工作。"
+    ],
+    [
+     "The market is largely dominated by them.",
+     "該市場主要由他們所主導。"
+    ],
+    [
+     "Our meeting was largely successful today.",
+     "我們今天的會議大致上很成功。"
+    ]
+   ]
+  },
+  {
+   "word": "lead",
+   "ph": "/liːd/",
+   "pos": "v. 領導；導致 | n. 領先地位",
+   "zh": "領導；導致；領先",
+   "colloc": "lead a team 領導團隊 | lead to success 導致成功",
+   "distinct": "guide 引導 | manage 管理",
+   "ex": [
+    [
+     "She will lead the new marketing team.",
+     "她將會領導新的行銷團隊。"
+    ],
+    [
+     "These changes will lead to efficiency.",
+     "這些改變將會導致效率提升。"
+    ],
+    [
+     "The company maintains a strong market lead.",
+     "這家公司保持著強大的市場領先地位。"
+    ]
+   ]
+  },
+  {
+   "word": "leading",
+   "ph": "/ˈliː.dɪŋ/",
+   "pos": "adj. 主要的；領先的",
+   "zh": "主要的；領先的",
+   "colloc": "leading company 領先公司 | leading role 領導角色",
+   "distinct": "major 主要的 | top 頂尖的",
+   "ex": [
+    [
+     "They are a leading firm in technology.",
+     "他們是科技領域的領先公司。"
+    ],
+    [
+     "He plays a leading role in management.",
+     "他在管理階層中扮演領導角色。"
+    ],
+    [
+     "We collaborate with leading industry experts.",
+     "我們與領先的產業專家合作。"
+    ]
+   ]
+  },
+  {
+   "word": "locate",
+   "ph": "/ˈloʊ.keɪt/",
+   "pos": "v. 位於；找到",
+   "zh": "位於；找到",
+   "colloc": "locate a store 找到商店 | conveniently located 地點便利",
+   "distinct": "find 發現 | situate 位於",
+   "ex": [
+    [
+     "Our office is located near the station.",
+     "我們的辦公室位於車站附近。"
+    ],
+    [
+     "Can you locate the missing file quickly?",
+     "你能快速找到遺失的檔案嗎？"
+    ],
+    [
+     "The warehouse is conveniently located downtown.",
+     "倉庫地點位於市中心，十分便利。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 8,
+ "theme": "教材字彙・基礎 550–650 第 8 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "double",
+   "ph": "/ˈdʌb.əl/",
+   "pos": "adj. 兩倍的 | v. 加倍",
+   "zh": "兩倍的；加倍",
+   "colloc": "double the size 兩倍大小 | double check 再三確認",
+   "distinct": "dual 雙重的 | twofold 兩部分的",
+   "ex": [
+    [
+     "The company will double its annual revenue.",
+     "公司今年的營收將會成長兩倍。"
+    ],
+    [
+     "Please double check the contract terms carefully.",
+     "請再三確認合約內容是否正確。"
+    ],
+    [
+     "They made a double booking for the room.",
+     "他們不小心重複預訂了這間會議室。"
+    ]
+   ]
+  },
+  {
+   "word": "effective",
+   "ph": "/ɪˈfek.tɪv/",
+   "pos": "adj. 有效的",
+   "zh": "有效的",
+   "colloc": "effective date 生效日 | highly effective 高度有效的",
+   "distinct": "efficient 有效率的 | effectual 奏效的",
+   "ex": [
+    [
+     "This new strategy is quite effective for growth.",
+     "這項新策略對成長相當有效。"
+    ],
+    [
+     "The policy will be effective starting next month.",
+     "這項政策將於下個月正式生效。"
+    ],
+    [
+     "We need to find an effective marketing solution.",
+     "我們需要找到一個有效的行銷方案。"
+    ]
+   ]
+  },
+  {
+   "word": "environmental",
+   "ph": "/ɪnˌvaɪ.rənˈmen.təl/",
+   "pos": "adj. 環境的",
+   "zh": "環境的",
+   "colloc": "environmental impact 環境影響 | environmental protection 環境保護",
+   "distinct": "ambient 周遭的 | ecological 生態的",
+   "ex": [
+    [
+     "Our firm focuses on environmental sustainability goals.",
+     "我們公司專注於環境永續發展目標。"
+    ],
+    [
+     "They conducted an environmental impact assessment report.",
+     "他們進行了一份環境影響評估報告。"
+    ],
+    [
+     "New regulations address various environmental safety concerns.",
+     "新法規處理了多項環境安全顧慮。"
+    ]
+   ]
+  },
+  {
+   "word": "foundation",
+   "ph": "/faʊnˈdeɪ.ʃən/",
+   "pos": "n. 基礎 | 基金會",
+   "zh": "基礎；基金會",
+   "colloc": "lay the foundation 奠定基礎 | charitable foundation 慈善基金會",
+   "distinct": "basis 準則基礎 | basement 地下室",
+   "ex": [
+    [
+     "This training lays a solid foundation for employees.",
+     "這項培訓為員工奠定了穩固的基礎。"
+    ],
+    [
+     "He started a foundation to support education.",
+     "他成立了一個基金會來支持教育。"
+    ],
+    [
+     "Strong leadership is the foundation of success.",
+     "強大的領導力是成功的基礎。"
+    ]
+   ]
+  },
+  {
+   "word": "function",
+   "ph": "/ˈfʌŋk.ʃən/",
+   "pos": "n. 功能 | v. 運作",
+   "zh": "功能；運作",
+   "colloc": "main function 主要功能 | function properly 正常運作",
+   "distinct": "feature 特色 | purpose 目的",
+   "ex": [
+    [
+     "The software includes a useful search function.",
+     "這套軟體包含一項實用的搜尋功能。"
+    ],
+    [
+     "Does the elevator function properly today?",
+     "電梯今天運作正常嗎？"
+    ],
+    [
+     "The machine failed to function during the test.",
+     "機器在測試期間無法正常運作。"
+    ]
+   ]
+  },
+  {
+   "word": "gap",
+   "ph": "/ɡæp/",
+   "pos": "n. 差距 | 缺口",
+   "zh": "差距；缺口",
+   "colloc": "close the gap 縮小差距 | skill gap 技能落差",
+   "distinct": "opening 空缺 | vacancy 職缺",
+   "ex": [
+    [
+     "We must bridge the gap between sales departments.",
+     "我們必須縮小銷售部門之間的差距。"
+    ],
+    [
+     "There is a wide gap in market performance.",
+     "市場表現存在巨大的差距。"
+    ],
+    [
+     "The company aims to address the skill gap.",
+     "公司致力於解決技能落差的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "host",
+   "ph": "/hoʊst/",
+   "pos": "n. 主辦方 | v. 主辦",
+   "zh": "主辦方；主辦",
+   "colloc": "host a meeting 主持會議 | host country 主辦國",
+   "distinct": "organizer 組織者 | participant 參與者",
+   "ex": [
+    [
+     "Our branch will host the annual conference.",
+     "我們分公司將主辦年度會議。"
+    ],
+    [
+     "She was chosen to host the official dinner.",
+     "她被選中擔任晚宴的主持人。"
+    ],
+    [
+     "The city will host the international trade fair.",
+     "這座城市將主辦國際貿易展覽。"
+    ]
+   ]
+  },
+  {
+   "word": "independent",
+   "ph": "/ˌɪn.dɪˈpen.dənt/",
+   "pos": "adj. 獨立的",
+   "zh": "獨立的",
+   "colloc": "independent contractor 獨立承包商 | independent audit 獨立審計",
+   "distinct": "autonomous 自治的 | separate 分開的",
+   "ex": [
+    [
+     "We hired an independent consultant for advice.",
+     "我們聘請了一位獨立顧問來提供建議。"
+    ],
+    [
+     "The company operates as an independent entity.",
+     "這間公司作為獨立實體運作。"
+    ],
+    [
+     "They seek independent validation for the data.",
+     "他們尋求對資料進行獨立驗證。"
+    ]
+   ]
+  },
+  {
+   "word": "ingredient",
+   "ph": "/ɪnˈɡriː.di.ənt/",
+   "pos": "n. 成分 | 要素",
+   "zh": "成分；要素",
+   "colloc": "key ingredient 關鍵要素 | fresh ingredients 新鮮食材",
+   "distinct": "component 組件 | element 基本要素",
+   "ex": [
+    [
+     "High quality is the main ingredient of success.",
+     "高品質是成功的關鍵要素。"
+    ],
+    [
+     "Please check all the ingredients on the label.",
+     "請檢查標籤上的所有成分。"
+    ],
+    [
+     "They source the finest ingredients for their products.",
+     "他們為產品採購最優質的原料。"
+    ]
+   ]
+  },
+  {
+   "word": "interested",
+   "ph": "/ˈɪn.trə.stɪd/",
+   "pos": "adj. 感興趣的",
+   "zh": "感興趣的",
+   "colloc": "be interested in 對...感興趣 | show interest 表現出興趣",
+   "distinct": "interesting 有趣的 | intriguing 引人入勝的",
+   "ex": [
+    [
+     "Are you interested in joining our project team?",
+     "你有興趣加入我們的專案團隊嗎？"
+    ],
+    [
+     "Investors are interested in the new technology.",
+     "投資人對這項新技術很感興趣。"
+    ],
+    [
+     "Let me know if you are interested in applying.",
+     "如果你有興趣申請請讓我知道。"
+    ]
+   ]
+  },
+  {
+   "word": "like",
+   "ph": "/laɪk/",
+   "pos": "v. 喜歡 | prep. 像",
+   "zh": "喜歡；像",
+   "colloc": "look like 看起來像 | feel like 想要",
+   "distinct": "alike 相像的 | likely 可能的",
+   "ex": [
+    [
+     "Most clients like the updated design proposal.",
+     "大多數客戶喜歡更新後的設計提案。"
+    ],
+    [
+     "It sounds like a great business opportunity.",
+     "聽起來這是一個很棒的商業機會。"
+    ],
+    [
+     "We would like to schedule a brief meeting.",
+     "我們想要安排一場簡短的會議。"
+    ]
+   ]
+  },
+  {
+   "word": "live",
+   "ph": "/lɪv/",
+   "pos": "v. 居住 | adj. 直播的",
+   "zh": "居住；直播的",
+   "colloc": "live broadcast 直播 | live in the city 住在城市",
+   "distinct": "alive 活著的 | lively 生動的",
+   "ex": [
+    [
+     "He will live near the office for convenience.",
+     "為了方便他將住在辦公室附近。"
+    ],
+    [
+     "The presentation will be broadcast live tomorrow.",
+     "簡報將於明天進行現場直播。"
+    ],
+    [
+     "Employees live in various parts of the city.",
+     "員工們居住在城市的各個地方。"
+    ]
+   ]
+  },
+  {
+   "word": "material",
+   "ph": "/məˈtɪə.ri.əl/",
+   "pos": "n. 材料 | 資料",
+   "zh": "材料；資料",
+   "colloc": "raw material 原物料 | training material 訓練教材",
+   "distinct": "substance 物質 | document 文件",
+   "ex": [
+    [
+     "The factory needs more raw material for production.",
+     "工廠需要更多生產用的原物料。"
+    ],
+    [
+     "Please review the training material before the class.",
+     "請在課程開始前複習訓練教材。"
+    ],
+    [
+     "They use durable material for all their bags.",
+     "他們的所有包包都使用耐用材質。"
+    ]
+   ]
+  },
+  {
+   "word": "method",
+   "ph": "/ˈmeθ.əd/",
+   "pos": "n. 方法",
+   "zh": "方法",
+   "colloc": "effective method 有效方法 | research method 研究方法",
+   "distinct": "way 方式 | procedure 程序",
+   "ex": [
+    [
+     "This new method improved our overall efficiency.",
+     "這個新方法提升了我們的整體效率。"
+    ],
+    [
+     "They developed a better method for shipping goods.",
+     "他們開發了一種更好的貨物運輸方法。"
+    ],
+    [
+     "We should discuss the best method for delivery.",
+     "我們應該討論最佳的配送方法。"
+    ]
+   ]
+  },
+  {
+   "word": "minutes",
+   "ph": "/ˈmɪn.ɪts/",
+   "pos": "n. 會議記錄 | 分鐘",
+   "zh": "會議記錄；分鐘",
+   "colloc": "take minutes 做會議記錄 | in ten minutes 十分鐘後",
+   "distinct": "record 紀錄 | note 筆記",
+   "ex": [
+    [
+     "The secretary will circulate the meeting minutes.",
+     "秘書將會發送會議記錄。"
+    ],
+    [
+     "Please finish the report in ten minutes.",
+     "請在十分鐘內完成這份報告。"
+    ],
+    [
+     "Did you read the minutes from last week?",
+     "你有看上週的會議記錄嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "note",
+   "ph": "/noʊt/",
+   "pos": "n. 筆記 | v. 注意",
+   "zh": "筆記；注意",
+   "colloc": "take notes 做筆記 | please note 請注意",
+   "distinct": "memo 備忘錄 | notice 公告",
+   "ex": [
+    [
+     "Please note that the deadline has been extended.",
+     "請注意截止日期已經延後了。"
+    ],
+    [
+     "She took notes during the board meeting.",
+     "她在董事會期間做了筆記。"
+    ],
+    [
+     "I will send a note to confirm the appointment.",
+     "我會發送訊息確認預約。"
+    ]
+   ]
+  },
+  {
+   "word": "object",
+   "ph": "/ˈɒb.dʒɪkt/",
+   "pos": "n. 物體 | v. 反對",
+   "zh": "物體；反對",
+   "colloc": "object to the plan 反對計畫 | heavy object 重物",
+   "distinct": "objective 目標 | opposition 反對",
+   "ex": [
+    [
+     "Do you object to the proposed changes?",
+     "你反對所提議的變更嗎？"
+    ],
+    [
+     "The object on the desk belongs to her.",
+     "桌上的那個物品是她的。"
+    ],
+    [
+     "No one seemed to object to the schedule.",
+     "似乎沒有人反對這個行程。"
+    ]
+   ]
+  },
+  {
+   "word": "objective",
+   "ph": "/əbˈdʒek.tɪv/",
+   "pos": "n. 目標 | adj. 客觀的",
+   "zh": "目標；客觀的",
+   "colloc": "achieve the objective 達成目標 | objective view 客觀觀點",
+   "distinct": "goal 目標 | subjective 主觀的",
+   "ex": [
+    [
+     "Our primary objective is to increase total sales.",
+     "我們的主要目標是提升總銷售額。"
+    ],
+    [
+     "Managers must maintain an objective perspective.",
+     "經理人必須保持客觀的觀點。"
+    ],
+    [
+     "They set a clear objective for the team.",
+     "他們為團隊設定了明確的目標。"
+    ]
+   ]
+  },
+  {
+   "word": "official",
+   "ph": "/əˈfɪʃ.əl/",
+   "pos": "adj. 官方的 | n. 官員",
+   "zh": "官方的；官員",
+   "colloc": "official document 官方文件 | official website 官方網站",
+   "distinct": "formal 正式的 | public 公共的",
+   "ex": [
+    [
+     "The official announcement will be made tomorrow.",
+     "官方公告將於明天發布。"
+    ],
+    [
+     "He represents the government as a senior official.",
+     "他以高級官員的身分代表政府。"
+    ],
+    [
+     "Please check the information on our official site.",
+     "請查詢我們官方網站上的資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "opening",
+   "ph": "/ˈəʊ.pən.ɪŋ/",
+   "pos": "n. 空缺 | 開幕",
+   "zh": "空缺；開幕",
+   "colloc": "job opening 職位空缺 | grand opening 盛大開幕",
+   "distinct": "vacancy 空缺 | opportunity 機會",
+   "ex": [
+    [
+     "There is an opening for a marketing manager.",
+     "行銷經理有個職位空缺。"
+    ],
+    [
+     "The company is planning a grand opening event.",
+     "公司正在規劃一場盛大的開幕活動。"
+    ],
+    [
+     "We have an opening in the accounting department.",
+     "我們會計部門目前有個職位空缺。"
+    ]
+   ]
+  }
+ ]
+}

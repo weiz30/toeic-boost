@@ -1,0 +1,448 @@
+{
+ "day": 77,
+ "theme": "教材片語・中高階 750–850 第 13 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "flower bed",
+   "ph": "",
+   "pos": "n. 花壇",
+   "zh": "花壇；花圃",
+   "colloc": "a raised flower bed 高架花壇 | maintain the flower bed 維護花壇",
+   "distinct": "planter 盆栽；花盆 | garden 花園",
+   "ex": [
+    [
+     "The landscaping team is cleaning the flower bed.",
+     "景觀團隊正在清理花壇。"
+    ],
+    [
+     "New flowers were planted in the office flower bed.",
+     "辦公室花圃種了些新花。"
+    ],
+    [
+     "Please do not step into the flower bed.",
+     "請不要踏入花壇區域。"
+    ]
+   ]
+  },
+  {
+   "word": "food poisoning",
+   "ph": "",
+   "pos": "n. 食物中毒",
+   "zh": "食物中毒",
+   "colloc": "suffer from food poisoning 遭受食物中毒 | prevent food poisoning 預防食物中毒",
+   "distinct": "indigestion 消化不良 | allergic reaction 過敏反應",
+   "ex": [
+    [
+     "Several guests suffered from food poisoning after the banquet.",
+     "晚宴後幾位賓客發生了食物中毒。"
+    ],
+    [
+     "The restaurant was closed due to a food poisoning incident.",
+     "該餐廳因食物中毒事件而暫停營業。"
+    ],
+    [
+     "She took leave because of suspected food poisoning.",
+     "她因為疑似食物中毒而請假。"
+    ]
+   ]
+  },
+  {
+   "word": "for ages",
+   "ph": "",
+   "pos": "phr. 很長一段時間",
+   "zh": "許久；好長一段時間",
+   "colloc": "haven't seen for ages 好久不見 | wait for ages 等了很久",
+   "distinct": "for a long time 很長時間 | in ages 好一段時間沒做某事",
+   "ex": [
+    [
+     "We have not updated our software for ages.",
+     "我們已經好久沒更新軟體了。"
+    ],
+    [
+     "The project has been pending for ages.",
+     "這個專案已經懸置許久了。"
+    ],
+    [
+     "They have been waiting for ages for the shipment.",
+     "他們等這批貨已經等了很久。"
+    ]
+   ]
+  },
+  {
+   "word": "forwarding address",
+   "ph": "",
+   "pos": "n. 轉寄地址",
+   "zh": "轉寄地址；通訊轉址",
+   "colloc": "provide a forwarding address 提供轉寄地址 | leave a forwarding address 留下轉寄地址",
+   "distinct": "mailing address 通訊地址 | registered address 登記地址",
+   "ex": [
+    [
+     "Please provide your forwarding address before moving out.",
+     "搬離前請提供您的轉寄地址。"
+    ],
+    [
+     "We need a forwarding address for the client's mail.",
+     "我們需要客戶郵件的轉寄地址。"
+    ],
+    [
+     "The tenant did not leave a forwarding address behind.",
+     "房客離開時未留下轉寄地址。"
+    ]
+   ]
+  },
+  {
+   "word": "get a ride",
+   "ph": "",
+   "pos": "phr. 搭便車；搭車",
+   "zh": "搭便車；搭車前往",
+   "colloc": "get a ride to the airport 搭車去機場 | offer to get a ride 提供載送",
+   "distinct": "catch a ride 搭乘交通工具 | give a lift 載某人一程",
+   "ex": [
+    [
+     "Can I get a ride to the meeting venue?",
+     "我可以搭車前往會議地點嗎？"
+    ],
+    [
+     "He managed to get a ride with a colleague.",
+     "他設法搭了同事的便車。"
+    ],
+    [
+     "We will get a ride home after the office party.",
+     "辦公室派對後我們會搭車回家。"
+    ]
+   ]
+  },
+  {
+   "word": "get lost",
+   "ph": "",
+   "pos": "phr. 迷路；走丟",
+   "zh": "迷路；走失",
+   "colloc": "get lost in the city 在城市裡迷路 | easily get lost 容易迷路",
+   "distinct": "lose one's way 迷失方向 | be stranded 受困",
+   "ex": [
+    [
+     "The courier got lost while searching for the building.",
+     "快遞員在尋找大樓時迷路了。"
+    ],
+    [
+     "I always get lost when visiting this large complex.",
+     "造訪這個大型園區時我總是會迷路。"
+    ],
+    [
+     "Do not get lost in the details of the contract.",
+     "別在合約細節中迷失方向。"
+    ]
+   ]
+  },
+  {
+   "word": "get over",
+   "ph": "",
+   "pos": "phr. 克服；恢復；從...中走出來",
+   "zh": "克服；熬過；痊癒",
+   "colloc": "get over a problem 克服問題 | get over the illness 從疾病中恢復",
+   "distinct": "overcome 克服困難 | recover from 從...恢復",
+   "ex": [
+    [
+     "It took them weeks to get over the financial crisis.",
+     "他們花了數週才熬過財務危機。"
+    ],
+    [
+     "We need to get over this hurdle to move forward.",
+     "我們必須克服這個障礙才能繼續前進。"
+    ],
+    [
+     "She is trying to get over her fear of public speaking.",
+     "她正在努力克服公開演講的恐懼。"
+    ]
+   ]
+  },
+  {
+   "word": "get rid of",
+   "ph": "",
+   "pos": "phr. 擺脫；丟棄；處理掉",
+   "zh": "處理掉；擺脫；丟棄",
+   "colloc": "get rid of waste 處理廢棄物 | get rid of old equipment 處置舊設備",
+   "distinct": "discard 丟棄 | dispose of 處置",
+   "ex": [
+    [
+     "We should get rid of all the outdated files.",
+     "我們應該將所有過期的檔案處理掉。"
+    ],
+    [
+     "The manager wants to get rid of unnecessary expenses.",
+     "經理想要削減不必要的開支。"
+    ],
+    [
+     "They need to get rid of the chemical waste properly.",
+     "他們需要妥善處理化學廢棄物。"
+    ]
+   ]
+  },
+  {
+   "word": "get the point",
+   "ph": "",
+   "pos": "phr. 明白要點；理解用意",
+   "zh": "理解重點；明白意思",
+   "colloc": "fail to get the point 未能理解重點 | clearly get the point 明確理解意思",
+   "distinct": "miss the point 沒抓到重點 | make a point 提出觀點",
+   "ex": [
+    [
+     "He eventually got the point of the new strategy.",
+     "他最終理解了新策略的重點。"
+    ],
+    [
+     "Did you get the point of her presentation today?",
+     "你有聽懂她今天簡報的重點嗎？"
+    ],
+    [
+     "I hope the team gets the point of these changes.",
+     "我希望團隊能明白這些變動的用意。"
+    ]
+   ]
+  },
+  {
+   "word": "get through",
+   "ph": "",
+   "pos": "phr. 完成；熬過；接通（電話）",
+   "zh": "做完；熬過；接通",
+   "colloc": "get through the work 完成工作 | get through the busy season 熬過旺季",
+   "distinct": "finish 完成 | survive 存活；熬過",
+   "ex": [
+    [
+     "I have so much paperwork to get through today.",
+     "我今天有很多文書工作要完成。"
+    ],
+    [
+     "It is difficult to get through to the main office.",
+     "很難接通總公司的電話。"
+    ],
+    [
+     "We can get through this difficult economic period together.",
+     "我們可以一起熬過這段艱難的經濟時期。"
+    ]
+   ]
+  },
+  {
+   "word": "get to",
+   "ph": "",
+   "pos": "phr. 到達；開始做；有機會做",
+   "zh": "到達；開始處理；有機會",
+   "colloc": "get to work 開始工作 | get to the office 到達辦公室",
+   "distinct": "arrive at 到達 | reach 到達",
+   "ex": [
+    [
+     "I will get to the meeting as soon as possible.",
+     "我會儘快趕到會議現場。"
+    ],
+    [
+     "When can we get to the discussion of the budget?",
+     "我們什麼時候可以開始討論預算？"
+    ],
+    [
+     "I finally get to visit the factory branch next week.",
+     "下週我終於有機會參觀工廠分部了。"
+    ]
+   ]
+  },
+  {
+   "word": "gift certificate",
+   "ph": "",
+   "pos": "n. 禮券",
+   "zh": "禮券；贈券",
+   "colloc": "redeem a gift certificate 兌換禮券 | purchase a gift certificate 購買禮券",
+   "distinct": "voucher 憑證；折價券 | coupon 優惠券",
+   "ex": [
+    [
+     "The employee received a gift certificate as a bonus.",
+     "員工收到了一份禮券作為獎金。"
+    ],
+    [
+     "You can use this gift certificate at any store branch.",
+     "您可以在任何分店使用這張禮券。"
+    ],
+    [
+     "We offer a gift certificate for loyal customers.",
+     "我們為忠實客戶提供禮券。"
+    ]
+   ]
+  },
+  {
+   "word": "make sure",
+   "ph": "",
+   "pos": "phr. 確認；確保",
+   "zh": "確保；確認",
+   "colloc": "make sure to follow 務必遵守 | make sure that 確保...",
+   "distinct": "ensure 確保 | confirm 確認",
+   "ex": [
+    [
+     "Please make sure to sign the documents before leaving.",
+     "離開前請務必確認簽署文件。"
+    ],
+    [
+     "I will make sure the equipment is properly stored.",
+     "我會確保設備妥善存放。"
+    ],
+    [
+     "Make sure that all the guests are registered online.",
+     "務必確認所有賓客皆已線上報名。"
+    ]
+   ]
+  },
+  {
+   "word": "give it a try",
+   "ph": "",
+   "pos": "phr. 試試看；嘗試一下",
+   "zh": "嘗試看看",
+   "colloc": "willing to give it a try 願意嘗試 | worth giving it a try 值得一試",
+   "distinct": "make an attempt 做出嘗試 | have a go 試試看",
+   "ex": [
+    [
+     "Why not give it a try and see the results?",
+     "為什麼不試試看並觀察結果呢？"
+    ],
+    [
+     "He decided to give it a try despite the risks.",
+     "儘管有風險，他還是決定嘗試一下。"
+    ],
+    [
+     "I am not sure, but I will give it a try.",
+     "我不確定，但我會試試看。"
+    ]
+   ]
+  },
+  {
+   "word": "give off",
+   "ph": "",
+   "pos": "phr. 散發（氣味、熱、光）",
+   "zh": "散發；發出",
+   "colloc": "give off heat 發熱 | give off a smell 散發氣味",
+   "distinct": "emit 發射；散發 | release 釋放",
+   "ex": [
+    [
+     "The old machine began to give off a strange smell.",
+     "那台舊機器開始散發出奇怪的味道。"
+    ],
+    [
+     "These bulbs give off a very bright white light.",
+     "這些燈泡會發出非常明亮的白光。"
+    ],
+    [
+     "The chemical reaction may give off toxic fumes.",
+     "化學反應可能會散發出毒氣。"
+    ]
+   ]
+  },
+  {
+   "word": "give way to",
+   "ph": "",
+   "pos": "phr. 讓路；讓步；被取代",
+   "zh": "讓路；被取代；讓步",
+   "colloc": "give way to traffic 禮讓車流 | give way to new technology 被新技術取代",
+   "distinct": "yield 讓路 | surrender 投降；屈服",
+   "ex": [
+    [
+     "Drivers must give way to pedestrians at the crossing.",
+     "駕駛在路口必須禮讓行人。"
+    ],
+    [
+     "Manual systems are slowly giving way to automation.",
+     "手動系統正逐漸被自動化取代。"
+    ],
+    [
+     "The old building will give way to a new skyscraper.",
+     "舊建築將被拆除以興建摩天大樓。"
+    ]
+   ]
+  },
+  {
+   "word": "government grant",
+   "ph": "",
+   "pos": "n. 政府補助金",
+   "zh": "政府補助；政府撥款",
+   "colloc": "apply for a government grant 申請政府補助 | receive a government grant 獲得補助",
+   "distinct": "subsidy 津貼 | loan 貸款",
+   "ex": [
+    [
+     "The startup company applied for a government grant.",
+     "這家新創公司申請了政府補助金。"
+    ],
+    [
+     "Research projects are often funded by government grants.",
+     "研究專案通常由政府撥款資助。"
+    ],
+    [
+     "We met the requirements for the government grant program.",
+     "我們符合政府補助計畫的資格要求。"
+    ]
+   ]
+  },
+  {
+   "word": "grab a bite",
+   "ph": "",
+   "pos": "phr. 吃點東西；隨便吃點",
+   "zh": "吃點東西；簡單進食",
+   "colloc": "grab a bite to eat 隨便吃點東西 | grab a quick bite 快速吃點東西",
+   "distinct": "have a meal 用餐 | dine out 外出用餐",
+   "ex": [
+    [
+     "Let us grab a bite before the afternoon session.",
+     "下午場開始前我們去吃點東西吧。"
+    ],
+    [
+     "There is no time, so I will just grab a bite.",
+     "沒時間了，我只能隨便吃點。"
+    ],
+    [
+     "We can grab a bite at the cafeteria nearby.",
+     "我們可以到附近的餐廳隨便吃點。"
+    ]
+   ]
+  },
+  {
+   "word": "growth potential",
+   "ph": "",
+   "pos": "n. 成長潛力",
+   "zh": "成長潛力；發展空間",
+   "colloc": "high growth potential 高成長潛力 | evaluate growth potential 評估發展潛力",
+   "distinct": "market prospect 市場前景 | business opportunity 商機",
+   "ex": [
+    [
+     "Our company shows great growth potential this year.",
+     "我們公司今年展現出極大的成長潛力。"
+    ],
+    [
+     "Investors are looking for startups with growth potential.",
+     "投資者正在尋找具有成長潛力的新創公司。"
+    ],
+    [
+     "We need to assess the growth potential of this market.",
+     "我們需要評估這個市場的成長潛力。"
+    ]
+   ]
+  },
+  {
+   "word": "hang out",
+   "ph": "",
+   "pos": "phr. 閒晃；聚在一起；花時間",
+   "zh": "消磨時間；聚會；閒晃",
+   "colloc": "hang out with colleagues 與同事聚會 | hang out at the office 在辦公室閒聊",
+   "distinct": "socialize 社交 | spend time 花時間",
+   "ex": [
+    [
+     "They usually hang out at the cafe after work.",
+     "他們下班後常在咖啡廳聚會。"
+    ],
+    [
+     "It is nice to hang out with the team outside.",
+     "能在外面跟團隊聚聚真不錯。"
+    ],
+    [
+     "We often hang out in the lounge during breaks.",
+     "休息時間我們常在休息室閒聊。"
+    ]
+   ]
+  }
+ ]
+}

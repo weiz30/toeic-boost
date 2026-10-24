@@ -1,0 +1,446 @@
+{
+ "day": 26,
+ "theme": "教材字彙・基礎 550–650 第 26 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "charge",
+   "ph": "/tʃɑːrdʒ/",
+   "pos": "v. 收費；控告 | n. 費用；責任",
+   "zh": "收費；費用；責任",
+   "colloc": "charge a fee 收取費用 | in charge of 負責",
+   "distinct": "cost 成本 | price 價格",
+   "ex": [
+    [
+     "They will charge a fee for the extra service.",
+     "他們將為額外服務收取費用。"
+    ],
+    [
+     "Who is currently in charge of this project?",
+     "目前是誰負責這個專案？"
+    ],
+    [
+     "Please charge the purchase to the company account.",
+     "請將這筆採購記在公司帳上。"
+    ]
+   ]
+  },
+  {
+   "word": "clearly",
+   "ph": "/ˈklɪrli/",
+   "pos": "adv. 清晰地；顯然地",
+   "zh": "清晰地；顯然地",
+   "ex": [
+    [
+     "The speaker explained the strategy very clearly.",
+     "演講者非常清晰地解釋了策略。"
+    ],
+    [
+     "It is clearly stated in the contract terms.",
+     "合約條款中已明確記載。"
+    ],
+    [
+     "The instructions were not written clearly enough.",
+     "這些說明寫得不夠清楚。"
+    ]
+   ]
+  },
+  {
+   "word": "comment",
+   "ph": "/ˈkɑːment/",
+   "pos": "n. 評論；意見 | v. 發表意見",
+   "zh": "評論；意見；發表意見",
+   "colloc": "make a comment 發表評論 | negative comment 負面評價",
+   "distinct": "remark 簡短評論 | opinion 個人看法",
+   "ex": [
+    [
+     "We appreciate your comments on the new design.",
+     "我們感謝您對新設計提供的意見。"
+    ],
+    [
+     "The manager refused to comment on the rumor.",
+     "經理拒絕針對該傳聞發表評論。"
+    ],
+    [
+     "Please leave your comments in the suggestion box.",
+     "請將您的意見留在意見箱中。"
+    ]
+   ]
+  },
+  {
+   "word": "commercial",
+   "ph": "/kəˈmɜːrʃl/",
+   "pos": "adj. 商業的 | n. 商業廣告",
+   "zh": "商業的；商業廣告",
+   "colloc": "commercial success 商業成功 | commercial bank 商業銀行",
+   "distinct": "advertisement 一般廣告 | marketing 行銷",
+   "ex": [
+    [
+     "The company achieved great commercial success this year.",
+     "公司今年獲得了巨大的商業成功。"
+    ],
+    [
+     "They aired a new commercial during the game.",
+     "他們在比賽期間播放了一支新廣告。"
+    ],
+    [
+     "This building is zoned for commercial use only.",
+     "這棟建築僅限於商業用途。"
+    ]
+   ]
+  },
+  {
+   "word": "complete",
+   "ph": "/kəmˈpliːt/",
+   "pos": "adj. 完全的；完整的 | v. 完成",
+   "zh": "完全的；完整的；完成",
+   "colloc": "complete the task 完成任務 | complete set 整套",
+   "distinct": "finish 結束某事 | entire 全部",
+   "ex": [
+    [
+     "Please complete the registration form by Friday.",
+     "請在週五前完成註冊表格。"
+    ],
+    [
+     "The team is waiting for the complete report.",
+     "團隊正在等待完整的報告。"
+    ],
+    [
+     "It took two weeks to complete the renovation.",
+     "花費兩週時間才完成裝修。"
+    ]
+   ]
+  },
+  {
+   "word": "conference",
+   "ph": "/ˈkɑːnfərəns/",
+   "pos": "n. 會議；研討會",
+   "zh": "會議；研討會",
+   "colloc": "attend a conference 參加會議 | annual conference 年度會議",
+   "distinct": "meeting 例會 | convention 大會",
+   "ex": [
+    [
+     "The international conference will be held in Taipei.",
+     "國際研討會將在台北舉辦。"
+    ],
+    [
+     "She is attending a conference on renewable energy.",
+     "她正在參加關於再生能源的會議。"
+    ],
+    [
+     "Registration for the upcoming conference is now open.",
+     "即將到來的會議開放報名中。"
+    ]
+   ]
+  },
+  {
+   "word": "confident",
+   "ph": "/ˈkɑːnfɪdənt/",
+   "pos": "adj. 有信心的；確信的",
+   "zh": "有信心的；確信的",
+   "colloc": "feel confident 感到自信 | confident in 對…有信心",
+   "distinct": "certain 確定的 | optimistic 樂觀的",
+   "ex": [
+    [
+     "The CEO is confident about the market outlook.",
+     "執行長對市場前景充滿信心。"
+    ],
+    [
+     "You need to be confident during the presentation.",
+     "你在簡報時需要展現自信。"
+    ],
+    [
+     "Our team is confident that we will win.",
+     "我們團隊確信我們會贏得比賽。"
+    ]
+   ]
+  },
+  {
+   "word": "consequence",
+   "ph": "/ˈkɑːnsɪkwens/",
+   "pos": "n. 結果；後果",
+   "zh": "結果；後果",
+   "colloc": "serious consequence 嚴重後果 | as a consequence 因此",
+   "distinct": "result 結果 | outcome 結局",
+   "ex": [
+    [
+     "You must consider the consequences of this decision.",
+     "你必須考慮這個決定的後果。"
+    ],
+    [
+     "Failure to follow rules has serious consequences.",
+     "未遵守規則會導致嚴重後果。"
+    ],
+    [
+     "As a consequence, the project was delayed.",
+     "因此，該專案延遲了。"
+    ]
+   ]
+  },
+  {
+   "word": "dance",
+   "ph": "/dæns/",
+   "pos": "v. 跳舞 | n. 舞蹈；舞會",
+   "zh": "跳舞；舞蹈；舞會",
+   "colloc": "dance performance 舞蹈表演 | dance party 舞會",
+   "distinct": "ball 舞會 | choreography 編舞",
+   "ex": [
+    [
+     "We will hire a performer to dance tonight.",
+     "我們今晚會雇用一名表演者跳舞。"
+    ],
+    [
+     "The company will host a dance for the staff.",
+     "公司將為員工舉辦一場舞會。"
+    ],
+    [
+     "She practiced her dance moves for the show.",
+     "她為演出練習了舞蹈動作。"
+    ]
+   ]
+  },
+  {
+   "word": "deal",
+   "ph": "/diːl/",
+   "pos": "v. 處理；交易 | n. 協議；交易",
+   "zh": "處理；交易；協議",
+   "colloc": "deal with 處理 | sign a deal 簽署協議",
+   "distinct": "arrangement 安排 | contract 合約",
+   "ex": [
+    [
+     "Our team can deal with difficult clients easily.",
+     "我們的團隊能輕鬆處理困難的客戶。"
+    ],
+    [
+     "Both parties have finally signed the business deal.",
+     "雙方終於簽署了這項商業協議。"
+    ],
+    [
+     "We need a better deal from our supplier.",
+     "我們需要從供應商那邊獲得更好的交易。"
+    ]
+   ]
+  },
+  {
+   "word": "disappoint",
+   "ph": "/ˌdɪsəˈpɔɪnt/",
+   "pos": "v. 使失望",
+   "zh": "使失望",
+   "colloc": "disappoint someone 使某人失望 | be disappointed 對…失望",
+   "distinct": "let down 辜負 | discourage 打擊信心",
+   "ex": [
+    [
+     "The poor sales figures will disappoint the investors.",
+     "慘淡的銷售數據會讓投資者失望。"
+    ],
+    [
+     "I do not want to disappoint our regular customers.",
+     "我不想讓我們的忠實客戶失望。"
+    ],
+    [
+     "He was disappointed by the lack of feedback.",
+     "他對缺乏回饋感到失望。"
+    ]
+   ]
+  },
+  {
+   "word": "disaster",
+   "ph": "/dɪˈzæstər/",
+   "pos": "n. 災難；徹底失敗",
+   "zh": "災難；徹底失敗",
+   "colloc": "natural disaster 天然災害 | financial disaster 財務危機",
+   "distinct": "tragedy 悲劇 | failure 失敗",
+   "ex": [
+    [
+     "The marketing campaign was a complete disaster.",
+     "這次的行銷活動是一場徹底的失敗。"
+    ],
+    [
+     "Emergency plans were ready for any potential disaster.",
+     "緊急計畫已為任何潛在災難做好準備。"
+    ],
+    [
+     "They worked hard to prevent an economic disaster.",
+     "他們努力防止一場經濟災難。"
+    ]
+   ]
+  },
+  {
+   "word": "discussion",
+   "ph": "/dɪˈskʌʃn/",
+   "pos": "n. 討論；商議",
+   "zh": "討論；商議",
+   "colloc": "have a discussion 進行討論 | open for discussion 開放討論",
+   "distinct": "debate 辯論 | conversation 對話",
+   "ex": [
+    [
+     "The manager opened a discussion about the budget.",
+     "經理開啟了關於預算的討論。"
+    ],
+    [
+     "This topic is still open for further discussion.",
+     "這個話題仍開放進一步討論。"
+    ],
+    [
+     "We had a long discussion about the future.",
+     "我們針對未來進行了一場長談。"
+    ]
+   ]
+  },
+  {
+   "word": "division",
+   "ph": "/dɪˈvɪʒn/",
+   "pos": "n. 部門；分割",
+   "zh": "部門；分割",
+   "colloc": "sales division 銷售部門 | create a division 劃分",
+   "distinct": "department 部門 | section 部分",
+   "ex": [
+    [
+     "He works in the international marketing division.",
+     "他在國際行銷部門工作。"
+    ],
+    [
+     "The division of labor helped increase productivity.",
+     "勞動分工有助於提升生產力。"
+    ],
+    [
+     "Each division must submit its monthly report.",
+     "每個部門都必須提交月度報告。"
+    ]
+   ]
+  },
+  {
+   "word": "effect",
+   "ph": "/ɪˈfekt/",
+   "pos": "n. 影響；效力 | v. 造成",
+   "zh": "影響；效力；造成",
+   "colloc": "have an effect on 對…有影響 | side effect 副作用",
+   "distinct": "affect 影響（動詞）| influence 影響力",
+   "ex": [
+    [
+     "The new policy will have an immediate effect.",
+     "這項新政策將會有立即的影響。"
+    ],
+    [
+     "Smoking has a bad effect on your health.",
+     "抽菸對你的健康有不良影響。"
+    ],
+    [
+     "The law will come into effect next month.",
+     "這項法律將於下個月生效。"
+    ]
+   ]
+  },
+  {
+   "word": "effort",
+   "ph": "/ˈefərt/",
+   "pos": "n. 努力；艱辛",
+   "zh": "努力；艱辛",
+   "colloc": "make an effort 做出努力 | joint effort 共同努力",
+   "distinct": "attempt 嘗試 | struggle 掙扎",
+   "ex": [
+    [
+     "The success was the result of our joint effort.",
+     "這次成功是我們共同努力的結果。"
+    ],
+    [
+     "You need to make more effort to improve.",
+     "你需要投入更多努力來改進。"
+    ],
+    [
+     "They put a lot of effort into the project.",
+     "他們在該專案上投入了大量心力。"
+    ]
+   ]
+  },
+  {
+   "word": "emerge",
+   "ph": "/ɪˈmɜːrdʒ/",
+   "pos": "v. 出現；浮現",
+   "zh": "出現；浮現",
+   "colloc": "emerge from 從…中出現 | newly emerged 新興的",
+   "distinct": "appear 顯現 | arrive 到達",
+   "ex": [
+    [
+     "New opportunities began to emerge in the market.",
+     "市場上開始出現新的機會。"
+    ],
+    [
+     "The company emerged as a leader in tech.",
+     "該公司崛起成為科技領域的領導者。"
+    ],
+    [
+     "True facts will emerge after the investigation.",
+     "真相將在調查後浮出水面。"
+    ]
+   ]
+  },
+  {
+   "word": "employer",
+   "ph": "/ɪmˈplɔɪər/",
+   "pos": "n. 雇主",
+   "zh": "雇主",
+   "colloc": "potential employer 潛在雇主 | employer-employee 勞資",
+   "distinct": "employee 員工 | manager 主管",
+   "ex": [
+    [
+     "The employer provides health insurance for staff.",
+     "雇主為員工提供健康保險。"
+    ],
+    [
+     "You should research the employer before interviewing.",
+     "面試前你應該先調查該雇主。"
+    ],
+    [
+     "The employer wants to increase overall wages.",
+     "雇主想要提高整體薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "excellent",
+   "ph": "/ˈeksələnt/",
+   "pos": "adj. 優秀的；極好的",
+   "zh": "優秀的；極好的",
+   "colloc": "excellent performance 優異表現 | excellent service 優質服務",
+   "distinct": "good 好的 | superior 上等的",
+   "ex": [
+    [
+     "The restaurant is famous for its excellent service.",
+     "這家餐廳以優質服務聞名。"
+    ],
+    [
+     "She has an excellent track record in sales.",
+     "她在銷售方面有非常優異的紀錄。"
+    ],
+    [
+     "Thank you for your excellent work this month.",
+     "謝謝你這個月表現得非常出色。"
+    ]
+   ]
+  },
+  {
+   "word": "executive",
+   "ph": "/ɪɡˈzekjətɪv/",
+   "pos": "n. 主管；行政人員 | adj. 執行的",
+   "zh": "主管；行政人員；執行的",
+   "colloc": "chief executive 執行長 | executive suite 高階主管套房",
+   "distinct": "manager 經理 | director 董事",
+   "ex": [
+    [
+     "The chief executive will attend the board meeting.",
+     "執行長將出席董事會會議。"
+    ],
+    [
+     "Our company is looking for a new executive.",
+     "我們公司正在尋找一位新主管。"
+    ],
+    [
+     "He works in an executive office downtown.",
+     "他在市中心的一間行政辦公室工作。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 39,
+ "theme": "教材字彙・進階 650–750 第 39 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "busy",
+   "ph": "/ˈbɪzi/",
+   "pos": "adj. 忙碌的；繁忙的",
+   "zh": "忙碌的；繁忙的",
+   "colloc": "busy season 旺季 | keep busy 保持忙碌",
+   "distinct": "occupied 佔用的 | crowded 擁擠的",
+   "ex": [
+    [
+     "Our department is busy during the peak season.",
+     "我們部門在旺季時非常忙碌。"
+    ],
+    [
+     "She is too busy to attend the meeting.",
+     "她太忙了無法參加會議。"
+    ],
+    [
+     "The staff stays busy with many new projects.",
+     "員工忙於處理許多新專案。"
+    ]
+   ]
+  },
+  {
+   "word": "cast",
+   "ph": "/kæst/",
+   "pos": "v. 投射；投擲 | n. 演員陣容",
+   "zh": "投射；投擲；演員陣容",
+   "colloc": "cast a vote 投票 | cast doubt on 對...表示懷疑",
+   "distinct": "throw 丟擲 | mold 鑄造",
+   "ex": [
+    [
+     "Please cast your vote for the new director.",
+     "請為新任主管投下你的一票。"
+    ],
+    [
+     "The new policy cast doubt on our progress.",
+     "新政策使我們對進度產生了懷疑。"
+    ],
+    [
+     "The entire cast performed well at the event.",
+     "整個演員陣容在活動中表現優異。"
+    ]
+   ]
+  },
+  {
+   "word": "characteristic",
+   "ph": "/ˌkærəktəˈrɪstɪk/",
+   "pos": "n. 特色；特徵 | adj. 特有的",
+   "zh": "特色；特徵；特有的",
+   "colloc": "distinctive characteristic 獨特特徵 | share a characteristic 擁有共同特點",
+   "distinct": "feature 特點 | quality 品質",
+   "ex": [
+    [
+     "Punctuality is a key characteristic of our firm.",
+     "準時是我們公司的關鍵特徵。"
+    ],
+    [
+     "This is a characteristic trait of successful leaders.",
+     "這是成功領導者特有的特質。"
+    ],
+    [
+     "They share the same characteristic approach to work.",
+     "他們對工作採取相同的特有方法。"
+    ]
+   ]
+  },
+  {
+   "word": "client",
+   "ph": "/ˈklaɪənt/",
+   "pos": "n. 客戶；委託人",
+   "zh": "客戶；委託人",
+   "colloc": "potential client 潛在客戶 | satisfy a client 滿足客戶",
+   "distinct": "customer 消費者 | patron 老主顧",
+   "ex": [
+    [
+     "Our team is meeting with a new client today.",
+     "我們的團隊今天與一位新客戶會面。"
+    ],
+    [
+     "Providing value is important for client retention.",
+     "提供價值對留住客戶很重要。"
+    ],
+    [
+     "The client requested a change in the design.",
+     "客戶要求修改設計內容。"
+    ]
+   ]
+  },
+  {
+   "word": "climb",
+   "ph": "/klaɪm/",
+   "pos": "v. 攀登；上升 | n. 攀升",
+   "zh": "攀登；上升；攀升",
+   "colloc": "climb the ladder 升遷 | steady climb 穩定成長",
+   "distinct": "ascend 上升 | rise 增加",
+   "ex": [
+    [
+     "Sales figures continue to climb this quarter.",
+     "本季銷售數據持續攀升。"
+    ],
+    [
+     "He wants to climb the corporate ladder quickly.",
+     "他希望能快速在公司升遷。"
+    ],
+    [
+     "Market shares saw a climb after the launch.",
+     "產品發布後市佔率有所提升。"
+    ]
+   ]
+  },
+  {
+   "word": "complain",
+   "ph": "/kəmˈpleɪn/",
+   "pos": "v. 抱怨；投訴",
+   "zh": "抱怨；投訴",
+   "colloc": "complain about 抱怨關於 | file a complaint 提出申訴",
+   "distinct": "grumble 碎念 | protest 抗議",
+   "ex": [
+    [
+     "Customers often complain about the slow service.",
+     "客戶經常抱怨服務速度緩慢。"
+    ],
+    [
+     "We received a formal letter to complain today.",
+     "我們今天收到一封正式的投訴信。"
+    ],
+    [
+     "Nobody wants to complain to the supervisor directly.",
+     "沒人想直接向主管抱怨。"
+    ]
+   ]
+  },
+  {
+   "word": "concert",
+   "ph": "/ˈkɒnsət/",
+   "pos": "n. 音樂會；一致",
+   "zh": "音樂會；一致",
+   "colloc": "attend a concert 參加音樂會 | in concert 協調一致地",
+   "distinct": "recital 獨奏會 | performance 表演",
+   "ex": [
+    [
+     "Our company is sponsoring the upcoming concert.",
+     "我們公司正在贊助即將到來的音樂會。"
+    ],
+    [
+     "The departments worked in concert to finish tasks.",
+     "各部門協調一致地完成了任務。"
+    ],
+    [
+     "Tickets for the charity concert sold out fast.",
+     "慈善音樂會的門票很快就賣光了。"
+    ]
+   ]
+  },
+  {
+   "word": "craft",
+   "ph": "/krɑːft/",
+   "pos": "n. 工藝；手藝 | v. 精心製作",
+   "zh": "工藝；手藝；精心製作",
+   "colloc": "craft a strategy 制定策略 | master the craft 精通手藝",
+   "distinct": "skill 技巧 | trade 行業",
+   "ex": [
+    [
+     "The team needs to craft a better marketing plan.",
+     "團隊需要精心制定一份更好的行銷計畫。"
+    ],
+    [
+     "She learned the craft of negotiation over years.",
+     "她多年來習得了談判的精湛技巧。"
+    ],
+    [
+     "We craft our products with great attention to detail.",
+     "我們非常注重細節地精心製作產品。"
+    ]
+   ]
+  },
+  {
+   "word": "crop",
+   "ph": "/krɒp/",
+   "pos": "n. 農作物 | v. 收割；修剪",
+   "zh": "農作物；收割；修剪",
+   "colloc": "bumper crop 豐收 | export crops 外銷農作物",
+   "distinct": "harvest 收穫 | produce 農產品",
+   "ex": [
+    [
+     "The poor weather damaged the local rice crop.",
+     "惡劣的天氣損壞了當地的稻米作物。"
+    ],
+    [
+     "Farmers expect a good crop this coming season.",
+     "農民預期下個季節會有好收成。"
+    ],
+    [
+     "We need to crop the images for the report.",
+     "我們需要將報告中的圖片進行裁切。"
+    ]
+   ]
+  },
+  {
+   "word": "decade",
+   "ph": "/ˈdekeɪd/",
+   "pos": "n. 十年",
+   "zh": "十年",
+   "colloc": "over the past decade 過去十年來 | for a decade 長達十年",
+   "distinct": "century 一世紀 | generation 一代",
+   "ex": [
+    [
+     "The company has grown steadily over the past decade.",
+     "過去十年來公司穩定成長。"
+    ],
+    [
+     "Technology has changed significantly in one decade.",
+     "科技在十年間發生了重大改變。"
+    ],
+    [
+     "She has worked in the industry for a decade.",
+     "她在這個行業工作了十年。"
+    ]
+   ]
+  },
+  {
+   "word": "decrease",
+   "ph": "/dɪˈkriːs/",
+   "pos": "v. 減少 | n. 下降",
+   "zh": "減少；下降",
+   "colloc": "decrease in 減少 | sharp decrease 急劇下降",
+   "distinct": "reduce 減低 | decline 衰退",
+   "ex": [
+    [
+     "We expect a decrease in production costs soon.",
+     "我們預期生產成本很快會下降。"
+    ],
+    [
+     "The new policy helps decrease unnecessary paperwork.",
+     "新政策有助於減少不必要的文書工作。"
+    ],
+    [
+     "A sudden decrease in demand affected our revenue.",
+     "需求的突然下降影響了我們的營收。"
+    ]
+   ]
+  },
+  {
+   "word": "deny",
+   "ph": "/dɪˈnaɪ/",
+   "pos": "v. 否認；拒絕給予",
+   "zh": "否認；拒絕給予",
+   "colloc": "deny access 拒絕存取 | deny a claim 否認索賠",
+   "distinct": "refuse 拒絕 | reject 駁回",
+   "ex": [
+    [
+     "The manager did not deny the recent rumors.",
+     "經理並沒有否認最近的謠言。"
+    ],
+    [
+     "The bank decided to deny the loan application.",
+     "銀行決定拒絕這項貸款申請。"
+    ],
+    [
+     "Management will deny any unauthorized entry request.",
+     "管理層將拒絕任何未經授權的進入請求。"
+    ]
+   ]
+  },
+  {
+   "word": "design",
+   "ph": "/dɪˈzaɪn/",
+   "pos": "n. 設計 | v. 設計；規劃",
+   "zh": "設計；規劃",
+   "colloc": "design a product 設計產品 | original design 原創設計",
+   "distinct": "pattern 模式 | layout 版面",
+   "ex": [
+    [
+     "The team is working on a new website design.",
+     "團隊正在進行新的網站設計。"
+    ],
+    [
+     "We designed this program to improve productivity.",
+     "我們設計這個程式是為了提升生產力。"
+    ],
+    [
+     "The design phase will take about three weeks.",
+     "設計階段大約需要三週的時間。"
+    ]
+   ]
+  },
+  {
+   "word": "discovery",
+   "ph": "/dɪˈskʌvəri/",
+   "pos": "n. 發現；發掘",
+   "zh": "發現；發掘",
+   "colloc": "make a discovery 做出發現 | new discovery 新發現",
+   "distinct": "invention 發明 | exploration 探險",
+   "ex": [
+    [
+     "The latest discovery will change our research focus.",
+     "最新的發現將改變我們的研究焦點。"
+    ],
+    [
+     "We shared the discovery with the entire team.",
+     "我們與整個團隊分享了這個發現。"
+    ],
+    [
+     "The new discovery leads to more efficient processes.",
+     "這個新發現帶來了更有效率的流程。"
+    ]
+   ]
+  },
+  {
+   "word": "dish",
+   "ph": "/dɪʃ/",
+   "pos": "n. 菜餚；盤子",
+   "zh": "菜餚；盤子",
+   "colloc": "main dish 主菜 | side dish 配菜",
+   "distinct": "plate 盤子 | meal 餐點",
+   "ex": [
+    [
+     "This signature dish is very popular among customers.",
+     "這道招牌菜在客戶中非常受歡迎。"
+    ],
+    [
+     "Please bring the dishes to the conference room.",
+     "請把盤子拿到會議室。"
+    ],
+    [
+     "They serve a different dish every single day.",
+     "他們每天供應不同的菜餚。"
+    ]
+   ]
+  },
+  {
+   "word": "display",
+   "ph": "/dɪˈspleɪ/",
+   "pos": "v. 展示 | n. 陳列；顯示",
+   "zh": "展示；陳列；顯示",
+   "colloc": "on display 展示中 | display window 櫥窗",
+   "distinct": "exhibit 展出 | show 呈現",
+   "ex": [
+    [
+     "We plan to display the prototypes at the expo.",
+     "我們計畫在博覽會上展示原型機。"
+    ],
+    [
+     "The store front features a colorful product display.",
+     "店面有一個色彩繽紛的產品陳列。"
+    ],
+    [
+     "The screen will display the status of orders.",
+     "螢幕會顯示訂單的狀態。"
+    ]
+   ]
+  },
+  {
+   "word": "empty",
+   "ph": "/ˈempti/",
+   "pos": "adj. 空的 | v. 清空",
+   "zh": "空的；清空",
+   "colloc": "empty office 空辦公室 | empty out 清空",
+   "distinct": "vacant 未佔用的 | blank 空白的",
+   "ex": [
+    [
+     "Please leave the storage room completely empty.",
+     "請將儲藏室完全清空。"
+    ],
+    [
+     "There were many empty seats at the seminar.",
+     "研討會上有很多空位。"
+    ],
+    [
+     "The staff had to empty the trash bin daily.",
+     "員工必須每天清空垃圾桶。"
+    ]
+   ]
+  },
+  {
+   "word": "escape",
+   "ph": "/ɪˈskeɪp/",
+   "pos": "v. 逃脫；避開 | n. 逃跑",
+   "zh": "逃脫；避開；逃跑",
+   "colloc": "escape notice 沒被注意到 | escape from 逃離",
+   "distinct": "flee 逃離 | avoid 避免",
+   "ex": [
+    [
+     "The mistake did not escape his sharp eyes.",
+     "這個錯誤逃不過他敏銳的雙眼。"
+    ],
+    [
+     "We need to find ways to escape the competition.",
+     "我們需要找到方法以避開競爭。"
+    ],
+    [
+     "Security measures prevent unauthorized people from escaping.",
+     "安全措施防止未經授權的人逃離。"
+    ]
+   ]
+  },
+  {
+   "word": "expected",
+   "ph": "/ɪkˈspektɪd/",
+   "pos": "adj. 預期的；預料中的",
+   "zh": "預期的；預料中的",
+   "colloc": "as expected 如預期 | expected result 預期結果",
+   "distinct": "anticipated 預期的 | predicted 預測的",
+   "ex": [
+    [
+     "The shipment arrived later than we expected.",
+     "貨物抵達的時間比我們預期的晚。"
+    ],
+    [
+     "We achieved the expected results by the deadline.",
+     "我們在期限內達成了預期的結果。"
+    ],
+    [
+     "The market shows higher growth than expected.",
+     "市場顯示出比預期更高的成長。"
+    ]
+   ]
+  },
+  {
+   "word": "experiment",
+   "ph": "/ɪkˈsperɪmənt/",
+   "pos": "n. 實驗 | v. 進行實驗",
+   "zh": "實驗",
+   "colloc": "conduct an experiment 進行實驗 | scientific experiment 科學實驗",
+   "distinct": "test 測試 | trial 試驗",
+   "ex": [
+    [
+     "The research team will conduct an experiment tomorrow.",
+     "研究團隊明天將進行一項實驗。"
+    ],
+    [
+     "We decided to experiment with a new working style.",
+     "我們決定嘗試一種新的工作方式。"
+    ],
+    [
+     "The experiment provided data for our new report.",
+     "該實驗為我們的新報告提供了數據。"
+    ]
+   ]
+  }
+ ]
+}

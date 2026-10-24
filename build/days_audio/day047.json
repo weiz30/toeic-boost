@@ -1,0 +1,448 @@
+{
+ "day": 47,
+ "theme": "教材字彙・進階 650–750 第 47 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "funding",
+   "ph": "/ˈfʌndɪŋ/",
+   "pos": "n. 資金；經費",
+   "zh": "資金；經費",
+   "colloc": "secure funding 獲得資金 | funding source 資金來源",
+   "distinct": "capital 資本 | budget 預算",
+   "ex": [
+    [
+     "The startup is seeking funding for expansion.",
+     "這家新創公司正在尋求擴張資金。"
+    ],
+    [
+     "Government funding supports this research project.",
+     "政府撥款支持這項研究計畫。"
+    ],
+    [
+     "We lack sufficient funding to finish the work.",
+     "我們缺乏足夠經費來完成工作。"
+    ]
+   ]
+  },
+  {
+   "word": "generously",
+   "ph": "/ˈdʒenərəsli/",
+   "pos": "adv. 慷慨地；大方地",
+   "zh": "慷慨地；大方地",
+   "colloc": "generously donate 慷慨捐贈 | generously support 大方支持",
+   "distinct": "liberally 自由地；慷慨地 | freely 自由地；免費地",
+   "ex": [
+    [
+     "The CEO generously donated to the charity.",
+     "執行長慷慨地捐款給慈善機構。"
+    ],
+    [
+     "They generously offered to cover all expenses.",
+     "他們大方地提議負擔所有費用。"
+    ],
+    [
+     "Our partner generously shared their marketing data.",
+     "我們的合作夥伴大方地分享行銷數據。"
+    ]
+   ]
+  },
+  {
+   "word": "industrial",
+   "ph": "/ɪnˈdʌstriəl/",
+   "pos": "adj. 工業的；產業的",
+   "zh": "工業的；產業的",
+   "colloc": "industrial zone 工業區 | industrial growth 工業成長",
+   "distinct": "industrious 勤奮的 | manufacturing 製造業的",
+   "ex": [
+    [
+     "The site is located in an industrial park.",
+     "該地塊位於工業園區內。"
+    ],
+    [
+     "New regulations affect many industrial companies.",
+     "新規定影響了許多工業公司。"
+    ],
+    [
+     "We are analyzing current industrial trends today.",
+     "我們今天正在分析當前的工業趨勢。"
+    ]
+   ]
+  },
+  {
+   "word": "lies",
+   "ph": "/laɪz/",
+   "pos": "v. 位於；在於（lie 的第三人稱單數）",
+   "zh": "位於；在於",
+   "colloc": "lie in 在於 | lie within 在...範圍內",
+   "distinct": "lay 放置 | locate 位於（被動用法）",
+   "ex": [
+    [
+     "The key to success lies in preparation.",
+     "成功的關鍵在於準備。"
+    ],
+    [
+     "Our main office lies near the city center.",
+     "我們的主辦公室位於市中心附近。"
+    ],
+    [
+     "The problem lies with the software update.",
+     "問題在於那個軟體更新。"
+    ]
+   ]
+  },
+  {
+   "word": "lift",
+   "ph": "/lɪft/",
+   "pos": "v. 舉起；解除（禁令） | n. 電梯（英式）",
+   "zh": "舉起；解除；電梯",
+   "colloc": "lift a ban 解除禁令 | lift a restriction 解除限制",
+   "distinct": "elevator 電梯（美式） | hoist 吊起",
+   "ex": [
+    [
+     "The committee will lift the trade restrictions.",
+     "委員會將解除貿易限制。"
+    ],
+    [
+     "Please lift the heavy boxes with care.",
+     "請小心地搬起那些重箱子。"
+    ],
+    [
+     "Sales figures lifted after the new campaign.",
+     "新活動後銷售數據上升了。"
+    ]
+   ]
+  },
+  {
+   "word": "lightly",
+   "ph": "/ˈlaɪtli/",
+   "pos": "adv. 輕輕地；輕率地",
+   "zh": "輕輕地；輕率地",
+   "colloc": "take lightly 看輕 | treat lightly 隨便對待",
+   "distinct": "slightly 稍微地 | softly 溫柔地",
+   "ex": [
+    [
+     "Do not take the security risks lightly.",
+     "不要輕視這些安全風險。"
+    ],
+    [
+     "The box should be handled very lightly.",
+     "這個箱子應該要輕拿輕放。"
+    ],
+    [
+     "Management did not treat the complaint lightly.",
+     "管理層並未輕率看待這項投訴。"
+    ]
+   ]
+  },
+  {
+   "word": "list",
+   "ph": "/lɪst/",
+   "pos": "n. 清單；列表 | v. 列出",
+   "zh": "清單；列出",
+   "colloc": "make a list 列清單 | waiting list 等候名單",
+   "distinct": "inventory 存貨清單 | menu 菜單",
+   "ex": [
+    [
+     "Please list all your previous work experience.",
+     "請列出你過去所有的工作經驗。"
+    ],
+    [
+     "The item is not on the inventory list.",
+     "該項目不在庫存清單上。"
+    ],
+    [
+     "We added your name to the waiting list.",
+     "我們將您的名字加入候補名單了。"
+    ]
+   ]
+  },
+  {
+   "word": "overall",
+   "ph": "/ˌoʊvərˈɔːl/",
+   "pos": "adj. 整體的 | adv. 大體上",
+   "zh": "整體的；大體上",
+   "colloc": "overall performance 整體表現 | overall result 整體結果",
+   "distinct": "generally 通常地 | entirely 完全地",
+   "ex": [
+    [
+     "The overall strategy needs to be revised.",
+     "整體策略需要進行修訂。"
+    ],
+    [
+     "Overall, the project was a great success.",
+     "整體而言，這個專案非常成功。"
+    ],
+    [
+     "What is the overall cost of this renovation?",
+     "這次裝修的總費用是多少？"
+    ]
+   ]
+  },
+  {
+   "word": "partnership",
+   "ph": "/ˈpɑːrtnərʃɪp/",
+   "pos": "n. 合夥關係；合作關係",
+   "zh": "合夥關係；合作關係",
+   "colloc": "form a partnership 建立合作關係 | business partnership 商業夥伴關係",
+   "distinct": "collaboration 合作 | alliance 聯盟",
+   "ex": [
+    [
+     "They formed a partnership with a local firm.",
+     "他們與當地一家公司建立了合作關係。"
+    ],
+    [
+     "Our long-term partnership benefits both sides.",
+     "我們的長期合作對雙方都有利。"
+    ],
+    [
+     "The company values this strategic partnership.",
+     "公司重視這項策略合作夥伴關係。"
+    ]
+   ]
+  },
+  {
+   "word": "pleasure",
+   "ph": "/ˈpleʒər/",
+   "pos": "n. 愉快；樂事",
+   "zh": "愉快；樂事",
+   "colloc": "with pleasure 樂意地 | great pleasure 高興",
+   "distinct": "delight 高興 | enjoyment 享受",
+   "ex": [
+    [
+     "It is a pleasure to work with you.",
+     "很高興能與您共事。"
+    ],
+    [
+     "We had the pleasure of hosting the guest.",
+     "我們有幸招待了這位賓客。"
+    ],
+    [
+     "My pleasure to assist with your request.",
+     "我很樂意協助您的請求。"
+    ]
+   ]
+  },
+  {
+   "word": "possibility",
+   "ph": "/ˌpɑːsəˈbɪləti/",
+   "pos": "n. 可能性",
+   "zh": "可能性",
+   "colloc": "explore the possibility 探討可能性 | remote possibility 極小的可能性",
+   "distinct": "probability 機率 | opportunity 機會",
+   "ex": [
+    [
+     "We are discussing the possibility of merging.",
+     "我們正在討論合併的可能性。"
+    ],
+    [
+     "There is a possibility of heavy rain tomorrow.",
+     "明天有下大雨的可能性。"
+    ],
+    [
+     "Please consider every possibility before deciding.",
+     "做決定前請考慮每一種可能性。"
+    ]
+   ]
+  },
+  {
+   "word": "presently",
+   "ph": "/ˈprezntli/",
+   "pos": "adv. 目前；不久",
+   "zh": "目前；不久",
+   "colloc": "be presently located 目前位於 | presently unavailable 目前無法使用",
+   "distinct": "currently 目前 | shortly 不久之後",
+   "ex": [
+    [
+     "The manager is presently in a meeting.",
+     "經理目前正在開會。"
+    ],
+    [
+     "We are presently updating our security system.",
+     "我們目前正在更新安全系統。"
+    ],
+    [
+     "The office is presently closed for repairs.",
+     "辦公室目前因維修而關閉。"
+    ]
+   ]
+  },
+  {
+   "word": "private",
+   "ph": "/ˈpraɪvət/",
+   "pos": "adj. 私人的；私有的",
+   "zh": "私人的；私有的",
+   "colloc": "private sector 私部門 | private property 私人財產",
+   "distinct": "personal 個人的 | public 公共的",
+   "ex": [
+    [
+     "The meeting will be held in private.",
+     "會議將會私下進行。"
+    ],
+    [
+     "He works in the private sector now.",
+     "他目前在私人企業工作。"
+    ],
+    [
+     "This area is for private use only.",
+     "此區域僅供私人使用。"
+    ]
+   ]
+  },
+  {
+   "word": "programming",
+   "ph": "/ˈproʊɡræmɪŋ/",
+   "pos": "n. 程式設計；節目編排",
+   "zh": "程式設計；節目編排",
+   "colloc": "computer programming 電腦程式設計 | television programming 電視節目編排",
+   "distinct": "software 軟體 | scheduling 時程安排",
+   "ex": [
+    [
+     "He has a background in computer programming.",
+     "他有電腦程式設計的背景。"
+    ],
+    [
+     "The channel is changing its evening programming.",
+     "該頻道正在調整晚間節目編排。"
+    ],
+    [
+     "We need more experts in custom programming.",
+     "我們需要更多客製化程式設計的專家。"
+    ]
+   ]
+  },
+  {
+   "word": "rank",
+   "ph": "/ræŋk/",
+   "pos": "n. 等級；職位 | v. 排名",
+   "zh": "等級；職位；排名",
+   "colloc": "high rank 高位 | rank among 在...中排名",
+   "distinct": "level 水準 | position 位置",
+   "ex": [
+    [
+     "She rose to the rank of director.",
+     "她晉升到了主管階級。"
+    ],
+    [
+     "The university ranks among the top ten.",
+     "這所大學在排名中名列前十。"
+    ],
+    [
+     "The survey ranks our service as excellent.",
+     "這項調查將我們的服務評為優良。"
+    ]
+   ]
+  },
+  {
+   "word": "regulation",
+   "ph": "/ˌreɡjuˈleɪʃn/",
+   "pos": "n. 規定；法規",
+   "zh": "規定；法規",
+   "colloc": "safety regulation 安全規定 | comply with regulations 遵守法規",
+   "distinct": "rule 規則 | law 法律",
+   "ex": [
+    [
+     "Employees must follow the safety regulations.",
+     "員工必須遵守安全規定。"
+    ],
+    [
+     "New government regulations took effect today.",
+     "新的政府法規於今日生效。"
+    ],
+    [
+     "We reviewed the regulations regarding imports.",
+     "我們審查了關於進口的相關法規。"
+    ]
+   ]
+  },
+  {
+   "word": "relax",
+   "ph": "/rɪˈlæks/",
+   "pos": "v. 放鬆；鬆懈",
+   "zh": "放鬆；鬆懈",
+   "colloc": "relax rules 放寬規定 | relax the atmosphere 放鬆氣氛",
+   "distinct": "rest 休息 | loosen 鬆開",
+   "ex": [
+    [
+     "You should try to relax after work.",
+     "下班後你應該試著放鬆一下。"
+    ],
+    [
+     "Management decided to relax the strict policy.",
+     "管理層決定放寬這項嚴格的政策。"
+    ],
+    [
+     "The team gathered to relax before the project.",
+     "團隊在專案開始前聚在一起放鬆。"
+    ]
+   ]
+  },
+  {
+   "word": "restore",
+   "ph": "/rɪˈstɔːr/",
+   "pos": "v. 恢復；修復",
+   "zh": "恢復；修復",
+   "colloc": "restore order 恢復秩序 | restore confidence 恢復信心",
+   "distinct": "recover 找回 | repair 修理",
+   "ex": [
+    [
+     "The company aims to restore its reputation.",
+     "公司目標是恢復其商譽。"
+    ],
+    [
+     "Technical staff managed to restore the power.",
+     "技術人員設法恢復了電力。"
+    ],
+    [
+     "We will restore the building to its state.",
+     "我們將把這棟建築恢復原狀。"
+    ]
+   ]
+  },
+  {
+   "word": "spice",
+   "ph": "/spaɪs/",
+   "pos": "n. 香料；調味品",
+   "zh": "香料；調味品",
+   "colloc": "add spice 增添趣味 | spice up 增添風味",
+   "distinct": "seasoning 調味料 | herb 香草",
+   "ex": [
+    [
+     "The recipe calls for a specific spice.",
+     "食譜需要一種特殊的香料。"
+    ],
+    [
+     "The presentation needs some spice to engage.",
+     "簡報需要一些亮點來吸引聽眾。"
+    ],
+    [
+     "We export high-quality spice to overseas markets.",
+     "我們將優質香料出口到海外市場。"
+    ]
+   ]
+  },
+  {
+   "word": "sufficiently",
+   "ph": "/səˈfɪʃntli/",
+   "pos": "adv. 足夠地；充分地",
+   "zh": "足夠地；充分地",
+   "colloc": "sufficiently trained 受過充分訓練 | sufficiently prepared 準備充足",
+   "distinct": "adequately 足夠地 | fully 完全地",
+   "ex": [
+    [
+     "The staff is sufficiently trained for this task.",
+     "員工已為此項任務接受充分訓練。"
+    ],
+    [
+     "Is the budget sufficiently funded for growth?",
+     "預算對於成長來說足夠充裕嗎？"
+    ],
+    [
+     "The document was not sufficiently detailed.",
+     "這份文件細節不夠充分。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 15,
+ "theme": "教材字彙・基礎 550–650 第 15 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "welcome",
+   "ph": "/ˈwelkəm/",
+   "pos": "v. 歡迎 | adj. 受歡迎的",
+   "zh": "歡迎；樂意接受",
+   "colloc": "welcome to + 地點 歡迎來到... | warm welcome 熱烈歡迎",
+   "distinct": "invitation 邀請函 | reception 接待",
+   "ex": [
+    [
+     "We welcome your feedback on the new policy.",
+     "我們歡迎您對新政策提供回饋。"
+    ],
+    [
+     "The new intern is a welcome addition to the team.",
+     "這位新實習生是團隊中受歡迎的一員。"
+    ],
+    [
+     "Please feel free to welcome our guests.",
+     "請隨時歡迎我們的訪客。"
+    ]
+   ]
+  },
+  {
+   "word": "absence",
+   "ph": "/ˈæbsəns/",
+   "pos": "n. 缺席；缺乏",
+   "zh": "缺席；缺乏；不在",
+   "colloc": "leave of absence 請假 | in the absence of 在缺乏...的情況下",
+   "distinct": "shortage 短缺 | vacancy 空缺",
+   "ex": [
+    [
+     "Her absence from the meeting was noted.",
+     "她未出席會議一事已做記錄。"
+    ],
+    [
+     "The project failed in the absence of clear goals.",
+     "由於缺乏明確目標，該專案失敗了。"
+    ],
+    [
+     "Please report any extended absence to HR.",
+     "請向人資部門報告任何長時間的缺勤。"
+    ]
+   ]
+  },
+  {
+   "word": "acceptable",
+   "ph": "/əkˈseptəbl/",
+   "pos": "adj. 可接受的；合適的",
+   "zh": "可接受的；合適的",
+   "colloc": "acceptable level 可接受水準 | make it acceptable 使其合適",
+   "distinct": "accessible 可進入的 | exceptional 例外的",
+   "ex": [
+    [
+     "This quality is not acceptable for our clients.",
+     "這種品質對我們的客戶而言無法接受。"
+    ],
+    [
+     "We need to find an acceptable solution soon.",
+     "我們需要儘快找到一個可行的方案。"
+    ],
+    [
+     "The current proposal is quite acceptable to us.",
+     "目前的提案對我們來說相當合適。"
+    ]
+   ]
+  },
+  {
+   "word": "accurately",
+   "ph": "/ˈækjərətli/",
+   "pos": "adv. 準確地；精確地",
+   "zh": "準確地；精確地",
+   "colloc": "report accurately 準確報告 | measure accurately 精準測量",
+   "distinct": "precisely 精確地 | correctly 正確地",
+   "ex": [
+    [
+     "The report must accurately reflect the data.",
+     "報告必須準確地反映數據。"
+    ],
+    [
+     "Can you accurately predict the sales figures?",
+     "你能準確預測銷售數字嗎？"
+    ],
+    [
+     "She described the situation very accurately.",
+     "她非常準確地描述了當時的情況。"
+    ]
+   ]
+  },
+  {
+   "word": "adequately",
+   "ph": "/ˈædɪkwətli/",
+   "pos": "adv. 足夠地；適當地",
+   "zh": "足夠地；適當地",
+   "colloc": "adequately prepared 準備充分 | adequately trained 受過適當訓練",
+   "distinct": "sufficiently 足夠地 | properly 適當地",
+   "ex": [
+    [
+     "The staff was not adequately trained for this.",
+     "員工沒有受過適當訓練來處理此事。"
+    ],
+    [
+     "Please ensure you are adequately prepared for the talk.",
+     "請確保您已為演講做好充分準備。"
+    ],
+    [
+     "The system is adequately funded this year.",
+     "該系統今年的資金相當充足。"
+    ]
+   ]
+  },
+  {
+   "word": "agency",
+   "ph": "/ˈeɪdʒənsi/",
+   "pos": "n. 代理機構；經銷處",
+   "zh": "代理機構；代辦處",
+   "colloc": "employment agency 就業服務處 | advertising agency 廣告代理商",
+   "distinct": "department 部門 | organization 組織",
+   "ex": [
+    [
+     "The advertising agency handles our marketing campaigns.",
+     "這家廣告代理商負責我們的行銷活動。"
+    ],
+    [
+     "They signed a contract with a recruitment agency.",
+     "他們與一家招募機構簽署了合約。"
+    ],
+    [
+     "The travel agency offered a discount for groups.",
+     "該旅行社提供團體折扣。"
+    ]
+   ]
+  },
+  {
+   "word": "aggressively",
+   "ph": "/əˈɡresɪvli/",
+   "pos": "adv. 積極地；侵略性地",
+   "zh": "積極地；侵略性地",
+   "colloc": "aggressively market 積極行銷 | aggressively expand 積極擴張",
+   "distinct": "actively 主動地 | assertively 自信地",
+   "ex": [
+    [
+     "The firm is aggressively expanding into new markets.",
+     "該公司正積極擴張至新市場。"
+    ],
+    [
+     "We must price our products more aggressively.",
+     "我們必須更積極地調整產品定價。"
+    ],
+    [
+     "The competitor is aggressively seeking new talent.",
+     "競爭對手正積極尋求新人才。"
+    ]
+   ]
+  },
+  {
+   "word": "approach",
+   "ph": "/əˈproʊtʃ/",
+   "pos": "v. 接近；處理 | n. 方法；途徑",
+   "zh": "接近；處理；方法",
+   "colloc": "take an approach 採取方法 | approach a deadline 接近截止日期",
+   "distinct": "method 方法 | procedure 程序",
+   "ex": [
+    [
+     "We need a fresh approach to this problem.",
+     "我們需要針對這個問題採取新的方法。"
+    ],
+    [
+     "The deadline for the project is fast approaching.",
+     "該專案的截止日期即將到來。"
+    ],
+    [
+     "Management will approach the issue next week.",
+     "管理層下週將處理這個問題。"
+    ]
+   ]
+  },
+  {
+   "word": "article",
+   "ph": "/ˈɑːrtɪkl/",
+   "pos": "n. 文章；報導；物品",
+   "zh": "文章；報導；條款",
+   "colloc": "news article 新聞報導 | write an article 撰寫文章",
+   "distinct": "essay 論說文 | column 專欄",
+   "ex": [
+    [
+     "I read an interesting article about global trade.",
+     "我讀了一篇關於全球貿易的有趣報導。"
+    ],
+    [
+     "The article highlights the benefits of remote work.",
+     "該文章強調了遠距工作的優點。"
+    ],
+    [
+     "Every article in the store is on sale.",
+     "店內所有商品都在特價。"
+    ]
+   ]
+  },
+  {
+   "word": "assure",
+   "ph": "/əˈʃʊr/",
+   "pos": "v. 向...保證；確保",
+   "zh": "向...保證；確保",
+   "colloc": "assure someone of 讓某人確信 | rest assured 請放心",
+   "distinct": "ensure 確保 | insure 投保",
+   "ex": [
+    [
+     "I can assure you that the order is safe.",
+     "我可以向您保證訂單很安全。"
+    ],
+    [
+     "The manager assured the team of his support.",
+     "經理向團隊保證會給予支持。"
+    ],
+    [
+     "Please rest assured that we will fix it.",
+     "請放心，我們會解決這個問題。"
+    ]
+   ]
+  },
+  {
+   "word": "author",
+   "ph": "/ˈɔːθər/",
+   "pos": "n. 作者；作家 | v. 撰寫",
+   "zh": "作者；創造者",
+   "colloc": "best-selling author 暢銷作家 | author a report 撰寫報告",
+   "distinct": "writer 作家 | editor 編輯",
+   "ex": [
+    [
+     "The author of the manual is the chief engineer.",
+     "這本手冊的作者是總工程師。"
+    ],
+    [
+     "She authored a book on corporate leadership.",
+     "她寫了一本關於企業領導的書。"
+    ],
+    [
+     "The report was authored by the research department.",
+     "該報告由研發部門撰寫。"
+    ]
+   ]
+  },
+  {
+   "word": "baggage",
+   "ph": "/ˈbæɡɪdʒ/",
+   "pos": "n. 行李",
+   "zh": "行李",
+   "colloc": "checked baggage 託運行李 | baggage claim 行李領取處",
+   "distinct": "luggage 行李 | equipment 設備",
+   "ex": [
+    [
+     "Please keep your baggage with you at all times.",
+     "請隨時保管好您的行李。"
+    ],
+    [
+     "He left his baggage at the hotel reception.",
+     "他把行李留在旅館櫃檯。"
+    ],
+    [
+     "The airline lost my baggage during the flight.",
+     "航空公司在飛行期間弄丟了我的行李。"
+    ]
+   ]
+  },
+  {
+   "word": "chemical",
+   "ph": "/ˈkemɪkl/",
+   "pos": "adj. 化學的 | n. 化學物質",
+   "zh": "化學的；化學製品",
+   "colloc": "chemical industry 化學工業 | chemical reaction 化學反應",
+   "distinct": "substance 物質 | material 材料",
+   "ex": [
+    [
+     "The factory produces various industrial chemicals.",
+     "這家工廠生產各種工業化學品。"
+    ],
+    [
+     "They are looking for safer chemical alternatives.",
+     "他們正在尋找更安全的化學替代品。"
+    ],
+    [
+     "Avoid contact with these dangerous chemical substances.",
+     "請避免接觸這些危險化學物質。"
+    ]
+   ]
+  },
+  {
+   "word": "conscious",
+   "ph": "/ˈkɑːnʃəs/",
+   "pos": "adj. 意識到的；自覺的",
+   "zh": "意識到的；有知覺的",
+   "colloc": "be conscious of 意識到 | cost-conscious 重視成本的",
+   "distinct": "cautious 謹慎的 | conscientious 認真的",
+   "ex": [
+    [
+     "He is very cost-conscious when buying supplies.",
+     "他在購買物資時非常有成本意識。"
+    ],
+    [
+     "She was conscious of the time during the meeting.",
+     "她在會議期間意識到了時間。"
+    ],
+    [
+     "The company is conscious of its environmental impact.",
+     "該公司意識到了其對環境的影響。"
+    ]
+   ]
+  },
+  {
+   "word": "contribute",
+   "ph": "/kənˈtrɪbjuːt/",
+   "pos": "v. 貢獻；促成；捐獻",
+   "zh": "貢獻；促成；捐贈",
+   "colloc": "contribute to 導致；對...做出貢獻 | contribute money 捐錢",
+   "distinct": "attribute 歸因於 | distribute 分配",
+   "ex": [
+    [
+     "Everyone contributed to the success of the event.",
+     "每個人都對活動的成功做出了貢獻。"
+    ],
+    [
+     "Poor communication contributed to the project delay.",
+     "溝通不良導致了專案延遲。"
+    ],
+    [
+     "They contributed funds to the local charity.",
+     "他們向當地慈善機構捐了款。"
+    ]
+   ]
+  },
+  {
+   "word": "costly",
+   "ph": "/ˈkɔːstli/",
+   "pos": "adj. 昂貴的；代價高的",
+   "zh": "昂貴的；代價高的",
+   "colloc": "costly mistake 重大錯誤 | costly procedure 昂貴的程序",
+   "distinct": "expensive 昂貴的 | valuable 有價值的",
+   "ex": [
+    [
+     "The delay turned out to be a costly mistake.",
+     "這次延誤變成了一個代價高昂的錯誤。"
+    ],
+    [
+     "Replacing the old machinery is too costly.",
+     "更換舊機器的費用太昂貴了。"
+    ],
+    [
+     "We should avoid such a costly error again.",
+     "我們應該避免再次犯下這種代價高的錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "cover",
+   "ph": "/ˈkʌvər/",
+   "pos": "v. 覆蓋；報導；支付 | n. 封面",
+   "zh": "覆蓋；報導；支付費用",
+   "colloc": "cover the cost 支付費用 | news cover 新聞報導",
+   "distinct": "include 包含 | wrap 包裹",
+   "ex": [
+    [
+     "The insurance policy covers all medical expenses.",
+     "這份保險單涵蓋了所有醫療費用。"
+    ],
+    [
+     "Can you cover my shift this Friday afternoon?",
+     "這週五下午你能幫我代班嗎？"
+    ],
+    [
+     "The reporter will cover the global summit live.",
+     "記者將現場報導全球峰會。"
+    ]
+   ]
+  },
+  {
+   "word": "customs",
+   "ph": "/ˈkʌstəmz/",
+   "pos": "n. 海關；關稅",
+   "zh": "海關；關稅",
+   "colloc": "customs duty 關稅 | clear customs 通關",
+   "distinct": "costumes 服裝 | customer 客戶",
+   "ex": [
+    [
+     "Your luggage might be checked at customs.",
+     "您的行李可能會在海關被檢查。"
+    ],
+    [
+     "We had to pay customs on the imported goods.",
+     "我們必須為進口商品繳納關稅。"
+    ],
+    [
+     "It took an hour to clear customs yesterday.",
+     "昨天花了一個小時才通過海關。"
+    ]
+   ]
+  },
+  {
+   "word": "define",
+   "ph": "/dɪˈfaɪn/",
+   "pos": "v. 定義；界定",
+   "zh": "定義；界定；說明",
+   "colloc": "define the scope 定義範圍 | clearly defined 明確定義的",
+   "distinct": "refine 精煉 | confine 限制",
+   "ex": [
+    [
+     "The contract clearly defines our responsibilities.",
+     "合約明確定義了我們的職責。"
+    ],
+    [
+     "Please define the scope of your research project.",
+     "請定義您研究專案的範疇。"
+    ],
+    [
+     "It is hard to define the company culture.",
+     "很難定義這種公司文化。"
+    ]
+   ]
+  },
+  {
+   "word": "deliver",
+   "ph": "/dɪˈlɪvər/",
+   "pos": "v. 遞送；發表(演說)",
+   "zh": "遞送；投遞；發表",
+   "colloc": "deliver a speech 發表演說 | deliver goods 運送貨物",
+   "distinct": "distribute 分發 | supply 供應",
+   "ex": [
+    [
+     "The courier will deliver the package by noon.",
+     "快遞員中午前會送到包裹。"
+    ],
+    [
+     "The CEO will deliver a speech at the opening.",
+     "執行長將在開幕式上發表演說。"
+    ],
+    [
+     "We promise to deliver orders within three days.",
+     "我們承諾在三天內送達訂單。"
+    ]
+   ]
+  }
+ ]
+}

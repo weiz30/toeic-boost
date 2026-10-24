@@ -1,0 +1,448 @@
+{
+ "day": 63,
+ "theme": "教材字彙・高分 850–900 第 63 群",
+ "level": "高分 850–900",
+ "kind": "word",
+ "items": [
+  {
+   "word": "word",
+   "ph": "/wɜːrd/",
+   "pos": "n. 消息；諾言 | v. 用詞",
+   "zh": "消息；諾言；措辭",
+   "colloc": "keep one's word 信守承諾 | spread the word 廣為宣傳",
+   "distinct": "promise 承諾（重行為）| remark 評論",
+   "ex": [
+    [
+     "Please keep your word regarding the deadline.",
+     "關於截止日期請信守承諾。"
+    ],
+    [
+     "I sent word to the manager about the delay.",
+     "我已通知經理關於延誤的消息。"
+    ],
+    [
+     "The executive carefully worded the official statement.",
+     "主管仔細斟酌了官方聲明的措辭。"
+    ]
+   ]
+  },
+  {
+   "word": "wrap",
+   "ph": "/ræp/",
+   "pos": "v. 包裝；完成 | n. 包裝紙",
+   "zh": "包裝；結束；包裹",
+   "colloc": "wrap up 結束工作 | gift wrap 禮品包裝",
+   "distinct": "pack 打包（裝箱）| cover 覆蓋",
+   "ex": [
+    [
+     "Let's wrap up this project before the weekend.",
+     "我們在週末前結束這個專案吧。"
+    ],
+    [
+     "The staff helped wrap the fragile items carefully.",
+     "員工協助小心包裝易碎物品。"
+    ],
+    [
+     "We need to wrap up the meeting in five minutes.",
+     "我們需要在五分鐘內結束會議。"
+    ]
+   ]
+  },
+  {
+   "word": "peak",
+   "ph": "/piːk/",
+   "pos": "n. 高峰 | adj. 高峰的",
+   "zh": "高峰；頂點；高峰期的",
+   "colloc": "peak season 旺季 | reach a peak 達到頂峰",
+   "distinct": "summit 山頂（物理）| climax 高潮（劇情）",
+   "ex": [
+    [
+     "Sales reached their peak during the holiday season.",
+     "銷售額在假期期間達到高峰。"
+    ],
+    [
+     "The hotel charges higher rates during peak season.",
+     "飯店在旺季時收取較高費用。"
+    ],
+    [
+     "Productivity hit a new peak last quarter.",
+     "生產力在上季度創下新高。"
+    ]
+   ]
+  },
+  {
+   "word": "except",
+   "ph": "/ɪkˈsept/",
+   "pos": "prep. 除了……之外 | v. 反對",
+   "zh": "除了；不包括",
+   "colloc": "except for 除……之外 | with the exception of 例外",
+   "distinct": "besides 除了（包含在內）| apart from 除了",
+   "ex": [
+    [
+     "Everyone attended the seminar except the manager.",
+     "除了經理之外大家都參加了研討會。"
+    ],
+    [
+     "The office is open daily except on Sundays.",
+     "辦公室除了週日外每天開放。"
+    ],
+    [
+     "All departments met the target except marketing.",
+     "除了行銷部外所有部門都達標了。"
+    ]
+   ]
+  },
+  {
+   "word": "crack",
+   "ph": "/kræk/",
+   "pos": "n. 裂縫；嘗試 | v. 破裂；破解",
+   "zh": "裂縫；破解；嘗試",
+   "colloc": "crack the code 破解密碼 | crack a smile 露出微笑",
+   "distinct": "fracture 骨折（醫學）| split 分裂",
+   "ex": [
+    [
+     "The screen has a small crack near the edge.",
+     "螢幕邊緣有一道小裂縫。"
+    ],
+    [
+     "Our team finally managed to crack the market.",
+     "我們的團隊終於成功打入市場。"
+    ],
+    [
+     "The technician tried to crack the security system.",
+     "技術人員嘗試破解安全系統。"
+    ]
+   ]
+  },
+  {
+   "word": "accused",
+   "ph": "/əˈkjuːzd/",
+   "pos": "n. 被告 | adj. 被指控的",
+   "zh": "被告；被指控的",
+   "colloc": "accused of 指控…… | the accused 被告人",
+   "distinct": "defendant 被告（法律程序）| suspect 嫌疑犯",
+   "ex": [
+    [
+     "The accused denied all charges during the trial.",
+     "被告在審判中否認了所有指控。"
+    ],
+    [
+     "He was accused of mishandling company funds.",
+     "他被指控不當處理公司資金。"
+    ],
+    [
+     "The accused party refused to make any comments.",
+     "被告方拒絕發表任何評論。"
+    ]
+   ]
+  },
+  {
+   "word": "awfully",
+   "ph": "/ˈɔːfəli/",
+   "pos": "adv. 非常；很（口語）",
+   "zh": "非常；糟糕地",
+   "colloc": "awfully sorry 非常抱歉 | awfully busy 非常忙碌",
+   "distinct": "very 非常（中性）| terrible 可怕的",
+   "ex": [
+    [
+     "I am awfully sorry for the late response.",
+     "對於遲回覆我感到非常抱歉。"
+    ],
+    [
+     "The CEO looked awfully tired after the trip.",
+     "執行長出差後看起來非常疲憊。"
+    ],
+    [
+     "It was awfully kind of you to help us.",
+     "你真是太好心了願意幫助我們。"
+    ]
+   ]
+  },
+  {
+   "word": "booking",
+   "ph": "/ˈbʊkɪŋ/",
+   "pos": "n. 預訂；預約",
+   "zh": "預訂；預約",
+   "colloc": "booking reference 預訂編號 | make a booking 預約",
+   "distinct": "reservation 訂位（餐廳、飯店）| appointment 預約（醫生、諮詢）",
+   "ex": [
+    [
+     "Please confirm your booking before arriving here.",
+     "抵達此處前請先確認您的預訂。"
+    ],
+    [
+     "The online booking system is currently down.",
+     "線上預訂系統目前無法運作。"
+    ],
+    [
+     "We need to make a booking for ten people.",
+     "我們需要預訂十個人的位置。"
+    ]
+   ]
+  },
+  {
+   "word": "cheerful",
+   "ph": "/ˈtʃɪrfl/",
+   "pos": "adj. 愉快的；高興的",
+   "zh": "愉快的；開朗的",
+   "colloc": "cheerful atmosphere 愉快的氣氛 | in a cheerful mood 心情愉悅",
+   "distinct": "happy 快樂的 | optimistic 樂觀的",
+   "ex": [
+    [
+     "The new office has a cheerful and bright design.",
+     "新辦公室設計得既愉快又明亮。"
+    ],
+    [
+     "She always maintains a cheerful attitude at work.",
+     "她在工作中總是保持愉快的態度。"
+    ],
+    [
+     "The team received cheerful news regarding the merger.",
+     "團隊收到了關於合併的愉快消息。"
+    ]
+   ]
+  },
+  {
+   "word": "column",
+   "ph": "/ˈkɑːləm/",
+   "pos": "n. 專欄；縱列",
+   "zh": "專欄；圓柱；縱列",
+   "colloc": "weekly column 每週專欄 | opinion column 意見專欄",
+   "distinct": "article 文章 | paragraph 段落",
+   "ex": [
+    [
+     "Please fill in the data in the last column.",
+     "請填寫最後一欄的數據。"
+    ],
+    [
+     "He writes a business column for the newspaper.",
+     "他為該報紙撰寫商業專欄。"
+    ],
+    [
+     "The table contains four columns and five rows.",
+     "該表格包含四欄五列。"
+    ]
+   ]
+  },
+  {
+   "word": "convincing",
+   "ph": "/kənˈvɪnsɪŋ/",
+   "pos": "adj. 有說服力的",
+   "zh": "有說服力的；令人信服的",
+   "colloc": "convincing argument 有力的論點 | convincing evidence 有力證據",
+   "distinct": "persuasive 具勸說力的 | impressive 令人印象深刻的",
+   "ex": [
+    [
+     "The candidate gave a very convincing presentation.",
+     "該候選人做了非常有說服力的簡報。"
+    ],
+    [
+     "She provided convincing evidence to support the claim.",
+     "她提供了有說服力的證據來支持該主張。"
+    ],
+    [
+     "Your reasoning is quite convincing to the board.",
+     "你的推論對董事會來說相當有說服力。"
+    ]
+   ]
+  },
+  {
+   "word": "council",
+   "ph": "/ˈkaʊnsl/",
+   "pos": "n. 委員會；地方議會",
+   "zh": "委員會；議會",
+   "colloc": "city council 市議會 | advisory council 諮詢委員會",
+   "distinct": "committee 小組（處理特定事務）| board 董事會",
+   "ex": [
+    [
+     "The city council approved the new construction plan.",
+     "市議會批准了新的建設方案。"
+    ],
+    [
+     "The advisory council will meet later this afternoon.",
+     "諮詢委員會將於今天下午稍後開會。"
+    ],
+    [
+     "She represents her department on the safety council.",
+     "她代表部門參加安全委員會。"
+    ]
+   ]
+  },
+  {
+   "word": "depressed",
+   "ph": "/dɪˈprest/",
+   "pos": "adj. 沮喪的；蕭條的",
+   "zh": "沮喪的；蕭條的",
+   "colloc": "feel depressed 感到沮喪 | depressed market 蕭條市場",
+   "distinct": "sad 難過的 | discouraged 灰心的",
+   "ex": [
+    [
+     "The local economy remained depressed for several years.",
+     "當地經濟維持蕭條了好幾年。"
+    ],
+    [
+     "Employees felt depressed due to the pay cuts.",
+     "員工因為減薪而感到沮喪。"
+    ],
+    [
+     "High unemployment led to a depressed retail sector.",
+     "高失業率導致零售業蕭條。"
+    ]
+   ]
+  },
+  {
+   "word": "draft",
+   "ph": "/dræft/",
+   "pos": "n. 草稿 | v. 起草",
+   "zh": "草稿；草案；起草",
+   "colloc": "first draft 初稿 | draft a contract 起草合約",
+   "distinct": "sketch 草圖 | outline 大綱",
+   "ex": [
+    [
+     "Could you help me draft the new policy?",
+     "你可以幫我起草新政策嗎？"
+    ],
+    [
+     "I have finished the first draft of the report.",
+     "我已經完成了報告的初稿。"
+    ],
+    [
+     "Please review the draft before the final version.",
+     "請在定稿前審閱這份草案。"
+    ]
+   ]
+  },
+  {
+   "word": "fortune",
+   "ph": "/ˈfɔːrtʃən/",
+   "pos": "n. 財富；運氣",
+   "zh": "財富；運氣；機運",
+   "colloc": "make a fortune 發大財 | good fortune 好運",
+   "distinct": "wealth 財富（總體）| luck 運氣（隨機）",
+   "ex": [
+    [
+     "He made a fortune in the real estate market.",
+     "他在房地產市場發了一筆財。"
+    ],
+    [
+     "It was a matter of good fortune to be selected.",
+     "能夠被選中純屬運氣好。"
+    ],
+    [
+     "The company spent a fortune on the renovation.",
+     "公司在翻修上花了一大筆錢。"
+    ]
+   ]
+  },
+  {
+   "word": "generous",
+   "ph": "/ˈdʒenərəs/",
+   "pos": "adj. 慷慨的；大方的",
+   "zh": "慷慨的；大方的；豐厚的",
+   "colloc": "generous donation 慷慨捐贈 | generous offer 優渥條件",
+   "distinct": "kind 親切的 | charitable 慈善的",
+   "ex": [
+    [
+     "The company offers a generous benefits package.",
+     "公司提供優渥的福利方案。"
+    ],
+    [
+     "We appreciate your generous support for our event.",
+     "我們感謝您對活動的慷慨支持。"
+    ],
+    [
+     "She made a generous donation to the local hospital.",
+     "她對當地醫院進行了慷慨的捐贈。"
+    ]
+   ]
+  },
+  {
+   "word": "green",
+   "ph": "/ɡriːn/",
+   "pos": "adj. 綠色的；環保的",
+   "zh": "綠色的；環保的；無經驗的",
+   "colloc": "green energy 綠色能源 | green building 環保建築",
+   "distinct": "eco-friendly 環保的 | environmental 環境的",
+   "ex": [
+    [
+     "Our firm focuses on green technology solutions.",
+     "我們公司專注於綠色技術解決方案。"
+    ],
+    [
+     "More companies are adopting green building practices.",
+     "越來越多公司採用環保建築實務。"
+    ],
+    [
+     "They aim to make the supply chain more green.",
+     "他們的目標是讓供應鏈更環保。"
+    ]
+   ]
+  },
+  {
+   "word": "instrument",
+   "ph": "/ˈɪnstrəmənt/",
+   "pos": "n. 儀器；樂器；手段",
+   "zh": "儀器；工具；樂器",
+   "colloc": "measuring instrument 測量儀器 | musical instrument 樂器",
+   "distinct": "tool 工具（手動）| device 裝置（小型設備）",
+   "ex": [
+    [
+     "The technician calibrated the instrument carefully.",
+     "技術員仔細校準了測量儀器。"
+    ],
+    [
+     "Data collection is an important instrument for research.",
+     "資料收集是研究的重要工具。"
+    ],
+    [
+     "We need to purchase a new testing instrument.",
+     "我們需要採購一台新的測試儀器。"
+    ]
+   ]
+  },
+  {
+   "word": "justly",
+   "ph": "/ˈdʒʌstli/",
+   "pos": "adv. 公正地；應得地",
+   "zh": "公正地；正當地",
+   "colloc": "justly rewarded 得到應得的回報 | justly criticized 被公正地批評",
+   "distinct": "fairly 公平地 | rightly 正當地",
+   "ex": [
+    [
+     "The manager was justly rewarded for his hard work.",
+     "經理因其辛勤工作而得到應得的回報。"
+    ],
+    [
+     "The decision was justly criticized by the board.",
+     "該決定受到了董事會公正的批評。"
+    ],
+    [
+     "All employees should be treated justly and equally.",
+     "所有員工都應被公正平等地對待。"
+    ]
+   ]
+  },
+  {
+   "word": "mistakenly",
+   "ph": "/mɪˈsteɪkənli/",
+   "pos": "adv. 錯誤地；誤以為",
+   "zh": "錯誤地；搞錯地",
+   "colloc": "mistakenly believed 錯誤地認為 | mistakenly sent 誤寄",
+   "distinct": "wrongly 錯誤地（反對）| incorrectly 不正確地",
+   "ex": [
+    [
+     "I mistakenly sent the email to the wrong person.",
+     "我錯誤地將郵件寄給了錯的人。"
+    ],
+    [
+     "They mistakenly believed the deal was already closed.",
+     "他們錯誤地認為交易已經結束。"
+    ],
+    [
+     "The package was mistakenly delivered to our office.",
+     "包裹被錯誤地送到我們辦公室。"
+    ]
+   ]
+  }
+ ]
+}

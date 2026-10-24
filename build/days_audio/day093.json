@@ -1,0 +1,448 @@
+{
+ "day": 93,
+ "theme": "教材片語・中高階 750–850 第 29 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "public display",
+   "ph": "",
+   "pos": "phr. 公開展示",
+   "zh": "公開展示；公眾陳列",
+   "colloc": "for public display 供公開展示 | public display of affection 公眾放閃",
+   "distinct": "exhibition 展覽會 | demonstration 示範說明",
+   "ex": [
+    [
+     "The artwork is now on public display at the lobby.",
+     "這件藝術品目前在大廳公開展示。"
+    ],
+    [
+     "These documents are not for public display.",
+     "這些文件不適合對外公開展示。"
+    ],
+    [
+     "He made a public display of his frustration.",
+     "他公開表現出了他的挫折感。"
+    ]
+   ]
+  },
+  {
+   "word": "public holiday",
+   "ph": "",
+   "pos": "phr. 國定假日",
+   "zh": "國定假日；公眾假期",
+   "colloc": "during a public holiday 在國定假日期間 | observe a public holiday 慶祝國定假日",
+   "distinct": "vacation 個人假期 | day off 休假日",
+   "ex": [
+    [
+     "The office will be closed on the public holiday.",
+     "辦公室將在國定假日當天關閉。"
+    ],
+    [
+     "We usually travel abroad during the public holiday.",
+     "我們通常在國定假日期間出國旅遊。"
+    ],
+    [
+     "Staff are entitled to pay for the public holiday.",
+     "員工有權領取國定假日的薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "pull up",
+   "ph": "",
+   "pos": "phr. 拉起；（車）停下",
+   "zh": "拉起；停下；糾正",
+   "colloc": "pull up to the curb 靠邊停車 | pull up a chair 拉張椅子過來",
+   "distinct": "stop 停止 | pull over 路邊停車",
+   "ex": [
+    [
+     "Please pull up a chair and join the meeting.",
+     "請拉張椅子過來加入會議。"
+    ],
+    [
+     "The delivery truck pulled up in front of the store.",
+     "貨車停在商店門口。"
+    ],
+    [
+     "Management pulled him up for his frequent tardiness.",
+     "管理層因他頻繁遲到而糾正了他的行為。"
+    ]
+   ]
+  },
+  {
+   "word": "market share",
+   "ph": "",
+   "pos": "phr. 市場佔有率",
+   "zh": "市場佔有率；市占率",
+   "colloc": "gain market share 擴大市占率 | lose market share 失去市占率",
+   "distinct": "market segment 市場區隔 | competitive advantage 競爭優勢",
+   "ex": [
+    [
+     "The company aims to increase its market share by 5%.",
+     "公司目標是將市占率提升百分之五。"
+    ],
+    [
+     "We are losing market share to new competitors.",
+     "我們正因新對手而流失市占率。"
+    ],
+    [
+     "The firm holds the largest market share in the industry.",
+     "該公司擁有業界最大的市場佔有率。"
+    ]
+   ]
+  },
+  {
+   "word": "put a rush",
+   "ph": "",
+   "pos": "phr. 加急；催促",
+   "zh": "加急處理；催促",
+   "colloc": "put a rush on an order 訂單加急 | put a rush on the project 專案趕工",
+   "distinct": "hurry up 趕快 | prioritize 優先處理",
+   "ex": [
+    [
+     "Can you put a rush on this shipping request?",
+     "你能將這項運送請求加急處理嗎？"
+    ],
+    [
+     "The client put a rush on the design document.",
+     "客戶要求這份設計文件加急。"
+    ],
+    [
+     "We had to put a rush on the final production.",
+     "我們必須對最後生產階段進行趕工。"
+    ]
+   ]
+  },
+  {
+   "word": "record high",
+   "ph": "",
+   "pos": "phr. 歷史新高",
+   "zh": "歷史新高；最高紀錄",
+   "colloc": "reach a record high 達到歷史新高 | hit a record high 創下最高紀錄",
+   "distinct": "peak 頂峰 | all-time high 史上最高",
+   "ex": [
+    [
+     "Inflation has reached a record high this quarter.",
+     "通貨膨脹在本季達到了歷史新高。"
+    ],
+    [
+     "Our sales figures hit a record high in June.",
+     "我們的銷售額在六月創下歷史新高。"
+    ],
+    [
+     "The stock price climbed to a record high today.",
+     "股價今日攀升至歷史新高。"
+    ]
+   ]
+  },
+  {
+   "word": "reference letter",
+   "ph": "",
+   "pos": "phr. 推薦信",
+   "zh": "推薦信；介紹信",
+   "colloc": "write a reference letter 寫推薦信 | request a reference letter 要求推薦信",
+   "distinct": "resume 履歷表 | recommendation 推薦",
+   "ex": [
+    [
+     "She asked her former boss for a reference letter.",
+     "她向以前的老闆要求寫一封推薦信。"
+    ],
+    [
+     "A strong reference letter can help you get hired.",
+     "強而有力的推薦信能幫你被錄取。"
+    ],
+    [
+     "Please submit a reference letter with your application.",
+     "請在申請時附上一封推薦信。"
+    ]
+   ]
+  },
+  {
+   "word": "release date",
+   "ph": "",
+   "pos": "phr. 發布日期",
+   "zh": "發布日期；上市日期",
+   "colloc": "postpone the release date 延後發布日期 | announce the release date 宣布上市日期",
+   "distinct": "launch date 產品發表日 | deadline 截止日期",
+   "ex": [
+    [
+     "The official release date of the game is Friday.",
+     "這款遊戲的正式發布日期是星期五。"
+    ],
+    [
+     "We need to confirm the product release date soon.",
+     "我們需要盡快確認產品上市日期。"
+    ],
+    [
+     "The release date was moved up to next week.",
+     "發布日期被提前到下週。"
+    ]
+   ]
+  },
+  {
+   "word": "respond to",
+   "ph": "",
+   "pos": "phr. 回應；回答",
+   "zh": "回應；答覆；反應",
+   "colloc": "respond to an email 回覆郵件 | respond to a complaint 回應客訴",
+   "distinct": "reply to 回覆 | react to 對...做出反應",
+   "ex": [
+    [
+     "You should respond to his inquiry as soon as possible.",
+     "你應該盡快回應他的詢問。"
+    ],
+    [
+     "The company responded to the crisis very quickly.",
+     "公司對這場危機的回應非常迅速。"
+    ],
+    [
+     "Please respond to the invitation by tomorrow morning.",
+     "請在明天早上前回應這份邀請。"
+    ]
+   ]
+  },
+  {
+   "word": "retirement plan",
+   "ph": "",
+   "pos": "phr. 退休計畫",
+   "zh": "退休計畫；退休金方案",
+   "colloc": "contribute to a retirement plan 存入退休金 | discuss a retirement plan 討論退休方案",
+   "distinct": "pension 年金 | 401(k) 美國退休儲蓄計畫",
+   "ex": [
+    [
+     "The company offers an excellent retirement plan.",
+     "公司提供了一項優渥的退休金方案。"
+    ],
+    [
+     "I need to start contributing to my retirement plan.",
+     "我需要開始為我的退休計畫存錢。"
+    ],
+    [
+     "She is reviewing her long-term retirement plan.",
+     "她正在檢視她長期的退休計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "return a phone call",
+   "ph": "",
+   "pos": "phr. 回覆電話",
+   "zh": "回覆電話；回電",
+   "colloc": "promptly return a phone call 即時回電 | expect to return a phone call 等待回電",
+   "distinct": "make a call 打電話 | call back 回撥",
+   "ex": [
+    [
+     "I will return your phone call after the meeting.",
+     "會議結束後我會回覆你的電話。"
+    ],
+    [
+     "He failed to return the phone call yesterday.",
+     "他昨天沒能回覆那通電話。"
+    ],
+    [
+     "Make sure to return the phone call to the client.",
+     "務必記得回電給客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "rising cost",
+   "ph": "",
+   "pos": "phr. 上漲的成本",
+   "zh": "成本上升；漲價",
+   "colloc": "cope with rising costs 應對成本上漲 | impact of rising costs 成本上升的影響",
+   "distinct": "inflation 通貨膨脹 | price hike 價格猛漲",
+   "ex": [
+    [
+     "We are struggling with the rising costs of raw materials.",
+     "我們正為了原物料成本上升而苦惱。"
+    ],
+    [
+     "The rising costs are affecting our profit margins.",
+     "成本上升正影響著我們的利潤空間。"
+    ],
+    [
+     "Management is looking for ways to cut rising costs.",
+     "管理層正在尋找削減成本上升的方法。"
+    ]
+   ]
+  },
+  {
+   "word": "roll out",
+   "ph": "",
+   "pos": "phr. 推出；發表",
+   "zh": "推出（新產品）；實施（新計畫）",
+   "colloc": "roll out a new strategy 實施新策略 | roll out a product 推出新產品",
+   "distinct": "launch 發表 | introduce 引進",
+   "ex": [
+    [
+     "The company will roll out the new software next month.",
+     "公司將在下個月推出這款新軟體。"
+    ],
+    [
+     "They are ready to roll out the marketing campaign.",
+     "他們準備好執行這項行銷活動了。"
+    ],
+    [
+     "The new policy will be rolled out gradually.",
+     "這項新政策將會逐步實施。"
+    ]
+   ]
+  },
+  {
+   "word": "round trip",
+   "ph": "",
+   "pos": "phr. 來回；往返",
+   "zh": "來回行程；往返票",
+   "colloc": "book a round trip 預訂來回票 | round trip ticket 來回機票",
+   "distinct": "one-way 單程 | transit 過境",
+   "ex": [
+    [
+     "I bought a round trip ticket for the business trip.",
+     "我買了這次出差的來回機票。"
+    ],
+    [
+     "The round trip takes about four hours in total.",
+     "整趟來回行程總共大約四小時。"
+    ],
+    [
+     "We offer a discount on all round trip fares.",
+     "我們為所有往返票價提供折扣。"
+    ]
+   ]
+  },
+  {
+   "word": "run a campaign",
+   "ph": "",
+   "pos": "phr. 進行活動",
+   "zh": "發起活動；執行廣告行銷",
+   "colloc": "run a marketing campaign 進行行銷活動 | run a campaign for the project 為專案執行活動",
+   "distinct": "launch a campaign 發起運動 | execute a plan 執行計畫",
+   "ex": [
+    [
+     "They are running a campaign to promote the new model.",
+     "他們正在進行一項活動來推廣新機型。"
+    ],
+    [
+     "We decided to run a campaign on social media.",
+     "我們決定在社群媒體上執行行銷活動。"
+    ],
+    [
+     "The non-profit is running a campaign for donations.",
+     "該非營利組織正在發起一項捐款活動。"
+    ]
+   ]
+  },
+  {
+   "word": "run an article",
+   "ph": "",
+   "pos": "phr. 刊登文章",
+   "zh": "刊登文章；報導",
+   "colloc": "run an article in the paper 在報紙刊登文章 | run an article online 在線上發表文章",
+   "distinct": "publish 出版 | print 印刷",
+   "ex": [
+    [
+     "The magazine will run an article about our success.",
+     "這本雜誌將會刊登一篇關於我們成功的文章。"
+    ],
+    [
+     "Did you see the article they ran in the news?",
+     "你有看到他們在新聞中報導的那篇文章嗎？"
+    ],
+    [
+     "The editor decided to run an article on climate change.",
+     "編輯決定刊登一篇關於氣候變遷的文章。"
+    ]
+   ]
+  },
+  {
+   "word": "run in several directions",
+   "ph": "",
+   "pos": "phr. 多頭馬車；無序發展",
+   "zh": "同時往多個方向進行；各自為政",
+   "colloc": "projects run in several directions 專案多頭並進 | teams run in several directions 團隊各行其是",
+   "distinct": "diversify 多元化 | diverge 分歧",
+   "ex": [
+    [
+     "The project seems to be running in several directions at once.",
+     "這個專案看起來正處於多頭馬車的狀態。"
+    ],
+    [
+     "When teams run in several directions, efficiency drops.",
+     "當團隊各自為政時，效率就會下降。"
+    ],
+    [
+     "Our efforts shouldn't run in several directions simultaneously.",
+     "我們的努力不應該同時發散往多個方向。"
+    ]
+   ]
+  },
+  {
+   "word": "run late",
+   "ph": "",
+   "pos": "phr. 遲到；延誤",
+   "zh": "遲到；進度延誤",
+   "colloc": "run late for a meeting 會議遲到 | run late with a report 報告進度延誤",
+   "distinct": "behind schedule 進度落後 | delayed 延遲",
+   "ex": [
+    [
+     "I am running late for the morning conference call.",
+     "我早上那場電話會議要遲到了。"
+    ],
+    [
+     "The train is running late due to bad weather.",
+     "因為天氣惡劣，火車誤點了。"
+    ],
+    [
+     "We are running late with the quarterly report submission.",
+     "我們繳交季報的進度有些延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "run out of",
+   "ph": "",
+   "pos": "phr. 用完；耗盡",
+   "zh": "用盡；耗盡",
+   "colloc": "run out of stock 庫存不足 | run out of time 時間用盡",
+   "distinct": "consume 消耗 | deplete 用光",
+   "ex": [
+    [
+     "We have run out of printer paper in the office.",
+     "辦公室的印表機紙張用完了。"
+    ],
+    [
+     "We are running out of time to finish the task.",
+     "我們快沒時間完成這項任務了。"
+    ],
+    [
+     "The company ran out of budget for the project.",
+     "公司為該專案準備的預算已經耗盡。"
+    ]
+   ]
+  },
+  {
+   "word": "runner up",
+   "ph": "",
+   "pos": "phr. 第二名；亞軍",
+   "zh": "亞軍；次優勝者",
+   "colloc": "the first runner up 第一亞軍 | announce the runner up 宣布亞軍",
+   "distinct": "winner 冠軍 | finalist 決賽入圍者",
+   "ex": [
+    [
+     "The runner up received a certificate of achievement.",
+     "亞軍獲頒了一張成就證書。"
+    ],
+    [
+     "We were the runner up in the annual design competition.",
+     "我們在年度設計競賽中獲得亞軍。"
+    ],
+    [
+     "The runner up will be invited to the final ceremony.",
+     "亞軍將會受邀參加最後的頒獎典禮。"
+    ]
+   ]
+  }
+ ]
+}

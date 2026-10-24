@@ -1,0 +1,448 @@
+{
+ "day": 80,
+ "theme": "教材片語・中高階 750–850 第 16 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "put down",
+   "ph": "",
+   "pos": "phr. 寫下；付訂金；貶低",
+   "zh": "寫下；支付訂金；貶低",
+   "colloc": "put down in writing 書面記錄 | put down a deposit 支付訂金",
+   "distinct": "write down 寫下（強調資訊） | note down 隨手記下",
+   "ex": [
+    [
+     "Please put down your contact details on this form.",
+     "請在表格上寫下您的聯絡資訊。"
+    ],
+    [
+     "We decided to put down a deposit for the equipment.",
+     "我們決定為這項設備支付訂金。"
+    ],
+    [
+     "Never put down your colleagues during a team meeting.",
+     "在團隊會議中絕不要貶低你的同事。"
+    ]
+   ]
+  },
+  {
+   "word": "put forward",
+   "ph": "",
+   "pos": "phr. 提出（建議、計畫）",
+   "zh": "提出；推薦",
+   "colloc": "put forward a proposal 提出提案 | put forward a suggestion 提出建議",
+   "distinct": "bring up 提及（話題） | propose 提議（較正式）",
+   "ex": [
+    [
+     "Several managers put forward new ideas for the project.",
+     "幾位經理為這項計畫提出了新構想。"
+    ],
+    [
+     "The committee will put forward a candidate for the role.",
+     "委員會將推薦一名候選人擔任該職位。"
+    ],
+    [
+     "She put forward a compelling argument during the negotiation.",
+     "她在談判中提出了具說服力的觀點。"
+    ]
+   ]
+  },
+  {
+   "word": "put in an offer",
+   "ph": "",
+   "pos": "phr. 出價；投標",
+   "zh": "出價；提出報價",
+   "colloc": "put in an offer on a house 對房屋出價 | accept an offer 接受報價",
+   "distinct": "make a bid 競標 | submit a quote 提交報價單",
+   "ex": [
+    [
+     "We decided to put in an offer on the office building.",
+     "我們決定對該辦公大樓出價。"
+    ],
+    [
+     "They put in an offer shortly after the property listing.",
+     "他們在房產刊登後不久就提出了報價。"
+    ],
+    [
+     "Are you planning to put in an offer for this contract?",
+     "你打算為這份合約投標嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "put in for",
+   "ph": "",
+   "pos": "phr. 正式申請（要求）",
+   "zh": "正式申請；要求分配",
+   "colloc": "put in for a transfer 申請調職 | put in for a raise 申請加薪",
+   "distinct": "apply for 申請（通用） | request 要求",
+   "ex": [
+    [
+     "I have decided to put in for a transfer to Tokyo.",
+     "我已經決定申請調職到東京。"
+    ],
+    [
+     "He put in for a week of vacation starting next Monday.",
+     "他申請了從下週一開始的一週假期。"
+    ],
+    [
+     "She put in for a promotion after completing the certification.",
+     "她在完成認證後申請了升遷。"
+    ]
+   ]
+  },
+  {
+   "word": "put into effect",
+   "ph": "",
+   "pos": "phr. 實施；使生效",
+   "zh": "實施；執行；生效",
+   "colloc": "put new policies into effect 實施新政策 | come into effect 開始生效",
+   "distinct": "carry out 執行（任務） | implement 實行（計畫）",
+   "ex": [
+    [
+     "The company will put new safety rules into effect tomorrow.",
+     "公司將於明天實施新的安全規定。"
+    ],
+    [
+     "These changes were put into effect to improve efficiency.",
+     "這些改變是為了提升效率而實施的。"
+    ],
+    [
+     "We are ready to put our strategy into effect immediately.",
+     "我們準備好立即實施我們的策略。"
+    ]
+   ]
+  },
+  {
+   "word": "put up with",
+   "ph": "",
+   "pos": "phr. 忍受；容忍",
+   "zh": "忍受；容忍",
+   "colloc": "put up with the noise 忍受噪音 | put up with the delay 忍受延遲",
+   "distinct": "tolerate 容忍（正式） | stand 忍受（口語）",
+   "ex": [
+    [
+     "We cannot put up with such poor service anymore.",
+     "我們無法再忍受如此糟糕的服務了。"
+    ],
+    [
+     "She has to put up with long commutes every single day.",
+     "她每天都必須忍受長途通勤。"
+    ],
+    [
+     "Employees should not have to put up with a toxic environment.",
+     "員工不該忍受惡劣的工作環境。"
+    ]
+   ]
+  },
+  {
+   "word": "rain or shine",
+   "ph": "",
+   "pos": "phr. 無論天氣好壞；風雨無阻",
+   "zh": "風雨無阻；無論如何",
+   "colloc": "work rain or shine 風雨無阻地工作 | happen rain or shine 無論如何都會發生",
+   "distinct": "no matter what 不管怎樣 | come what may 無論發生什麼",
+   "ex": [
+    [
+     "The outdoor event will continue rain or shine.",
+     "戶外活動將會風雨無阻地舉行。"
+    ],
+    [
+     "Our mail carrier delivers packages rain or shine.",
+     "我們的郵差風雨無阻地派送包裹。"
+    ],
+    [
+     "We will complete this project on time, rain or shine.",
+     "無論如何，我們都會如期完成專案。"
+    ]
+   ]
+  },
+  {
+   "word": "reach a conclusion",
+   "ph": "",
+   "pos": "phr. 得出結論",
+   "zh": "達成結論；得出結論",
+   "colloc": "reach a firm conclusion 達成明確結論 | fail to reach a conclusion 無法達成結論",
+   "distinct": "come to a decision 做出決定 | draw a conclusion 推論出結果",
+   "ex": [
+    [
+     "The board of directors failed to reach a conclusion today.",
+     "董事會今天未能達成結論。"
+    ],
+    [
+     "We carefully reviewed the data to reach a conclusion.",
+     "我們仔細審查數據以得出結論。"
+    ],
+    [
+     "It takes time to reach a conclusion on such complex issues.",
+     "針對如此複雜的問題，需要時間才能得出結論。"
+    ]
+   ]
+  },
+  {
+   "word": "reach the solution",
+   "ph": "",
+   "pos": "phr. 找到解決方案",
+   "zh": "找到解決方法；解決問題",
+   "colloc": "reach the solution quickly 快速找到方法 | reach the optimal solution 達到最佳解",
+   "distinct": "find a way 找到方法 | solve the problem 解決問題",
+   "ex": [
+    [
+     "The team worked together to reach the solution effectively.",
+     "團隊通力合作以有效地找到解決方案。"
+    ],
+    [
+     "We finally reached the solution after several hours of discussion.",
+     "經過數小時討論，我們終於找到解決方法。"
+    ],
+    [
+     "It is difficult to reach the solution without more information.",
+     "沒有更多資訊很難找到解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "react to",
+   "ph": "",
+   "pos": "v. 反應；回應",
+   "zh": "反應；對...做出反應",
+   "colloc": "react to criticism 對批評做出反應 | react to the news 對消息產生反應",
+   "distinct": "respond to 回應（較積極） | reply to 回覆（文字或口頭）",
+   "ex": [
+    [
+     "How did the investors react to the quarterly report?",
+     "投資人對季度報告有什麼反應？"
+    ],
+    [
+     "The market is starting to react to the new regulations.",
+     "市場開始對新法規做出反應。"
+    ],
+    [
+     "Management needs to react to employee feedback promptly.",
+     "管理層需要及時回應員工的反饋。"
+    ]
+   ]
+  },
+  {
+   "word": "real estate sale",
+   "ph": "",
+   "pos": "n. 不動產銷售",
+   "zh": "不動產銷售；房地產交易",
+   "colloc": "manage a real estate sale 管理房地產銷售 | increase real estate sales 增加銷售額",
+   "distinct": "property transaction 房產交易 | housing market 房地產市場",
+   "ex": [
+    [
+     "The real estate sale was finalized late yesterday afternoon.",
+     "不動產銷售在昨天下午晚些時候完成。"
+    ],
+    [
+     "Our firm specializes in commercial real estate sales.",
+     "我們公司專注於商業不動產銷售。"
+    ],
+    [
+     "Interest rates have impacted current real estate sales significantly.",
+     "利率已顯著影響了當前的房地產銷售。"
+    ]
+   ]
+  },
+  {
+   "word": "regular working hours",
+   "ph": "",
+   "pos": "n. 正常上班時間",
+   "zh": "正常工作時間；辦公時間",
+   "colloc": "during regular working hours 在辦公時間內 | outside regular working hours 在非工作時間",
+   "distinct": "office hours 辦公時間 | shift work 輪班工作",
+   "ex": [
+    [
+     "Please call our service center during regular working hours.",
+     "請在正常辦公時間內撥打我們的服務中心。"
+    ],
+    [
+     "Our technicians are available outside of regular working hours.",
+     "我們的技術人員在非工作時間也可提供服務。"
+    ],
+    [
+     "She prefers to complete tasks during regular working hours.",
+     "她傾向於在正常工作時間內完成任務。"
+    ]
+   ]
+  },
+  {
+   "word": "rent out",
+   "ph": "",
+   "pos": "v. 出租",
+   "zh": "租出；出租",
+   "colloc": "rent out an apartment 出租公寓 | rent out office space 出租辦公空間",
+   "distinct": "lease 出租（長期） | rent from 向他人租入",
+   "ex": [
+    [
+     "They plan to rent out the vacant office on the second floor.",
+     "他們計畫將二樓的空辦公室出租。"
+    ],
+    [
+     "Is it profitable to rent out your property as a studio?",
+     "將你的房產作為工作室出租有利可圖嗎？"
+    ],
+    [
+     "The owner decided to rent out the building to a startup.",
+     "屋主決定將該建築出租給一家新創公司。"
+    ]
+   ]
+  },
+  {
+   "word": "repair person",
+   "ph": "",
+   "pos": "n. 維修人員",
+   "zh": "維修人員；修理工",
+   "colloc": "call a repair person 請維修人員 | wait for a repair person 等候維修人員",
+   "distinct": "technician 技術人員 | handyman 雜務工",
+   "ex": [
+    [
+     "I have scheduled a repair person to fix the printer.",
+     "我已預約維修人員來修理印表機。"
+    ],
+    [
+     "The repair person arrived earlier than expected this morning.",
+     "維修人員今天早上比預期提早到達。"
+    ],
+    [
+     "Ask the repair person to provide a written estimate.",
+     "請維修人員提供一份書面估價單。"
+    ]
+   ]
+  },
+  {
+   "word": "report a problem",
+   "ph": "",
+   "pos": "v. 回報問題",
+   "zh": "回報問題；反映問題",
+   "colloc": "report a problem to IT 回報問題給資訊部 | report a technical problem 回報技術問題",
+   "distinct": "file a complaint 提出投訴 | inform of an issue 通知某問題",
+   "ex": [
+    [
+     "Please report any problem you encounter with the software.",
+     "請回報您在使用該軟體時遇到的任何問題。"
+    ],
+    [
+     "He went to the manager to report a problem with the line.",
+     "他向經理報告生產線出現的問題。"
+    ],
+    [
+     "Customers can report a problem via our official website.",
+     "客戶可以透過我們的官方網站回報問題。"
+    ]
+   ]
+  },
+  {
+   "word": "restricted area",
+   "ph": "",
+   "pos": "n. 受限區域",
+   "zh": "限制區域；管制區",
+   "colloc": "enter a restricted area 進入管制區 | access to restricted areas 進入管制區的權限",
+   "distinct": "private property 私人領地 | prohibited zone 禁止區域",
+   "ex": [
+    [
+     "Only authorized personnel may enter this restricted area.",
+     "只有授權人員可以進入此管制區。"
+    ],
+    [
+     "The warehouse is a restricted area for safety reasons.",
+     "基於安全理由，倉庫屬於限制區域。"
+    ],
+    [
+     "Please stay away from the restricted area near the construction site.",
+     "請遠離工地附近的管制區。"
+    ]
+   ]
+  },
+  {
+   "word": "road construction",
+   "ph": "",
+   "pos": "n. 道路施工",
+   "zh": "道路施工；修路工程",
+   "colloc": "undergo road construction 進行道路施工 | delay due to road construction 因修路而延遲",
+   "distinct": "road work 道路工程（通用） | infrastructure project 基礎建設專案",
+   "ex": [
+    [
+     "Road construction will begin on the main highway tomorrow.",
+     "主要公路的道路施工明天將會開始。"
+    ],
+    [
+     "Expect traffic delays caused by ongoing road construction.",
+     "由於進行中的道路施工，請預期交通會有所延誤。"
+    ],
+    [
+     "We had to change our route because of road construction.",
+     "我們因為道路施工必須改變路線。"
+    ]
+   ]
+  },
+  {
+   "word": "road sign",
+   "ph": "",
+   "pos": "n. 道路標誌",
+   "zh": "路標；道路號誌",
+   "colloc": "follow a road sign 遵守路標 | ignore a road sign 忽略路標",
+   "distinct": "traffic light 紅綠燈 | street sign 街道名稱牌",
+   "ex": [
+    [
+     "The road sign clearly indicated the speed limit ahead.",
+     "路標清楚地標示了前方的限速。"
+    ],
+    [
+     "You should pay attention to every road sign while driving.",
+     "駕駛時應注意每一個道路標誌。"
+    ],
+    [
+     "The obscured road sign made it difficult to find the turn.",
+     "被遮住的路標讓人很難找到轉彎處。"
+    ]
+   ]
+  },
+  {
+   "word": "road work",
+   "ph": "",
+   "pos": "n. 道路工程",
+   "zh": "道路工程；修路",
+   "colloc": "heavy road work 大規模道路工程 | notify of road work 通知道路工程",
+   "distinct": "construction site 工地 | street maintenance 街道維護",
+   "ex": [
+    [
+     "There is significant road work happening in the city center.",
+     "市中心正在進行重大的道路工程。"
+    ],
+    [
+     "The city council announced road work for the next month.",
+     "市議會宣布了下個月的道路工程。"
+    ],
+    [
+     "Plan your commute carefully during this period of road work.",
+     "在這段道路工程期間，請妥善規劃你的通勤。"
+    ]
+   ]
+  },
+  {
+   "word": "run a meeting",
+   "ph": "",
+   "pos": "v. 主持會議",
+   "zh": "主持會議；運作會議",
+   "colloc": "run a meeting efficiently 有效主持會議 | run a weekly meeting 每週主持會議",
+   "distinct": "chair a meeting 主席主持會議 | lead a discussion 引導討論",
+   "ex": [
+    [
+     "She knows how to run a meeting and keep it brief.",
+     "她知道如何主持會議並保持簡短。"
+    ],
+    [
+     "The CEO will run a meeting regarding the new merger.",
+     "執行長將主持一場關於新合併案的會議。"
+    ],
+    [
+     "It is challenging to run a meeting with so many participants.",
+     "主持一場有這麼多參與者的會議很有挑戰性。"
+    ]
+   ]
+  }
+ ]
+}

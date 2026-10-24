@@ -1,0 +1,448 @@
+{
+ "day": 37,
+ "theme": "教材字彙・進階 650–750 第 37 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "save",
+   "ph": "/seɪv/",
+   "pos": "v. 儲存；節省；挽救",
+   "zh": "儲存；節省；挽救",
+   "colloc": "save money 存錢 | save time 節省時間",
+   "distinct": "preserve 保存；維護 | rescue 營救",
+   "ex": [
+    [
+     "Please save your document before closing the program.",
+     "關閉程式前請儲存您的文件。"
+    ],
+    [
+     "These new machines will save us much energy.",
+     "這些新機器能為我們節省許多能源。"
+    ],
+    [
+     "Installing the software helped save the failing project.",
+     "安裝該軟體有助於挽救那個失敗中的專案。"
+    ]
+   ]
+  },
+  {
+   "word": "seed",
+   "ph": "/siːd/",
+   "pos": "n. 種子 | v. 播種；激發",
+   "zh": "種子；起源",
+   "colloc": "plant seeds 種下種子 | seed money 創業資金",
+   "distinct": "grain 穀物 | pit 果核",
+   "ex": [
+    [
+     "The initial investment provided the seed for our expansion.",
+     "這筆初始投資為我們的擴張提供了種子資金。"
+    ],
+    [
+     "We need to plant the seeds of innovation in this team.",
+     "我們需要在團隊中播下創新的種子。"
+    ],
+    [
+     "The company was founded with very little seed capital.",
+     "這家公司成立時的創業資金非常少。"
+    ]
+   ]
+  },
+  {
+   "word": "send",
+   "ph": "/send/",
+   "pos": "v. 發送；寄送；派遣",
+   "zh": "發送；寄送；派遣",
+   "colloc": "send an email 發送電子郵件 | send a report 寄送報告",
+   "distinct": "deliver 遞送 | ship 運送（貨物）",
+   "ex": [
+    [
+     "Did you send the updated proposal to the client?",
+     "你有將更新後的企劃書寄給客戶嗎？"
+    ],
+    [
+     "Management will send a representative to the trade show.",
+     "管理層將派遣一名代表參加貿易展。"
+    ],
+    [
+     "Please send the invoice to our accounting department.",
+     "請將發票寄給我們的會計部門。"
+    ]
+   ]
+  },
+  {
+   "word": "shadow",
+   "ph": "/ˈʃædəʊ/",
+   "pos": "n. 陰影；影子 | v. 跟隨；監督",
+   "zh": "陰影；影子；關聯物",
+   "colloc": "cast a shadow 投下陰影 | shadow cabinet 影子內閣",
+   "distinct": "shade 遮蔭處 | silhouette 剪影",
+   "ex": [
+    [
+     "The recent scandal cast a shadow over our reputation.",
+     "近期的醜聞為我們的名聲蒙上了陰影。"
+    ],
+    [
+     "New interns will shadow senior staff for two weeks.",
+     "新進實習生將會跟隨資深員工實習兩週。"
+    ],
+    [
+     "Our growth is no longer under the shadow of competitors.",
+     "我們的成長已不再受競爭對手的陰影籠罩。"
+    ]
+   ]
+  },
+  {
+   "word": "single",
+   "ph": "/ˈsɪŋɡl/",
+   "pos": "adj. 單一的；單身的 | n. 單人房；單曲",
+   "zh": "單一的；單獨的",
+   "colloc": "single out 選出 | single room 單人房",
+   "distinct": "sole 唯一的 | individual 個人的",
+   "ex": [
+    [
+     "Every single employee must attend the mandatory training.",
+     "每一位員工都必須參加強制性的培訓。"
+    ],
+    [
+     "The manager decided to single out the best performer.",
+     "經理決定特別表揚那位表現最好的人。"
+    ],
+    [
+     "We do not have a single doubt about this strategy.",
+     "我們對這項策略沒有任何懷疑。"
+    ]
+   ]
+  },
+  {
+   "word": "source",
+   "ph": "/sɔːrs/",
+   "pos": "n. 來源；發源地 | v. 尋找貨源；獲取",
+   "zh": "來源；來源地",
+   "colloc": "source of income 收入來源 | reliable source 可靠來源",
+   "distinct": "resource 資源 | origin 起源",
+   "ex": [
+    [
+     "The report cites several sources for the market data.",
+     "該報告引用了幾個市場數據的來源。"
+    ],
+    [
+     "We are looking to source high-quality materials locally.",
+     "我們正設法在地尋找高品質的材料貨源。"
+    ],
+    [
+     "This website is a great source of industry news.",
+     "這個網站是產業新聞的絕佳來源。"
+    ]
+   ]
+  },
+  {
+   "word": "southern",
+   "ph": "/ˈsʌðərn/",
+   "pos": "adj. 南方的；向南的",
+   "zh": "南方的",
+   "colloc": "southern region 南部地區 | southern market 南方市場",
+   "distinct": "south 南方（名詞）| southerly 向南的",
+   "ex": [
+    [
+     "We are expanding our services to the southern states.",
+     "我們正在將業務拓展至南方各州。"
+    ],
+    [
+     "The southern branch achieved record profits this quarter.",
+     "南方分公司本季創下了獲利紀錄。"
+    ],
+    [
+     "A southern wind is bringing warmer weather today.",
+     "南風今天帶來了較溫暖的天氣。"
+    ]
+   ]
+  },
+  {
+   "word": "spray",
+   "ph": "/spreɪ/",
+   "pos": "n. 噴霧；噴劑 | v. 噴灑；噴射",
+   "zh": "噴霧；噴灑",
+   "colloc": "spray paint 噴漆 | cleaning spray 清潔噴霧",
+   "distinct": "sprinkle 灑 | splash 潑灑",
+   "ex": [
+    [
+     "The warehouse needs a spray to prevent insect damage.",
+     "倉庫需要噴灑藥劑以防止蟲害。"
+    ],
+    [
+     "Workers use a special spray to clean the screens.",
+     "員工使用一種特殊的噴霧來清潔螢幕。"
+    ],
+    [
+     "Please do not spray perfume inside the office area.",
+     "請勿在辦公區域噴灑香水。"
+    ]
+   ]
+  },
+  {
+   "word": "staff",
+   "ph": "/stæf/",
+   "pos": "n. 員工；全體職員 | v. 配置人員",
+   "zh": "員工；職員",
+   "colloc": "staff meeting 員工會議 | short-staffed 人手不足",
+   "distinct": "employee 員工（個人）| crew 工作小組",
+   "ex": [
+    [
+     "Our staff will be happy to assist you with inquiries.",
+     "我們的員工將很樂意協助您的諮詢。"
+    ],
+    [
+     "The company is currently short-staffed due to hiring freezes.",
+     "由於凍結招募，公司目前人手不足。"
+    ],
+    [
+     "Experienced staff are essential for maintaining service quality.",
+     "經驗豐富的員工對於維持服務品質至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "stamp",
+   "ph": "/stæmp/",
+   "pos": "n. 郵票；印章 | v. 蓋章；蓋上戳記",
+   "zh": "郵票；印章；蓋章",
+   "colloc": "date stamp 日期戳 | rubber stamp 橡皮圖章",
+   "distinct": "seal 印鑑 | label 標籤",
+   "ex": [
+    [
+     "Please remember to place a stamp on the envelope.",
+     "請記得在信封上貼郵票。"
+    ],
+    [
+     "The manager needs to stamp the approval documents today.",
+     "經理今天需要蓋章核准這些文件。"
+    ],
+    [
+     "Every invoice must have a company stamp to be valid.",
+     "每張發票都必須蓋上公司印章才有效。"
+    ]
+   ]
+  },
+  {
+   "word": "stand",
+   "ph": "/stænd/",
+   "pos": "v. 站立；忍受 | n. 立場；攤位",
+   "zh": "站立；忍受；立場",
+   "colloc": "take a stand 表明立場 | stand out 突出",
+   "distinct": "tolerate 容忍 | position 立場",
+   "ex": [
+    [
+     "The company will stand by its commitment to customers.",
+     "公司將堅守對客戶的承諾。"
+    ],
+    [
+     "Our trade show stand received many visitors this morning.",
+     "我們的展覽攤位今天上午接待了許多訪客。"
+    ],
+    [
+     "I cannot stand the noise from the construction site.",
+     "我無法忍受建築工地的噪音。"
+    ]
+   ]
+  },
+  {
+   "word": "stop",
+   "ph": "/stɒp/",
+   "pos": "v. 停止；阻止 | n. 停止；站點",
+   "zh": "停止；阻止；站點",
+   "colloc": "stop by 順道拜訪 | bring to a stop 使停止",
+   "distinct": "cease 終止 | pause 暫停",
+   "ex": [
+    [
+     "The production line came to a stop due to power failure.",
+     "生產線因斷電而停止運作。"
+    ],
+    [
+     "I will stop by your office to discuss the project.",
+     "我會順道去你辦公室討論那個專案。"
+    ],
+    [
+     "Management implemented new rules to stop wasted time.",
+     "管理層實施新規定以杜絕時間浪費。"
+    ]
+   ]
+  },
+  {
+   "word": "stretch",
+   "ph": "/stretʃ/",
+   "pos": "v. 延伸；拉伸 | n. 一段時間；範圍",
+   "zh": "延伸；拉伸；範圍",
+   "colloc": "stretch goals 挑戰性目標 | at a stretch 連續地",
+   "distinct": "expand 擴張 | extend 延長",
+   "ex": [
+    [
+     "We set stretch goals to motivate our sales team.",
+     "我們設定了挑戰性目標來激勵業務團隊。"
+    ],
+    [
+     "The deadline was stretched to allow for more revisions.",
+     "截止日期被延後了，以便進行更多修訂。"
+    ],
+    [
+     "Work on this project will stretch over three months.",
+     "這項專案的工作將會持續超過三個月。"
+    ]
+   ]
+  },
+  {
+   "word": "temperature",
+   "ph": "/ˈtemprətʃər/",
+   "pos": "n. 溫度；氣溫；體溫",
+   "zh": "溫度；氣溫",
+   "colloc": "room temperature 室溫 | high temperature 高溫",
+   "distinct": "climate 氣候 | weather 天氣",
+   "ex": [
+    [
+     "The office temperature should be set to 24 degrees.",
+     "辦公室溫度應該設定在 24 度。"
+    ],
+    [
+     "High temperatures in the server room can cause damage.",
+     "伺服器機房的高溫可能會造成損壞。"
+    ],
+    [
+     "Please keep the samples at room temperature before testing.",
+     "測試前請將樣品保持在室溫下。"
+    ]
+   ]
+  },
+  {
+   "word": "theme",
+   "ph": "/θiːm/",
+   "pos": "n. 主題；題材",
+   "zh": "主題；題材",
+   "colloc": "theme park 主題樂園 | central theme 中心主題",
+   "distinct": "topic 議題 | subject 學科",
+   "ex": [
+    [
+     "The main theme of the conference is digital transformation.",
+     "大會的主題是數位轉型。"
+    ],
+    [
+     "This year's gala will have a vintage design theme.",
+     "今年的晚宴將採用復古設計主題。"
+    ],
+    [
+     "We need to ensure all presentations follow the theme.",
+     "我們必須確保所有簡報都符合該主題。"
+    ]
+   ]
+  },
+  {
+   "word": "trip",
+   "ph": "/trɪp/",
+   "pos": "n. 旅行；出差 | v. 絆倒",
+   "zh": "旅行；出差；絆倒",
+   "colloc": "business trip 出差 | take a trip 去旅行",
+   "distinct": "journey 長途旅行 | voyage 航海",
+   "ex": [
+    [
+     "She is currently away on a business trip to Japan.",
+     "她目前在日本出差。"
+    ],
+    [
+     "The company covers all expenses for the overseas trip.",
+     "公司負擔這趟海外差旅的所有費用。"
+    ],
+    [
+     "Planning the trip requires coordination with the client.",
+     "規劃這趟行程需要與客戶進行協調。"
+    ]
+   ]
+  },
+  {
+   "word": "unlikely",
+   "ph": "/ʌnˈlaɪkli/",
+   "pos": "adj. 不太可能的；未必的",
+   "zh": "不太可能的",
+   "colloc": "highly unlikely 極不可能 | unlikely to happen 不太可能發生",
+   "distinct": "impossible 不可能的 | improbable 難以置信的",
+   "ex": [
+    [
+     "It is unlikely that the merger will be completed soon.",
+     "這項合併案不太可能很快完成。"
+    ],
+    [
+     "They are unlikely to accept our current proposal terms.",
+     "他們不太可能接受我們目前的提案條款。"
+    ],
+    [
+     "Economic growth remains unlikely without further investment.",
+     "若沒有進一步投資，經濟成長看來不太可能。"
+    ]
+   ]
+  },
+  {
+   "word": "upset",
+   "ph": "/ʌpˈset/",
+   "pos": "v. 使心煩；打亂 | adj. 心煩的；不安的",
+   "zh": "使心煩；打亂；不安",
+   "colloc": "upset the plan 打亂計畫 | feel upset 感到沮喪",
+   "distinct": "disturb 打擾 | frustrate 使受挫",
+   "ex": [
+    [
+     "The last-minute changes upset our entire schedule.",
+     "臨時的更動打亂了我們整體的行程。"
+    ],
+    [
+     "Staff were upset about the sudden change in policy.",
+     "員工對於政策的突然改變感到沮喪。"
+    ],
+    [
+     "Please do not upset the arrangement of these files.",
+     "請不要打亂這些文件的排列順序。"
+    ]
+   ]
+  },
+  {
+   "word": "upstairs",
+   "ph": "/ˌʌpˈsteərz/",
+   "pos": "adv. 在樓上；往樓上 | adj. 樓上的",
+   "zh": "在樓上；往樓上",
+   "colloc": "go upstairs 上樓 | upstairs office 樓上的辦公室",
+   "distinct": "downstairs 在樓下 | above 在上方",
+   "ex": [
+    [
+     "The accounting department is located upstairs on the left.",
+     "會計部門位於左手邊的樓上。"
+    ],
+    [
+     "Please move the heavy boxes to the storage room upstairs.",
+     "請將這些重箱子搬到樓上的儲藏室。"
+    ],
+    [
+     "Management holds meetings in the conference room upstairs.",
+     "管理層在樓上的會議室舉行會議。"
+    ]
+   ]
+  },
+  {
+   "word": "useful",
+   "ph": "/ˈjuːsfl/",
+   "pos": "adj. 有用的；實用的",
+   "zh": "有用的；實用的",
+   "colloc": "useful tool 有用的工具 | useful information 有用的資訊",
+   "distinct": "helpful 有幫助的 | practical 實際的",
+   "ex": [
+    [
+     "This software provides many useful features for data analysis.",
+     "這套軟體提供許多用於數據分析的實用功能。"
+    ],
+    [
+     "The feedback from users was extremely useful for developers.",
+     "用戶的回饋對開發人員來說極具參考價值。"
+    ],
+    [
+     "You will find the training manual quite useful later.",
+     "你會發現這本培訓手冊稍後會非常有用。"
+    ]
+   ]
+  }
+ ]
+}

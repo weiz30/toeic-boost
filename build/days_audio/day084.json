@@ -1,0 +1,448 @@
+{
+ "day": 84,
+ "theme": "教材片語・中高階 750–850 第 20 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "arrange a conference",
+   "ph": "",
+   "pos": "phr. 籌備會議",
+   "zh": "籌備會議；安排會議",
+   "colloc": "arrange a meeting 安排會面 | arrange a date 敲定日期",
+   "distinct": "organize a conference 組織會議 | host a conference 主辦會議",
+   "ex": [
+    [
+     "We need to arrange a conference next month.",
+     "我們下個月需要籌備一場會議。"
+    ],
+    [
+     "The secretary is busy arranging a conference.",
+     "秘書正忙於安排會議。"
+    ],
+    [
+     "Please arrange a conference with the supplier.",
+     "請安排與供應商開會。"
+    ]
+   ]
+  },
+  {
+   "word": "as opposed to",
+   "ph": "",
+   "pos": "phr. 與…相對；而不是",
+   "zh": "與…相對；而不是",
+   "colloc": "as opposed to others 與其他人相比 | as opposed to yesterday 與昨天相反",
+   "distinct": "in contrast to 與…形成對比 | instead of 代替",
+   "ex": [
+    [
+     "We focus on quality as opposed to quantity.",
+     "我們專注於品質而非數量。"
+    ],
+    [
+     "The goal is growth as opposed to stability.",
+     "目標是成長而不是穩定。"
+    ],
+    [
+     "Use the new software as opposed to the old one.",
+     "請使用新軟體而非舊的那套。"
+    ]
+   ]
+  },
+  {
+   "word": "aside from",
+   "ph": "",
+   "pos": "phr. 除了…之外",
+   "zh": "除了…之外",
+   "colloc": "aside from that 除了那點之外 | aside from this 除了這點之外",
+   "distinct": "besides 除了…還有（包含） | except for 除了…之外（排除）",
+   "ex": [
+    [
+     "Aside from the cost, the plan is perfect.",
+     "除了成本之外，這項計畫很完美。"
+    ],
+    [
+     "Aside from these tasks, I have other duties.",
+     "除了這些任務，我還有其他職責。"
+    ],
+    [
+     "We are done aside from the final report.",
+     "除了最後的報告，我們都完成了。"
+    ]
+   ]
+  },
+  {
+   "word": "at full speed",
+   "ph": "",
+   "pos": "phr. 全速地",
+   "zh": "全速地；全力地",
+   "colloc": "work at full speed 全力工作 | run at full speed 全速奔跑",
+   "distinct": "at high speed 高速地 | at a fast pace 快節奏地",
+   "ex": [
+    [
+     "The factory is operating at full speed.",
+     "工廠目前正全速運作。"
+    ],
+    [
+     "We are working at full speed to meet deadlines.",
+     "我們正全力趕工以達成期限。"
+    ],
+    [
+     "Production must run at full speed this quarter.",
+     "這季的生產必須全速運作。"
+    ]
+   ]
+  },
+  {
+   "word": "at large",
+   "ph": "",
+   "pos": "phr. 普遍地；總體上",
+   "zh": "普遍地；總體上",
+   "colloc": "the public at large 一般大眾 | society at large 整個社會",
+   "distinct": "in general 一般而言 | on the whole 整體來說",
+   "ex": [
+    [
+     "This issue affects the public at large.",
+     "這個議題影響了一般大眾。"
+    ],
+    [
+     "The decision was supported by society at large.",
+     "該決策得到了整個社會的支持。"
+    ],
+    [
+     "We must consider the concerns of the community at large.",
+     "我們必須考慮整個社區的顧慮。"
+    ]
+   ]
+  },
+  {
+   "word": "at no extra charge",
+   "ph": "",
+   "pos": "phr. 免費；無需額外費用",
+   "zh": "免費；無額外費用",
+   "colloc": "provide at no extra charge 免費提供 | included at no extra charge 免費包含",
+   "distinct": "free of charge 免費 | at no cost 免費",
+   "ex": [
+    [
+     "We provide delivery at no extra charge.",
+     "我們提供免費配送服務。"
+    ],
+    [
+     "Maintenance is included at no extra charge.",
+     "保養服務已免費包含在內。"
+    ],
+    [
+     "The update is available at no extra charge.",
+     "此更新無需額外費用即可取得。"
+    ]
+   ]
+  },
+  {
+   "word": "attend to a client",
+   "ph": "",
+   "pos": "phr. 接待客戶；服務客戶",
+   "zh": "接待客戶；處理客戶事務",
+   "colloc": "attend to a customer 接待顧客 | attend to needs 處理需求",
+   "distinct": "serve a client 服務客戶 | assist a client 協助客戶",
+   "ex": [
+    [
+     "He is attending to a client in the office.",
+     "他正在辦公室接待客戶。"
+    ],
+    [
+     "Staff should attend to a client immediately.",
+     "員工應立即接待客戶。"
+    ],
+    [
+     "She knows how to attend to a client properly.",
+     "她知道如何妥善服務客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "be anxious to do",
+   "ph": "",
+   "pos": "phr. 急於做某事；渴望做某事",
+   "zh": "急於做某事；渴望做某事",
+   "colloc": "be anxious to learn 急於學習 | be anxious to start 急於開始",
+   "distinct": "be eager to do 渴望做… | be keen to do 熱衷於做…",
+   "ex": [
+    [
+     "Management is anxious to do something about it.",
+     "管理層急於針對此事採取行動。"
+    ],
+    [
+     "I am anxious to do well in the interview.",
+     "我渴望在面試中有好表現。"
+    ],
+    [
+     "They are anxious to do business with us.",
+     "他們急於與我們做生意。"
+    ]
+   ]
+  },
+  {
+   "word": "be close to the public",
+   "ph": "",
+   "pos": "phr. 對大眾親近；接近民眾",
+   "zh": "對大眾親近；接近民眾",
+   "colloc": "stay close to the public 與民眾保持聯繫 | remain close to the public 親近大眾",
+   "distinct": "be open to the public 對大眾開放 | be accessible to the public 易於大眾接近",
+   "ex": [
+    [
+     "The brand aims to be close to the public.",
+     "該品牌目標是親近大眾。"
+    ],
+    [
+     "We strive to be close to the public.",
+     "我們致力於與民眾保持聯繫。"
+    ],
+    [
+     "The policy intends to be close to the public.",
+     "這項政策意在貼近民意。"
+    ]
+   ]
+  },
+  {
+   "word": "be close to traffic",
+   "ph": "",
+   "pos": "phr. 靠近車流；靠近交通要道",
+   "zh": "靠近車流；靠近交通要道",
+   "colloc": "located close to traffic 位於交通繁忙處 | stay close to traffic 靠近車道",
+   "distinct": "be near the road 靠近道路 | be in heavy traffic 處於交通擁塞中",
+   "ex": [
+    [
+     "The office is located close to traffic.",
+     "辦公室位於交通要道旁。"
+    ],
+    [
+     "This area is too close to traffic.",
+     "這個區域太靠近車流了。"
+    ],
+    [
+     "The site is not close to traffic noise.",
+     "該場地離交通噪音不遠。"
+    ]
+   ]
+  },
+  {
+   "word": "be designed to do",
+   "ph": "",
+   "pos": "phr. 被設計用來做某事",
+   "zh": "被設計用來做某事",
+   "colloc": "be designed to improve 旨在改善 | be designed to help 旨在協助",
+   "distinct": "be intended for 意圖用於 | be meant to do 旨在做…",
+   "ex": [
+    [
+     "This software is designed to save time.",
+     "這款軟體旨在節省時間。"
+    ],
+    [
+     "The new policy is designed to motivate staff.",
+     "新政策旨在激勵員工。"
+    ],
+    [
+     "Our products are designed to meet high standards.",
+     "我們的產品旨在符合高標準。"
+    ]
+   ]
+  },
+  {
+   "word": "be geared to",
+   "ph": "",
+   "pos": "phr. 針對；適合；調整以適應",
+   "zh": "針對；適合；調整以適應",
+   "colloc": "be geared to needs 針對需求調整 | be geared to users 針對用戶設計",
+   "distinct": "be aimed at 針對… | be tailored to 為…量身打造",
+   "ex": [
+    [
+     "The program is geared to young professionals.",
+     "該計畫是針對年輕專業人士設計的。"
+    ],
+    [
+     "Our services are geared to client success.",
+     "我們的服務旨在促進客戶成功。"
+    ],
+    [
+     "The campaign is geared to global markets.",
+     "這項活動是針對全球市場進行調整。"
+    ]
+   ]
+  },
+  {
+   "word": "be of particular interest to",
+   "ph": "",
+   "pos": "phr. 對…特別有興趣",
+   "zh": "對…特別有興趣",
+   "colloc": "be of interest to users 對用戶有吸引力 | be of interest to us 對我們有意義",
+   "distinct": "be interested in 對…感興趣 | attract the interest of 吸引…的興趣",
+   "ex": [
+    [
+     "This report will be of particular interest to you.",
+     "這份報告會讓你特別感興趣。"
+    ],
+    [
+     "The results are of particular interest to management.",
+     "這些結果讓管理層特別感興趣。"
+    ],
+    [
+     "These findings are of particular interest to researchers.",
+     "這些發現讓研究人員特別感興趣。"
+    ]
+   ]
+  },
+  {
+   "word": "be on a trip",
+   "ph": "",
+   "pos": "phr. 出差中；正在旅行",
+   "zh": "出差中；正在旅行",
+   "colloc": "be on a business trip 出差中 | be on a trip abroad 在國外旅行",
+   "distinct": "go on a trip 去旅行 | take a trip 去旅行",
+   "ex": [
+    [
+     "The manager is on a trip this week.",
+     "經理這週出差不在。"
+    ],
+    [
+     "She is currently on a trip for the company.",
+     "她目前正在為公司出差。"
+    ],
+    [
+     "I will be on a trip until Friday.",
+     "我會出差到週五。"
+    ]
+   ]
+  },
+  {
+   "word": "be on another call",
+   "ph": "",
+   "pos": "phr. 正在通話中",
+   "zh": "正在通話中",
+   "colloc": "busy on another call 正忙於另一個電話 | stay on another call 繼續另一通電話",
+   "distinct": "be on the phone 在講電話 | be unavailable 接聽不了",
+   "ex": [
+    [
+     "He is on another call at the moment.",
+     "他此刻正在通話中。"
+    ],
+    [
+     "The customer is on another call right now.",
+     "客戶目前正在另一通電話上。"
+    ],
+    [
+     "Please wait as she is on another call.",
+     "請稍候，她正在通話中。"
+    ]
+   ]
+  },
+  {
+   "word": "be sensitive to",
+   "ph": "",
+   "pos": "phr. 對…敏感；體貼；靈敏",
+   "zh": "對…敏感；體貼；靈敏",
+   "colloc": "be sensitive to change 對變化敏感 | be sensitive to needs 體貼需求",
+   "distinct": "be aware of 意識到 | be responsive to 對…有回應",
+   "ex": [
+    [
+     "The team is sensitive to market trends.",
+     "團隊對市場趨勢很敏感。"
+    ],
+    [
+     "Be sensitive to the needs of the client.",
+     "請體貼客戶的需求。"
+    ],
+    [
+     "He is sensitive to price changes.",
+     "他對價格變動很敏感。"
+    ]
+   ]
+  },
+  {
+   "word": "be shaded",
+   "ph": "",
+   "pos": "phr. 被遮蔽；有遮蔭",
+   "zh": "被遮蔽；有遮蔭",
+   "colloc": "be shaded by trees 被樹木遮蔽 | stay in the shaded area 待在陰涼處",
+   "distinct": "be in the shade 在陰影中 | be shadowed 被投下陰影",
+   "ex": [
+    [
+     "The garden should be shaded by noon.",
+     "花園中午時應該會有遮蔭。"
+    ],
+    [
+     "The patio is shaded during the summer.",
+     "露台在夏天有遮蔭。"
+    ],
+    [
+     "Our desks are shaded from the sun.",
+     "我們的辦公桌避開了陽光直射。"
+    ]
+   ]
+  },
+  {
+   "word": "be supposed to do",
+   "ph": "",
+   "pos": "phr. 應該做某事；被期望做某事",
+   "zh": "應該做某事；被期望做某事",
+   "colloc": "be supposed to finish 應該完成 | be supposed to arrive 應該抵達",
+   "distinct": "ought to do 應該做 | be expected to do 被期望做",
+   "ex": [
+    [
+     "We are supposed to submit the report today.",
+     "我們應該要在今天提交報告。"
+    ],
+    [
+     "The meeting was supposed to start at ten.",
+     "會議原本應該在十點開始。"
+    ],
+    [
+     "You are supposed to follow the rules.",
+     "你應該遵守規定。"
+    ]
+   ]
+  },
+  {
+   "word": "be surrounded by",
+   "ph": "",
+   "pos": "phr. 被…圍繞；被…包圍",
+   "zh": "被…圍繞；被…包圍",
+   "colloc": "be surrounded by greenery 被綠意包圍 | be surrounded by experts 被專家環繞",
+   "distinct": "surround with 用…圍繞 | be enclosed by 被…封閉",
+   "ex": [
+    [
+     "The office is surrounded by many shops.",
+     "辦公室周圍有很多商店。"
+    ],
+    [
+     "We are surrounded by talented colleagues.",
+     "我們被有才華的同事所環繞。"
+    ],
+    [
+     "The building is surrounded by a fence.",
+     "這棟建築物被圍欄包圍著。"
+    ]
+   ]
+  },
+  {
+   "word": "be up late",
+   "ph": "",
+   "pos": "phr. 熬夜；深夜未睡",
+   "zh": "熬夜；深夜未睡",
+   "colloc": "stay up late 熬夜 | work up late 深夜工作",
+   "distinct": "stay awake 保持清醒 | work overtime 加班",
+   "ex": [
+    [
+     "I had to be up late to finish it.",
+     "我不得不熬夜把它完成。"
+    ],
+    [
+     "Do not be up late before the presentation.",
+     "簡報前不要熬夜。"
+    ],
+    [
+     "He was up late working on the project.",
+     "他為了那個專案熬夜工作。"
+    ]
+   ]
+  }
+ ]
+}

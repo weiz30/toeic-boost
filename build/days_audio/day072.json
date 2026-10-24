@@ -1,0 +1,448 @@
+{
+ "day": 72,
+ "theme": "教材片語・進階 650–750 第 8 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "chief executive officer",
+   "ph": "",
+   "pos": "n. 執行長",
+   "zh": "執行長；總經理",
+   "colloc": "meet the CEO 會見執行長 | report to the CEO 向執行長報告",
+   "distinct": "president 總裁 | general manager 總經理",
+   "ex": [
+    [
+     "The chief executive officer will host the meeting.",
+     "執行長將親自主持這次會議。"
+    ],
+    [
+     "Our chief executive officer is visiting the new plant.",
+     "我們的執行長正在參訪新工廠。"
+    ],
+    [
+     "The chief executive officer decided to expand the business.",
+     "執行長決定擴大業務規模。"
+    ]
+   ]
+  },
+  {
+   "word": "table top",
+   "ph": "",
+   "pos": "n. 桌子表面",
+   "zh": "桌面；桌子表面",
+   "colloc": "clear the table top 清理桌面 | a polished table top 光滑的桌面",
+   "distinct": "desktop 電腦桌面 | countertop 櫃檯桌面",
+   "ex": [
+    [
+     "Please clear your documents from the table top.",
+     "請將文件從桌面上移開。"
+    ],
+    [
+     "The table top is made of solid oak wood.",
+     "這張桌子的桌面是用實心橡木做的。"
+    ],
+    [
+     "We placed the projector on the table top.",
+     "我們把投影機放在桌面上。"
+    ]
+   ]
+  },
+  {
+   "word": "a curve",
+   "ph": "",
+   "pos": "n. 曲線；趨勢線",
+   "zh": "曲線；弧線；發展趨勢",
+   "colloc": "a sharp curve 急轉彎 | ahead of the curve 領先趨勢",
+   "distinct": "line 直線 | angle 角度",
+   "ex": [
+    [
+     "Sales figures showed a curve of steady growth.",
+     "銷售數據呈現出穩定成長的曲線。"
+    ],
+    [
+     "The road has a sharp curve near the factory.",
+     "工廠附近的道路有一個大轉彎。"
+    ],
+    [
+     "Our company stays ahead of the curve in technology.",
+     "我們公司在技術發展上保持領先。"
+    ]
+   ]
+  },
+  {
+   "word": "a range",
+   "ph": "",
+   "pos": "n. 範圍；系列",
+   "zh": "範圍；一系列；變動幅度",
+   "colloc": "a wide range of 廣泛的 | price range 價格區間",
+   "distinct": "scope 領域範疇 | variety 各式各樣",
+   "ex": [
+    [
+     "We offer a wide range of logistics services.",
+     "我們提供廣泛的物流服務。"
+    ],
+    [
+     "The items fall within a reasonable price range.",
+     "這些商品的價格落在合理的區間內。"
+    ],
+    [
+     "The product is available in a range of colors.",
+     "該產品有各種顏色可供選擇。"
+    ]
+   ]
+  },
+  {
+   "word": "a tire",
+   "ph": "",
+   "pos": "n. 輪胎",
+   "zh": "輪胎",
+   "colloc": "change a tire 更換輪胎 | flat tire 爆胎",
+   "distinct": "wheel 車輪 | rubber 橡膠",
+   "ex": [
+    [
+     "The delivery truck had a flat tire today.",
+     "送貨卡車今天發生了爆胎。"
+    ],
+    [
+     "We need to check the tire pressure regularly.",
+     "我們需要定期檢查輪胎胎壓。"
+    ],
+    [
+     "The mechanic replaced a tire on the company car.",
+     "維修技師更換了公務車的一個輪胎。"
+    ]
+   ]
+  },
+  {
+   "word": "an pay",
+   "ph": "",
+   "pos": "n. 薪資",
+   "zh": "薪水；報酬",
+   "colloc": "monthly pay 月薪 | pay raise 加薪",
+   "distinct": "salary 固定薪水 | wage 時薪或週薪",
+   "ex": [
+    [
+     "Your pay will be deposited on the fifth.",
+     "您的薪資將於五號存入帳戶。"
+    ],
+    [
+     "The position offers competitive pay and benefits.",
+     "該職位提供具競爭力的薪資與福利。"
+    ],
+    [
+     "Employees are demanding higher pay this year.",
+     "員工們今年要求提高薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "by clearing its outstanding debt",
+   "ph": "",
+   "pos": "phr. 透過清償未結債務",
+   "zh": "清償債務；結清欠款",
+   "colloc": "clear the debt 清償債務 | outstanding balance 未結餘額",
+   "distinct": "pay off 償還 | settle 結算",
+   "ex": [
+    [
+     "The firm improved by clearing its outstanding debt.",
+     "公司透過清償未結債務改善了財務狀況。"
+    ],
+    [
+     "They succeeded by clearing its outstanding debt quickly.",
+     "他們藉由迅速清償未結債務而成功。"
+    ],
+    [
+     "Focus on by clearing its outstanding debt first.",
+     "首要任務應是透過清償未結債務來穩定公司。"
+    ]
+   ]
+  },
+  {
+   "word": "file folder",
+   "ph": "",
+   "pos": "n. 檔案夾",
+   "zh": "檔案夾；資料夾",
+   "colloc": "label a file folder 標記資料夾 | thick file folder 厚的資料夾",
+   "distinct": "binder 活頁夾 | envelope 信封",
+   "ex": [
+    [
+     "Please put these contracts in a file folder.",
+     "請將這些合約放入檔案夾中。"
+    ],
+    [
+     "I cannot find the blue file folder anywhere.",
+     "我到處都找不到那個藍色的檔案夾。"
+    ],
+    [
+     "Organize your papers in a separate file folder.",
+     "請將文件分類整理到不同的檔案夾。"
+    ]
+   ]
+  },
+  {
+   "word": "have traffic",
+   "ph": "",
+   "pos": "phr. 遇到交通阻塞",
+   "zh": "塞車；有交通流量",
+   "colloc": "heavy traffic 交通擁擠 | stuck in traffic 困在車陣中",
+   "distinct": "traffic jam 交通堵塞 | congestion 壅塞",
+   "ex": [
+    [
+     "I will be late because we have traffic.",
+     "因為遇到塞車我會遲到。"
+    ],
+    [
+     "The highway tends to have traffic every morning.",
+     "這條高速公路每天早上往往都有車流。"
+    ],
+    [
+     "We have traffic, so please start the meeting.",
+     "現在遇到塞車了，請先開始會議吧。"
+    ]
+   ]
+  },
+  {
+   "word": "in fact",
+   "ph": "",
+   "pos": "phr. 事實上",
+   "zh": "其實；實際上",
+   "colloc": "in fact, it is 事實上是 | in fact, no 事實上沒有",
+   "distinct": "actually 實際上 | as a matter of fact 事實上",
+   "ex": [
+    [
+     "In fact, the project was finished ahead of time.",
+     "事實上，該專案提前完成了。"
+    ],
+    [
+     "The report is not ready; in fact, it is missing.",
+     "報告還沒準備好，事實上，它不見了。"
+    ],
+    [
+     "In fact, we have already hired a new manager.",
+     "事實上，我們已經聘請了一位新經理。"
+    ]
+   ]
+  },
+  {
+   "word": "in large",
+   "ph": "",
+   "pos": "phr. 大體上；很大程度上",
+   "zh": "整體而言；很大程度上",
+   "colloc": "in large part 在很大程度上 | in large measure 在很大程度上",
+   "distinct": "by and large 大體上 | in general 一般來說",
+   "ex": [
+    [
+     "The success is in large part due to your help.",
+     "這次成功在很大程度上歸功於您的幫助。"
+    ],
+    [
+     "This policy is in large measure a total failure.",
+     "這項政策在很大程度上是徹底的失敗。"
+    ],
+    [
+     "In large part, the staff likes the new rules.",
+     "整體而言，員工們喜歡新的規則。"
+    ]
+   ]
+  },
+  {
+   "word": "job fair",
+   "ph": "",
+   "pos": "n. 就業博覽會",
+   "zh": "徵才博覽會；就業展",
+   "colloc": "attend a job fair 參加就業博覽會 | host a job fair 舉辦徵才展",
+   "distinct": "career fair 職涯博覽會 | recruitment event 招募活動",
+   "ex": [
+    [
+     "Our company will attend a job fair tomorrow.",
+     "我們公司明天將參加就業博覽會。"
+    ],
+    [
+     "Bring your resume to the annual job fair.",
+     "帶著你的履歷去參加年度就業博覽會。"
+    ],
+    [
+     "Many students visited the job fair for opportunities.",
+     "許多學生參觀了就業博覽會尋找機會。"
+    ]
+   ]
+  },
+  {
+   "word": "job offer",
+   "ph": "",
+   "pos": "n. 工作錄取通知",
+   "zh": "錄用通知；工作邀約",
+   "colloc": "accept a job offer 接受工作邀約 | receive a job offer 收到錄取通知",
+   "distinct": "job application 求職申請 | employment contract 聘僱合約",
+   "ex": [
+    [
+     "I am happy to accept your job offer today.",
+     "我很高興今天接受您的工作錄取通知。"
+    ],
+    [
+     "She received a job offer from a global firm.",
+     "她收到了一家跨國企業的工作錄取通知。"
+    ],
+    [
+     "The job offer includes health insurance and bonuses.",
+     "這份工作邀約包含醫療保險與獎金。"
+    ]
+   ]
+  },
+  {
+   "word": "keep add",
+   "ph": "",
+   "pos": "phr. 繼續增加",
+   "zh": "不斷增加；持續加入",
+   "colloc": "keep adding more 持續增加更多 | keep adding items 持續加入項目",
+   "distinct": "continue adding 持續增加 | keep increasing 保持成長",
+   "ex": [
+    [
+     "We should keep add new features to the app.",
+     "我們應該持續為應用程式增加新功能。"
+    ],
+    [
+     "The manager will keep add names to the list.",
+     "經理會不斷將名字加入名單中。"
+    ],
+    [
+     "Please keep add relevant data to the report.",
+     "請持續將相關數據加入到報告中。"
+    ]
+   ]
+  },
+  {
+   "word": "management is concerned about security",
+   "ph": "",
+   "pos": "phr. 管理層關注安全性",
+   "zh": "管理階層擔心安全問題",
+   "colloc": "be concerned about 對...感到擔憂 | top management 高階管理層",
+   "distinct": "management is worried 擔心 | management cares about 重視",
+   "ex": [
+    [
+     "Management is concerned about security at the site.",
+     "管理階層對於該場地的安全性感到擔憂。"
+    ],
+    [
+     "Clearly, management is concerned about security of data.",
+     "顯然地，管理階層很關心資料的安全性。"
+    ],
+    [
+     "Because management is concerned about security, we updated locks.",
+     "由於管理階層擔心安全，我們更新了門鎖。"
+    ]
+   ]
+  },
+  {
+   "word": "previous job",
+   "ph": "",
+   "pos": "n. 前一份工作",
+   "zh": "先前的工作；前職",
+   "colloc": "experience from a previous job 前職經驗 | leave a previous job 離職",
+   "distinct": "former job 前任工作 | current job 目前工作",
+   "ex": [
+    [
+     "My previous job involved a lot of traveling.",
+     "我的前一份工作需要頻繁出差。"
+    ],
+    [
+     "List your previous job on the resume clearly.",
+     "請在履歷上清楚列出你的前一份工作。"
+    ],
+    [
+     "I learned many sales skills in my previous job.",
+     "我在前一份工作中學到了許多銷售技巧。"
+    ]
+   ]
+  },
+  {
+   "word": "raw material",
+   "ph": "",
+   "pos": "n. 原料",
+   "zh": "原材料；素材",
+   "colloc": "import raw materials 進口原料 | cost of raw materials 原料成本",
+   "distinct": "finished product 成品 | commodity 商品",
+   "ex": [
+    [
+     "The factory has a shortage of raw material.",
+     "工廠目前有原料短缺的問題。"
+    ],
+    [
+     "High prices of raw material affect our profits.",
+     "原物料的高價格影響了我們的利潤。"
+    ],
+    [
+     "We need to source quality raw material today.",
+     "我們今天需要採購高品質的原材料。"
+    ]
+   ]
+  },
+  {
+   "word": "seals target",
+   "ph": "",
+   "pos": "phr. 鎖定目標",
+   "zh": "確立目標；鎖定目標",
+   "colloc": "meet a target 達成目標 | set a target 設定目標",
+   "distinct": "fix target 設定目標 | achieve goal 達成目標",
+   "ex": [
+    [
+     "The marketing team seals target for this quarter.",
+     "行銷團隊確立了本季度的目標。"
+    ],
+    [
+     "He seals target to double the company sales.",
+     "他鎖定了將公司銷售額翻倍的目標。"
+    ],
+    [
+     "Everyone works hard once the manager seals target.",
+     "一旦經理確立了目標，每個人都會努力工作。"
+    ]
+   ]
+  },
+  {
+   "word": "send in",
+   "ph": "",
+   "pos": "v. 寄送；提交",
+   "zh": "寄入；繳交；送交",
+   "colloc": "send in an application 提交申請 | send in a resume 寄出履歷",
+   "distinct": "submit 提交 | hand in 遞交",
+   "ex": [
+    [
+     "Please send in your proposal by next Friday.",
+     "請在下週五前提交您的提案。"
+    ],
+    [
+     "I decided to send in my application today.",
+     "我決定今天將我的申請表寄出。"
+    ],
+    [
+     "Did you send in the tax documents yet?",
+     "你已經把稅務文件送交了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "starting a business is costly",
+   "ph": "",
+   "pos": "phr. 創業成本高昂",
+   "zh": "創業很花錢；創業代價高",
+   "colloc": "start a business 創業 | high cost 高成本",
+   "distinct": "expensive 昂貴的 | investment 投資",
+   "ex": [
+    [
+     "Many people agree that starting a business is costly.",
+     "許多人都認同創業的成本很高。"
+    ],
+    [
+     "Realize that starting a business is costly before acting.",
+     "在行動前要認知到創業是非常花錢的。"
+    ],
+    [
+     "Because starting a business is costly, prepare funds.",
+     "由於創業費用高昂，請務必準備好資金。"
+    ]
+   ]
+  }
+ ]
+}

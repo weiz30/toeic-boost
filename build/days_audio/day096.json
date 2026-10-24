@@ -1,0 +1,448 @@
+{
+ "day": 96,
+ "theme": "教材片語・中高階 750–850 第 32 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "turn on its side",
+   "ph": "",
+   "pos": "phr. 側放；翻轉至側面",
+   "zh": "側放；翻轉至側面",
+   "colloc": "turn the box on its side 把箱子側放 | lay it on its side 平放側面",
+   "distinct": "turn over 翻轉 | tip over 傾倒",
+   "ex": [
+    [
+     "Please turn the heavy box on its side carefully.",
+     "請小心地將這個重箱子側放。"
+    ],
+    [
+     "You should turn the screen on its side to view.",
+     "你應該將螢幕側轉過來檢視。"
+    ],
+    [
+     "We decided to turn the table on its side.",
+     "我們決定將桌子側放。"
+    ]
+   ]
+  },
+  {
+   "word": "turn to",
+   "ph": "",
+   "pos": "phr. 求助於；轉向；開始從事",
+   "zh": "求助於；轉向",
+   "colloc": "turn to a professional 向專業人士求助 | turn to page ten 翻到第十頁",
+   "distinct": "turn into 變成 | turn off 關掉",
+   "ex": [
+    [
+     "Many employees turn to HR for policy clarifications.",
+     "許多員工向人資部尋求政策說明。"
+    ],
+    [
+     "You should turn to the manual for detailed instructions.",
+     "你應該翻閱手冊以獲取詳細指引。"
+    ],
+    [
+     "Investors often turn to gold during market instability.",
+     "市場不穩時投資人常轉向黃金。"
+    ]
+   ]
+  },
+  {
+   "word": "user friendly",
+   "ph": "",
+   "pos": "phr. 易於使用的；友善的",
+   "zh": "易於使用的；友善的",
+   "colloc": "user friendly interface 友善介面 | user friendly design 易用設計",
+   "distinct": "easy to use 容易使用 | consumer friendly 消費者友善",
+   "ex": [
+    [
+     "The new software interface is very user friendly.",
+     "這套新軟體介面非常容易使用。"
+    ],
+    [
+     "We need a more user friendly booking system.",
+     "我們需要一套更易於操作的預訂系統。"
+    ],
+    [
+     "This device is designed to be user friendly.",
+     "這款裝置的設計旨在簡便易用。"
+    ]
+   ]
+  },
+  {
+   "word": "vacation package",
+   "ph": "",
+   "pos": "n. 度假套裝行程",
+   "zh": "度假套裝行程",
+   "colloc": "book a vacation package 預訂套裝行程 | affordable vacation package 實惠套裝行程",
+   "distinct": "travel agency 旅行社 | tour group 旅遊團",
+   "ex": [
+    [
+     "Our company offers an affordable vacation package.",
+     "我們公司提供經濟實惠的度假套裝行程。"
+    ],
+    [
+     "Please check the details of your vacation package.",
+     "請核對您的度假套裝行程細節。"
+    ],
+    [
+     "They purchased a vacation package for their anniversary.",
+     "他們購買了一套週年紀念度假行程。"
+    ]
+   ]
+  },
+  {
+   "word": "valid for",
+   "ph": "",
+   "pos": "phr. 有效期為；適用於",
+   "zh": "有效期為；適用於",
+   "colloc": "valid for one year 有效期一年 | valid for all members 適用於所有會員",
+   "distinct": "be available for 可用於 | be eligible for 有資格獲得",
+   "ex": [
+    [
+     "This membership card is valid for two years.",
+     "這張會員卡有效期為兩年。"
+    ],
+    [
+     "The discount coupon is valid for online purchases.",
+     "這張折價券適用於線上購物。"
+    ],
+    [
+     "The offer is valid for a limited time only.",
+     "此優惠僅在有限時間內有效。"
+    ]
+   ]
+  },
+  {
+   "word": "watch band",
+   "ph": "",
+   "pos": "n. 錶帶",
+   "zh": "錶帶",
+   "colloc": "leather watch band 皮革錶帶 | replace the watch band 更換錶帶",
+   "distinct": "watch face 錶面 | watch case 錶殼",
+   "ex": [
+    [
+     "I need to replace my broken watch band.",
+     "我需要更換損壞的錶帶。"
+    ],
+    [
+     "This store sells a variety of leather watch bands.",
+     "這家店販售多款皮革錶帶。"
+    ],
+    [
+     "The technician adjusted the length of the watch band.",
+     "技術人員調整了錶帶的長度。"
+    ]
+   ]
+  },
+  {
+   "word": "weather report",
+   "ph": "",
+   "pos": "n. 天氣預報",
+   "zh": "天氣預報",
+   "colloc": "check the weather report 查看天氣預報 | inaccurate weather report 不準確的天氣預報",
+   "distinct": "weather forecast 天氣預測 | climate change 氣候變遷",
+   "ex": [
+    [
+     "I checked the weather report before the business trip.",
+     "出差前我查詢了天氣預報。"
+    ],
+    [
+     "The weather report warns of a heavy storm.",
+     "天氣預報警告有強烈風暴。"
+    ],
+    [
+     "The morning weather report indicates clear skies today.",
+     "早晨的天氣預報顯示今天天氣晴朗。"
+    ]
+   ]
+  },
+  {
+   "word": "when it comes to",
+   "ph": "",
+   "pos": "phr. 談到；關於",
+   "zh": "談到；關於",
+   "colloc": "when it comes to marketing 談到行銷 | when it comes to business 關於生意",
+   "distinct": "as for 至於 | regarding 關於",
+   "ex": [
+    [
+     "He is an expert when it comes to finance.",
+     "談到財務，他是個專家。"
+    ],
+    [
+     "When it comes to customer service, we prioritize quality.",
+     "關於顧客服務，我們優先重視品質。"
+    ],
+    [
+     "She is very picky when it comes to design.",
+     "談到設計，她非常挑剔。"
+    ]
+   ]
+  },
+  {
+   "word": "win a contest",
+   "ph": "",
+   "pos": "phr. 贏得比賽",
+   "zh": "贏得比賽",
+   "colloc": "win a design contest 贏得設計比賽 | win a sales contest 贏得銷售競賽",
+   "distinct": "win a prize 贏得獎項 | participate in a contest 參加比賽",
+   "ex": [
+    [
+     "Our team managed to win a sales contest.",
+     "我們的團隊設法贏得了銷售競賽。"
+    ],
+    [
+     "She was thrilled to win a photography contest.",
+     "她對於贏得攝影比賽感到興奮。"
+    ],
+    [
+     "Many employees hope to win a contest this year.",
+     "許多員工希望今年能贏得競賽。"
+    ]
+   ]
+  },
+  {
+   "word": "window shopping",
+   "ph": "",
+   "pos": "n. 看櫥窗購物（只逛不買）",
+   "zh": "看櫥窗購物",
+   "colloc": "enjoy window shopping 享受逛街樂趣 | go window shopping 去逛街看看",
+   "distinct": "shopping spree 瘋狂購物 | online shopping 線上購物",
+   "ex": [
+    [
+     "We decided to go window shopping after lunch.",
+     "午餐後我們決定去逛逛櫥窗。"
+    ],
+    [
+     "They spent the afternoon window shopping in the mall.",
+     "他們下午在商場逛街看櫥窗。"
+    ],
+    [
+     "Window shopping is a relaxing way to spend time.",
+     "逛櫥窗是一種輕鬆的打發時間方式。"
+    ]
+   ]
+  },
+  {
+   "word": "work history",
+   "ph": "",
+   "pos": "n. 工作經歷；工作資歷",
+   "zh": "工作經歷；工作資歷",
+   "colloc": "detailed work history 詳細工作經歷 | review work history 審閱工作經歷",
+   "distinct": "employment record 就業紀錄 | resume 履歷表",
+   "ex": [
+    [
+     "Please provide a detailed work history in your resume.",
+     "請在履歷中提供詳細的工作經歷。"
+    ],
+    [
+     "The recruiter carefully reviewed his work history.",
+     "招募人員仔細審閱了他的工作經歷。"
+    ],
+    [
+     "Your work history is impressive for this position.",
+     "以這個職位來說，你的工作經歷相當亮眼。"
+    ]
+   ]
+  },
+  {
+   "word": "a complete line of",
+   "ph": "",
+   "pos": "phr. 一整系列的",
+   "zh": "一整系列的",
+   "colloc": "a complete line of products 一系列產品 | a complete line of services 一系列服務",
+   "distinct": "a range of 一系列範圍 | a variety of 各式各樣",
+   "ex": [
+    [
+     "The company offers a complete line of office supplies.",
+     "該公司提供一整系列的辦公用品。"
+    ],
+    [
+     "We carry a complete line of professional kitchen equipment.",
+     "我們販售一整系列的專業廚房設備。"
+    ],
+    [
+     "They are launching a complete line of new software.",
+     "他們正推出一整系列的新軟體。"
+    ]
+   ]
+  },
+  {
+   "word": "a great deal of",
+   "ph": "",
+   "pos": "phr. 大量的；許多的",
+   "zh": "大量的；許多的",
+   "colloc": "a great deal of time 大量時間 | a great deal of effort 許多努力",
+   "distinct": "a large number of 大量的（可數）| a great amount of 大量的（不可數）",
+   "ex": [
+    [
+     "The project required a great deal of research.",
+     "該專案需要大量的研究。"
+    ],
+    [
+     "She spent a great deal of time on this report.",
+     "她花費了大量的時間在報告上。"
+    ],
+    [
+     "Success requires a great deal of hard work.",
+     "成功需要大量的辛勤工作。"
+    ]
+   ]
+  },
+  {
+   "word": "accept the offer",
+   "ph": "",
+   "pos": "phr. 接受邀請；接受報價",
+   "zh": "接受邀請；接受報價",
+   "colloc": "accept the job offer 接受工作錄取 | accept the price offer 接受報價",
+   "distinct": "decline the offer 拒絕邀請 | consider the offer 考慮報價",
+   "ex": [
+    [
+     "I am happy to accept the job offer.",
+     "我很高興接受這份工作錄取。"
+    ],
+    [
+     "They decided to accept the offer from the vendor.",
+     "他們決定接受該廠商的報價。"
+    ],
+    [
+     "She needed time to consider whether to accept the offer.",
+     "她需要時間考慮是否接受該邀請。"
+    ]
+   ]
+  },
+  {
+   "word": "all the way",
+   "ph": "",
+   "pos": "phr. 一路；始終；完全",
+   "zh": "一路；始終；完全",
+   "colloc": "all the way to the office 一路到辦公室 | support him all the way 全力支持他",
+   "distinct": "the whole way 整個路程 | throughout 自始至終",
+   "ex": [
+    [
+     "He drove all the way to the headquarters.",
+     "他一路開車前往總部。"
+    ],
+    [
+     "Our team will support the new initiative all the way.",
+     "我們的團隊將全力支持這項新措施。"
+    ],
+    [
+     "The train goes all the way to the city center.",
+     "這班火車一路開到市中心。"
+    ]
+   ]
+  },
+  {
+   "word": "all walks of life",
+   "ph": "",
+   "pos": "phr. 各行各業；社會各界",
+   "zh": "各行各業；社會各界",
+   "colloc": "people from all walks of life 來自各行各業的人 | representing all walks of life 代表各界",
+   "distinct": "every industry 每個產業 | various backgrounds 各種背景",
+   "ex": [
+    [
+     "The event attracted people from all walks of life.",
+     "該活動吸引了來自各行各業的人們。"
+    ],
+    [
+     "Our product is used by professionals from all walks of life.",
+     "我們的產品被各行各業的專業人士使用。"
+    ],
+    [
+     "Volunteers came from all walks of life to help.",
+     "志工來自各行各業前來幫忙。"
+    ]
+   ]
+  },
+  {
+   "word": "arrange items on the shelf",
+   "ph": "",
+   "pos": "phr. 在架子上整理物品",
+   "zh": "在架子上整理物品",
+   "colloc": "neatly arrange items on the shelf 整齊地擺放架上物品 | arrange items on the shelf by size 依大小排列物品",
+   "distinct": "stock the shelf 上架商品 | organize the shelf 組織貨架",
+   "ex": [
+    [
+     "The clerk is busy arranging items on the shelf.",
+     "店員正忙著整理架上的物品。"
+    ],
+    [
+     "Please arrange items on the shelf by category.",
+     "請依照類別將架上物品整理好。"
+    ],
+    [
+     "It took an hour to arrange items on the shelf.",
+     "花了一個小時來整理架上的物品。"
+    ]
+   ]
+  },
+  {
+   "word": "as requested",
+   "ph": "",
+   "pos": "phr. 按照要求；依照指示",
+   "zh": "按照要求；依照指示",
+   "colloc": "submit as requested 按要求提交 | as requested by the manager 依照經理要求",
+   "distinct": "as required 按照規定 | as per instructions 根據指示",
+   "ex": [
+    [
+     "I have submitted the files as requested.",
+     "我已按照要求提交了檔案。"
+    ],
+    [
+     "The report was modified as requested by the client.",
+     "報告已根據客戶要求進行了修改。"
+    ],
+    [
+     "We have processed the order as requested.",
+     "我們已按照指示處理該訂單。"
+    ]
+   ]
+  },
+  {
+   "word": "at a stretch",
+   "ph": "",
+   "pos": "phr. 連續地；不間斷地",
+   "zh": "連續地；不間斷地",
+   "colloc": "work for hours at a stretch 連續工作數小時 | talk for an hour at a stretch 連續說一小時",
+   "distinct": "continuously 連續地 | at once 立刻",
+   "ex": [
+    [
+     "He can work for six hours at a stretch.",
+     "他可以連續工作六個小時。"
+    ],
+    [
+     "We held meetings all day at a stretch.",
+     "我們一整天都在連續開會。"
+    ],
+    [
+     "She studied for four hours at a stretch.",
+     "她連續讀了四個小時的書。"
+    ]
+   ]
+  },
+  {
+   "word": "at the last minute",
+   "ph": "",
+   "pos": "phr. 在最後一刻；臨近截止前",
+   "zh": "在最後一刻；臨近截止前",
+   "colloc": "change at the last minute 最後一刻更改 | arrive at the last minute 最後一刻抵達",
+   "distinct": "in the final moment 在最後時刻 | late 遲到",
+   "ex": [
+    [
+     "The meeting was canceled at the last minute.",
+     "會議在最後一刻被取消了。"
+    ],
+    [
+     "He submitted his proposal at the last minute.",
+     "他在最後一刻提交了提案。"
+    ],
+    [
+     "Avoid making decisions at the last minute.",
+     "避免在最後一刻才做決定。"
+    ]
+   ]
+  }
+ ]
+}

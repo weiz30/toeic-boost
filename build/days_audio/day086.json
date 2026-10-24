@@ -1,0 +1,448 @@
+{
+ "day": 86,
+ "theme": "教材片語・中高階 750–850 第 22 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "come to an end",
+   "ph": "",
+   "pos": "phr. 結束；終止",
+   "zh": "結束；終止",
+   "colloc": "bring to an end 使結束 | come to an abrupt end 突然結束",
+   "distinct": "finish 完成工作 | terminate 終止契約",
+   "ex": [
+    [
+     "The meeting will come to an end by five.",
+     "會議將在五點前結束。"
+    ],
+    [
+     "Their contract will come to an end next month.",
+     "他們的合約下個月即將到期。"
+    ],
+    [
+     "Our partnership has come to an end recently.",
+     "我們的合作關係近期已經結束。"
+    ]
+   ]
+  },
+  {
+   "word": "come up with",
+   "ph": "",
+   "pos": "phr. 想出（主意、計畫）；提出",
+   "zh": "想出；提出",
+   "colloc": "come up with a solution 想出解決方案 | come up with an idea 提出想法",
+   "distinct": "think of 想起；考慮 | propose 提議",
+   "ex": [
+    [
+     "She came up with a creative marketing strategy.",
+     "她提出了一項創意的行銷策略。"
+    ],
+    [
+     "Can you come up with a better plan?",
+     "你能想出一個更好的方案嗎？"
+    ],
+    [
+     "The team came up with many innovative ideas.",
+     "團隊提出了許多創新點子。"
+    ]
+   ]
+  },
+  {
+   "word": "commercial relations",
+   "ph": "",
+   "pos": "n. 商業關係；貿易往來",
+   "zh": "商業關係；貿易往來",
+   "colloc": "establish commercial relations 建立商業關係 | maintain commercial relations 維持商業往來",
+   "distinct": "public relations 公關 | international relations 國際關係",
+   "ex": [
+    [
+     "The two countries have strong commercial relations.",
+     "兩國之間有緊密的商業往來。"
+    ],
+    [
+     "They seek to improve commercial relations abroad.",
+     "他們致力於改善國外的商業關係。"
+    ],
+    [
+     "Maintaining commercial relations is vital for growth.",
+     "維持商業關係對成長至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "commercial value",
+   "ph": "",
+   "pos": "n. 商業價值",
+   "zh": "商業價值",
+   "colloc": "high commercial value 高商業價值 | prove its commercial value 證明其商業價值",
+   "distinct": "market value 市場價值 | resale value 轉售價值",
+   "ex": [
+    [
+     "This invention has significant commercial value.",
+     "這項發明具有顯著的商業價值。"
+    ],
+    [
+     "The project lacks long-term commercial value.",
+     "該專案缺乏長期的商業價值。"
+    ],
+    [
+     "Investors evaluate the commercial value of ideas.",
+     "投資者評估點子的商業價值。"
+    ]
+   ]
+  },
+  {
+   "word": "conflict of interest",
+   "ph": "",
+   "pos": "n. 利益衝突",
+   "zh": "利益衝突",
+   "colloc": "avoid conflict of interest 避免利益衝突 | potential conflict of interest 潛在利益衝突",
+   "distinct": "clash of opinion 意見不合 | dispute 爭議",
+   "ex": [
+    [
+     "He resigned to avoid a conflict of interest.",
+     "他為了避免利益衝突而辭職。"
+    ],
+    [
+     "The policy prevents any conflict of interest.",
+     "該政策防止任何利益衝突發生。"
+    ],
+    [
+     "Please disclose any potential conflict of interest.",
+     "請揭露任何潛在的利益衝突。"
+    ]
+   ]
+  },
+  {
+   "word": "connecting flight",
+   "ph": "",
+   "pos": "n. 轉機航班",
+   "zh": "轉機航班",
+   "colloc": "miss a connecting flight 錯過轉機航班 | book a connecting flight 預訂轉機航班",
+   "distinct": "direct flight 直飛航班 | non-stop flight 不經停航班",
+   "ex": [
+    [
+     "I have a connecting flight in Singapore.",
+     "我在新加坡有轉機航班。"
+    ],
+    [
+     "The connecting flight leaves in two hours.",
+     "轉機航班將在兩小時後起飛。"
+    ],
+    [
+     "We missed our connecting flight due to delays.",
+     "我們因延誤錯過了轉機航班。"
+    ]
+   ]
+  },
+  {
+   "word": "content with",
+   "ph": "",
+   "pos": "phr. 對…感到滿意；甘於",
+   "zh": "對…滿意；甘於",
+   "colloc": "be content with the results 對結果滿意 | be content with less 甘於現狀",
+   "distinct": "satisfied with 對…感到滿足 | happy with 對…感到開心",
+   "ex": [
+    [
+     "Are you content with your current salary?",
+     "你對目前的薪資感到滿意嗎？"
+    ],
+    [
+     "She is content with her professional progress.",
+     "她對自己的職業進展感到滿意。"
+    ],
+    [
+     "We should not be content with mediocrity.",
+     "我們不應滿足於平庸。"
+    ]
+   ]
+  },
+  {
+   "word": "copy editor",
+   "ph": "",
+   "pos": "n. 文案編輯；校對人員",
+   "zh": "文案編輯；校對",
+   "colloc": "hire a copy editor 聘請校對 | work as a copy editor 擔任校對",
+   "distinct": "editor 編輯 | proofreader 校對員",
+   "ex": [
+    [
+     "The copy editor checked the final report.",
+     "文案編輯檢查了最終報告。"
+    ],
+    [
+     "Every article needs a professional copy editor.",
+     "每一篇文章都需要專業的文案編輯。"
+    ],
+    [
+     "She works as a freelance copy editor.",
+     "她擔任自由接案的文案編輯。"
+    ]
+   ]
+  },
+  {
+   "word": "cost effective",
+   "ph": "",
+   "pos": "adj. 具成本效益的；划算的",
+   "zh": "具成本效益的；划算的",
+   "colloc": "highly cost effective 高成本效益 | cost effective solution 具效益的解決方案",
+   "distinct": "economical 經濟的 | profitable 有利可圖的",
+   "ex": [
+    [
+     "This strategy is more cost effective now.",
+     "這項策略現在更具成本效益。"
+    ],
+    [
+     "We need a cost effective training program.",
+     "我們需要一套具成本效益的培訓計畫。"
+    ],
+    [
+     "Solar power is becoming quite cost effective.",
+     "太陽能正變得相當具成本效益。"
+    ]
+   ]
+  },
+  {
+   "word": "cover letter",
+   "ph": "",
+   "pos": "n. 求職信；附信",
+   "zh": "求職信；附信",
+   "colloc": "write a cover letter 撰寫求職信 | attach a cover letter 附上求職信",
+   "distinct": "resume 履歷表 | personal statement 自傳",
+   "ex": [
+    [
+     "Please submit your resume and cover letter.",
+     "請提交您的履歷與求職信。"
+    ],
+    [
+     "A strong cover letter helps get interviews.",
+     "強而有力的求職信有助於獲得面試。"
+    ],
+    [
+     "She spent hours drafting her cover letter.",
+     "她花了數小時草擬求職信。"
+    ]
+   ]
+  },
+  {
+   "word": "credit limit",
+   "ph": "",
+   "pos": "n. 信用額度",
+   "zh": "信用額度",
+   "colloc": "exceed credit limit 超過信用額度 | increase credit limit 提高信用額度",
+   "distinct": "debit limit 簽帳限額 | balance 餘額",
+   "ex": [
+    [
+     "Your credit limit has been increased today.",
+     "您的信用額度已於今日提高。"
+    ],
+    [
+     "He reached his monthly credit limit quickly.",
+     "他很快就達到了每月信用額度。"
+    ],
+    [
+     "Check your credit limit before you shop.",
+     "購物前請檢查您的信用額度。"
+    ]
+   ]
+  },
+  {
+   "word": "date back to",
+   "ph": "",
+   "pos": "phr. 追溯至…；始於…",
+   "zh": "追溯至；始於",
+   "colloc": "date back to the 1990s 追溯至九零年代 | date back to ancient times 追溯至古代",
+   "distinct": "originate from 起源於 | go back to 回溯到",
+   "ex": [
+    [
+     "This custom dates back to the century.",
+     "這項習俗可追溯至該世紀。"
+    ],
+    [
+     "The company dates back to fifty years ago.",
+     "這家公司始於五十年前。"
+    ],
+    [
+     "Our business relations date back to 2005.",
+     "我們的商業關係可追溯至2005年。"
+    ]
+   ]
+  },
+  {
+   "word": "deep and",
+   "ph": "",
+   "pos": "adj. 深度的；廣泛的",
+   "zh": "深度的；廣泛的",
+   "colloc": "deep and thorough analysis 深入詳盡的分析 | deep and meaningful conversation 有深度的對話",
+   "distinct": "profound 深奧的 | extensive 廣泛的",
+   "ex": [
+    [
+     "They conducted a deep and detailed review.",
+     "他們進行了一項深入且詳盡的審查。"
+    ],
+    [
+     "The project requires a deep and clear vision.",
+     "該專案需要深入且清晰的願景。"
+    ],
+    [
+     "A deep and honest discussion is needed.",
+     "我們需要一場深入且誠懇的討論。"
+    ]
+   ]
+  },
+  {
+   "word": "direct traffic",
+   "ph": "",
+   "pos": "v. 引導流量；指揮交通",
+   "zh": "引導流量；指揮交通",
+   "colloc": "direct traffic to the site 將流量導向網站 | direct traffic manually 手動指揮交通",
+   "distinct": "divert traffic 分流 | monitor traffic 監控流量",
+   "ex": [
+    [
+     "Our ads direct traffic to the homepage.",
+     "我們的廣告將流量引導至首頁。"
+    ],
+    [
+     "The software helps direct traffic efficiently.",
+     "該軟體有助於有效地引導流量。"
+    ],
+    [
+     "Officers were sent to direct traffic nearby.",
+     "警官被派往附近指揮交通。"
+    ]
+   ]
+  },
+  {
+   "word": "down payment",
+   "ph": "",
+   "pos": "n. 頭期款；預付金",
+   "zh": "頭期款；預付金",
+   "colloc": "pay a down payment 支付頭期款 | require a down payment 要求支付預付金",
+   "distinct": "installment 分期付款 | deposit 定金",
+   "ex": [
+    [
+     "You must pay a down payment now.",
+     "你現在必須支付一筆頭期款。"
+    ],
+    [
+     "She saved money for a down payment.",
+     "她存錢支付房屋頭期款。"
+    ],
+    [
+     "The down payment is twenty percent total.",
+     "頭期款總共是百分之二十。"
+    ]
+   ]
+  },
+  {
+   "word": "draw the line at",
+   "ph": "",
+   "pos": "phr. 在…設立底線；拒絕做…",
+   "zh": "設立底線；拒絕",
+   "colloc": "draw the line at cheating 在作弊上設立底線 | draw the line at overtime 拒絕加班",
+   "distinct": "set a limit 設定限制 | refuse to do 拒絕做",
+   "ex": [
+    [
+     "I draw the line at working weekends.",
+     "我拒絕在週末上班。"
+    ],
+    [
+     "He draws the line at dishonest practices.",
+     "他對於不誠實的行為會畫下底線。"
+    ],
+    [
+     "We must draw the line at these demands.",
+     "我們必須對這些要求畫下底線。"
+    ]
+   ]
+  },
+  {
+   "word": "drop off",
+   "ph": "",
+   "pos": "v. 順道放下；下降；減少",
+   "zh": "放下；下降；減少",
+   "colloc": "drop off a package 放下包裹 | sales drop off 銷售下滑",
+   "distinct": "pick up 接人；撿起 | decline 衰退",
+   "ex": [
+    [
+     "Please drop off the file at reception.",
+     "請把檔案放在接待處。"
+    ],
+    [
+     "Sales began to drop off this quarter.",
+     "本季銷售額開始下滑。"
+    ],
+    [
+     "Can you drop off the kids at school?",
+     "你能順道送孩子去學校嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "dust off",
+   "ph": "",
+   "pos": "phr. 重新啟用；清理；拿出（舊東西）",
+   "zh": "重新啟用；清理",
+   "colloc": "dust off an old plan 重新啟用舊計畫 | dust off the equipment 清理設備",
+   "distinct": "revisit 重溫 | reactivate 重新啟動",
+   "ex": [
+    [
+     "We decided to dust off the old project.",
+     "我們決定重新啟用那個舊專案。"
+    ],
+    [
+     "It is time to dust off your skills.",
+     "是時候重新磨練你的技能了。"
+    ],
+    [
+     "She dusted off her resume for the job.",
+     "她為了這份工作重新整理了履歷。"
+    ]
+   ]
+  },
+  {
+   "word": "eat up",
+   "ph": "",
+   "pos": "phr. 吃光；耗盡（資源、時間）",
+   "zh": "吃光；耗盡",
+   "colloc": "eat up the budget 耗盡預算 | eat up time 浪費時間",
+   "distinct": "consume 消耗 | use up 用完",
+   "ex": [
+    [
+     "These repairs will eat up our budget.",
+     "這些維修費用會耗盡我們的預算。"
+    ],
+    [
+     "Inefficient meetings eat up productive hours.",
+     "低效率的會議會耗盡工作時間。"
+    ],
+    [
+     "Don't let errors eat up your profit.",
+     "別讓錯誤消耗掉你的利潤。"
+    ]
+   ]
+  },
+  {
+   "word": "enter a contest",
+   "ph": "",
+   "pos": "phr. 參加比賽",
+   "zh": "參加比賽",
+   "colloc": "enter a design contest 參加設計比賽 | sign up to enter a contest 報名參加比賽",
+   "distinct": "participate in 加入 | compete in 競爭",
+   "ex": [
+    [
+     "Our team will enter a contest today.",
+     "我們團隊今天要參加一場比賽。"
+    ],
+    [
+     "He decided to enter a contest online.",
+     "他決定在線上參加一場比賽。"
+    ],
+    [
+     "Many people enter a contest for prizes.",
+     "許多人為了獎品而參加比賽。"
+    ]
+   ]
+  }
+ ]
+}

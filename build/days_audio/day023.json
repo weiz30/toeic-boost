@@ -1,0 +1,448 @@
+{
+ "day": 23,
+ "theme": "教材字彙・基礎 550–650 第 23 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "grant",
+   "ph": "/ɡrænt/",
+   "pos": "v. 同意；給予 | n. 補助金",
+   "zh": "同意；給予；補助金",
+   "colloc": "grant permission 同意許可 | research grant 研究補助金",
+   "distinct": "award 獎項；獎金 | subsidy 津貼；補貼",
+   "ex": [
+    [
+     "The manager granted his request for leave.",
+     "經理同意了他的請假請求。"
+    ],
+    [
+     "They received a grant for the project.",
+     "他們為該專案獲得了一筆補助金。"
+    ],
+    [
+     "We cannot grant access to non-employees.",
+     "我們無法給予非員工訪問權限。"
+    ]
+   ]
+  },
+  {
+   "word": "guarantee",
+   "ph": "/ˌɡærənˈtiː/",
+   "pos": "v. 保證 | n. 保證；保固",
+   "zh": "保證；保固",
+   "colloc": "guarantee quality 品質保證 | money-back guarantee 退款保證",
+   "distinct": "warrant 擔保；授權 | promise 承諾",
+   "ex": [
+    [
+     "This product comes with a two-year guarantee.",
+     "這項產品附帶兩年保固。"
+    ],
+    [
+     "We cannot guarantee delivery by tomorrow.",
+     "我們無法保證明天前能送達。"
+    ],
+    [
+     "Satisfied customers are our best guarantee.",
+     "滿意的顧客是我們最好的保證。"
+    ]
+   ]
+  },
+  {
+   "word": "honour",
+   "ph": "/ˈɒnər/",
+   "pos": "v. 兌現；尊重 | n. 榮譽",
+   "zh": "兌現；尊重；榮譽",
+   "colloc": "honour a contract 履行合約 | in honour of 為紀念",
+   "distinct": "respect 尊敬 | credit 功勞；信用",
+   "ex": [
+    [
+     "The company failed to honour the agreement.",
+     "這家公司未能履行協議。"
+    ],
+    [
+     "It is an honour to work with you.",
+     "與您共事是我的榮幸。"
+    ],
+    [
+     "Please honour the discount coupon before expiration.",
+     "請在過期前兌現這張折價券。"
+    ]
+   ]
+  },
+  {
+   "word": "illustrate",
+   "ph": "/ˈɪləstreɪt/",
+   "pos": "v. 說明；圖解",
+   "zh": "說明；圖解",
+   "colloc": "illustrate a point 闡明觀點 | clearly illustrate 清晰說明",
+   "distinct": "explain 解釋 | demonstrate 示範；證明",
+   "ex": [
+    [
+     "The charts illustrate our sales growth.",
+     "這些圖表說明了我們的銷售成長。"
+    ],
+    [
+     "She used examples to illustrate the concept.",
+     "她用例子來說明這個概念。"
+    ],
+    [
+     "The manual illustrates how to assemble parts.",
+     "這份手冊圖解了如何組裝零件。"
+    ]
+   ]
+  },
+  {
+   "word": "impressed",
+   "ph": "/ɪmˈprest/",
+   "pos": "adj. 感到印象深刻的",
+   "zh": "印象深刻的",
+   "colloc": "be impressed by 對…感到印象深刻 | highly impressed 極為佩服",
+   "distinct": "impressive 令人印象深刻的 | impressive 氣派的",
+   "ex": [
+    [
+     "The client was impressed by our presentation.",
+     "客戶對我們的簡報感到印象深刻。"
+    ],
+    [
+     "I am impressed with his professional attitude.",
+     "我對他專業的態度感到佩服。"
+    ],
+    [
+     "Everyone was impressed by the new design.",
+     "大家都對這項新設計感到驚艷。"
+    ]
+   ]
+  },
+  {
+   "word": "indicate",
+   "ph": "/ˈɪndɪkeɪt/",
+   "pos": "v. 指出；顯示",
+   "zh": "指出；顯示",
+   "colloc": "indicate a preference 表達偏好 | clearly indicate 明確指出",
+   "distinct": "show 顯示 | specify 詳細說明",
+   "ex": [
+    [
+     "Recent data indicate a rise in costs.",
+     "最近的數據顯示成本上升。"
+    ],
+    [
+     "Please indicate your arrival time below.",
+     "請在下方註明您的抵達時間。"
+    ],
+    [
+     "The arrow indicates the emergency exit.",
+     "箭頭指示了緊急出口的方向。"
+    ]
+   ]
+  },
+  {
+   "word": "industry",
+   "ph": "/ˈɪndəstri/",
+   "pos": "n. 行業；工業",
+   "zh": "行業；工業",
+   "colloc": "the tech industry 科技產業 | industry standards 產業標準",
+   "distinct": "factory 工廠 | business 商業；企業",
+   "ex": [
+    [
+     "He has worked in the tourism industry.",
+     "他在旅遊業工作過。"
+    ],
+    [
+     "The industry is facing significant challenges.",
+     "該產業正面臨重大挑戰。"
+    ],
+    [
+     "We must adhere to strict industry standards.",
+     "我們必須遵守嚴格的產業標準。"
+    ]
+   ]
+  },
+  {
+   "word": "information",
+   "ph": "/ˌɪnfəˈmeɪʃn/",
+   "pos": "n. 資訊；資料",
+   "zh": "資訊；資料",
+   "colloc": "provide information 提供資訊 | confidential information 機密資料",
+   "distinct": "data 數據 | knowledge 知識",
+   "ex": [
+    [
+     "Please find the requested information attached.",
+     "請參閱附件中所要求的資料。"
+    ],
+    [
+     "We need more information to decide.",
+     "我們需要更多資訊來做決定。"
+    ],
+    [
+     "All personal information will remain private.",
+     "所有個人資料將保持隱私。"
+    ]
+   ]
+  },
+  {
+   "word": "interrupt",
+   "ph": "/ˌɪntəˈrʌpt/",
+   "pos": "v. 打斷；中斷",
+   "zh": "打斷；中斷",
+   "colloc": "interrupt a meeting 中斷會議 | avoid interrupting 避免打擾",
+   "distinct": "disturb 打擾 | interfere 干涉",
+   "ex": [
+    [
+     "Sorry to interrupt your busy schedule.",
+     "抱歉打斷您繁忙的行程。"
+    ],
+    [
+     "The rain interrupted the outdoor event.",
+     "雨水中斷了戶外活動的進行。"
+    ],
+    [
+     "Please do not interrupt him while speaking.",
+     "他發言時請不要打斷他。"
+    ]
+   ]
+  },
+  {
+   "word": "involve",
+   "ph": "/ɪnˈvɒlv/",
+   "pos": "v. 包含；涉及",
+   "zh": "包含；涉及",
+   "colloc": "involve in 參與 | be involved with 與…有關",
+   "distinct": "include 包含 | contain 內含",
+   "ex": [
+    [
+     "The job will involve frequent business trips.",
+     "這份工作將涉及頻繁的出差。"
+    ],
+    [
+     "We want to involve the whole team.",
+     "我們希望讓整個團隊參與其中。"
+    ],
+    [
+     "These tasks involve complex technical skills.",
+     "這些任務涉及複雜的技術能力。"
+    ]
+   ]
+  },
+  {
+   "word": "league",
+   "ph": "/liːɡ/",
+   "pos": "n. 聯盟；等級",
+   "zh": "聯盟；等級",
+   "colloc": "major league 主要聯盟 | in a different league 不同等級",
+   "distinct": "association 協會 | union 工會",
+   "ex": [
+    [
+     "They joined the international trade league.",
+     "他們加入了國際貿易聯盟。"
+    ],
+    [
+     "Their performance is in a different league.",
+     "他們的表現屬於不同的等級。"
+    ],
+    [
+     "The league announced the new rules today.",
+     "聯盟今天宣布了新規範。"
+    ]
+   ]
+  },
+  {
+   "word": "leave",
+   "ph": "/liːv/",
+   "pos": "v. 離開；留下 | n. 請假；休假",
+   "zh": "離開；留下；請假",
+   "colloc": "take leave 請假 | sick leave 病假",
+   "distinct": "quit 辭職 | depart 出發",
+   "ex": [
+    [
+     "He is on leave for two weeks.",
+     "他請了兩週的假。"
+    ],
+    [
+     "Please leave your message after the beep.",
+     "請在嗶聲後留下您的訊息。"
+    ],
+    [
+     "We have to leave for the airport now.",
+     "我們現在必須出發前往機場。"
+    ]
+   ]
+  },
+  {
+   "word": "likely",
+   "ph": "/ˈlaɪkli/",
+   "pos": "adj. 很可能的 | adv. 很可能",
+   "zh": "很可能的；很可能",
+   "colloc": "be likely to 很有可能 | most likely 最有可能",
+   "distinct": "possible 可能的 | probable 有把握的",
+   "ex": [
+    [
+     "It is likely to rain this afternoon.",
+     "今天下午很有可能會下雨。"
+    ],
+    [
+     "We are likely to finish by Friday.",
+     "我們很有可能在週五前完成。"
+    ],
+    [
+     "What is the most likely outcome here?",
+     "這裡最可能的結果是什麼？"
+    ]
+   ]
+  },
+  {
+   "word": "limit",
+   "ph": "/ˈlɪmɪt/",
+   "pos": "n. 限度；限制 | v. 限制",
+   "zh": "限度；限制",
+   "colloc": "time limit 時間限制 | set a limit 設定限制",
+   "distinct": "restriction 限制法規 | barrier 障礙",
+   "ex": [
+    [
+     "There is a limit to our budget.",
+     "我們的預算是有上限的。"
+    ],
+    [
+     "We must limit the number of attendees.",
+     "我們必須限制出席人數。"
+    ],
+    [
+     "He reached his limit during the workout.",
+     "他在運動時達到了體能極限。"
+    ]
+   ]
+  },
+  {
+   "word": "lower",
+   "ph": "/ˈləʊər/",
+   "pos": "v. 降低 | adj. 較低的",
+   "zh": "降低；較低的",
+   "colloc": "lower costs 降低成本 | lower price 較低的價格",
+   "distinct": "reduce 減少 | decrease 減少",
+   "ex": [
+    [
+     "We plan to lower our operational costs.",
+     "我們計畫降低營運成本。"
+    ],
+    [
+     "The company offered a lower rate today.",
+     "公司今天提供了較低的費率。"
+    ],
+    [
+     "Can you lower the volume a little?",
+     "你可以把音量稍微調低嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "manage",
+   "ph": "/ˈmænɪdʒ/",
+   "pos": "v. 管理；設法處理",
+   "zh": "管理；設法處理",
+   "colloc": "manage a team 管理團隊 | manage time 時間管理",
+   "distinct": "handle 處理 | operate 操作",
+   "ex": [
+    [
+     "She manages the marketing department well.",
+     "她把行銷部門管理得很好。"
+    ],
+    [
+     "Did you manage to fix the printer?",
+     "你設法修好印表機了嗎？"
+    ],
+    [
+     "I cannot manage this workload alone.",
+     "我無法獨自處理這些工作量。"
+    ]
+   ]
+  },
+  {
+   "word": "mark",
+   "ph": "/mɑːrk/",
+   "pos": "v. 標示；慶祝 | n. 標記；分數",
+   "zh": "標示；標記；分數",
+   "colloc": "mark the deadline 標示截止日 | high marks 高分",
+   "distinct": "label 貼標籤 | sign 簽名",
+   "ex": [
+    [
+     "Please mark the calendar for the meeting.",
+     "請在行事曆上標示會議日期。"
+    ],
+    [
+     "The event marks our tenth anniversary.",
+     "這項活動標誌著我們的十週年。"
+    ],
+    [
+     "Check the marks on the quality report.",
+     "檢查品質報告上的標記。"
+    ]
+   ]
+  },
+  {
+   "word": "move",
+   "ph": "/muːv/",
+   "pos": "v. 移動；搬遷 | n. 舉措；行動",
+   "zh": "移動；搬遷；行動",
+   "colloc": "move to a new office 搬到新辦公室 | a strategic move 策略行動",
+   "distinct": "shift 轉移 | relocate 遷移",
+   "ex": [
+    [
+     "The head office will move next month.",
+     "總公司下個月將會搬遷。"
+    ],
+    [
+     "That was a wise move for the company.",
+     "對公司來說那是一個明智的舉措。"
+    ],
+    [
+     "We need to move forward with the plan.",
+     "我們需要推動這項計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "notice",
+   "ph": "/ˈnəʊtɪs/",
+   "pos": "v. 注意到 | n. 公告；通知",
+   "zh": "注意到；公告；通知",
+   "colloc": "give notice 預告 | until further notice 在另行通知前",
+   "distinct": "attention 注意力 | warning 警告",
+   "ex": [
+    [
+     "Did you notice the error in the file?",
+     "你有注意到檔案裡的錯誤嗎？"
+    ],
+    [
+     "Please read the notice on the door.",
+     "請閱讀門上的公告。"
+    ],
+    [
+     "He gave two weeks' notice before quitting.",
+     "他在離職前預告了兩週。"
+    ]
+   ]
+  },
+  {
+   "word": "originally",
+   "ph": "/əˈrɪdʒənəli/",
+   "pos": "adv. 起初；原先",
+   "zh": "起初；原先",
+   "colloc": "originally planned 原先計畫 | originally from 來自",
+   "distinct": "initially 最初 | primarily 主要地",
+   "ex": [
+    [
+     "The project was originally due on Monday.",
+     "這項專案原先預計週一截止。"
+    ],
+    [
+     "This building was originally a library.",
+     "這棟建築原先是一座圖書館。"
+    ],
+    [
+     "He is originally from a small town.",
+     "他原本來自一個小鎮。"
+    ]
+   ]
+  }
+ ]
+}

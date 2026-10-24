@@ -1,0 +1,448 @@
+{
+ "day": 9,
+ "theme": "教材字彙・基礎 550–650 第 9 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "particularly",
+   "ph": "/pərˈtɪkjələli/",
+   "pos": "adv. 特別地；尤其是",
+   "zh": "特別地；尤其是",
+   "colloc": "particularly important 特別重要 | particularly concerned 特別擔心",
+   "distinct": "especially 特別地 | specifically 明確地",
+   "ex": [
+    [
+     "The manager was particularly impressed by her presentation.",
+     "經理對她的簡報特別印象深刻。"
+    ],
+    [
+     "Pricing is particularly important in this competitive market.",
+     "在競爭激烈的市場中，定價顯得特別重要。"
+    ],
+    [
+     "We are particularly concerned about the recent budget cuts.",
+     "我們對於近期的預算刪減感到特別擔憂。"
+    ]
+   ]
+  },
+  {
+   "word": "pass",
+   "ph": "/pæs/",
+   "pos": "v. 通過；傳遞 | n. 通行證",
+   "zh": "通過；傳遞；通行證",
+   "colloc": "pass the exam 通過考試 | security pass 安全通行證",
+   "distinct": "approve 核准 | surpass 超過",
+   "ex": [
+    [
+     "Please pass the documents to the legal department.",
+     "請將文件傳遞給法務部門。"
+    ],
+    [
+     "Candidates must pass the initial screening to continue.",
+     "候選人必須通過初篩才能繼續。"
+    ],
+    [
+     "Do not forget to wear your security pass at work.",
+     "上班時別忘了佩戴你的通行證。"
+    ]
+   ]
+  },
+  {
+   "word": "platform",
+   "ph": "/ˈplætfɔːrm/",
+   "pos": "n. 月台；平台",
+   "zh": "月台；平台",
+   "colloc": "online platform 線上平台 | train platform 火車月台",
+   "distinct": "stage 舞台 | podium 講台",
+   "ex": [
+    [
+     "Our company uses a new platform for remote collaboration.",
+     "我們公司使用一個新平台進行遠端協作。"
+    ],
+    [
+     "Please wait for the train on platform number four.",
+     "請在四號月台等待火車。"
+    ],
+    [
+     "This digital platform improves our communication efficiency.",
+     "這個數位平台提升了我們的溝通效率。"
+    ]
+   ]
+  },
+  {
+   "word": "potential",
+   "ph": "/pəˈtenʃl/",
+   "pos": "adj. 潛在的 | n. 潛力",
+   "zh": "潛在的；潛力",
+   "colloc": "potential client 潛在客戶 | reach your potential 發揮潛力",
+   "distinct": "possible 可能的 | latent 潛伏的",
+   "ex": [
+    [
+     "We have identified several potential risks in the project.",
+     "我們已確認專案中幾個潛在的風險。"
+    ],
+    [
+     "The new employee shows great potential for leadership.",
+     "這位新員工展現出極大的領導潛力。"
+    ],
+    [
+     "Investors are looking for companies with potential growth.",
+     "投資者正在尋找具有潛在成長性的公司。"
+    ]
+   ]
+  },
+  {
+   "word": "previously",
+   "ph": "/ˈpriːviəsli/",
+   "pos": "adv. 先前；以前",
+   "zh": "先前；以前",
+   "colloc": "previously mentioned 先前提到的 | previously occupied 先前佔用的",
+   "distinct": "formerly 以前 | already 已經",
+   "ex": [
+    [
+     "The office was previously occupied by the sales team.",
+     "這間辦公室先前是由業務團隊使用。"
+    ],
+    [
+     "I have previously worked with this consulting firm.",
+     "我先前曾與這家顧問公司合作過。"
+    ],
+    [
+     "As previously mentioned, the deadline has been extended.",
+     "如先前提到的，截止日期已經延後了。"
+    ]
+   ]
+  },
+  {
+   "word": "promptly",
+   "ph": "/ˈprɑːmptli/",
+   "pos": "adv. 迅速地；準時地",
+   "zh": "迅速地；準時地",
+   "colloc": "reply promptly 迅速回覆 | arrive promptly 準時到達",
+   "distinct": "quickly 很快 | punctually 準時地",
+   "ex": [
+    [
+     "Please reply to all customer inquiries promptly.",
+     "請迅速回覆所有客戶的詢問。"
+    ],
+    [
+     "The meeting will start promptly at nine o'clock.",
+     "會議將在九點準時開始。"
+    ],
+    [
+     "Maintenance staff arrived promptly to fix the broken printer.",
+     "維修人員迅速抵達以修復壞掉的印表機。"
+    ]
+   ]
+  },
+  {
+   "word": "properly",
+   "ph": "/ˈprɑːpərli/",
+   "pos": "adv. 適當地；正確地",
+   "zh": "適當地；正確地",
+   "colloc": "properly trained 受過適當訓練 | function properly 正常運作",
+   "distinct": "correctly 正確地 | appropriately 合適地",
+   "ex": [
+    [
+     "Ensure that all equipment is stored properly after use.",
+     "確保所有設備在使用後都適當存放。"
+    ],
+    [
+     "The new software is not functioning properly today.",
+     "這套新軟體今天無法正常運作。"
+    ],
+    [
+     "Staff must be properly trained before using heavy machinery.",
+     "員工在使用重型機具前必須受過適當訓練。"
+    ]
+   ]
+  },
+  {
+   "word": "qualified",
+   "ph": "/ˈkwɑːlɪfaɪd/",
+   "pos": "adj. 有資格的；合格的",
+   "zh": "有資格的；合格的",
+   "colloc": "highly qualified 高度合格的 | qualified candidate 合格候選人",
+   "distinct": "competent 有能力的 | certified 認證的",
+   "ex": [
+    [
+     "We are looking for a highly qualified accountant.",
+     "我們正在尋找一位高度合格的會計師。"
+    ],
+    [
+     "She is well qualified for the management position.",
+     "她非常有資格勝任這個管理職位。"
+    ],
+    [
+     "Only qualified applicants will be invited for an interview.",
+     "只有合格的申請者會被邀請參加面試。"
+    ]
+   ]
+  },
+  {
+   "word": "qualify",
+   "ph": "/ˈkwɑːlɪfaɪ/",
+   "pos": "v. 取得資格；使具備資格",
+   "zh": "取得資格；使具備資格",
+   "colloc": "qualify for a loan 符合貸款資格 | qualify as an expert 具備專家資格",
+   "distinct": "certify 證明 | authorize 授權",
+   "ex": [
+    [
+     "You must meet certain criteria to qualify for the bonus.",
+     "你必須符合特定標準才能取得獎金資格。"
+    ],
+    [
+     "This certification will qualify you for higher positions.",
+     "這張證照將讓你具備擔任更高職位的資格。"
+    ],
+    [
+     "Do you qualify for the company health insurance plan?",
+     "你符合公司健康保險方案的資格嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "quality",
+   "ph": "/ˈkwɑːləti/",
+   "pos": "n. 品質；特質 | adj. 優質的",
+   "zh": "品質；特質；優質的",
+   "colloc": "high quality 高品質 | quality control 品質控管",
+   "distinct": "quantity 數量 | character 特性",
+   "ex": [
+    [
+     "Our company is known for maintaining high quality standards.",
+     "我們公司以維持高品質標準而聞名。"
+    ],
+    [
+     "Quality control is essential for our manufacturing process.",
+     "品質控管對於我們的製造流程至關重要。"
+    ],
+    [
+     "We need to improve the quality of our customer service.",
+     "我們需要提升客戶服務的品質。"
+    ]
+   ]
+  },
+  {
+   "word": "rapidly",
+   "ph": "/ˈræpɪdli/",
+   "pos": "adv. 迅速地；快速地",
+   "zh": "迅速地；快速地",
+   "colloc": "growing rapidly 迅速成長 | changing rapidly 快速改變",
+   "distinct": "fast 快速地 | quickly 迅速地",
+   "ex": [
+    [
+     "The demand for our services is growing rapidly.",
+     "我們對服務的需求正在迅速成長。"
+    ],
+    [
+     "Technology is changing rapidly in the modern workplace.",
+     "在現代職場中科技正迅速地改變。"
+    ],
+    [
+     "Our team is expanding rapidly to meet new project goals.",
+     "我們的團隊正迅速擴張以達成新專案目標。"
+    ]
+   ]
+  },
+  {
+   "word": "reach",
+   "ph": "/riːtʃ/",
+   "pos": "v. 到達；聯繫；達到",
+   "zh": "到達；聯繫；達到",
+   "colloc": "reach an agreement 達成協議 | reach out to 聯繫",
+   "distinct": "arrive 到達 | contact 聯繫",
+   "ex": [
+    [
+     "We hope to reach an agreement by the end of Friday.",
+     "我們希望在週五前達成協議。"
+    ],
+    [
+     "Please reach out to the supplier regarding the delay.",
+     "關於延誤的事宜，請聯繫供應商。"
+    ],
+    [
+     "The company aims to reach new markets next year.",
+     "公司目標明年開發新的市場。"
+    ]
+   ]
+  },
+  {
+   "word": "remotely",
+   "ph": "/rɪˈmoʊtli/",
+   "pos": "adv. 遠端地；遙遠地",
+   "zh": "遠端地；遙遠地",
+   "colloc": "work remotely 遠端工作 | remotely accessed 遠端存取",
+   "distinct": "distantly 遙遠地 | far 遠地",
+   "ex": [
+    [
+     "Many employees prefer the option to work remotely.",
+     "許多員工偏好遠端工作的選項。"
+    ],
+    [
+     "The server can be accessed remotely by the IT team.",
+     "伺服器可以由 IT 團隊進行遠端存取。"
+    ],
+    [
+     "We conduct our weekly meetings remotely using video software.",
+     "我們透過視訊軟體以遠端方式進行每週會議。"
+    ]
+   ]
+  },
+  {
+   "word": "required",
+   "ph": "/rɪˈkwaɪərd/",
+   "pos": "adj. 必要的；必修的",
+   "zh": "必要的；必修的",
+   "colloc": "required documents 必要文件 | required field 必填欄位",
+   "distinct": "necessary 必要的 | mandatory 強制的",
+   "ex": [
+    [
+     "Please submit all required documents by next Monday.",
+     "請在下週一前繳交所有必要文件。"
+    ],
+    [
+     "Completion of this training course is required for all staff.",
+     "所有員工都必須完成這門培訓課程。"
+    ],
+    [
+     "Check the online form to see the required fields.",
+     "檢查線上表單以確認必填欄位。"
+    ]
+   ]
+  },
+  {
+   "word": "reward",
+   "ph": "/rɪˈwɔːrd/",
+   "pos": "n. 獎勵；報酬 | v. 獎賞",
+   "zh": "獎勵；報酬；獎賞",
+   "colloc": "financial reward 金錢報酬 | reward hard work 獎勵辛勤工作",
+   "distinct": "prize 獎品 | bonus 獎金",
+   "ex": [
+    [
+     "The company offers a reward for excellent sales performance.",
+     "公司提供獎勵給表現優異的業務。"
+    ],
+    [
+     "Hard work should be rewarded with fair compensation.",
+     "辛勤工作應獲得合理的報酬。"
+    ],
+    [
+     "They received a cash reward for finishing the project early.",
+     "他們因為提早完成專案而獲得現金獎勵。"
+    ]
+   ]
+  },
+  {
+   "word": "security",
+   "ph": "/sɪˈkjʊrəti/",
+   "pos": "n. 安全；保全",
+   "zh": "安全；保全",
+   "colloc": "security guard 保全人員 | job security 工作保障",
+   "distinct": "safety 安全（防意外）| protection 保護",
+   "ex": [
+    [
+     "Security measures have been tightened at the office entrance.",
+     "辦公室入口處已加強安全措施。"
+    ],
+    [
+     "Employees are concerned about their long-term job security.",
+     "員工們擔心他們長期的工作保障。"
+    ],
+    [
+     "Please show your ID to the security guard at the desk.",
+     "請出示證件給櫃檯的保全人員。"
+    ]
+   ]
+  },
+  {
+   "word": "significant",
+   "ph": "/sɪɡˈnɪfɪkənt/",
+   "pos": "adj. 顯著的；重要的",
+   "zh": "顯著的；重要的",
+   "colloc": "significant increase 顯著成長 | significant impact 重要影響",
+   "distinct": "important 重要的 | substantial 大量的",
+   "ex": [
+    [
+     "The company saw a significant increase in quarterly profits.",
+     "公司看見了季盈餘的顯著成長。"
+    ],
+    [
+     "New regulations will have a significant impact on our business.",
+     "新法規將對我們的業務產生重大影響。"
+    ],
+    [
+     "There is a significant difference between the two proposals.",
+     "這兩個提案之間有顯著的差異。"
+    ]
+   ]
+  },
+  {
+   "word": "speak",
+   "ph": "/spiːk/",
+   "pos": "v. 說；演講",
+   "zh": "說；演講",
+   "colloc": "speak to the manager 與經理談話 | speak at a conference 在會議中發言",
+   "distinct": "talk 談話 | say 說（話的內容）",
+   "ex": [
+    [
+     "I need to speak with you regarding the new project.",
+     "我需要跟你談談關於新專案的事。"
+    ],
+    [
+     "She will speak at the upcoming international business conference.",
+     "她將在即將到來的國際商業會議中發言。"
+    ],
+    [
+     "It is important to speak clearly during the presentation.",
+     "在簡報過程中說話清晰很重要。"
+    ]
+   ]
+  },
+  {
+   "word": "spend",
+   "ph": "/spend/",
+   "pos": "v. 花費（時間或金錢）",
+   "zh": "花費",
+   "colloc": "spend money on 花錢在... | spend time working 花時間工作",
+   "distinct": "cost 花費（指金額）| waste 浪費",
+   "ex": [
+    [
+     "We spend too much time on unnecessary administrative tasks.",
+     "我們花太多時間在不必要的行政工作上。"
+    ],
+    [
+     "The company decided to spend more on marketing campaigns.",
+     "公司決定在行銷活動上花費更多。"
+    ],
+    [
+     "Employees often spend hours preparing for the weekly meeting.",
+     "員工常花好幾個小時準備每週會議。"
+    ]
+   ]
+  },
+  {
+   "word": "succeed",
+   "ph": "/səkˈsiːd/",
+   "pos": "v. 成功；繼任",
+   "zh": "成功；繼任",
+   "colloc": "succeed in business 在商業上成功 | succeed the CEO 繼任執行長",
+   "distinct": "success 成功（名詞）| successful 成功的（形容詞）",
+   "ex": [
+    [
+     "Hard work and determination will help you succeed.",
+     "辛勤工作與決心將幫助你成功。"
+    ],
+    [
+     "She was chosen to succeed the retiring director next month.",
+     "她被選為下個月繼任退休的總監。"
+    ],
+    [
+     "To succeed in this market, we need a better strategy.",
+     "為了在這個市場成功，我們需要更好的策略。"
+    ]
+   ]
+  }
+ ]
+}

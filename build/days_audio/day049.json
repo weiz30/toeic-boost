@@ -1,0 +1,448 @@
+{
+ "day": 49,
+ "theme": "教材字彙・中高階 750–850 第 49 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "alarming",
+   "ph": "/əˈlɑːrmɪŋ/",
+   "pos": "adj. 令人憂心的；令人驚恐的",
+   "zh": "令人憂心的；令人驚恐的",
+   "colloc": "alarming rate 驚人的速度 | alarming trend 令人擔憂的趨勢",
+   "distinct": "alarming 令人擔憂的 | alarming signal 警報訊號",
+   "ex": [
+    [
+     "The company reports an alarming drop in sales.",
+     "公司回報銷售額出現令人憂心的下滑。"
+    ],
+    [
+     "There is an alarming increase in production costs.",
+     "生產成本出現了令人擔憂的漲幅。"
+    ],
+    [
+     "This alarming news requires our immediate attention.",
+     "這則令人驚恐的消息需要我們立即處理。"
+    ]
+   ]
+  },
+  {
+   "word": "amuse",
+   "ph": "/əˈmjuːz/",
+   "pos": "v. 娛樂；逗樂",
+   "zh": "娛樂；逗樂",
+   "ex": [
+    [
+     "Her witty remarks amused the entire board.",
+     "她機智的言論逗樂了整個董事會。"
+    ],
+    [
+     "The software is designed to amuse the users.",
+     "這套軟體旨在娛樂使用者。"
+    ],
+    [
+     "He tried to amuse the clients during dinner.",
+     "他在晚餐期間試圖娛樂客戶。"
+    ]
+   ],
+   "colloc": "amuse oneself 自娛自樂 | be amused by 被…逗樂",
+   "distinct": "amuse 娛樂 | entertain 款待；娛樂"
+  },
+  {
+   "word": "argument",
+   "ph": "/ˈɑːrɡjumənt/",
+   "pos": "n. 爭論；論點",
+   "zh": "爭論；論點",
+   "colloc": "strong argument 強而有力的論點 | win an argument 贏得爭論",
+   "distinct": "argument 論點 | debate 辯論",
+   "ex": [
+    [
+     "They had an argument about the budget allocation.",
+     "他們針對預算分配產生了爭論。"
+    ],
+    [
+     "His argument for the new policy is convincing.",
+     "他支持這項新政策的論點很有說服力。"
+    ],
+    [
+     "I do not want to start an argument today.",
+     "我不希望今天引發任何爭論。"
+    ]
+   ]
+  },
+  {
+   "word": "artistic",
+   "ph": "/ɑːrˈtɪstɪk/",
+   "pos": "adj. 藝術的；有藝術天份的",
+   "zh": "藝術的；有藝術天份的",
+   "colloc": "artistic talent 藝術天份 | artistic design 藝術設計",
+   "distinct": "artistic 藝術的 | artificial 人造的",
+   "ex": [
+    [
+     "The office has a very artistic atmosphere.",
+     "這間辦公室有很濃厚的藝術氛圍。"
+    ],
+    [
+     "She brings an artistic touch to the project.",
+     "她為這個專案帶來了藝術氣息。"
+    ],
+    [
+     "His artistic vision impressed the creative team.",
+     "他的藝術願景讓創意團隊印象深刻。"
+    ]
+   ]
+  },
+  {
+   "word": "attorney",
+   "ph": "/əˈtɜːrni/",
+   "pos": "n. 律師；代理人",
+   "zh": "律師；代理人",
+   "colloc": "defense attorney 被告律師 | consult an attorney 諮詢律師",
+   "distinct": "attorney 律師（美） | solicitor 初級律師（英）",
+   "ex": [
+    [
+     "Please consult with your attorney before signing.",
+     "簽約前請先諮詢您的律師。"
+    ],
+    [
+     "The attorney reviewed all the legal documents.",
+     "該律師審閱了所有法律文件。"
+    ],
+    [
+     "Our company attorney will handle the lawsuit.",
+     "我們的公司律師將會處理這場訴訟。"
+    ]
+   ]
+  },
+  {
+   "word": "bay",
+   "ph": "/beɪ/",
+   "pos": "n. 海灣；隔間",
+   "zh": "海灣；隔間",
+   "colloc": "loading bay 裝貨區 | parking bay 停車格",
+   "distinct": "bay 海灣 | harbor 港口",
+   "ex": [
+    [
+     "The truck is parked in the loading bay.",
+     "卡車停在裝貨區。"
+    ],
+    [
+     "We can see the bay from the office window.",
+     "我們可以從辦公室窗戶看到海灣。"
+    ],
+    [
+     "All delivery items go to the east bay.",
+     "所有貨運物品都送到東側隔間。"
+    ]
+   ]
+  },
+  {
+   "word": "boring",
+   "ph": "/ˈbɔːrɪŋ/",
+   "pos": "adj. 無聊的；乏味的",
+   "zh": "無聊的；乏味的",
+   "colloc": "boring meeting 無聊的會議 | boring task 乏味的工作",
+   "distinct": "boring 令人無聊的 | bored 感到無聊的",
+   "ex": [
+    [
+     "The long meeting was extremely boring today.",
+     "今天的長會議真是無聊至極。"
+    ],
+    [
+     "I cannot stand doing such boring paperwork.",
+     "我無法忍受處理這些乏味的文書工作。"
+    ],
+    [
+     "This is not a boring job if you enjoy it.",
+     "如果你喜歡的話，這並不是一份乏味的工作。"
+    ]
+   ]
+  },
+  {
+   "word": "bottle",
+   "ph": "/ˈbɑːtl/",
+   "pos": "n. 瓶子 | v. 裝瓶",
+   "zh": "瓶子；裝瓶",
+   "colloc": "plastic bottle 塑膠瓶 | glass bottle 玻璃瓶",
+   "distinct": "bottle 瓶子 | jar 罐子",
+   "ex": [
+    [
+     "Please recycle your empty water bottle here.",
+     "請將您的空水瓶回收在此處。"
+    ],
+    [
+     "The factory will bottle the juice tomorrow.",
+     "工廠明天將會進行果汁裝瓶作業。"
+    ],
+    [
+     "Each bottle contains exactly five hundred milliliters.",
+     "每一瓶剛好含有五百毫升。"
+    ]
+   ]
+  },
+  {
+   "word": "bush",
+   "ph": "/bʊʃ/",
+   "pos": "n. 灌木；叢林",
+   "zh": "灌木；叢林",
+   "colloc": "rose bush 玫瑰灌木 | thick bush 茂密的灌木叢",
+   "distinct": "bush 灌木 | tree 樹",
+   "ex": [
+    [
+     "We planted a new bush near the entrance.",
+     "我們在入口附近種了一株新灌木。"
+    ],
+    [
+     "The bush needs to be trimmed this weekend.",
+     "這株灌木這個週末需要修剪。"
+    ],
+    [
+     "Staff cleared the bush around the factory.",
+     "員工清理了工廠周圍的灌木叢。"
+    ]
+   ]
+  },
+  {
+   "word": "capital",
+   "ph": "/ˈkæpɪtl/",
+   "pos": "n. 資本；首都 | adj. 大寫的；首要的",
+   "zh": "資本；首都；首要的",
+   "colloc": "venture capital 創業投資 | raise capital 籌集資金",
+   "distinct": "capital 資本 | fund 基金",
+   "ex": [
+    [
+     "The startup needs more capital to expand.",
+     "這家新創公司需要更多資本來擴張。"
+    ],
+    [
+     "We are looking for potential venture capital.",
+     "我們正在尋求潛在的創業投資。"
+    ],
+    [
+     "The city is the capital of this country.",
+     "這座城市是該國的首都。"
+    ]
+   ]
+  },
+  {
+   "word": "capture",
+   "ph": "/ˈkæptʃər/",
+   "pos": "v. 捕捉；俘獲 | n. 佔領；捕獲",
+   "zh": "捕捉；俘獲；佔領",
+   "colloc": "capture the market 搶佔市場 | capture interest 引起興趣",
+   "distinct": "capture 捕捉 | seize 奪取",
+   "ex": [
+    [
+     "The new advertisement captured the audience's interest.",
+     "這則新廣告捕捉到了觀眾的興趣。"
+    ],
+    [
+     "Our company aims to capture a larger market.",
+     "我們公司目標在於搶佔更大的市場份額。"
+    ],
+    [
+     "The security camera captured the incident clearly.",
+     "監視器清楚地捕捉到了該事件。"
+    ]
+   ]
+  },
+  {
+   "word": "carry",
+   "ph": "/ˈkæri/",
+   "pos": "v. 攜帶；運送；承載",
+   "zh": "攜帶；運送；承載",
+   "colloc": "carry out 執行 | carry on 繼續",
+   "distinct": "carry 攜帶 | transport 運輸",
+   "ex": [
+    [
+     "Please carry your identification card at all times.",
+     "請隨時攜帶您的識別證。"
+    ],
+    [
+     "The train carries passengers to the airport.",
+     "這班火車負責運送旅客前往機場。"
+    ],
+    [
+     "Our store does not carry this specific item.",
+     "我們店裡沒有販售這項特定商品。"
+    ]
+   ]
+  },
+  {
+   "word": "category",
+   "ph": "/ˈkætəɡɔːri/",
+   "pos": "n. 類別；範疇",
+   "zh": "類別；範疇",
+   "colloc": "product category 產品類別 | in the same category 同一類別",
+   "distinct": "category 類別 | classification 分類",
+   "ex": [
+    [
+     "Please sort the documents by category.",
+     "請依照類別將文件分類。"
+    ],
+    [
+     "This product falls into a new category.",
+     "這項產品屬於一個新的範疇。"
+    ],
+    [
+     "What is the category of this expense?",
+     "這筆費用的類別是什麼？"
+    ]
+   ]
+  },
+  {
+   "word": "certainly",
+   "ph": "/ˈsɜːrtnli/",
+   "pos": "adv. 肯定地；當然",
+   "zh": "肯定地；當然",
+   "colloc": "most certainly 當然 | certainly not 絕不",
+   "distinct": "certainly 當然 | definitely 明確地",
+   "ex": [
+    [
+     "We will certainly finish the project on time.",
+     "我們肯定會按時完成專案。"
+    ],
+    [
+     "Certainly, I can help you with that task.",
+     "當然，我可以協助你處理那項工作。"
+    ],
+    [
+     "The results will certainly improve next quarter.",
+     "下季的表現肯定會有所改善。"
+    ]
+   ]
+  },
+  {
+   "word": "charity",
+   "ph": "/ˈtʃærəti/",
+   "pos": "n. 慈善；慈善機構",
+   "zh": "慈善；慈善機構",
+   "colloc": "charity event 慈善活動 | donate to charity 捐贈給慈善機構",
+   "distinct": "charity 慈善 | non-profit 非營利",
+   "ex": [
+    [
+     "Our company supports a local charity.",
+     "我們公司支持一家當地的慈善機構。"
+    ],
+    [
+     "We are hosting a charity event this Friday.",
+     "我們本週五將舉辦一場慈善活動。"
+    ],
+    [
+     "All proceeds will be donated to charity.",
+     "所有收益都將捐贈給慈善機構。"
+    ]
+   ]
+  },
+  {
+   "word": "chop",
+   "ph": "/tʃɑːp/",
+   "pos": "v. 切；砍 | n. 排骨；砍",
+   "zh": "切；砍；排骨",
+   "colloc": "chop up 切碎 | chop down 砍倒",
+   "distinct": "chop 切碎 | slice 切片",
+   "ex": [
+    [
+     "Please chop the vegetables for the salad.",
+     "請把製作沙拉的蔬菜切碎。"
+    ],
+    [
+     "He had to chop the wood for the fire.",
+     "他必須為了生火而砍柴。"
+    ],
+    [
+     "The chef started to chop the ingredients quickly.",
+     "主廚開始快速地切食材。"
+    ]
+   ]
+  },
+  {
+   "word": "claim",
+   "ph": "/kleɪm/",
+   "pos": "v. 聲稱；索賠 | n. 聲明；索賠要求",
+   "zh": "聲稱；索賠；聲明",
+   "colloc": "insurance claim 保險理賠 | make a claim 提出索賠",
+   "distinct": "claim 聲稱 | assert 主張",
+   "ex": [
+    [
+     "He claims that the new method is faster.",
+     "他聲稱這種新方法比較快。"
+    ],
+    [
+     "The customer filed an insurance claim yesterday.",
+     "該客戶昨天提交了保險理賠。"
+    ],
+    [
+     "You can claim a refund for the item.",
+     "你可以針對該商品申請退款。"
+    ]
+   ]
+  },
+  {
+   "word": "closing",
+   "ph": "/ˈkloʊzɪŋ/",
+   "pos": "n. 結束；關閉 | adj. 結束的",
+   "zh": "結束；關閉",
+   "colloc": "closing ceremony 閉幕典禮 | closing date 截止日期",
+   "distinct": "closing 結束 | opening 開幕",
+   "ex": [
+    [
+     "The closing date for the application is Friday.",
+     "申請的截止日期是星期五。"
+    ],
+    [
+     "We have our closing meeting at four o'clock.",
+     "我們在四點鐘有結束會議。"
+    ],
+    [
+     "Please sign the document before the closing.",
+     "請在結束前簽署文件。"
+    ]
+   ]
+  },
+  {
+   "word": "confront",
+   "ph": "/kənˈfrʌnt/",
+   "pos": "v. 面對；對質",
+   "zh": "面對；對質",
+   "colloc": "confront a problem 面對問題 | confront someone 對質",
+   "distinct": "confront 面對 | face 面對",
+   "ex": [
+    [
+     "We must confront these challenges head-on.",
+     "我們必須正面面對這些挑戰。"
+    ],
+    [
+     "The manager decided to confront the employee.",
+     "經理決定與該員工進行對質。"
+    ],
+    [
+     "He was not prepared to confront the issues.",
+     "他還沒準備好要面對這些問題。"
+    ]
+   ]
+  },
+  {
+   "word": "context",
+   "ph": "/ˈkɑːntekst/",
+   "pos": "n. 情境；背景",
+   "zh": "情境；背景",
+   "colloc": "in context 在情境中 | business context 商務背景",
+   "distinct": "context 背景 | background 背景",
+   "ex": [
+    [
+     "You need to look at the phrase in context.",
+     "你需要從情境中去理解這個短語。"
+    ],
+    [
+     "The context of this report is very important.",
+     "這份報告的背景非常重要。"
+    ],
+    [
+     "Please provide more context for your request.",
+     "請針對你的請求提供更多背景資訊。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 13,
+ "theme": "教材字彙・基礎 550–650 第 13 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "lack",
+   "ph": "/læk/",
+   "pos": "n. 缺乏 | v. 缺少",
+   "zh": "缺乏；缺少",
+   "colloc": "lack of experience 缺乏經驗 | suffer from a lack of 遭受…的缺乏",
+   "distinct": "shortage 短缺（數量不足）| absence 缺席；不存在",
+   "ex": [
+    [
+     "The team failed due to a lack of preparation.",
+     "團隊因缺乏準備而失敗。"
+    ],
+    [
+     "We lack the resources to finish this project.",
+     "我們缺少完成此專案的資源。"
+    ],
+    [
+     "His proposal was rejected for lack of detail.",
+     "他的提議因缺乏細節而被拒絕。"
+    ]
+   ]
+  },
+  {
+   "word": "limited",
+   "ph": "/ˈlɪmɪtɪd/",
+   "pos": "adj. 有限的",
+   "zh": "有限的",
+   "colloc": "limited budget 有限的預算 | limited time 有限的時間",
+   "distinct": "restricted 受限制的 | finite 有限的（數學或哲學概念）",
+   "ex": [
+    [
+     "We have limited time to reach a decision.",
+     "我們做決定的時間有限。"
+    ],
+    [
+     "The company offers limited benefits for interns.",
+     "公司為實習生提供的福利有限。"
+    ],
+    [
+     "Our budget is too limited for this expansion.",
+     "我們的預算對此次擴張來說太有限了。"
+    ]
+   ]
+  },
+  {
+   "word": "measure",
+   "ph": "/ˈmeʒər/",
+   "pos": "n. 措施；測量 | v. 測量",
+   "zh": "措施；測量",
+   "colloc": "take measures 採取措施 | safety measure 安全措施",
+   "distinct": "step 步驟；手段 | gauge 測量；計量器",
+   "ex": [
+    [
+     "The government took measures to boost the economy.",
+     "政府採取了措施來促進經濟。"
+    ],
+    [
+     "Please measure the dimensions of the package.",
+     "請測量包裹的尺寸。"
+    ],
+    [
+     "Strict measures were implemented to ensure safety.",
+     "為確保安全執行了嚴格措施。"
+    ]
+   ]
+  },
+  {
+   "word": "missing",
+   "ph": "/ˈmɪsɪŋ/",
+   "pos": "adj. 遺失的；缺少的",
+   "zh": "遺失的；缺少的",
+   "colloc": "missing document 遺失的文件 | missing item 缺少項目",
+   "distinct": "lost 迷路的；弄丟的 | absent 缺席的",
+   "ex": [
+    [
+     "There is a missing page in the contract.",
+     "合約中遺失了一頁。"
+    ],
+    [
+     "The accountant found some missing receipts today.",
+     "會計今天發現了一些缺失的收據。"
+    ],
+    [
+     "Several files are missing from the shared folder.",
+     "共享資料夾中少了幾份檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "necessarily",
+   "ph": "/ˈnesəserəli/",
+   "pos": "adv. 必然地；必要地",
+   "zh": "必然地；必要地",
+   "colloc": "not necessarily 未必 | necessarily follow 必然結果",
+   "distinct": "inevitably 不可避免地 | automatically 自動地",
+   "ex": [
+    [
+     "Higher price does not necessarily mean better quality.",
+     "價格較高未必代表品質較好。"
+    ],
+    [
+     "It is not necessarily the best solution available.",
+     "這未必是目前最好的解決方案。"
+    ],
+    [
+     "Does this result necessarily imply a profit drop?",
+     "這個結果必然意味著利潤下滑嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "observe",
+   "ph": "/əbˈzɜːrv/",
+   "pos": "v. 觀察；遵守",
+   "zh": "觀察；遵守",
+   "colloc": "observe the rules 遵守規則 | observe the market 觀察市場",
+   "distinct": "follow 跟隨；遵循 | monitor 監控；監督",
+   "ex": [
+    [
+     "All employees must observe company regulations.",
+     "所有員工都必須遵守公司規定。"
+    ],
+    [
+     "We will observe consumer behavior during the sale.",
+     "我們將觀察特賣會期間的消費者行為。"
+    ],
+    [
+     "She observed a significant shift in the industry.",
+     "她觀察到產業有重大轉變。"
+    ]
+   ]
+  },
+  {
+   "word": "offer",
+   "ph": "/ˈɔːfər/",
+   "pos": "n. 提議；報價 | v. 提供",
+   "zh": "提議；提供",
+   "colloc": "job offer 工作錄取通知 | make an offer 出價",
+   "distinct": "provide 提供（供給）| suggest 建議",
+   "ex": [
+    [
+     "The manager offered her a new position.",
+     "經理向她提供了一個新職位。"
+    ],
+    [
+     "We received an excellent offer from the supplier.",
+     "我們收到供應商極佳的報價。"
+    ],
+    [
+     "This software offers a variety of advanced features.",
+     "這套軟體提供了多種進階功能。"
+    ]
+   ]
+  },
+  {
+   "word": "officially",
+   "ph": "/əˈfɪʃəli/",
+   "pos": "adv. 官方地；正式地",
+   "zh": "官方地；正式地",
+   "colloc": "officially opened 正式開幕 | officially announced 正式宣布",
+   "distinct": "formally 禮貌地；正式地 | publicly 公開地",
+   "ex": [
+    [
+     "The merger was officially announced this morning.",
+     "合併案於今早正式宣布。"
+    ],
+    [
+     "Our new branch office is now officially open.",
+     "我們的新分公司現已正式開幕。"
+    ],
+    [
+     "They were officially recognized for their achievements.",
+     "他們的成就得到了官方認可。"
+    ]
+   ]
+  },
+  {
+   "word": "outstanding",
+   "ph": "/aʊtˈstændɪŋ/",
+   "pos": "adj. 傑出的；未償付的",
+   "zh": "傑出的；未償付的",
+   "colloc": "outstanding performance 傑出表現 | outstanding balance 未結清餘額",
+   "distinct": "excellent 優良的 | unpaid 未支付的",
+   "ex": [
+    [
+     "She received an award for outstanding service.",
+     "她因傑出的服務獲得了獎項。"
+    ],
+    [
+     "We need to pay the outstanding balance soon.",
+     "我們需要儘快支付未結清的餘額。"
+    ],
+    [
+     "His outstanding work helped the team succeed.",
+     "他傑出的表現協助團隊獲得成功。"
+    ]
+   ]
+  },
+  {
+   "word": "particular",
+   "ph": "/pərˈtɪkjələr/",
+   "pos": "adj. 特定的；挑剔的",
+   "zh": "特定的；挑剔的",
+   "colloc": "in particular 特別是 | particular attention 特別注意",
+   "distinct": "specific 明確的 | peculiar 獨特的；古怪的",
+   "ex": [
+    [
+     "Is there any particular reason for the delay?",
+     "延遲有任何特定的原因嗎？"
+    ],
+    [
+     "Pay particular attention to the safety guidelines.",
+     "請特別注意安全準則。"
+    ],
+    [
+     "The client is very particular about the design.",
+     "客戶對設計非常挑剔。"
+    ]
+   ]
+  },
+  {
+   "word": "permanent",
+   "ph": "/ˈpɜːrmənənt/",
+   "pos": "adj. 永久的；常設的",
+   "zh": "永久的；常設的",
+   "colloc": "permanent job 長期工作 | permanent address 固定地址",
+   "distinct": "temporary 暫時的 | lasting 持久的",
+   "ex": [
+    [
+     "She is looking for a permanent position.",
+     "她正在尋找長期職位。"
+    ],
+    [
+     "The company will establish a permanent office there.",
+     "公司將在那裡設立常設辦公室。"
+    ],
+    [
+     "This damage may have a permanent effect.",
+     "這種損害可能會造成永久性影響。"
+    ]
+   ]
+  },
+  {
+   "word": "permanently",
+   "ph": "/ˈpɜːrmənəntli/",
+   "pos": "adv. 永久地",
+   "zh": "永久地",
+   "colloc": "permanently closed 永久關閉 | permanently damaged 永久損壞",
+   "distinct": "constantly 不斷地 | indefinitely 無期限地",
+   "ex": [
+    [
+     "The store has been permanently closed since June.",
+     "該店自六月起已永久關閉。"
+    ],
+    [
+     "The file was permanently deleted from the system.",
+     "檔案已從系統中永久刪除。"
+    ],
+    [
+     "We plan to relocate permanently to the city.",
+     "我們計畫永久搬遷到這座城市。"
+    ]
+   ]
+  },
+  {
+   "word": "prior",
+   "ph": "/ˈpraɪər/",
+   "pos": "adj. 先前的",
+   "zh": "先前的",
+   "colloc": "prior notice 事先通知 | prior experience 先前經驗",
+   "distinct": "previous 先前的 | preceding 在先的",
+   "ex": [
+    [
+     "Prior notice is required for all cancellations.",
+     "所有取消皆須事先通知。"
+    ],
+    [
+     "Do you have any prior experience in sales?",
+     "你有任何先前的銷售經驗嗎？"
+    ],
+    [
+     "We need to finalize the plan prior to meeting.",
+     "我們需要在會議前定案此計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "processing",
+   "ph": "/ˈprəʊsesɪŋ/",
+   "pos": "n. 處理；加工",
+   "zh": "處理；加工",
+   "colloc": "processing time 處理時間 | data processing 資料處理",
+   "distinct": "handling 處理（應對）| management 管理",
+   "ex": [
+    [
+     "The order processing will take three days.",
+     "訂單處理需要三天時間。"
+    ],
+    [
+     "We are upgrading our data processing system.",
+     "我們正在升級資料處理系統。"
+    ],
+    [
+     "Food processing requires strict hygiene standards.",
+     "食品加工需要嚴格的衛生標準。"
+    ]
+   ]
+  },
+  {
+   "word": "product",
+   "ph": "/ˈprɑːdʌkt/",
+   "pos": "n. 產品",
+   "zh": "產品",
+   "colloc": "new product 新產品 | product launch 產品發表",
+   "distinct": "production 生產 | commodity 商品",
+   "ex": [
+    [
+     "We are launching a new product next month.",
+     "我們下個月要推出一項新產品。"
+    ],
+    [
+     "This product is designed for professional use.",
+     "這項產品是為專業用途所設計。"
+    ],
+    [
+     "The company’s latest product was a big success.",
+     "該公司最新的產品非常成功。"
+    ]
+   ]
+  },
+  {
+   "word": "production",
+   "ph": "/prəˈdʌkʃn/",
+   "pos": "n. 生產；作品",
+   "zh": "生產；作品",
+   "colloc": "production line 生產線 | mass production 大量生產",
+   "distinct": "product 產品 | manufacture 製造",
+   "ex": [
+    [
+     "The factory has increased its production capacity.",
+     "工廠已經增加了生產產能。"
+    ],
+    [
+     "They halted production due to machine failure.",
+     "由於機器故障，他們暫停了生產。"
+    ],
+    [
+     "Efficient production is key to our profitability.",
+     "有效率的生產是我們獲利的關鍵。"
+    ]
+   ]
+  },
+  {
+   "word": "recently",
+   "ph": "/ˈriːsntli/",
+   "pos": "adv. 最近；近來",
+   "zh": "最近；近來",
+   "colloc": "recently completed 最近完成 | recently joined 最近加入",
+   "distinct": "lately 最近 | nowadays 現今",
+   "ex": [
+    [
+     "I recently joined the marketing department team.",
+     "我最近加入了行銷部門團隊。"
+    ],
+    [
+     "They recently completed the renovation project.",
+     "他們最近完成了翻新專案。"
+    ],
+    [
+     "Have you seen the recently published report?",
+     "你看過最近出版的報告了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "recommend",
+   "ph": "/ˌrekəˈmend/",
+   "pos": "v. 推薦；建議",
+   "zh": "推薦；建議",
+   "colloc": "highly recommend 強烈推薦 | recommend a candidate 推薦候選人",
+   "distinct": "suggest 建議 | advise 勸告",
+   "ex": [
+    [
+     "I highly recommend this training workshop to you.",
+     "我強烈推薦這個培訓工作坊給你。"
+    ],
+    [
+     "The consultant recommended a new strategy.",
+     "顧問建議了一項新策略。"
+    ],
+    [
+     "Can you recommend a reliable software vendor?",
+     "你能推薦可靠的軟體供應商嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "reject",
+   "ph": "/rɪˈdʒekt/",
+   "pos": "v. 拒絕；駁回",
+   "zh": "拒絕；駁回",
+   "colloc": "reject an application 拒絕申請 | reject a proposal 駁回提議",
+   "distinct": "refuse 拒絕（要求）| decline 婉拒（邀請或提議）",
+   "ex": [
+    [
+     "The committee decided to reject his proposal.",
+     "委員會決定駁回他的提議。"
+    ],
+    [
+     "We had to reject several defective items.",
+     "我們不得不拒收幾項瑕疵品。"
+    ],
+    [
+     "The bank rejected our loan application today.",
+     "銀行今天拒絕了我們的貸款申請。"
+    ]
+   ]
+  },
+  {
+   "word": "relatively",
+   "ph": "/ˈrelətɪvli/",
+   "pos": "adv. 相對地；相當地",
+   "zh": "相對地；相當地",
+   "colloc": "relatively stable 相對穩定 | relatively high 相對較高",
+   "distinct": "comparatively 相較之下 | fairly 相當地",
+   "ex": [
+    [
+     "The project is relatively simple to complete.",
+     "這個專案完成起來相對簡單。"
+    ],
+    [
+     "Our company remained relatively stable during recession.",
+     "我們公司在經濟衰退期間維持相對穩定。"
+    ],
+    [
+     "The price is relatively low for this quality.",
+     "以這種品質來說，價格相對較低。"
+    ]
+   ]
+  }
+ ]
+}

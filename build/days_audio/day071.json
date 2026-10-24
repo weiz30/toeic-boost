@@ -1,0 +1,448 @@
+{
+ "day": 71,
+ "theme": "教材片語・進階 650–750 第 7 群",
+ "level": "進階 650–750",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "filing cabinet",
+   "ph": "",
+   "pos": "phr. 檔案櫃",
+   "zh": "檔案櫃",
+   "colloc": "lock the filing cabinet 上鎖檔案櫃 | organize a filing cabinet 整理檔案櫃",
+   "distinct": "file folder 資料夾 | filing system 歸檔系統",
+   "ex": [
+    [
+     "Please put the contract in the filing cabinet.",
+     "請將合約放進檔案櫃中。"
+    ],
+    [
+     "The filing cabinet is full of old invoices.",
+     "那個檔案櫃裝滿了舊發票。"
+    ],
+    [
+     "I cannot find the document in the filing cabinet.",
+     "我在檔案櫃裡找不到那份文件。"
+    ]
+   ]
+  },
+  {
+   "word": "first step",
+   "ph": "",
+   "pos": "phr. 第一步",
+   "zh": "第一步；首要步驟",
+   "colloc": "the first step toward 邁向…的第一步 | take the first step 採取第一步",
+   "distinct": "initial stage 初級階段 | priority 優先事項",
+   "ex": [
+    [
+     "Setting a budget is the first step of the project.",
+     "制定預算是該專案的第一步。"
+    ],
+    [
+     "This meeting is the first step toward a new partnership.",
+     "這次會議是邁向新合作關係的第一步。"
+    ],
+    [
+     "Taking initiative is the first step to success.",
+     "主動積極是邁向成功的第一步。"
+    ]
+   ]
+  },
+  {
+   "word": "get off",
+   "ph": "",
+   "pos": "phr. 下車；下班；離開",
+   "zh": "下車；下班；離開",
+   "colloc": "get off at the station 在車站下車 | get off work 下班",
+   "distinct": "get on 上車 | take off 起飛",
+   "ex": [
+    [
+     "You should get off at the next stop.",
+     "你應該在下一站下車。"
+    ],
+    [
+     "Most employees get off work at six o'clock.",
+     "大多數員工在六點鐘下班。"
+    ],
+    [
+     "We need to get off early to avoid the traffic.",
+     "為了避開交通我們需要早點出發。"
+    ]
+   ]
+  },
+  {
+   "word": "get together",
+   "ph": "",
+   "pos": "phr. 聚會；聚集",
+   "zh": "聚會；聚集",
+   "colloc": "a small get-together 小型聚會 | get together with colleagues 與同事聚會",
+   "distinct": "gather 收集 | assemble 裝配",
+   "ex": [
+    [
+     "The team will get together to celebrate the project.",
+     "團隊將聚在一起慶祝專案完成。"
+    ],
+    [
+     "Let us get together to discuss the marketing plan.",
+     "我們聚在一起討論行銷計畫吧。"
+    ],
+    [
+     "We usually get together for lunch every Friday.",
+     "我們通常每週五聚在一起吃午餐。"
+    ]
+   ]
+  },
+  {
+   "word": "in a row",
+   "ph": "",
+   "pos": "phr. 連續地；排成一行",
+   "zh": "連續地；排成一行",
+   "colloc": "three days in a row 連續三天 | sit in a row 排成一排坐",
+   "distinct": "consecutively 連續地 | in sequence 依順序",
+   "ex": [
+    [
+     "She has been late for three days in a row.",
+     "她已經連續三天遲到了。"
+    ],
+    [
+     "The workers are standing in a row by the desk.",
+     "工人們正排成一排站在桌子旁。"
+    ],
+    [
+     "We met five clients in a row this morning.",
+     "今天早上我們連續見了五位客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "in charge of",
+   "ph": "",
+   "pos": "phr. 負責；管理",
+   "zh": "負責；管理",
+   "colloc": "be in charge of the department 負責該部門 | put someone in charge of 指派某人負責",
+   "distinct": "responsible for 對…負責 | oversee 監督",
+   "ex": [
+    [
+     "Who is currently in charge of this account?",
+     "目前是誰負責這個帳戶？"
+    ],
+    [
+     "She was put in charge of the new project.",
+     "她被指派負責這個新專案。"
+    ],
+    [
+     "The manager is in charge of training new staff.",
+     "經理負責培訓新員工。"
+    ]
+   ]
+  },
+  {
+   "word": "instead of",
+   "ph": "",
+   "pos": "phr. 代替；而不是",
+   "zh": "代替；而不是",
+   "colloc": "use digital files instead of paper 使用數位檔而非紙本 | instead of doing something 而不做某事",
+   "distinct": "in place of 取代 | rather than 而不是",
+   "ex": [
+    [
+     "Let us use video calls instead of traveling.",
+     "我們用視訊通話代替出差吧。"
+    ],
+    [
+     "He chose the cheaper option instead of the premium one.",
+     "他選擇了較便宜的選項而不是高級版。"
+    ],
+    [
+     "Please send an email instead of calling me.",
+     "請傳電子郵件給我，而不是打電話。"
+    ]
+   ]
+  },
+  {
+   "word": "job title",
+   "ph": "",
+   "pos": "phr. 職稱",
+   "zh": "職稱",
+   "colloc": "official job title 正式職稱 | update one's job title 更新職稱",
+   "distinct": "job description 工作說明 | position 職位",
+   "ex": [
+    [
+     "His job title on the business card is Director.",
+     "他名片上的職稱是總監。"
+    ],
+    [
+     "Please list your current job title on the form.",
+     "請在表格上列出你目前的職稱。"
+    ],
+    [
+     "The job title does not reflect my actual duties.",
+     "這個職稱無法反映我的實際工作內容。"
+    ]
+   ]
+  },
+  {
+   "word": "law firm",
+   "ph": "",
+   "pos": "phr. 法律事務所",
+   "zh": "法律事務所",
+   "colloc": "a prestigious law firm 知名的法律事務所 | work at a law firm 在法律事務所工作",
+   "distinct": "legal department 法務部門 | court 法院",
+   "ex": [
+    [
+     "He works as a paralegal at a law firm.",
+     "他在一家法律事務所擔任律師助理。"
+    ],
+    [
+     "Our company hired a law firm for legal advice.",
+     "我們公司聘請了一家法律事務所進行諮詢。"
+    ],
+    [
+     "The law firm is located in the city center.",
+     "那家法律事務所位於市中心。"
+    ]
+   ]
+  },
+  {
+   "word": "lean",
+   "ph": "",
+   "pos": "v. 傾斜；倚靠 | adj. 精簡的",
+   "zh": "傾斜；倚靠；精簡的",
+   "colloc": "lean against the wall 靠在牆上 | lean operation 精實營運",
+   "distinct": "bend 彎曲 | tilt 傾斜",
+   "ex": [
+    [
+     "Do not lean against the glass door, please.",
+     "請不要靠在玻璃門上。"
+    ],
+    [
+     "The company adopted a lean strategy to cut costs.",
+     "公司採取了精簡策略來削減成本。"
+    ],
+    [
+     "She leaned forward to hear the speaker better.",
+     "她向前傾以便聽清楚演講者的聲音。"
+    ]
+   ]
+  },
+  {
+   "word": "play cards",
+   "ph": "",
+   "pos": "phr. 玩牌",
+   "zh": "玩牌",
+   "colloc": "play cards during a break 休息時玩牌 | enjoy playing cards 喜歡玩牌",
+   "distinct": "board game 桌遊 | card game 紙牌遊戲",
+   "ex": [
+    [
+     "The staff played cards during their lunch break.",
+     "員工在午休時間玩牌。"
+    ],
+    [
+     "We do not usually play cards in the office.",
+     "我們通常不在辦公室裡玩牌。"
+    ],
+    [
+     "Some people play cards to relax after work.",
+     "有些人下班後會透過玩牌來放鬆。"
+    ]
+   ]
+  },
+  {
+   "word": "point at",
+   "ph": "",
+   "pos": "phr. 指向",
+   "zh": "指向",
+   "colloc": "point at the screen 指向螢幕 | point at the map 指向地圖",
+   "distinct": "point out 指出 | aim at 瞄準",
+   "ex": [
+    [
+     "The presenter pointed at the graph on the wall.",
+     "報告者指向牆上的圖表。"
+    ],
+    [
+     "Please do not point at people during the meeting.",
+     "開會時請不要用手指著別人。"
+    ],
+    [
+     "He pointed at the document to show the error.",
+     "他指著文件以顯示錯誤之處。"
+    ]
+   ]
+  },
+  {
+   "word": "prepare a meal",
+   "ph": "",
+   "pos": "phr. 準備餐點",
+   "zh": "準備餐點",
+   "colloc": "prepare a meal for guests 為客人準備餐點 | help prepare a meal 協助準備餐點",
+   "distinct": "cook 烹飪 | serve a meal 上菜",
+   "ex": [
+    [
+     "The chef is preparing a meal for the CEO.",
+     "廚師正在為執行長準備餐點。"
+    ],
+    [
+     "It takes time to prepare a meal for many people.",
+     "為多人準備餐點需要很多時間。"
+    ],
+    [
+     "Can you help prepare a meal for the reception?",
+     "你可以幫忙準備接待會的餐點嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "print out",
+   "ph": "",
+   "pos": "phr. 列印出",
+   "zh": "列印出",
+   "colloc": "print out the report 列印報告 | print out hard copies 列印紙本",
+   "distinct": "print press 印刷機 | make a copy 影印",
+   "ex": [
+    [
+     "Please print out the agenda before the meeting starts.",
+     "會議開始前請列印出議程。"
+    ],
+    [
+     "I need to print out these files for my records.",
+     "我需要將這些檔案列印出來存檔。"
+    ],
+    [
+     "Do not print out emails unless it is necessary.",
+     "除非必要，否則不要列印電子郵件。"
+    ]
+   ]
+  },
+  {
+   "word": "public library",
+   "ph": "",
+   "pos": "phr. 公共圖書館",
+   "zh": "公共圖書館",
+   "colloc": "visit the public library 造訪公共圖書館 | local public library 當地公共圖書館",
+   "distinct": "university library 大學圖書館 | bookstore 書店",
+   "ex": [
+    [
+     "The public library is closed on national holidays.",
+     "公共圖書館在國定假日休息。"
+    ],
+    [
+     "She went to the public library to research data.",
+     "她去公共圖書館查詢資料。"
+    ],
+    [
+     "The city is building a new public library nearby.",
+     "該市正在附近興建一座新的公共圖書館。"
+    ]
+   ]
+  },
+  {
+   "word": "send out",
+   "ph": "",
+   "pos": "phr. 發送；發出",
+   "zh": "發送；發出",
+   "colloc": "send out invitations 發出邀請函 | send out newsletters 發送電子報",
+   "distinct": "mail 寄送 | distribute 分發",
+   "ex": [
+    [
+     "We will send out the survey results tomorrow.",
+     "我們明天會發送調查結果。"
+    ],
+    [
+     "Did you send out the emails to all staff?",
+     "你發送電子郵件給全體員工了嗎？"
+    ],
+    [
+     "The company sends out updates every month.",
+     "公司每個月都會發送最新資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "show send",
+   "ph": "",
+   "pos": "phr. 展示發送",
+   "zh": "展示發送",
+   "colloc": "show the screen and send 展示畫面並發送 | process of showing and sending 展示與發送的過程",
+   "distinct": "showcase 展示 | transmit 傳輸",
+   "ex": [
+    [
+     "He will show the document and send it to you.",
+     "他會展示該文件並發送給你。"
+    ],
+    [
+     "We need to show the final design before sending it.",
+     "我們需要在發送之前展示最終設計。"
+    ],
+    [
+     "Please show the results then send them to management.",
+     "請展示結果然後發送給管理層。"
+    ]
+   ]
+  },
+  {
+   "word": "speed up",
+   "ph": "",
+   "pos": "phr. 加速；使加速",
+   "zh": "加速；使加速",
+   "colloc": "speed up the process 加速流程 | speed up production 加速生產",
+   "distinct": "accelerate 加速 | expedite 迅速處理",
+   "ex": [
+    [
+     "We need to speed up the shipping process.",
+     "我們需要加速出貨流程。"
+    ],
+    [
+     "The new software should speed up our daily tasks.",
+     "新軟體應該能加速我們的日常工作。"
+    ],
+    [
+     "Can we do something to speed up the project?",
+     "我們有什麼方法可以加速這個專案嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "work on",
+   "ph": "",
+   "pos": "phr. 從事；致力於；努力改善",
+   "zh": "從事；致力於；努力改善",
+   "colloc": "work on a project 致力於專案 | work on weaknesses 改善弱點",
+   "distinct": "work with 與…合作 | work for 為…工作",
+   "ex": [
+    [
+     "Our team is working on a new marketing strategy.",
+     "我們的團隊正致力於一項新的行銷策略。"
+    ],
+    [
+     "He is currently working on his communication skills.",
+     "他目前正努力改善他的溝通技巧。"
+    ],
+    [
+     "I have been working on this report all morning.",
+     "我整個早上都在處理這份報告。"
+    ]
+   ]
+  },
+  {
+   "word": "early morning",
+   "ph": "",
+   "pos": "phr. 清晨",
+   "zh": "清晨",
+   "colloc": "in the early morning 在清晨 | early morning flight 清晨的班機",
+   "distinct": "late night 深夜 | morning 早上",
+   "ex": [
+    [
+     "We have an early morning meeting at eight.",
+     "我們八點有個清晨的會議。"
+    ],
+    [
+     "The early morning air is very refreshing.",
+     "清晨的空氣非常清新。"
+    ],
+    [
+     "Most of the staff arrive in the early morning.",
+     "大多數員工在清晨抵達辦公室。"
+    ]
+   ]
+  }
+ ]
+}

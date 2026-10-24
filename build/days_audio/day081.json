@@ -1,0 +1,448 @@
+{
+ "day": 81,
+ "theme": "教材片語・中高階 750–850 第 17 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "sales person",
+   "ph": "",
+   "pos": "n. 業務員；銷售人員",
+   "zh": "業務員；銷售人員",
+   "colloc": "experienced sales person 資深業務員 | contact a sales person 聯繫業務員",
+   "distinct": "sales representative 銷售代表 | clerk 店員（門市）",
+   "ex": [
+    [
+     "The sales person provided a detailed product demonstration.",
+     "業務員提供了詳細的產品演示。"
+    ],
+    [
+     "Please consult a sales person for current discounts.",
+     "請詢問銷售人員目前的折扣優惠。"
+    ],
+    [
+     "Our top sales person exceeded the annual quota.",
+     "我們最優秀的業務員超過了年度配額。"
+    ]
+   ]
+  },
+  {
+   "word": "scale model",
+   "ph": "",
+   "pos": "n. 比例模型",
+   "zh": "比例模型",
+   "colloc": "build a scale model 製作比例模型 | show a scale model 展示比例模型",
+   "distinct": "prototype 原型機 | mock-up 實體模型（通常為等比例）",
+   "ex": [
+    [
+     "The architect presented a scale model of the building.",
+     "建築師展示了該建築的比例模型。"
+    ],
+    [
+     "We used a scale model to test the wind resistance.",
+     "我們使用比例模型來測試抗風性。"
+    ],
+    [
+     "The company displayed a scale model in the lobby.",
+     "公司在大廳展示了一個比例模型。"
+    ]
+   ]
+  },
+  {
+   "word": "second hand",
+   "ph": "",
+   "pos": "adj. 二手的；間接得到的",
+   "zh": "二手的；間接的",
+   "colloc": "second hand furniture 二手家具 | second hand information 間接消息",
+   "distinct": "used 使用過的 | recycled 回收再利用的",
+   "ex": [
+    [
+     "He bought some second hand office equipment to save money.",
+     "他買了一些二手辦公設備以節省開支。"
+    ],
+    [
+     "This information is only second hand from my manager.",
+     "這項消息只是我從經理那邊聽來的間接資訊。"
+    ],
+    [
+     "Many startups prefer purchasing second hand machinery.",
+     "許多新創公司傾向購買二手機械設備。"
+    ]
+   ]
+  },
+  {
+   "word": "security deposit",
+   "ph": "",
+   "pos": "n. 押金；保證金",
+   "zh": "押金；保證金",
+   "colloc": "pay a security deposit 支付押金 | refund a security deposit 退還押金",
+   "distinct": "down payment 頭期款 | earnest money 定金",
+   "ex": [
+    [
+     "A security deposit is required for the office rental.",
+     "承租辦公室需要支付一筆押金。"
+    ],
+    [
+     "The landlord returned the security deposit after the inspection.",
+     "房東在驗屋後退還了押金。"
+    ],
+    [
+     "Please ensure the security deposit is paid before moving.",
+     "請確保在搬入前已支付保證金。"
+    ]
+   ]
+  },
+  {
+   "word": "short cut",
+   "ph": "",
+   "pos": "n. 捷徑",
+   "zh": "捷徑",
+   "colloc": "take a short cut 走捷徑 | find a short cut 尋找捷徑",
+   "distinct": "alternative route 替代路線 | direct path 直達路徑",
+   "ex": [
+    [
+     "There is no short cut to achieving professional success.",
+     "在職業生涯取得成功沒有捷徑。"
+    ],
+    [
+     "The delivery driver took a short cut through the alley.",
+     "快遞司機抄捷徑穿過巷子。"
+    ],
+    [
+     "Management wanted a short cut to improve efficiency.",
+     "管理層想尋找提升效率的捷徑。"
+    ]
+   ]
+  },
+  {
+   "word": "show up",
+   "ph": "",
+   "pos": "phr. 出現；露面",
+   "zh": "出現；露面",
+   "colloc": "show up late 遲到 | show up on time 準時出現",
+   "distinct": "turn up 到達；出現 | attend 出席",
+   "ex": [
+    [
+     "Most employees managed to show up for the meeting.",
+     "大部分員工都設法出席了會議。"
+    ],
+    [
+     "He did not show up despite the urgent invitation.",
+     "儘管有緊急邀約，他仍未出現。"
+    ],
+    [
+     "Will the keynote speaker show up before the event?",
+     "主講人會在活動前露面嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "sign up",
+   "ph": "",
+   "pos": "phr. 報名；註冊",
+   "zh": "報名；註冊",
+   "colloc": "sign up for a course 報名課程 | sign up online 線上註冊",
+   "distinct": "register 登記 | enroll 入學；註冊",
+   "ex": [
+    [
+     "Interested candidates should sign up by Friday afternoon.",
+     "有意者應在週五下午前報名。"
+    ],
+    [
+     "I decided to sign up for the professional training session.",
+     "我決定報名參加這次專業培訓課程。"
+    ],
+    [
+     "Please sign up on the website to receive updates.",
+     "請在網站上註冊以接收最新消息。"
+    ]
+   ]
+  },
+  {
+   "word": "slight chance",
+   "ph": "",
+   "pos": "n. 微小的機會；可能性",
+   "zh": "微小的機會；可能性",
+   "colloc": "a slight chance of success 成功的微小機會 | only a slight chance 只有一點機會",
+   "distinct": "slim hope 渺茫的希望 | remote possibility 極小的可能性",
+   "ex": [
+    [
+     "There is a slight chance that the shipment will arrive early.",
+     "貨物提前抵達的可能性很小。"
+    ],
+    [
+     "Even a slight chance of growth is worth pursuing.",
+     "即使只有微小的成長機會也值得追求。"
+    ],
+    [
+     "He realized there was a slight chance of winning the contract.",
+     "他意識到贏得合約的機會非常渺茫。"
+    ]
+   ]
+  },
+  {
+   "word": "speak up",
+   "ph": "",
+   "pos": "phr. 大聲說出來；公開表達意見",
+   "zh": "大聲說；公開表達意見",
+   "colloc": "speak up clearly 大聲說清楚 | encourage someone to speak up 鼓勵某人發表意見",
+   "distinct": "speak out 公開反對（不公） | raise one's voice 提高音量",
+   "ex": [
+    [
+     "Employees are encouraged to speak up during staff meetings.",
+     "鼓勵員工在員工會議中公開表達意見。"
+    ],
+    [
+     "Could you please speak up so everyone can hear you?",
+     "你能大聲一點讓大家都聽見嗎？"
+    ],
+    [
+     "Management wants staff to speak up about potential problems.",
+     "管理層希望員工能提出潛在的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "spread on",
+   "ph": "",
+   "pos": "phr. 塗抹；散布在…上",
+   "zh": "塗抹；散布",
+   "colloc": "spread on the bread 塗在麵包上 | spread on a surface 塗抹在表面",
+   "distinct": "apply 應用；塗抹 | smear 弄髒；塗抹",
+   "ex": [
+    [
+     "The technician spread on a layer of protective coating.",
+     "技術人員塗抹了一層保護塗層。"
+    ],
+    [
+     "You should spread on the adhesive evenly across the metal.",
+     "你應該將黏合劑均勻地塗在金屬表面上。"
+    ],
+    [
+     "She spread on the paste to seal the leaking pipe.",
+     "她把漿糊塗上去以密封漏水的管線。"
+    ]
+   ]
+  },
+  {
+   "word": "stand for",
+   "ph": "",
+   "pos": "phr. 代表；象徵；容忍",
+   "zh": "代表；象徵；容忍",
+   "colloc": "stand for quality 代表品質 | stand for values 代表價值觀",
+   "distinct": "represent 代表 | tolerate 容忍",
+   "ex": [
+    [
+     "Our company logo stands for innovation and excellence.",
+     "我們的公司標誌象徵創新與卓越。"
+    ],
+    [
+     "What does the abbreviation in the report stand for?",
+     "報告中的縮寫代表什麼意思？"
+    ],
+    [
+     "The manager will not stand for any unprofessional behavior.",
+     "經理絕不容忍任何不專業的行為。"
+    ]
+   ]
+  },
+  {
+   "word": "stand in for",
+   "ph": "",
+   "pos": "phr. 代替；頂替",
+   "zh": "代替；頂替",
+   "colloc": "stand in for a colleague 代替同事 | stand in for the manager 代替經理",
+   "distinct": "replace 取代 | substitute for 替換",
+   "ex": [
+    [
+     "The assistant will stand in for the director during the trip.",
+     "助理將在出差期間代理總監職務。"
+    ],
+    [
+     "Can you stand in for me during the afternoon presentation?",
+     "你能在下午的簡報中代替我嗎？"
+    ],
+    [
+     "She had to stand in for the lead speaker at the last minute.",
+     "她不得不在最後一刻頂替主講人。"
+    ]
+   ]
+  },
+  {
+   "word": "stand over",
+   "ph": "",
+   "pos": "phr. 監督；站在旁邊監視",
+   "zh": "監督；監視",
+   "colloc": "stand over an employee 監督員工 | stand over someone's shoulder 站在旁邊盯著",
+   "distinct": "supervise 管理；監督 | oversee 視察；監管",
+   "ex": [
+    [
+     "The supervisor had to stand over the trainees to ensure accuracy.",
+     "主管必須監督培訓生以確保精確度。"
+    ],
+    [
+     "I dislike having my boss stand over me while I work.",
+     "我不喜歡工作時主管站在旁邊監視。"
+    ],
+    [
+     "He stood over the project team until the deadline was met.",
+     "他一直在旁監督專案團隊直到期限達成。"
+    ]
+   ]
+  },
+  {
+   "word": "stay awake",
+   "ph": "",
+   "pos": "phr. 保持清醒",
+   "zh": "保持清醒",
+   "colloc": "stay awake all night 整晚保持清醒 | struggle to stay awake 努力保持清醒",
+   "distinct": "remain alert 保持警覺 | be vigilant 保持警惕",
+   "ex": [
+    [
+     "He drank coffee to stay awake during the long conference.",
+     "他喝了咖啡以在冗長的會議中保持清醒。"
+    ],
+    [
+     "It is hard to stay awake after such a tiring day.",
+     "在疲憊的一天過後很難保持清醒。"
+    ],
+    [
+     "The security guard must stay awake throughout the night shift.",
+     "保全人員在夜班期間必須保持清醒。"
+    ]
+   ]
+  },
+  {
+   "word": "stay tuned",
+   "ph": "",
+   "pos": "phr. 敬請期待；繼續鎖定",
+   "zh": "敬請期待；繼續鎖定",
+   "colloc": "stay tuned for updates 敬請期待後續更新 | stay tuned to the channel 鎖定此頻道",
+   "distinct": "remain updated 保持更新 | watch for news 留意新聞",
+   "ex": [
+    [
+     "Stay tuned for more details regarding the upcoming merger.",
+     "敬請期待關於即將到來合併案的更多細節。"
+    ],
+    [
+     "We will announce the winner soon, so please stay tuned.",
+     "我們很快就會宣布得獎者，請繼續關注。"
+    ],
+    [
+     "Stay tuned to our website for the latest market insights.",
+     "請鎖定我們的網站以獲取最新市場分析。"
+    ]
+   ]
+  },
+  {
+   "word": "stir into",
+   "ph": "",
+   "pos": "phr. 攪拌進入；加入並攪拌",
+   "zh": "攪拌加入",
+   "colloc": "stir into the mixture 加入混合物中攪拌 | stir into a liquid 加入液體攪拌",
+   "distinct": "mix with 與...混合 | blend into 融入",
+   "ex": [
+    [
+     "Stir the seasoning into the sauce before serving.",
+     "上菜前將調味料拌入醬汁中。"
+    ],
+    [
+     "Gently stir the additive into the chemical solution.",
+     "輕輕地將添加劑攪拌入化學溶液中。"
+    ],
+    [
+     "Please stir the sugar into your coffee until it dissolves.",
+     "請將糖攪拌進咖啡裡直到溶解。"
+    ]
+   ]
+  },
+  {
+   "word": "stop at a light",
+   "ph": "",
+   "pos": "phr. 在紅綠燈處停車",
+   "zh": "在紅綠燈處停車",
+   "colloc": "wait and stop at a light 等待紅綠燈 | stop at a light on the way 在路上遇紅燈停車",
+   "distinct": "stop at a crosswalk 在斑馬線停車 | pull over 靠邊停車",
+   "ex": [
+    [
+     "The taxi had to stop at a light on the way to the airport.",
+     "計程車在前往機場的路上必須在紅綠燈處停下。"
+    ],
+    [
+     "We missed the turn because we had to stop at a light.",
+     "我們因為在紅綠燈處停車而錯過了轉彎。"
+    ],
+    [
+     "I will pick you up after I stop at a light ahead.",
+     "我在前方紅綠燈處停好車後就會接你。"
+    ]
+   ]
+  },
+  {
+   "word": "stop for fuel",
+   "ph": "",
+   "pos": "phr. 停車加油",
+   "zh": "停車加油",
+   "colloc": "stop for fuel at a station 在加油站停車加油 | plan to stop for fuel 計畫停下加油",
+   "distinct": "refuel 加油 | fill up 加滿",
+   "ex": [
+    [
+     "We need to stop for fuel before heading to the client site.",
+     "我們前往客戶公司前需要先停下來加油。"
+    ],
+    [
+     "The rental car requires us to stop for fuel before returning.",
+     "租車歸還前我們必須停下來加滿油。"
+    ],
+    [
+     "They decided to stop for fuel at the nearest service station.",
+     "他們決定在最近的服務站停車加油。"
+    ]
+   ]
+  },
+  {
+   "word": "street sign",
+   "ph": "",
+   "pos": "n. 街道標誌；路牌",
+   "zh": "街道標誌；路牌",
+   "colloc": "check the street sign 確認路牌 | look for a street sign 尋找路牌",
+   "distinct": "traffic sign 交通標誌 | billboard 看板",
+   "ex": [
+    [
+     "The street sign was hidden behind the overgrown tree.",
+     "路牌被茂密的樹木遮住了。"
+    ],
+    [
+     "He missed the street sign because of the heavy rain.",
+     "因為大雨他錯過了路牌。"
+    ],
+    [
+     "Look for the blue street sign at the next intersection.",
+     "在下個路口尋找藍色的路牌。"
+    ]
+   ]
+  },
+  {
+   "word": "table cloth",
+   "ph": "",
+   "pos": "n. 桌布",
+   "zh": "桌布",
+   "colloc": "clean the table cloth 清潔桌布 | place a table cloth 鋪上桌布",
+   "distinct": "table mat 餐墊 | table cover 桌罩",
+   "ex": [
+    [
+     "The restaurant uses a crisp white table cloth for dinner.",
+     "該餐廳晚餐時會使用潔白的桌布。"
+    ],
+    [
+     "Please remove the stained table cloth before the guests arrive.",
+     "請在客人到達前撤下髒掉的桌布。"
+    ],
+    [
+     "The catering staff spread a new table cloth on the banquet table.",
+     "外燴人員在宴會桌上鋪了一張新桌布。"
+    ]
+   ]
+  }
+ ]
+}

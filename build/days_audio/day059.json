@@ -1,0 +1,448 @@
+{
+ "day": 59,
+ "theme": "教材字彙・中高階 750–850 第 59 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "ground",
+   "ph": "/ɡraʊnd/",
+   "pos": "n. 地面 | v. 使停飛",
+   "zh": "地面；土地；理由",
+   "colloc": "on the ground 在現場 | break new ground 有創新突破",
+   "distinct": "floor 室內地板 | field 田野或專業領域",
+   "ex": [
+    [
+     "The plane was grounded due to the storm.",
+     "因暴風雨影響，該班機被迫停飛。"
+    ],
+    [
+     "Our company is breaking new ground in AI.",
+     "我們公司在人工智慧領域有創新突破。"
+    ],
+    [
+     "All field staff must report on the ground.",
+     "所有外勤人員必須在現場回報狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "ideally",
+   "ph": "/aɪˈdiːəli/",
+   "pos": "adv. 理想地；原則上",
+   "zh": "理想地；原則上",
+   "colloc": "ideally suited 非常適合 | ideally located 地點極佳",
+   "distinct": "perfectly 完美地 | typically 通常地",
+   "ex": [
+    [
+     "Ideally, the report should be finished today.",
+     "原則上，這份報告應該今天完成。"
+    ],
+    [
+     "This location is ideally suited for a store.",
+     "這個地點非常適合開設店面。"
+    ],
+    [
+     "The office is ideally located near the station.",
+     "該辦公室地點極佳，鄰近車站。"
+    ]
+   ]
+  },
+  {
+   "word": "infection",
+   "ph": "/ɪnˈfekʃn/",
+   "pos": "n. 感染；傳染病",
+   "zh": "感染；傳染病",
+   "colloc": "prevent infection 防止感染 | severe infection 嚴重感染",
+   "distinct": "inflammation 發炎 | contamination 污染",
+   "ex": [
+    [
+     "Proper hygiene can help prevent infection.",
+     "保持良好衛生習慣有助於預防感染。"
+    ],
+    [
+     "The patient is being treated for an infection.",
+     "該病患目前正在接受感染治療。"
+    ],
+    [
+     "Wash your hands to avoid potential infection.",
+     "請洗手以避免可能的感染風險。"
+    ]
+   ]
+  },
+  {
+   "word": "instead",
+   "ph": "/ɪnˈsted/",
+   "pos": "adv. 取而代之",
+   "zh": "作為替代；反而",
+   "colloc": "instead of 代替 | just instead 剛好相反",
+   "distinct": "rather 相反地 | alternatively 或者",
+   "ex": [
+    [
+     "We decided to buy the laptop instead.",
+     "我們決定改買那台筆記型電腦。"
+    ],
+    [
+     "They chose digital marketing instead of print.",
+     "他們選擇數位行銷而非印刷廣告。"
+    ],
+    [
+     "She didn't quit, but instead worked harder.",
+     "她沒有離職，反而更加努力工作。"
+    ]
+   ]
+  },
+  {
+   "word": "justify",
+   "ph": "/ˈdʒʌstɪfaɪ/",
+   "pos": "v. 證明…是正當的",
+   "zh": "證明正當；辯解",
+   "colloc": "justify the cost 證明成本合理 | fully justified 完全有理",
+   "distinct": "verify 核實 | validate 驗證",
+   "ex": [
+    [
+     "Can you justify the increase in expenses?",
+     "你能解釋費用增加的合理性嗎？"
+    ],
+    [
+     "The results justify our investment strategy.",
+     "這些結果證明了我們的投資策略是正確的。"
+    ],
+    [
+     "He tried to justify his late arrival today.",
+     "他試圖為今天的遲到找理由辯解。"
+    ]
+   ]
+  },
+  {
+   "word": "lately",
+   "ph": "/ˈleɪtli/",
+   "pos": "adv. 近來；最近",
+   "zh": "最近；近來",
+   "colloc": "lately improved 最近改善 | seen lately 近期看過",
+   "distinct": "late 遲到的 | recently 最近的",
+   "ex": [
+    [
+     "Have you been to the new office lately?",
+     "你最近有去過那間新辦公室嗎？"
+    ],
+    [
+     "Business has been quite slow lately.",
+     "最近業務量相當冷清。"
+    ],
+    [
+     "We have lately observed a rise in sales.",
+     "我們近來觀察到銷售額有成長趨勢。"
+    ]
+   ]
+  },
+  {
+   "word": "massive",
+   "ph": "/ˈmæsɪv/",
+   "pos": "adj. 大規模的；巨大的",
+   "zh": "大規模的；巨大的",
+   "colloc": "massive scale 大規模 | massive effort 巨大的努力",
+   "distinct": "huge 巨大的 | wide 寬廣的",
+   "ex": [
+    [
+     "The company made a massive investment in R&D.",
+     "公司在研發上投入了巨額資金。"
+    ],
+    [
+     "We are planning a massive marketing campaign.",
+     "我們正在策劃一場大規模的行銷活動。"
+    ],
+    [
+     "There was a massive crowd at the expo.",
+     "展覽會現場擠滿了大量人潮。"
+    ]
+   ]
+  },
+  {
+   "word": "namely",
+   "ph": "/ˈneɪmli/",
+   "pos": "adv. 也就是說；即",
+   "zh": "也就是說；即",
+   "colloc": "namely the following 也就是下列事項 | namely because 主要是因為",
+   "distinct": "specifically 特別是 | in other words 換句話說",
+   "ex": [
+    [
+     "Only one person, namely the manager, knows.",
+     "只有一個人，也就是經理本人知道。"
+    ],
+    [
+     "We have one main goal, namely to grow.",
+     "我們有一個主要目標，即追求成長。"
+    ],
+    [
+     "There is one problem, namely the budget.",
+     "目前有一個問題，也就是預算不足。"
+    ]
+   ]
+  },
+  {
+   "word": "ordering",
+   "ph": "/ˈɔːrdərɪŋ/",
+   "pos": "n. 訂購；排序",
+   "zh": "訂購；安排順序",
+   "colloc": "ordering system 訂購系統 | online ordering 線上訂購",
+   "distinct": "order 順序 | command 命令",
+   "ex": [
+    [
+     "The ordering process is quite user-friendly.",
+     "這個訂購流程相當人性化。"
+    ],
+    [
+     "We are improving our online ordering system.",
+     "我們正在改良線上訂購系統。"
+    ],
+    [
+     "Please check the alphabetical ordering of names.",
+     "請檢查名稱的字母排序是否正確。"
+    ]
+   ]
+  },
+  {
+   "word": "port",
+   "ph": "/pɔːrt/",
+   "pos": "n. 港口；連接埠",
+   "zh": "港口；連接埠",
+   "colloc": "shipping port 貨運港口 | port authority 港務局",
+   "distinct": "harbor 避風港 | dock 碼頭",
+   "ex": [
+    [
+     "The goods arrived at the local port yesterday.",
+     "貨物昨日已抵達當地港口。"
+    ],
+    [
+     "This laptop has a new charging port design.",
+     "這款筆電有新型的充電埠設計。"
+    ],
+    [
+     "The port will be closed for maintenance soon.",
+     "該港口即將關閉進行維修作業。"
+    ]
+   ]
+  },
+  {
+   "word": "possess",
+   "ph": "/pəˈzes/",
+   "pos": "v. 擁有；具備",
+   "zh": "擁有；具備",
+   "colloc": "possess skills 具備技能 | fully possess 完全擁有",
+   "distinct": "own 擁有權 | contain 包含",
+   "ex": [
+    [
+     "Candidates must possess a master's degree.",
+     "候選人必須具備碩士學位。"
+    ],
+    [
+     "She possesses strong leadership qualities.",
+     "她具備卓越的領導特質。"
+    ],
+    [
+     "Do you possess the necessary software tools?",
+     "你有具備必要的軟體工具嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "presumably",
+   "ph": "/prɪˈzuːməbli/",
+   "pos": "adv. 據推測；大概",
+   "zh": "據推測；大概",
+   "colloc": "presumably true 大概是真的 | presumably correct 據推測正確",
+   "distinct": "probably 可能地 | possibly 可能地",
+   "ex": [
+    [
+     "Presumably, the meeting will start on time.",
+     "據推測，會議將會準時開始。"
+    ],
+    [
+     "He is presumably working in the office today.",
+     "他大概今天在辦公室工作。"
+    ],
+    [
+     "The results are presumably available by noon.",
+     "結果大概中午前會出來。"
+    ]
+   ]
+  },
+  {
+   "word": "projected",
+   "ph": "/prəˈdʒektɪd/",
+   "pos": "adj. 預計的；規劃中的",
+   "zh": "預計的；規劃中的",
+   "colloc": "projected growth 預計成長 | projected sales 預估銷售",
+   "distinct": "predicted 預測的 | expected 期待的",
+   "ex": [
+    [
+     "The projected revenue is higher than last year.",
+     "預計收入比去年更高。"
+    ],
+    [
+     "We exceeded the projected sales targets.",
+     "我們超越了預估的銷售目標。"
+    ],
+    [
+     "The projected timeline seems too ambitious.",
+     "這個預計的時間表似乎過於理想化。"
+    ]
+   ]
+  },
+  {
+   "word": "proportion",
+   "ph": "/prəˈpɔːrʃn/",
+   "pos": "n. 比例；部分",
+   "zh": "比例；部分",
+   "colloc": "high proportion 高比例 | large proportion 大部分",
+   "distinct": "percentage 百分比 | ratio 比率",
+   "ex": [
+    [
+     "A large proportion of staff prefer working remotely.",
+     "很大比例的員工偏好遠端工作。"
+    ],
+    [
+     "The proportion of expenses is getting higher.",
+     "支出的比例正逐漸升高。"
+    ],
+    [
+     "Budget allocation is out of proportion here.",
+     "這裡的預算配置比例失衡。"
+    ]
+   ]
+  },
+  {
+   "word": "provided",
+   "ph": "/prəˈvaɪdɪd/",
+   "pos": "conj. 假如；只要 | v. 提供(過去式)",
+   "zh": "假如；提供",
+   "colloc": "provided that 只要… | provided services 所提供的服務",
+   "distinct": "suppose 假設 | assuming 假設",
+   "ex": [
+    [
+     "We can finish, provided that we get help.",
+     "只要獲得協助，我們就能完成任務。"
+    ],
+    [
+     "The company provided excellent training sessions.",
+     "公司提供了很棒的培訓課程。"
+    ],
+    [
+     "Provided it rains, we move the event inside.",
+     "假如遇到下雨，我們就將活動移至室內。"
+    ]
+   ]
+  },
+  {
+   "word": "publicity",
+   "ph": "/pʌˈblɪsəti/",
+   "pos": "n. 宣傳；名聲",
+   "zh": "宣傳；關注度",
+   "colloc": "bad publicity 負面報導 | publicity campaign 宣傳活動",
+   "distinct": "advertising 廣告 | fame 名聲",
+   "ex": [
+    [
+     "The product received a lot of positive publicity.",
+     "該產品獲得了許多正面宣傳。"
+    ],
+    [
+     "They are launching a new publicity campaign.",
+     "他們正在發起一項新的宣傳活動。"
+    ],
+    [
+     "We need more publicity to attract clients.",
+     "我們需要更多宣傳來吸引客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "quietly",
+   "ph": "/ˈkwaɪətli/",
+   "pos": "adv. 安靜地；沈默地",
+   "zh": "安靜地；沈默地",
+   "colloc": "quietly confident 默默地自信 | work quietly 安靜工作",
+   "distinct": "silently 靜默地 | calm 平靜地",
+   "ex": [
+    [
+     "She worked quietly at her desk all day.",
+     "她整天安靜地在位子上工作。"
+    ],
+    [
+     "The market is quietly recovering this month.",
+     "市場本月正悄悄地復甦。"
+    ],
+    [
+     "He is quietly confident about the presentation.",
+     "他對簡報表現出沈穩的自信。"
+    ]
+   ]
+  },
+  {
+   "word": "quite",
+   "ph": "/kwaɪt/",
+   "pos": "adv. 相當；非常",
+   "zh": "相當；非常",
+   "colloc": "quite good 相當好 | quite difficult 相當困難",
+   "distinct": "quiet 安靜的 | rather 頗為",
+   "ex": [
+    [
+     "The office is quite busy this morning.",
+     "辦公室今天早上相當忙碌。"
+    ],
+    [
+     "We have quite a lot of work today.",
+     "我們今天有相當多的工作量。"
+    ],
+    [
+     "That task was quite challenging for us.",
+     "那項任務對我們而言相當具挑戰性。"
+    ]
+   ]
+  },
+  {
+   "word": "raised",
+   "ph": "/reɪzd/",
+   "pos": "v. 提高；提出(過去式)",
+   "zh": "提高；提出",
+   "colloc": "raised concerns 提出疑慮 | raised capital 募集資金",
+   "distinct": "rose 上升(不及物) | lift 舉起",
+   "ex": [
+    [
+     "Management raised the salary for all staff.",
+     "管理層提高了全體員工的薪資。"
+    ],
+    [
+     "Several members raised questions during the meeting.",
+     "幾位成員在會議中提出了問題。"
+    ],
+    [
+     "We raised enough capital for the expansion.",
+     "我們為擴張計畫募集了足夠的資金。"
+    ]
+   ]
+  },
+  {
+   "word": "recognized",
+   "ph": "/ˈrekəɡnaɪzd/",
+   "pos": "v. 認可；承認(過去式)",
+   "zh": "認可；承認；識別",
+   "colloc": "widely recognized 廣受認可 | recognized brand 知名的品牌",
+   "distinct": "known 知名的 | admitted 承認",
+   "ex": [
+    [
+     "The company is recognized for its quality.",
+     "該公司因其品質而受到認可。"
+    ],
+    [
+     "He finally recognized his mistake in the report.",
+     "他終於承認了報告中的錯誤。"
+    ],
+    [
+     "This certificate is recognized internationally.",
+     "這份證書是受到國際認可的。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 10,
+ "theme": "教材字彙・基礎 550–650 第 10 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "suitcase",
+   "ph": "/ˈsuːtkeɪs/",
+   "pos": "n. 行李箱",
+   "zh": "行李箱",
+   "colloc": "pack a suitcase 打包行李 | carry a suitcase 提著行李箱",
+   "distinct": "luggage 行李（總稱，不可數）| baggage 行李（總稱，不可數）",
+   "ex": [
+    [
+     "Please place your suitcase on the scale. ",
+     "請將您的行李箱放在磅秤上。"
+    ],
+    [
+     "He bought a new suitcase for the trip. ",
+     "他為這次旅行買了一個新行李箱。"
+    ],
+    [
+     "The suitcase is too heavy for the shelf. ",
+     "這個行李箱太重，放不到架子上。"
+    ]
+   ]
+  },
+  {
+   "word": "support",
+   "ph": "/səˈpɔːrt/",
+   "pos": "n. 支持 | v. 支持；支撐",
+   "zh": "支持；支撐",
+   "colloc": "technical support 技術支援 | show support 展現支持",
+   "distinct": "assist 協助（特定任務）| advocate 提倡（某種理念）",
+   "ex": [
+    [
+     "We need your support for this new project. ",
+     "我們需要您對這項新專案的支持。"
+    ],
+    [
+     "The company supports flexible working hours. ",
+     "公司支持彈性工時制度。"
+    ],
+    [
+     "Our team provides technical support to clients. ",
+     "我們的團隊為客戶提供技術支援。"
+    ]
+   ]
+  },
+  {
+   "word": "target",
+   "ph": "/ˈtɑːrɡɪt/",
+   "pos": "n. 目標；對象 | v. 把…作為目標",
+   "zh": "目標；針對",
+   "colloc": "reach a target 達成目標 | sales target 銷售目標",
+   "distinct": "goal 總目標（長期）| objective 客觀的具體目標",
+   "ex": [
+    [
+     "We must reach our sales target this month. ",
+     "我們本月必須達成銷售目標。"
+    ],
+    [
+     "This advertisement targets young office workers. ",
+     "這則廣告鎖定年輕上班族。"
+    ],
+    [
+     "The team set a new target for growth. ",
+     "團隊設定了新的成長目標。"
+    ]
+   ]
+  },
+  {
+   "word": "tend",
+   "ph": "/tend/",
+   "pos": "v. 傾向於；照顧",
+   "zh": "傾向於；照顧",
+   "colloc": "tend to do 傾向於做… | tend to be 傾向於…",
+   "distinct": "intend 打算 | trend 趨勢",
+   "ex": [
+    [
+     "Employees tend to prefer remote work options. ",
+     "員工傾向於偏好遠端工作的選項。"
+    ],
+    [
+     "Prices tend to rise during the holiday season. ",
+     "價格在假期期間往往會上漲。"
+    ],
+    [
+     "Managers tend to be busy on Monday mornings. ",
+     "經理在週一早晨通常都很忙。"
+    ]
+   ]
+  },
+  {
+   "word": "tightly",
+   "ph": "/ˈtaɪtli/",
+   "pos": "adv. 緊緊地；嚴格地",
+   "zh": "緊緊地；嚴格地",
+   "colloc": "tightly sealed 密封的 | hold tightly 抓緊",
+   "distinct": "firmly 穩固地 | strictly 嚴格地",
+   "ex": [
+    [
+     "The box must be sealed tightly for shipping. ",
+     "箱子運送前必須密封緊實。"
+    ],
+    [
+     "Hold the equipment tightly during the transport. ",
+     "搬運過程中請抓緊設備。"
+    ],
+    [
+     "We are managing the budget very tightly. ",
+     "我們正在嚴格控管預算。"
+    ]
+   ]
+  },
+  {
+   "word": "timely",
+   "ph": "/ˈtaɪmli/",
+   "pos": "adj. 及時的",
+   "zh": "及時的",
+   "colloc": "timely manner 及時地 | timely response 及時的回應",
+   "distinct": "immediate 立即的 | prompt 迅速的",
+   "ex": [
+    [
+     "Thank you for your timely assistance today. ",
+     "感謝您今天及時的協助。"
+    ],
+    [
+     "We require a timely response to this email. ",
+     "我們需要這封信的即時回覆。"
+    ],
+    [
+     "The report was delivered in a timely manner. ",
+     "報告已在及時的狀況下送達。"
+    ]
+   ]
+  },
+  {
+   "word": "unexpected",
+   "ph": "/ˌʌnɪkˈspektɪd/",
+   "pos": "adj. 意外的；出乎意料的",
+   "zh": "意外的；出乎意料的",
+   "colloc": "unexpected result 意外的結果 | unexpected delay 意外的延誤",
+   "distinct": "accidental 偶然的 | sudden 突然的",
+   "ex": [
+    [
+     "An unexpected issue delayed the construction work. ",
+     "一個意外的問題延誤了工程進度。"
+    ],
+    [
+     "We faced unexpected challenges during the merger. ",
+     "我們在合併期間面臨意外的挑戰。"
+    ],
+    [
+     "His departure was quite an unexpected turn. ",
+     "他的離開是一個相當意外的轉折。"
+    ]
+   ]
+  },
+  {
+   "word": "union",
+   "ph": "/ˈjuːniən/",
+   "pos": "n. 工會；聯合",
+   "zh": "工會；聯合",
+   "colloc": "labor union 工會 | join a union 加入工會",
+   "distinct": "association 協會 | coalition 聯盟（多方結合）",
+   "ex": [
+    [
+     "The labor union is negotiating the contract. ",
+     "工會正在進行合約談判。"
+    ],
+    [
+     "They formed a union to protect worker rights. ",
+     "他們成立了一個工會來保障勞工權益。"
+    ],
+    [
+     "The union members voted for a strike today. ",
+     "工會成員今天投票決定罷工。"
+    ]
+   ]
+  },
+  {
+   "word": "worth",
+   "ph": "/wɜːrθ/",
+   "pos": "adj. 值得的 | n. 價值",
+   "zh": "值得的；價值",
+   "colloc": "worth the effort 值得努力 | worth considering 值得考慮",
+   "distinct": "value 價值（名詞）| worthy 值得的（形容詞）",
+   "ex": [
+    [
+     "The new software is worth the investment. ",
+     "這套新軟體值得投資。"
+    ],
+    [
+     "This suggestion is worth considering next week. ",
+     "這個建議下週值得考慮。"
+    ],
+    [
+     "The company proved its worth during the crisis. ",
+     "公司在危機中證明了自己的價值。"
+    ]
+   ]
+  },
+  {
+   "word": "absolute",
+   "ph": "/ˈæbsəluːt/",
+   "pos": "adj. 絕對的；完全的",
+   "zh": "絕對的；完全的",
+   "colloc": "absolute necessity 絕對必要 | absolute power 絕對權力",
+   "distinct": "definite 明確的 | complete 完全的",
+   "ex": [
+    [
+     "Privacy is an absolute requirement for clients. ",
+     "隱私是客戶的絕對要求。"
+    ],
+    [
+     "There is no absolute rule for this situation. ",
+     "這種情況沒有絕對的規定。"
+    ],
+    [
+     "We need absolute silence during the meeting. ",
+     "會議期間我們需要絕對的安靜。"
+    ]
+   ]
+  },
+  {
+   "word": "act",
+   "ph": "/ækt/",
+   "pos": "v. 行動；充當 | n. 行為；法案",
+   "zh": "行動；行為；法案",
+   "colloc": "act accordingly 採取相應行動 | act as 擔任",
+   "distinct": "action 行動（名詞）| deed 舉動",
+   "ex": [
+    [
+     "We must act quickly to solve the problem. ",
+     "我們必須迅速採取行動以解決問題。"
+    ],
+    [
+     "She acts as the director of the department. ",
+     "她擔任該部門的總監。"
+    ],
+    [
+     "The government passed a new labor act. ",
+     "政府通過了一項新的勞工法案。"
+    ]
+   ]
+  },
+  {
+   "word": "adequate",
+   "ph": "/ˈædɪkwət/",
+   "pos": "adj. 足夠的；適當的",
+   "zh": "足夠的；適當的",
+   "colloc": "adequate supply 足夠的供應 | adequate funding 足夠的資金",
+   "distinct": "enough 足夠的（口語）| sufficient 足夠的（正式）",
+   "ex": [
+    [
+     "The current facilities are not adequate anymore. ",
+     "目前的設施已不再足夠。"
+    ],
+    [
+     "We have adequate budget to start the project. ",
+     "我們有足夠的預算啟動專案。"
+    ],
+    [
+     "Please ensure adequate lighting in the office. ",
+     "請確保辦公室內有足夠的照明。"
+    ]
+   ]
+  },
+  {
+   "word": "advanced",
+   "ph": "/ədˈvænst/",
+   "pos": "adj. 高階的；先進的",
+   "zh": "高階的；先進的",
+   "colloc": "advanced technology 先進技術 | advanced notice 事先通知",
+   "distinct": "modern 現代的 | leading-edge 尖端的",
+   "ex": [
+    [
+     "We use advanced software for data analysis. ",
+     "我們使用高階軟體進行資料分析。"
+    ],
+    [
+     "Please give us advanced notice of your trip. ",
+     "出差請務必事先通知我們。"
+    ],
+    [
+     "They offer an advanced course for managers. ",
+     "他們為經理提供了一門高階課程。"
+    ]
+   ]
+  },
+  {
+   "word": "aid",
+   "ph": "/eɪd/",
+   "pos": "n. 援助；輔助設備 | v. 幫助",
+   "zh": "援助；幫助",
+   "colloc": "financial aid 經濟援助 | aid in 幫助…",
+   "distinct": "help 幫助（通用）| support 支持",
+   "ex": [
+    [
+     "The government provided aid to small businesses. ",
+     "政府提供了經濟援助給小型企業。"
+    ],
+    [
+     "This tool will aid in organizing your tasks. ",
+     "這個工具將有助於整理您的工作。"
+    ],
+    [
+     "They sent humanitarian aid to the region. ",
+     "他們送了人道救援物資到該地區。"
+    ]
+   ]
+  },
+  {
+   "word": "aim",
+   "ph": "/eɪm/",
+   "pos": "n. 目的 | v. 旨在；瞄準",
+   "zh": "目的；旨在",
+   "colloc": "aim at 旨在於 | with the aim of 為了…目的",
+   "distinct": "goal 目標 | purpose 用途",
+   "ex": [
+    [
+     "Our main aim is to improve customer service. ",
+     "我們的主要目的是改善客戶服務。"
+    ],
+    [
+     "The policy aims at reducing carbon emissions. ",
+     "這項政策旨在減少碳排放。"
+    ],
+    [
+     "He aimed his speech at potential investors. ",
+     "他的演講目標是潛在的投資者。"
+    ]
+   ]
+  },
+  {
+   "word": "alter",
+   "ph": "/ˈɔːltər/",
+   "pos": "v. 改變；修改",
+   "zh": "改變；修改",
+   "colloc": "alter the plan 修改計畫 | alter the design 改變設計",
+   "distinct": "change 改變（通用）| adjust 調整（微調）",
+   "ex": [
+    [
+     "We need to alter the schedule for Monday. ",
+     "我們需要修改週一的行程表。"
+    ],
+    [
+     "The tailor can alter the suit for you. ",
+     "裁縫師可以為您修改這套西裝。"
+    ],
+    [
+     "Changing the software will alter our workflow. ",
+     "更動軟體會改變我們的工作流程。"
+    ]
+   ]
+  },
+  {
+   "word": "apply",
+   "ph": "/əˈplaɪ/",
+   "pos": "v. 申請；應用",
+   "zh": "申請；應用",
+   "colloc": "apply for a job 應徵工作 | apply to 適用於",
+   "distinct": "request 請求 | utilize 利用",
+   "ex": [
+    [
+     "She decided to apply for the manager position. ",
+     "她決定申請經理職位。"
+    ],
+    [
+     "These rules apply to all staff members. ",
+     "這些規定適用於所有員工。"
+    ],
+    [
+     "Please apply the new code to the website. ",
+     "請將新程式碼套用到網站上。"
+    ]
+   ]
+  },
+  {
+   "word": "appropriately",
+   "ph": "/əˈproʊpriətli/",
+   "pos": "adv. 適當地",
+   "zh": "適當地",
+   "colloc": "dress appropriately 穿著得體 | act appropriately 行為適當",
+   "distinct": "properly 正確地 | suitably 合適地",
+   "ex": [
+    [
+     "Please handle the confidential files appropriately. ",
+     "請適當地處理這些機密檔案。"
+    ],
+    [
+     "The staff should dress appropriately for clients. ",
+     "員工在客戶面前應穿著得體。"
+    ],
+    [
+     "The budget was allocated appropriately this year. ",
+     "預算今年已獲得適當的分配。"
+    ]
+   ]
+  },
+  {
+   "word": "approval",
+   "ph": "/əˈpruːvl/",
+   "pos": "n. 批准；認可",
+   "zh": "批准；認可",
+   "colloc": "get approval 獲得批准 | seek approval 尋求核准",
+   "distinct": "permission 許可 | consent 同意",
+   "ex": [
+    [
+     "I am waiting for the manager's approval. ",
+     "我正在等待經理的核准。"
+    ],
+    [
+     "The project has finally received official approval. ",
+     "該專案終於獲得了官方批准。"
+    ],
+    [
+     "Please submit the documents for final approval. ",
+     "請提交文件以進行最終核准。"
+    ]
+   ]
+  },
+  {
+   "word": "arrangement",
+   "ph": "/əˈreɪndʒmənt/",
+   "pos": "n. 安排；整理",
+   "zh": "安排；整理",
+   "colloc": "make arrangements 進行安排 | travel arrangement 旅行安排",
+   "distinct": "plan 計畫 | organization 組織",
+   "ex": [
+    [
+     "We have made arrangements for the meeting. ",
+     "我們已經為會議做了相關安排。"
+    ],
+    [
+     "She is in charge of the travel arrangements. ",
+     "她負責處理旅行相關的安排。"
+    ],
+    [
+     "The seating arrangement was changed yesterday. ",
+     "座位安排昨天做了調整。"
+    ]
+   ]
+  }
+ ]
+}

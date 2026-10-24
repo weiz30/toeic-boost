@@ -1,0 +1,448 @@
+{
+ "day": 73,
+ "theme": "教材片語・中高階 750–850 第 9 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "traffic light",
+   "ph": "",
+   "pos": "n. 紅綠燈",
+   "zh": "紅綠燈；交通號誌",
+   "colloc": "at the traffic light 在紅綠燈處 | obey traffic lights 遵守交通號誌",
+   "distinct": "traffic signal 交通訊號 | pedestrian crossing 斑馬線",
+   "ex": [
+    [
+     "Turn left at the next traffic light.",
+     "在下一個紅綠燈左轉。"
+    ],
+    [
+     "The traffic light was broken during the storm.",
+     "暴風雨期間紅綠燈故障了。"
+    ],
+    [
+     "We were stuck at a traffic light for minutes.",
+     "我們在紅綠燈路口卡了好幾分鐘。"
+    ]
+   ]
+  },
+  {
+   "word": "voice mail",
+   "ph": "",
+   "pos": "n. 語音信箱",
+   "zh": "語音留言；語音信箱",
+   "colloc": "leave a voice mail 留言 | check voice mail 檢查語音留言",
+   "distinct": "text message 簡訊 | answering machine 電話答錄機",
+   "ex": [
+    [
+     "Please leave a message on my voice mail.",
+     "請在我的語音信箱留言。"
+    ],
+    [
+     "I checked my voice mail after the meeting.",
+     "我在會議後查看了語音留言。"
+    ],
+    [
+     "Your call has been forwarded to voice mail.",
+     "您的電話已轉接至語音信箱。"
+    ]
+   ]
+  },
+  {
+   "word": "wash the car",
+   "ph": "",
+   "pos": "phr. 洗車",
+   "zh": "清洗汽車",
+   "colloc": "need to wash the car 需要洗車 | help wash the car 幫忙洗車",
+   "distinct": "car wash 洗車場 | wax the car 給車打蠟",
+   "ex": [
+    [
+     "I plan to wash the car this weekend.",
+     "我打算這週末洗車。"
+    ],
+    [
+     "He went to wash the car before the date.",
+     "他在約會前去把車洗乾淨。"
+    ],
+    [
+     "Did you wash the car at the service station?",
+     "你在服務站洗車了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "take on",
+   "ph": "",
+   "pos": "phr. 承擔；僱用",
+   "zh": "承擔（責任）；僱用（員工）",
+   "colloc": "take on more work 承擔更多工作 | take on new staff 增聘員工",
+   "distinct": "take over 接管 | take up 佔用",
+   "ex": [
+    [
+     "We cannot take on any more projects now.",
+     "我們目前無法再承擔更多專案了。"
+    ],
+    [
+     "The company decided to take on five new interns.",
+     "公司決定增聘五名實習生。"
+    ],
+    [
+     "She is willing to take on extra responsibilities.",
+     "她願意承擔額外的責任。"
+    ]
+   ]
+  },
+  {
+   "word": "come along",
+   "ph": "",
+   "pos": "phr. 隨同；進展",
+   "zh": "隨同前往；進展順利",
+   "colloc": "come along with me 跟我一起去 | coming along well 進展順利",
+   "distinct": "get along 相處融洽 | go along 贊同",
+   "ex": [
+    [
+     "Would you like to come along to the lunch?",
+     "你要一起去吃午餐嗎？"
+    ],
+    [
+     "The new marketing campaign is coming along nicely.",
+     "新的行銷活動進展很順利。"
+    ],
+    [
+     "Please come along if you are interested.",
+     "如果你有興趣，請隨同前往。"
+    ]
+   ]
+  },
+  {
+   "word": "turn out",
+   "ph": "",
+   "pos": "phr. 結果是；生產",
+   "zh": "結果是；製造；出席",
+   "colloc": "turn out to be 結果竟然是 | turn out well 結果良好",
+   "distinct": "turn off 關掉 | turn up 出現",
+   "ex": [
+    [
+     "The report turned out to be inaccurate.",
+     "這份報告結果不準確。"
+    ],
+    [
+     "It turned out that we were in the wrong room.",
+     "結果我們走錯房間了。"
+    ],
+    [
+     "A large crowd turned out for the annual conference.",
+     "大批群眾出席了年度大會。"
+    ]
+   ]
+  },
+  {
+   "word": "get back to",
+   "ph": "",
+   "pos": "phr. 回覆；回到",
+   "zh": "回覆（某人）；回到（某話題）",
+   "colloc": "get back to you soon 盡快回覆你 | get back to work 回到工作崗位",
+   "distinct": "call back 回電 | look back 回顧",
+   "ex": [
+    [
+     "I will get back to you regarding the quote.",
+     "我會就報價事宜回覆你。"
+    ],
+    [
+     "Let us get back to the main agenda item.",
+     "讓我們回到主要的議程項目上。"
+    ],
+    [
+     "The manager will get back to the office shortly.",
+     "經理很快就會回到辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "what does it mean",
+   "ph": "",
+   "pos": "phr. 這是什麼意思",
+   "zh": "這代表什麼意思",
+   "colloc": "ask what does it mean 詢問意思 | clarify what does it mean 釐清意義",
+   "distinct": "what is it for 有何用途 | why is it happening 為何發生",
+   "ex": [
+    [
+     "I am confused, what does it mean for us?",
+     "我很困惑，這對我們意味著什麼？"
+    ],
+    [
+     "Could you explain what does it mean in this context?",
+     "你能解釋在這個情境下是什麼意思嗎？"
+    ],
+    [
+     "She asked what does it mean to be a leader.",
+     "她問成為一名領導者意味著什麼。"
+    ]
+   ]
+  },
+  {
+   "word": "get in touch with",
+   "ph": "",
+   "pos": "phr. 與...取得聯繫",
+   "zh": "聯絡某人",
+   "colloc": "get in touch with the client 聯繫客戶 | try to get in touch 嘗試聯繫",
+   "distinct": "keep in touch 保持聯繫 | lose touch 失聯",
+   "ex": [
+    [
+     "Please get in touch with our HR department.",
+     "請與我們的人資部門取得聯繫。"
+    ],
+    [
+     "I cannot get in touch with him by phone.",
+     "我無法透過電話聯繫上他。"
+    ],
+    [
+     "We should get in touch with the supplier immediately.",
+     "我們應該立即聯繫供應商。"
+    ]
+   ]
+  },
+  {
+   "word": "cut back",
+   "ph": "",
+   "pos": "phr. 削減；減少",
+   "zh": "削減支出；減少消耗",
+   "colloc": "cut back on spending 削減支出 | cut back production 縮減產量",
+   "distinct": "cut off 中斷 | cut down 砍倒",
+   "ex": [
+    [
+     "The company needs to cut back on travel expenses.",
+     "公司需要削減差旅支出。"
+    ],
+    [
+     "We had to cut back production due to low demand.",
+     "由於需求低迷，我們必須縮減生產。"
+    ],
+    [
+     "They decided to cut back their working hours.",
+     "他們決定減少工作時數。"
+    ]
+   ]
+  },
+  {
+   "word": "have a good view",
+   "ph": "",
+   "pos": "phr. 視野良好",
+   "zh": "有良好的景觀",
+   "colloc": "have a good view of the park 可看見公園 | a room with a good view 有風景的房間",
+   "distinct": "in view 在視線內 | point of view 觀點",
+   "ex": [
+    [
+     "The conference room has a good view of the harbor.",
+     "會議室有很好的港口景觀。"
+    ],
+    [
+     "We want a hotel room that has a good view.",
+     "我們想要一間視野良好的飯店房間。"
+    ],
+    [
+     "From the office, you have a good view of downtown.",
+     "從辦公室可以看到市中心的良好景致。"
+    ]
+   ]
+  },
+  {
+   "word": "if you insist",
+   "ph": "",
+   "pos": "phr. 如果你堅持的話",
+   "zh": "既然你一定要這樣",
+   "colloc": "if you insist on it 如果你堅持這點 | accept if you insist 接受你的堅持",
+   "distinct": "as you wish 隨你意 | as you please 請便",
+   "ex": [
+    [
+     "If you insist, I will help you with the report.",
+     "如果你堅持的話，我會幫你處理這份報告。"
+    ],
+    [
+     "I will take the extra work if you insist.",
+     "如果你堅持，我會承擔這項額外工作。"
+    ],
+    [
+     "Well, if you insist, we can meet on Saturday.",
+     "好吧，如果你堅持的話，我們可以在週六見面。"
+    ]
+   ]
+  },
+  {
+   "word": "trade show",
+   "ph": "",
+   "pos": "n. 貿易展",
+   "zh": "貿易展；商展",
+   "colloc": "attend a trade show 參加商展 | international trade show 國際貿易展",
+   "distinct": "exhibition 展覽會 | conference 會議",
+   "ex": [
+    [
+     "We are showcasing our new products at the trade show.",
+     "我們正在商展中展示新產品。"
+    ],
+    [
+     "Many industry leaders will attend the upcoming trade show.",
+     "許多業界領袖將參加即將到來的貿易展。"
+    ],
+    [
+     "I need to register for the international trade show.",
+     "我需要註冊參加國際貿易展。"
+    ]
+   ]
+  },
+  {
+   "word": "be asked to do",
+   "ph": "",
+   "pos": "phr. 被要求做某事",
+   "zh": "受託做某事",
+   "colloc": "be asked to do a task 被要求執行任務 | be asked to do overtime 被要求加班",
+   "distinct": "be told to do 被告知要做 | be expected to do 被期望做",
+   "ex": [
+    [
+     "I was asked to do a presentation tomorrow.",
+     "我被要求明天進行簡報。"
+    ],
+    [
+     "He was asked to do some administrative work.",
+     "他被要求處理一些行政工作。"
+    ],
+    [
+     "All staff were asked to do a safety briefing.",
+     "全體員工都被要求參加安全簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "bring in",
+   "ph": "",
+   "pos": "phr. 引進；帶來（收益）",
+   "zh": "引進人才；帶來利潤",
+   "colloc": "bring in new ideas 引進新觀點 | bring in revenue 帶來收入",
+   "distinct": "bring up 提出 | bring about 導致",
+   "ex": [
+    [
+     "The new marketing manager will bring in fresh ideas.",
+     "新任行銷經理將引進創新的想法。"
+    ],
+    [
+     "This project is expected to bring in more profit.",
+     "預期這個專案能帶來更多利潤。"
+    ],
+    [
+     "They decided to bring in an expert for advice.",
+     "他們決定引進一位專家提供建議。"
+    ]
+   ]
+  },
+  {
+   "word": "give a good price",
+   "ph": "",
+   "pos": "phr. 提供優惠價格",
+   "zh": "給予好的報價",
+   "colloc": "give a good price for the item 針對品項報優價 | negotiate a good price 議得好價",
+   "distinct": "at a fair price 以合理價格 | offer a discount 提供折扣",
+   "ex": [
+    [
+     "Can you give a good price for a bulk order?",
+     "大量訂購你能給個優惠價嗎？"
+    ],
+    [
+     "The supplier promised to give a good price this time.",
+     "供應商承諾這次會給個好價格。"
+    ],
+    [
+     "They always give a good price to loyal customers.",
+     "他們總是給老客戶優惠價格。"
+    ]
+   ]
+  },
+  {
+   "word": "give a raise",
+   "ph": "",
+   "pos": "phr. 加薪",
+   "zh": "給予加薪",
+   "colloc": "ask for a raise 要求加薪 | receive a raise 獲得加薪",
+   "distinct": "increase salary 增加薪資 | bonus 獎金",
+   "ex": [
+    [
+     "The manager decided to give her a raise.",
+     "經理決定給她加薪。"
+    ],
+    [
+     "He is hoping to get a raise after the review.",
+     "他希望在績效考核後獲得加薪。"
+    ],
+    [
+     "Does the company give a raise annually?",
+     "公司每年都會調薪嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "have an opportunity to do",
+   "ph": "",
+   "pos": "phr. 有機會做某事",
+   "zh": "有做某事的良機",
+   "colloc": "have an opportunity to speak 有機會發言 | miss the opportunity 錯過機會",
+   "distinct": "have a chance to do 有機會做 | take an opportunity 把握機會",
+   "ex": [
+    [
+     "I hope I have an opportunity to visit your office.",
+     "希望我有機會參訪貴公司。"
+    ],
+    [
+     "She had an opportunity to work abroad for a year.",
+     "她曾有一年去國外工作的機會。"
+    ],
+    [
+     "We will have an opportunity to discuss this further.",
+     "我們稍後會有機會進一步討論此事。"
+    ]
+   ]
+  },
+  {
+   "word": "national holiday",
+   "ph": "",
+   "pos": "n. 國定假日",
+   "zh": "全國性的節日；國定假日",
+   "colloc": "on a national holiday 在國定假日 | observe a national holiday 慶祝國定假日",
+   "distinct": "public holiday 公眾假期 | festival 慶典",
+   "ex": [
+    [
+     "The office will be closed for the national holiday.",
+     "公司將於國定假日期間暫停辦公。"
+    ],
+    [
+     "Next Monday is a national holiday in this country.",
+     "下週一是該國的國定假日。"
+    ],
+    [
+     "Staff receive extra pay during the national holiday.",
+     "員工在國定假日期間可獲得額外薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "on edge",
+   "ph": "",
+   "pos": "phr. 焦慮的；緊張的",
+   "zh": "情緒緊繃；忐忑不安",
+   "colloc": "keep someone on edge 讓人緊張 | feel on edge 感到焦慮",
+   "distinct": "at the edge 在邊緣 | on the verge of 即將",
+   "ex": [
+    [
+     "The deadline makes everyone feel a bit on edge.",
+     "截止日期讓每個人都感到有點緊張。"
+    ],
+    [
+     "She was on edge while waiting for the results.",
+     "她在等待結果時感到忐忑不安。"
+    ],
+    [
+     "Constant changes keep the whole team on edge.",
+     "不斷的變動讓整個團隊都神經緊繃。"
+    ]
+   ]
+  }
+ ]
+}

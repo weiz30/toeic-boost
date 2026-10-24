@@ -1,0 +1,448 @@
+{
+ "day": 95,
+ "theme": "教材片語・中高階 750–850 第 31 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "stand in a line",
+   "ph": "",
+   "pos": "phr. 排成一列",
+   "zh": "排成一列；排隊",
+   "colloc": "form a line 排隊 | wait in a line 在隊伍中等待",
+   "distinct": "stand in line 美式用法 | queue up 英式用法",
+   "ex": [
+    [
+     "Please stand in a line at the counter.",
+     "請在櫃台前排成一列。"
+    ],
+    [
+     "The customers stand in a line for coffee.",
+     "顧客們排成一列等咖啡。"
+    ],
+    [
+     "Workers must stand in a line for inspection.",
+     "員工必須排成一列接受檢查。"
+    ]
+   ]
+  },
+  {
+   "word": "stand in line",
+   "ph": "",
+   "pos": "phr. 排隊",
+   "zh": "排隊",
+   "colloc": "stand in line for hours 排隊數小時 | stand in line to enter 排隊進場",
+   "distinct": "stand in a line 排成隊形 | line up 排隊",
+   "ex": [
+    [
+     "I had to stand in line for twenty minutes.",
+     "我不得不排隊二十分鐘。"
+    ],
+    [
+     "Employees stand in line to register at events.",
+     "員工排隊在活動現場簽到。"
+    ],
+    [
+     "Do not stand in line near the emergency exit.",
+     "不要在緊急出口附近排隊。"
+    ]
+   ]
+  },
+  {
+   "word": "stand on",
+   "ph": "",
+   "pos": "phr. 堅持立場；站在…之上",
+   "zh": "堅持立場；站在某處",
+   "colloc": "stand on one's principle 堅持原則 | stand on firm ground 立場穩固",
+   "distinct": "stand for 代表 | stand by 支持",
+   "ex": [
+    [
+     "The manager decided to stand on the agreement.",
+     "經理決定堅持該協議的內容。"
+    ],
+    [
+     "You must stand on your own two feet.",
+     "你必須學會獨立自主。"
+    ],
+    [
+     "The decision to stand on the policy is final.",
+     "堅持該政策的決定已成定局。"
+    ]
+   ]
+  },
+  {
+   "word": "stay open late",
+   "ph": "",
+   "pos": "phr. 營業至深夜",
+   "zh": "延長營業時間；營業至深夜",
+   "colloc": "stay open late for customers 為顧客延長營業 | stay open late during holidays 節慶延後打烊",
+   "distinct": "open late 較晚開門 | close late 晚打烊",
+   "ex": [
+    [
+     "The department store will stay open late tonight.",
+     "百貨公司今晚會營業至深夜。"
+    ],
+    [
+     "We stay open late during the busy season.",
+     "我們在旺季期間會延長營業時間。"
+    ],
+    [
+     "Retail shops often stay open late on weekends.",
+     "零售店週末通常會營業至深夜。"
+    ]
+   ]
+  },
+  {
+   "word": "step down",
+   "ph": "",
+   "pos": "phr. 辭職；退位",
+   "zh": "辭職；下台",
+   "colloc": "step down as CEO 辭去執行長職務 | step down from the position 卸下職位",
+   "distinct": "resign 辭職 | retire 退休",
+   "ex": [
+    [
+     "The president will step down next month.",
+     "總裁下個月將會辭職。"
+    ],
+    [
+     "He decided to step down due to health.",
+     "他因健康因素決定卸下職務。"
+    ],
+    [
+     "It is time for the director to step down.",
+     "現在是該董事卸任的時候了。"
+    ]
+   ]
+  },
+  {
+   "word": "striking difference",
+   "ph": "",
+   "pos": "phr. 顯著的差異",
+   "zh": "顯著差異；明顯不同",
+   "colloc": "notice a striking difference 注意到顯著差異 | highlight a striking difference 強調明顯差異",
+   "distinct": "obvious difference 明顯差異 | slight difference 微小差異",
+   "ex": [
+    [
+     "There is a striking difference in productivity.",
+     "生產力方面有顯著的差異。"
+    ],
+    [
+     "We observed a striking difference between these models.",
+     "我們觀察到這些型號間有明顯差異。"
+    ],
+    [
+     "The report shows a striking difference in costs.",
+     "報告顯示成本上有顯著差異。"
+    ]
+   ]
+  },
+  {
+   "word": "take a fact",
+   "ph": "",
+   "pos": "phr. 接受事實",
+   "zh": "接受事實；面對現實",
+   "colloc": "learn to take a fact 學會接受事實 | hard to take a fact 難以接受現實",
+   "distinct": "accept the fact 接受事實 | ignore the fact 忽略事實",
+   "ex": [
+    [
+     "It is hard to take a fact sometimes.",
+     "有時真的很難接受事實。"
+    ],
+    [
+     "You must take a fact and move forward.",
+     "你必須接受事實並向前邁進。"
+    ],
+    [
+     "Management needs to take a fact about losses.",
+     "管理層需要面對虧損的事實。"
+    ]
+   ]
+  },
+  {
+   "word": "take a message",
+   "ph": "",
+   "pos": "phr. 代為留言；記錄訊息",
+   "zh": "代為留言；記錄口信",
+   "colloc": "take a message for someone 為某人記錄訊息 | offer to take a message 主動幫忙留言",
+   "distinct": "leave a message 留下訊息 | send a message 發送訊息",
+   "ex": [
+    [
+     "May I take a message for the director?",
+     "我可以幫您轉達訊息給董事嗎？"
+    ],
+    [
+     "She offered to take a message for him.",
+     "她主動提出幫他記錄口信。"
+    ],
+    [
+     "I will take a message if he returns.",
+     "如果他回來我會幫忙留言。"
+    ]
+   ]
+  },
+  {
+   "word": "take a walk",
+   "ph": "",
+   "pos": "phr. 散步",
+   "zh": "散步；走走",
+   "colloc": "take a walk during break 休息時間散步 | take a walk in the park 到公園散步",
+   "distinct": "go for a walk 去散步 | walk the dog 遛狗",
+   "ex": [
+    [
+     "Let us take a walk during our lunch break.",
+     "我們午休時間去散個步吧。"
+    ],
+    [
+     "He decided to take a walk to relax.",
+     "他決定散步以放鬆身心。"
+    ],
+    [
+     "Staff often take a walk in the garden.",
+     "員工常在花園裡散步。"
+    ]
+   ]
+  },
+  {
+   "word": "take action",
+   "ph": "",
+   "pos": "phr. 採取行動",
+   "zh": "採取行動；付諸實行",
+   "colloc": "take immediate action 立即採取行動 | take legal action 採取法律行動",
+   "distinct": "make a move 開始行動 | carry out 執行",
+   "ex": [
+    [
+     "We must take action to improve sales.",
+     "我們必須採取行動來提升銷售額。"
+    ],
+    [
+     "The company decided to take action against leaks.",
+     "公司決定對洩密採取行動。"
+    ],
+    [
+     "Failure to take action will result in losses.",
+     "不採取行動將會導致損失。"
+    ]
+   ]
+  },
+  {
+   "word": "take great pleasure",
+   "ph": "",
+   "pos": "phr. 感到非常高興；引以為樂",
+   "zh": "感到榮幸；樂於做某事",
+   "colloc": "take great pleasure in doing sth. 樂於做某事 | take great pleasure in helping 以助人為樂",
+   "distinct": "be pleased to 很高興能 | feel honored 感到榮幸",
+   "ex": [
+    [
+     "I take great pleasure in welcoming our guest.",
+     "我非常榮幸能歡迎我們的貴賓。"
+    ],
+    [
+     "They take great pleasure in completing the task.",
+     "他們很樂於完成這項任務。"
+    ],
+    [
+     "She takes great pleasure in mentoring new staff.",
+     "她很樂於指導新進員工。"
+    ]
+   ]
+  },
+  {
+   "word": "take initiative",
+   "ph": "",
+   "pos": "phr. 採取主動",
+   "zh": "採取主動；發揮首創精神",
+   "colloc": "take the initiative 主動出擊 | show initiative 展現積極主動",
+   "distinct": "be proactive 主動的 | be passive 被動的",
+   "ex": [
+    [
+     "Employees should take initiative to solve problems.",
+     "員工應主動去解決問題。"
+    ],
+    [
+     "He took initiative to organize the seminar.",
+     "他主動發起籌辦了這次研討會。"
+    ],
+    [
+     "Taking initiative is vital for your career.",
+     "採取主動對你的職業生涯至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "take note",
+   "ph": "",
+   "pos": "phr. 注意；記錄",
+   "zh": "注意；留心；記下",
+   "colloc": "take note of the details 注意細節 | take note during the meeting 開會時做記錄",
+   "distinct": "pay attention 注意 | keep a record 保持記錄",
+   "ex": [
+    [
+     "Please take note of the deadline changes.",
+     "請留意截止日期的變更。"
+    ],
+    [
+     "I will take note of your suggestions.",
+     "我會將你的建議記下來。"
+    ],
+    [
+     "Make sure to take note of the client's request.",
+     "務必留意客戶的要求。"
+    ]
+   ]
+  },
+  {
+   "word": "take out insurance on",
+   "ph": "",
+   "pos": "phr. 為…投保",
+   "zh": "為…投保；購買保險",
+   "colloc": "take out insurance on property 為財產投保 | take out insurance on equipment 為設備投保",
+   "distinct": "insure 投保 | purchase a policy 購買保單",
+   "ex": [
+    [
+     "We should take out insurance on the cargo.",
+     "我們應該為這批貨物投保。"
+    ],
+    [
+     "Did you take out insurance on the new machine?",
+     "你有為那台新機器投保嗎？"
+    ],
+    [
+     "Companies take out insurance on their buildings.",
+     "公司通常會為辦公大樓投保。"
+    ]
+   ]
+  },
+  {
+   "word": "take the order",
+   "ph": "",
+   "pos": "phr. 接單",
+   "zh": "接收訂單；點餐",
+   "colloc": "take the order from a client 接下客戶訂單 | wait to take the order 等待點餐",
+   "distinct": "place an order 下訂單 | cancel an order 取消訂單",
+   "ex": [
+    [
+     "The waiter will come to take the order.",
+     "服務生稍後會過來點餐。"
+    ],
+    [
+     "Our sales representative will take the order now.",
+     "我們的業務代表現在會處理這筆訂單。"
+    ],
+    [
+     "It takes time to take the order correctly.",
+     "正確地接下訂單需要花點時間。"
+    ]
+   ]
+  },
+  {
+   "word": "to the point",
+   "ph": "",
+   "pos": "phr. 切中要點",
+   "zh": "切中要點；簡明扼要",
+   "colloc": "keep it to the point 保持簡明扼要 | be direct and to the point 直截了當",
+   "distinct": "concise 簡潔的 | irrelevant 不相關的",
+   "ex": [
+    [
+     "His presentation was clear and to the point.",
+     "他的簡報清晰且切中要點。"
+    ],
+    [
+     "Try to keep your report to the point.",
+     "試著讓你的報告簡明扼要。"
+    ],
+    [
+     "She gave a response that was to the point.",
+     "她給出的回應切中要點。"
+    ]
+   ]
+  },
+  {
+   "word": "traffic signal",
+   "ph": "",
+   "pos": "phr. 交通號誌",
+   "zh": "紅綠燈；交通信號",
+   "colloc": "obey the traffic signal 遵守交通號誌 | ignore the traffic signal 闖紅燈",
+   "distinct": "traffic light 交通燈 | street sign 路牌",
+   "ex": [
+    [
+     "Please stop at the next traffic signal.",
+     "請在下一個紅綠燈處停車。"
+    ],
+    [
+     "The traffic signal is broken at the intersection.",
+     "十字路口的交通號誌壞了。"
+    ],
+    [
+     "He turned left after the traffic signal changed.",
+     "交通號誌變換後他便左轉。"
+    ]
+   ]
+  },
+  {
+   "word": "travel agency",
+   "ph": "",
+   "pos": "phr. 旅行社",
+   "zh": "旅行社",
+   "colloc": "book via a travel agency 透過旅行社預訂 | work for a travel agency 在旅行社工作",
+   "distinct": "tour operator 旅行營運商 | airline 航空公司",
+   "ex": [
+    [
+     "I booked our business trip at a travel agency.",
+     "我透過旅行社預訂了我們的商務行程。"
+    ],
+    [
+     "The travel agency offers corporate travel packages.",
+     "該旅行社提供企業差旅方案。"
+    ],
+    [
+     "We consulted a travel agency for visa advice.",
+     "我們諮詢了旅行社關於簽證的建議。"
+    ]
+   ]
+  },
+  {
+   "word": "trial period",
+   "ph": "",
+   "pos": "phr. 試用期",
+   "zh": "試用期；試用階段",
+   "colloc": "complete the trial period 完成試用期 | extend the trial period 延長試用期",
+   "distinct": "probation period 試用期（法規較常用）| pilot project 試驗計畫",
+   "ex": [
+    [
+     "All new hires must undergo a trial period.",
+     "所有新進員工都必須經過試用期。"
+    ],
+    [
+     "Your performance is evaluated during the trial period.",
+     "你的表現會在試用期內進行評估。"
+    ],
+    [
+     "He passed the trial period with high marks.",
+     "他以優異成績通過了試用期。"
+    ]
+   ]
+  },
+  {
+   "word": "turn down",
+   "ph": "",
+   "pos": "phr. 拒絕；調低（音量/溫度）",
+   "zh": "拒絕；調低",
+   "colloc": "turn down an offer 拒絕提議 | turn down the volume 調低音量",
+   "distinct": "reject 拒絕 | decline 婉拒",
+   "ex": [
+    [
+     "They had to turn down the job offer.",
+     "他們不得不拒絕這份工作邀請。"
+    ],
+    [
+     "Please turn down the music in the office.",
+     "請將辦公室裡的音樂調小聲。"
+    ],
+    [
+     "Management decided to turn down the budget proposal.",
+     "管理層決定否決這項預算提案。"
+    ]
+   ]
+  }
+ ]
+}

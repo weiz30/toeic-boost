@@ -1,0 +1,448 @@
+{
+ "day": 55,
+ "theme": "教材字彙・中高階 750–850 第 55 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "keenly",
+   "ph": "/ˈkiːnli/",
+   "pos": "adv. 敏銳地 | 強烈地",
+   "zh": "敏銳地；強烈地",
+   "colloc": "keenly aware 強烈意識到 | keenly interested 很有興趣",
+   "distinct": "sharply 尖銳地 | acutely 劇烈地",
+   "ex": [
+    [
+     "Management is keenly aware of the market changes.",
+     "管理層敏銳地意識到市場變化。"
+    ],
+    [
+     "Employees are keenly interested in the new policy.",
+     "員工對新政策非常有興趣。"
+    ],
+    [
+     "He listened keenly to the consultant's advice.",
+     "他專注且敏銳地聽取顧問建議。"
+    ]
+   ]
+  },
+  {
+   "word": "laboratory",
+   "ph": "/ləˈbɒrətri/",
+   "pos": "n. 實驗室",
+   "zh": "實驗室",
+   "colloc": "research laboratory 研究實驗室 | in the laboratory 在實驗室裡",
+   "distinct": "lab 實驗室（口語縮寫）| facility 設施",
+   "ex": [
+    [
+     "Our laboratory focuses on innovative product development.",
+     "我們的實驗室專注於創新產品研發。"
+    ],
+    [
+     "Samples were sent to the laboratory for analysis.",
+     "樣本已被送往實驗室進行分析。"
+    ],
+    [
+     "Strict safety protocols are required in the laboratory.",
+     "實驗室內必須遵守嚴格的安全規範。"
+    ]
+   ]
+  },
+  {
+   "word": "landing",
+   "ph": "/ˈlændɪŋ/",
+   "pos": "n. 著陸 | 登陸 | 樓梯平台",
+   "zh": "著陸；登陸",
+   "colloc": "safe landing 安全著陸 | landing gear 起落架",
+   "distinct": "arrival 到達 | docking 停靠",
+   "ex": [
+    [
+     "The flight made a smooth landing in Taipei.",
+     "該航班順利在台北著陸。"
+    ],
+    [
+     "Landing the contract was a huge achievement.",
+     "拿下這份合約是一項巨大成就。"
+    ],
+    [
+     "Check the landing page for promotion details.",
+     "查看到達頁面以獲取促銷詳情。"
+    ]
+   ]
+  },
+  {
+   "word": "landscaping",
+   "ph": "/ˈlændskeɪpɪŋ/",
+   "pos": "n. 景觀設計 | 造景",
+   "zh": "景觀設計；造景",
+   "colloc": "landscaping project 造景工程 | exterior landscaping 戶外造景",
+   "distinct": "gardening 園藝 | architecture 建築設計",
+   "ex": [
+    [
+     "The company hired experts for office landscaping.",
+     "公司聘請專家進行辦公室景觀設計。"
+    ],
+    [
+     "Improved landscaping enhances the building's aesthetic value.",
+     "改善景觀設計能提升建築美學價值。"
+    ],
+    [
+     "Budget constraints delayed the landscaping work.",
+     "預算限制延誤了造景工程。"
+    ]
+   ]
+  },
+  {
+   "word": "lane",
+   "ph": "/leɪn/",
+   "pos": "n. 車道 | 小徑 | 航道",
+   "zh": "車道；小徑",
+   "colloc": "fast lane 快車道 | bus lane 公車專用道",
+   "distinct": "road 道路 | path 小徑",
+   "ex": [
+    [
+     "Please stay in the designated bus lane.",
+     "請保持在指定的公車專用道上。"
+    ],
+    [
+     "Trucks must remain in the right lane.",
+     "卡車必須保持在右側車道行駛。"
+    ],
+    [
+     "The delivery van changed lanes abruptly.",
+     "貨車突然變換了車道。"
+    ]
+   ]
+  },
+  {
+   "word": "loading",
+   "ph": "/ˈləʊdɪŋ/",
+   "pos": "n. 裝載 | 負載",
+   "zh": "裝載；負載",
+   "colloc": "loading dock 裝卸貨碼頭 | loading capacity 載重量",
+   "distinct": "shipping 運輸 | packing 包裝",
+   "ex": [
+    [
+     "The loading process will take two hours.",
+     "裝載過程將需要兩個小時。"
+    ],
+    [
+     "Trucks are waiting at the loading dock.",
+     "卡車正在裝卸碼頭等待。"
+    ],
+    [
+     "Check the maximum loading capacity before storage.",
+     "存放前請檢查最大負載量。"
+    ]
+   ]
+  },
+  {
+   "word": "locally",
+   "ph": "/ˈləʊkəli/",
+   "pos": "adv. 當地地 | 局部地",
+   "zh": "當地地；局部地",
+   "colloc": "locally sourced 當地採購 | locally produced 當地生產",
+   "distinct": "regionally 區域性地 | domestically 國內地",
+   "ex": [
+    [
+     "We prefer using locally sourced organic ingredients.",
+     "我們偏好使用當地採購的有機食材。"
+    ],
+    [
+     "The company is locally operated and managed.",
+     "該公司是由當地營運與管理的。"
+    ],
+    [
+     "This item is produced locally by small firms.",
+     "此產品由小型廠商在當地製造。"
+    ]
+   ]
+  },
+  {
+   "word": "loosely",
+   "ph": "/ˈluːsli/",
+   "pos": "adv. 寬鬆地 | 不精確地",
+   "zh": "寬鬆地；不精確地",
+   "colloc": "loosely based 鬆散地基於 | loosely connected 鬆散聯繫",
+   "distinct": "tightly 緊密地 | freely 自由地",
+   "ex": [
+    [
+     "The agreement is loosely based on previous terms.",
+     "該協議鬆散地基於先前的條款。"
+    ],
+    [
+     "These two departments are only loosely connected.",
+     "這兩個部門的聯繫並不緊密。"
+    ],
+    [
+     "The requirements were defined rather loosely.",
+     "需求定義得相當模糊不精確。"
+    ]
+   ]
+  },
+  {
+   "word": "march",
+   "ph": "/mɑːtʃ/",
+   "pos": "n. 行軍 | 進展 | v. 前進",
+   "zh": "行軍；進展；前進",
+   "colloc": "a long march 長途跋涉 | steady march 穩步前進",
+   "distinct": "advance 進展 | walk 步行",
+   "ex": [
+    [
+     "Technology continues its steady march forward.",
+     "科技持續穩步地向前邁進。"
+    ],
+    [
+     "The protest march disrupted city traffic.",
+     "示威遊行導致市區交通中斷。"
+    ],
+    [
+     "Our team marched toward the final deadline.",
+     "我們的團隊向最後期限推進。"
+    ]
+   ]
+  },
+  {
+   "word": "meanwhile",
+   "ph": "/ˈmiːnwaɪl/",
+   "pos": "adv. 同時 | 在此期間",
+   "zh": "同時；在此期間",
+   "colloc": "in the meanwhile 在此期間 | meanwhile, back at the office 同時在辦公室",
+   "distinct": "at the same time 同時 | during which 在此期間",
+   "ex": [
+    [
+     "Please wait; meanwhile, enjoy some coffee.",
+     "請稍候；在此期間，請享用咖啡。"
+    ],
+    [
+     "The manager is away; meanwhile, I handle calls.",
+     "經理不在；在此期間由我處理電話。"
+    ],
+    [
+     "The report is pending; meanwhile, prepare data.",
+     "報告尚在審核；同時先準備數據。"
+    ]
+   ]
+  },
+  {
+   "word": "mining",
+   "ph": "/ˈmaɪnɪŋ/",
+   "pos": "n. 採礦業 | 礦業",
+   "zh": "採礦業；礦業",
+   "colloc": "mining company 礦業公司 | data mining 數據探勘",
+   "distinct": "drilling 鑽探 | extraction 萃取",
+   "ex": [
+    [
+     "The mining industry faces strict safety regulations.",
+     "礦業面臨嚴格的安全法規。"
+    ],
+    [
+     "Global mining firms met to discuss output.",
+     "全球礦業公司開會討論產量。"
+    ],
+    [
+     "She specializes in advanced data mining techniques.",
+     "她專精於先進的數據探勘技術。"
+    ]
+   ]
+  },
+  {
+   "word": "obey",
+   "ph": "/əˈbeɪ/",
+   "pos": "v. 服從 | 遵守",
+   "zh": "服從；遵守",
+   "colloc": "obey rules 遵守規則 | obey orders 服從命令",
+   "distinct": "comply 遵守（規定）| follow 跟隨",
+   "ex": [
+    [
+     "All staff must obey the safety regulations.",
+     "所有員工必須遵守安全規則。"
+    ],
+    [
+     "He refused to obey the supervisor's direct order.",
+     "他拒絕服從主管的直接命令。"
+    ],
+    [
+     "Employees are expected to obey company policies.",
+     "員工被要求必須遵守公司政策。"
+    ]
+   ]
+  },
+  {
+   "word": "obvious",
+   "ph": "/ˈɒbviəs/",
+   "pos": "adj. 明顯的 | 顯而易見的",
+   "zh": "明顯的；顯而易見的",
+   "colloc": "obvious choice 明顯的選擇 | obvious mistake 明顯的錯誤",
+   "distinct": "evident 明顯的 | apparent 表面上的",
+   "ex": [
+    [
+     "The decline in sales is quite obvious.",
+     "銷售額的下滑相當明顯。"
+    ],
+    [
+     "It was an obvious error in the calculation.",
+     "那是計算中一個顯而易見的錯誤。"
+    ],
+    [
+     "There is no obvious reason for the delay.",
+     "延遲並沒有明顯的原因。"
+    ]
+   ]
+  },
+  {
+   "word": "offend",
+   "ph": "/əˈfend/",
+   "pos": "v. 冒犯 | 觸怒",
+   "zh": "冒犯；觸怒",
+   "colloc": "offend someone 冒犯某人 | unintentionally offend 無意中冒犯",
+   "distinct": "insult 羞辱 | annoy 使煩惱",
+   "ex": [
+    [
+     "I did not mean to offend the client.",
+     "我無意冒犯那位客戶。"
+    ],
+    [
+     "Such language may offend some senior staff.",
+     "這種語言可能會冒犯部分資深員工。"
+    ],
+    [
+     "He spoke carefully to avoid offending anyone.",
+     "他謹慎發言以避免冒犯任何人。"
+    ]
+   ]
+  },
+  {
+   "word": "openly",
+   "ph": "/ˈəʊpənli/",
+   "pos": "adv. 公開地 | 直率地",
+   "zh": "公開地；直率地",
+   "colloc": "openly discuss 公開討論 | openly admit 公開承認",
+   "distinct": "publicly 公眾地 | frankly 坦率地",
+   "ex": [
+    [
+     "The board members openly discussed the merger.",
+     "董事會成員公開討論了合併案。"
+    ],
+    [
+     "They openly admit that mistakes were made.",
+     "他們公開承認犯了錯。"
+    ],
+    [
+     "Issues should be addressed openly among teams.",
+     "問題應該在團隊間公開地解決。"
+    ]
+   ]
+  },
+  {
+   "word": "opposing",
+   "ph": "/əˈpəʊzɪŋ/",
+   "pos": "adj. 相反的 | 對立的",
+   "zh": "相反的；對立的",
+   "colloc": "opposing view 對立觀點 | opposing side 對立面",
+   "distinct": "contrary 相反的 | conflicting 衝突的",
+   "ex": [
+    [
+     "The two candidates hold opposing political views.",
+     "兩位候選人持有對立的政治觀點。"
+    ],
+    [
+     "Both sides presented opposing evidence in court.",
+     "雙方在法庭上提出了相反的證據。"
+    ],
+    [
+     "She listened to the opposing opinion calmly.",
+     "她冷靜地傾聽了對立的意見。"
+    ]
+   ]
+  },
+  {
+   "word": "ordered",
+   "ph": "/ˈɔːdəd/",
+   "pos": "adj. 有條理的 | 整齊的 | v. 訂購；命令",
+   "zh": "有條理的；訂購；命令",
+   "colloc": "well ordered 井然有序 | ordered list 有序列表",
+   "distinct": "organized 有組織的 | systematic 系統性的",
+   "ex": [
+    [
+     "The office files are kept in an ordered manner.",
+     "辦公室檔案保存得井然有序。"
+    ],
+    [
+     "We have ordered new equipment for the lab.",
+     "我們已經為實驗室訂購了新設備。"
+    ],
+    [
+     "The manager ordered the team to finish early.",
+     "經理命令團隊提早完成工作。"
+    ]
+   ]
+  },
+  {
+   "word": "ordinary",
+   "ph": "/ˈɔːdnri/",
+   "pos": "adj. 普通的 | 平常的",
+   "zh": "普通的；平常的",
+   "colloc": "ordinary day 平凡的一天 | ordinary citizen 普通市民",
+   "distinct": "common 常見的 | regular 規律的",
+   "ex": [
+    [
+     "This is no ordinary business transaction.",
+     "這不是一筆普通的商業交易。"
+    ],
+    [
+     "It was just an ordinary meeting with staff.",
+     "那只是一場與員工的普通會議。"
+    ],
+    [
+     "She prefers an ordinary desk to a standing one.",
+     "比起站立式辦公桌，她更偏好普通的桌子。"
+    ]
+   ]
+  },
+  {
+   "word": "origin",
+   "ph": "/ˈɒrɪdʒɪn/",
+   "pos": "n. 起源 | 來源 | 出身",
+   "zh": "起源；來源；出身",
+   "colloc": "country of origin 原產國 | origin of the problem 問題根源",
+   "distinct": "source 來源 | cause 原因",
+   "ex": [
+    [
+     "Please state the country of origin on the form.",
+     "請在表格上註明原產國。"
+    ],
+    [
+     "We are researching the origin of this software bug.",
+     "我們正在調查這個軟體錯誤的源頭。"
+    ],
+    [
+     "The new brand has its origin in Italy.",
+     "這個新品牌源自於義大利。"
+    ]
+   ]
+  },
+  {
+   "word": "packaging",
+   "ph": "/ˈpækɪdʒɪŋ/",
+   "pos": "n. 包裝 | 包裝業",
+   "zh": "包裝",
+   "colloc": "packaging design 包裝設計 | eco-friendly packaging 環保包裝",
+   "distinct": "wrapping 包裝紙 | container 容器",
+   "ex": [
+    [
+     "Attractive packaging can increase product sales.",
+     "吸引人的包裝能提升產品銷量。"
+    ],
+    [
+     "We need more eco-friendly packaging materials.",
+     "我們需要更多環保的包裝材料。"
+    ],
+    [
+     "Check the packaging for damage upon arrival.",
+     "貨到時請檢查包裝是否有損壞。"
+    ]
+   ]
+  }
+ ]
+}

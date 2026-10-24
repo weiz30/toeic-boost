@@ -1,0 +1,448 @@
+{
+ "day": 75,
+ "theme": "教材片語・中高階 750–850 第 11 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "be related to",
+   "ph": "",
+   "pos": "phr. 與...有關",
+   "zh": "與...相關；涉及",
+   "colloc": "be closely related to 密切相關 | be directly related to 直接相關",
+   "distinct": "relate to 敘述；聯繫 | refer to 提及；參考",
+   "ex": [
+    [
+     "This issue is related to the new policy.",
+     "此議題與新政策有關。"
+    ],
+    [
+     "Are these documents related to the merger?",
+     "這些文件與合併案相關嗎？"
+    ],
+    [
+     "Our sales figures are related to marketing.",
+     "我們的銷售數字與行銷有關。"
+    ]
+   ]
+  },
+  {
+   "word": "be spread out",
+   "ph": "",
+   "pos": "phr. 分散；鋪開",
+   "zh": "分散的；散佈的",
+   "colloc": "be spread out across 分佈在...各處 | be spread out over 期間跨越",
+   "distinct": "scatter 分散（隨意）| distribute 分配；分發",
+   "ex": [
+    [
+     "The branch offices are spread out globally.",
+     "各分公司分佈於全球各地。"
+    ],
+    [
+     "Employees are spread out across the building.",
+     "員工們分散在整棟建築中。"
+    ],
+    [
+     "The costs are spread out over three years.",
+     "費用分攤在三年內支付。"
+    ]
+   ]
+  },
+  {
+   "word": "be tired of",
+   "ph": "",
+   "pos": "phr. 對...感到厭倦",
+   "zh": "厭倦；煩膩",
+   "colloc": "be tired of waiting 厭倦等待 | be tired of doing something 厭倦做某事",
+   "distinct": "be tired from 因...感到疲憊 | be fed up with 對...忍無可忍",
+   "ex": [
+    [
+     "I am tired of these endless meetings.",
+     "我對這些沒完沒了的會議感到厭倦。"
+    ],
+    [
+     "They are tired of receiving constant complaints.",
+     "他們厭倦了不斷收到投訴。"
+    ],
+    [
+     "Are you tired of working from home?",
+     "你對居家辦公感到厭倦了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "behind schedule",
+   "ph": "",
+   "pos": "phr. 進度落後",
+   "zh": "落後進度；延誤",
+   "colloc": "fall behind schedule 進度落後 | remain behind schedule 依然落後",
+   "distinct": "ahead of schedule 超前進度 | on schedule 按時",
+   "ex": [
+    [
+     "The construction project is behind schedule.",
+     "這項營建專案進度落後。"
+    ],
+    [
+     "We are currently behind schedule on delivery.",
+     "我們目前的交貨進度落後。"
+    ],
+    [
+     "The development team is slightly behind schedule.",
+     "開發團隊的進度稍微落後。"
+    ]
+   ]
+  },
+  {
+   "word": "board of directors",
+   "ph": "",
+   "pos": "phr. 董事會",
+   "zh": "董事會",
+   "colloc": "report to the board of directors 向董事會報告 | a meeting of the board of directors 董事會會議",
+   "distinct": "executive board 執行委員會 | board member 董事成員",
+   "ex": [
+    [
+     "The board of directors approved the budget.",
+     "董事會批准了這份預算。"
+    ],
+    [
+     "He will present the report to the board of directors.",
+     "他將向董事會提交報告。"
+    ],
+    [
+     "The board of directors meets every quarter.",
+     "董事會每季召開一次會議。"
+    ]
+   ]
+  },
+  {
+   "word": "body of water",
+   "ph": "",
+   "pos": "phr. 水域",
+   "zh": "水體；水域",
+   "colloc": "large body of water 大片水域 | nearby body of water 附近水域",
+   "distinct": "reservoir 水庫 | fountain 噴泉",
+   "ex": [
+    [
+     "The hotel overlooks a large body of water.",
+     "這家飯店俯瞰著一大片水域。"
+    ],
+    [
+     "Construction near any body of water is restricted.",
+     "在任何水域附近進行施工都受限。"
+    ],
+    [
+     "This region has a significant body of water.",
+     "該地區擁有一片重要的水域。"
+    ]
+   ]
+  },
+  {
+   "word": "break even point",
+   "ph": "",
+   "pos": "phr. 損益平衡點",
+   "zh": "損益平衡點；回本點",
+   "colloc": "reach the break even point 達到損益平衡 | calculate the break even point 計算損益平衡點",
+   "distinct": "break even v. 達到損益平衡 | profit margin 利潤率",
+   "ex": [
+    [
+     "The company expects to reach the break even point soon.",
+     "公司預期很快就能達到損益平衡。"
+    ],
+    [
+     "We have calculated the break even point for this product.",
+     "我們已經算出該產品的損益平衡點。"
+    ],
+    [
+     "Sales have not yet reached the break even point.",
+     "銷售額尚未達到損益平衡點。"
+    ]
+   ]
+  },
+  {
+   "word": "business management",
+   "ph": "",
+   "pos": "phr. 企業管理",
+   "zh": "商業管理；經營管理",
+   "colloc": "study business management 修習企業管理 | effective business management 有效的企業管理",
+   "distinct": "business administration 企業行政 | business operations 業務營運",
+   "ex": [
+    [
+     "She has a degree in business management.",
+     "她擁有企業管理學位。"
+    ],
+    [
+     "Effective business management is crucial for growth.",
+     "有效的企業管理對成長至關重要。"
+    ],
+    [
+     "He is attending a workshop on business management.",
+     "他正在參加一場關於企業管理的研討會。"
+    ]
+   ]
+  },
+  {
+   "word": "by way of",
+   "ph": "",
+   "pos": "phr. 經由；透過",
+   "zh": "經由；取道；透過",
+   "colloc": "by way of email 透過電子郵件 | by way of introduction 作為介紹",
+   "distinct": "by means of 藉由...方法 | in the way of 關於；礙事",
+   "ex": [
+    [
+     "We traveled to Tokyo by way of Seoul.",
+     "我們經由首爾前往東京。"
+    ],
+    [
+     "I received the news by way of a memo.",
+     "我透過備忘錄收到這則消息。"
+    ],
+    [
+     "They sent the payment by way of wire transfer.",
+     "他們透過電匯發送款項。"
+    ]
+   ]
+  },
+  {
+   "word": "call an urgent meeting",
+   "ph": "",
+   "pos": "phr. 召開緊急會議",
+   "zh": "召開緊急會議",
+   "colloc": "call an urgent meeting to discuss 召開緊急會議討論 | attend an urgent meeting 出席緊急會議",
+   "distinct": "schedule a meeting 排定會議 | convene a meeting 召集會議",
+   "ex": [
+    [
+     "The manager decided to call an urgent meeting.",
+     "經理決定召開一場緊急會議。"
+    ],
+    [
+     "We must call an urgent meeting regarding the crisis.",
+     "我們必須針對這次危機召開緊急會議。"
+    ],
+    [
+     "Management called an urgent meeting this afternoon.",
+     "管理層今天下午召開了緊急會議。"
+    ]
+   ]
+  },
+  {
+   "word": "call off",
+   "ph": "",
+   "pos": "phr. 取消",
+   "zh": "取消；終止",
+   "colloc": "call off the strike 取消罷工 | call off the meeting 取消會議",
+   "distinct": "cancel 取消（更常用）| postpone 延期",
+   "ex": [
+    [
+     "They had to call off the outdoor event.",
+     "他們不得不取消戶外活動。"
+    ],
+    [
+     "The negotiations were called off yesterday.",
+     "談判在昨天被取消了。"
+    ],
+    [
+     "We decided to call off the training session.",
+     "我們決定取消培訓課程。"
+    ]
+   ]
+  },
+  {
+   "word": "carry out market studies",
+   "ph": "",
+   "pos": "phr. 進行市場研究",
+   "zh": "進行市場調查；執行市場研究",
+   "colloc": "carry out detailed market studies 進行詳盡的市場研究 | outsource market studies 外包市場研究",
+   "distinct": "conduct research 進行研究 | analyze market trends 分析市場趨勢",
+   "ex": [
+    [
+     "The team will carry out market studies next month.",
+     "團隊下個月將進行市場研究。"
+    ],
+    [
+     "We need to carry out market studies before launching.",
+     "產品上市前我們必須進行市場調查。"
+    ],
+    [
+     "They carry out market studies to identify needs.",
+     "他們透過市場研究來確認需求。"
+    ]
+   ]
+  },
+  {
+   "word": "cash reserves",
+   "ph": "",
+   "pos": "phr. 現金儲備",
+   "zh": "現金儲備；準備金",
+   "colloc": "maintain cash reserves 維持現金儲備 | dip into cash reserves 動用現金儲備",
+   "distinct": "cash flow 現金流 | savings 存款",
+   "ex": [
+    [
+     "The firm has sufficient cash reserves for growth.",
+     "該公司擁有充足的現金儲備以求成長。"
+    ],
+    [
+     "We should increase our cash reserves this year.",
+     "我們今年應該增加現金儲備。"
+    ],
+    [
+     "He decided to use the cash reserves for investment.",
+     "他決定動用現金儲備進行投資。"
+    ]
+   ]
+  },
+  {
+   "word": "charge for",
+   "ph": "",
+   "pos": "phr. 收取...費用",
+   "zh": "索價；收費",
+   "colloc": "charge for services 提供服務收費 | extra charge for 額外費用",
+   "distinct": "bill for 開帳單 | cost n. 成本",
+   "ex": [
+    [
+     "Do you charge for shipping and handling?",
+     "你們收取運費與處理費嗎？"
+    ],
+    [
+     "The hotel does not charge for breakfast.",
+     "這家飯店不收取早餐費用。"
+    ],
+    [
+     "We only charge for the materials used.",
+     "我們僅收取所用材料的費用。"
+    ]
+   ]
+  },
+  {
+   "word": "claims department",
+   "ph": "",
+   "pos": "phr. 理賠部門",
+   "zh": "理賠部；索賠部門",
+   "colloc": "contact the claims department 聯繫理賠部門 | work in the claims department 在理賠部門工作",
+   "distinct": "insurance company 保險公司 | customer service 客服部",
+   "ex": [
+    [
+     "Please forward your documents to the claims department.",
+     "請將您的文件轉寄給理賠部門。"
+    ],
+    [
+     "I spoke with someone in the claims department.",
+     "我與理賠部門的人員通過話。"
+    ],
+    [
+     "The claims department is reviewing your application.",
+     "理賠部門正在審核您的申請案。"
+    ]
+   ]
+  },
+  {
+   "word": "commercial space",
+   "ph": "",
+   "pos": "phr. 商業空間",
+   "zh": "商用空間；店面",
+   "colloc": "lease commercial space 租賃商用空間 | prime commercial space 優質商用空間",
+   "distinct": "office space 辦公空間 | residential area 住宅區",
+   "ex": [
+    [
+     "They are looking for larger commercial space.",
+     "他們正在尋找更大的商用空間。"
+    ],
+    [
+     "This area is perfect for retail commercial space.",
+     "這塊區域非常適合做零售商用空間。"
+    ],
+    [
+     "Commercial space rents have increased this quarter.",
+     "本季商用空間租金上漲了。"
+    ]
+   ]
+  },
+  {
+   "word": "commercial use",
+   "ph": "",
+   "pos": "phr. 商業用途",
+   "zh": "商業用途",
+   "colloc": "for commercial use 用於商業目的 | approved for commercial use 核准用於商業用途",
+   "distinct": "personal use 個人用途 | industrial use 工業用途",
+   "ex": [
+    [
+     "This building is designated for commercial use.",
+     "這棟建築被指定用於商業用途。"
+    ],
+    [
+     "The software is not licensed for commercial use.",
+     "此軟體未授權用於商業用途。"
+    ],
+    [
+     "We converted the garage for commercial use.",
+     "我們將車庫改為商業用途。"
+    ]
+   ]
+  },
+  {
+   "word": "company regulations",
+   "ph": "",
+   "pos": "phr. 公司規定",
+   "zh": "公司章程；內部規章",
+   "colloc": "follow company regulations 遵守公司規定 | violate company regulations 違反公司規定",
+   "distinct": "company policy 公司政策 | local laws 地方法規",
+   "ex": [
+    [
+     "Employees must follow all company regulations.",
+     "員工必須遵守所有公司規定。"
+    ],
+    [
+     "These actions violate our company regulations.",
+     "這些行為違反了我們的公司規定。"
+    ],
+    [
+     "Please review the company regulations manual.",
+     "請查閱公司規章手冊。"
+    ]
+   ]
+  },
+  {
+   "word": "cross the street",
+   "ph": "",
+   "pos": "phr. 過馬路",
+   "zh": "穿越街道",
+   "colloc": "safely cross the street 安全過馬路 | wait to cross the street 等待過馬路",
+   "distinct": "walk along the street 沿著街道走 | across the street 在街道對面",
+   "ex": [
+    [
+     "You can cross the street at the light.",
+     "你可以在紅綠燈處過馬路。"
+    ],
+    [
+     "We watched them cross the street together.",
+     "我們看著他們一起過馬路。"
+    ],
+    [
+     "Be careful when you cross the street here.",
+     "在這裡過馬路時要小心。"
+    ]
+   ]
+  },
+  {
+   "word": "cut down",
+   "ph": "",
+   "pos": "phr. 削減；砍伐",
+   "zh": "減少；縮減；砍倒",
+   "colloc": "cut down on expenses 削減開支 | cut down on sugar 減少糖分",
+   "distinct": "cut off 中斷；切斷 | cut out 刪除；戒除",
+   "ex": [
+    [
+     "We need to cut down on unnecessary spending.",
+     "我們需要削減不必要的開支。"
+    ],
+    [
+     "The company will cut down the production time.",
+     "公司將會縮短生產時間。"
+    ],
+    [
+     "It is time to cut down on overtime hours.",
+     "現在是減少加班時數的時候了。"
+    ]
+   ]
+  }
+ ]
+}

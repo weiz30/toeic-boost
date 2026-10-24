@@ -1,0 +1,448 @@
+{
+ "day": 28,
+ "theme": "教材字彙・基礎 550–650 第 28 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "make",
+   "ph": "/meɪk/",
+   "pos": "v. 製造；做；使...成為",
+   "zh": "製造；做；使",
+   "colloc": "make a decision 做決定 | make a profit 獲利",
+   "distinct": "do 進行（工作）| create 創造（從無到有）",
+   "ex": [
+    [
+     "Please make a copy of this report.",
+     "請幫我影印這份報告。"
+    ],
+    [
+     "We hope to make a profit this year.",
+     "我們希望今年能獲利。"
+    ],
+    [
+     "Did you make a reservation for the lunch?",
+     "你有預訂午餐位子嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "means",
+   "ph": "/miːnz/",
+   "pos": "n. 手段；方法；財力",
+   "zh": "手段；方法；財力",
+   "colloc": "by all means 務必 | by means of 藉由...",
+   "distinct": "method 特定步驟的方法 | way 一般的途徑",
+   "ex": [
+    [
+     "Hard work is the means to success.",
+     "努力工作是成功的途徑。"
+    ],
+    [
+     "They have the means to expand overseas.",
+     "他們有財力進行海外擴張。"
+    ],
+    [
+     "Is there any other means to solve this?",
+     "還有其他方法可以解決這個嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "meeting",
+   "ph": "/ˈmiːtɪŋ/",
+   "pos": "n. 會議；會面",
+   "zh": "會議；會面",
+   "colloc": "hold a meeting 舉行會議 | attend a meeting 出席會議",
+   "distinct": "conference 大型研討會 | session 會期；開會期間",
+   "ex": [
+    [
+     "Everyone is required to attend the meeting.",
+     "每個人都被要求參加會議。"
+    ],
+    [
+     "Can we hold a meeting tomorrow morning?",
+     "我們明天早上可以開個會嗎？"
+    ],
+    [
+     "The meeting was moved to the conference room.",
+     "會議改到會議室進行了。"
+    ]
+   ]
+  },
+  {
+   "word": "mention",
+   "ph": "/ˈmenʃn/",
+   "pos": "v. 提到；說起 | n. 提及",
+   "zh": "提到；說起",
+   "colloc": "mention briefly 簡短提及 | worth mentioning 值得一提",
+   "distinct": "refer to 參考；提及 | state 陳述",
+   "ex": [
+    [
+     "The manager did not mention the budget cuts.",
+     "經理沒有提到預算削減的事。"
+    ],
+    [
+     "Did he mention anything about the new project?",
+     "他有提到關於新專案的事嗎？"
+    ],
+    [
+     "It is worth mentioning that sales increased.",
+     "值得一提的是銷售額增加了。"
+    ]
+   ]
+  },
+  {
+   "word": "mounting",
+   "ph": "/ˈmaʊntɪŋ/",
+   "pos": "adj. 增加中的；上升的",
+   "zh": "增加中的；上升的",
+   "colloc": "mounting pressure 上升的壓力 | mounting debt 累積的債務",
+   "distinct": "increasing 漸增的 | rising 上升的",
+   "ex": [
+    [
+     "There is mounting pressure to finish early.",
+     "提前完成的壓力越來越大。"
+    ],
+    [
+     "The company faces mounting costs this quarter.",
+     "公司本季面臨不斷增加的成本。"
+    ],
+    [
+     "We feel mounting concern about the delay.",
+     "我們對延遲感到日益擔憂。"
+    ]
+   ]
+  },
+  {
+   "word": "narrowly",
+   "ph": "/ˈnærəli/",
+   "pos": "adv. 勉強地；狹窄地",
+   "zh": "勉強地；狹窄地",
+   "colloc": "narrowly escaped 勉強逃脫 | narrowly defeated 險勝",
+   "distinct": "barely 幾乎不 | slightly 稍微",
+   "ex": [
+    [
+     "The company narrowly avoided a financial crisis.",
+     "公司險些躲過一場財務危機。"
+    ],
+    [
+     "Our team was narrowly defeated in the finals.",
+     "我們的團隊在決賽中以些微差距落敗。"
+    ],
+    [
+     "They narrowly missed the deadline for submission.",
+     "他們勉強錯過了提交期限。"
+    ]
+   ]
+  },
+  {
+   "word": "necessary",
+   "ph": "/ˈnesəseri/",
+   "pos": "adj. 必要的；必需的",
+   "zh": "必要的；必需的",
+   "colloc": "absolutely necessary 絕對必要 | take necessary steps 採取必要措施",
+   "distinct": "essential 不可或缺的 | required 被規定的",
+   "ex": [
+    [
+     "It is necessary to review the contract.",
+     "審閱這份合約是有必要的。"
+    ],
+    [
+     "Please take the necessary steps to fix it.",
+     "請採取必要措施來修復它。"
+    ],
+    [
+     "Extra funds are necessary for the upgrade.",
+     "升級需要額外的資金。"
+    ]
+   ]
+  },
+  {
+   "word": "need",
+   "ph": "/niːd/",
+   "pos": "v. 需要 | n. 需求",
+   "zh": "需要；需求",
+   "colloc": "meet the need 滿足需求 | urgent need 急需",
+   "distinct": "require 規定需要 | demand 強烈要求",
+   "ex": [
+    [
+     "We need to hire more staff soon.",
+     "我們很快就需要雇用更多員工。"
+    ],
+    [
+     "There is a great need for new equipment.",
+     "對新設備有很大的需求。"
+    ],
+    [
+     "Do you need assistance with the software?",
+     "你需要軟體方面的協助嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "negative",
+   "ph": "/ˈneɡətɪv/",
+   "pos": "adj. 負面的；否定的",
+   "zh": "負面的；否定的",
+   "colloc": "negative feedback 負面意見 | negative impact 負面影響",
+   "distinct": "pessimistic 悲觀的 | critical 批評的",
+   "ex": [
+    [
+     "The client gave us negative feedback today.",
+     "客戶今天給了我們負面意見。"
+    ],
+    [
+     "Inflation will have a negative impact here.",
+     "通貨膨脹會對這裡產生負面影響。"
+    ],
+    [
+     "We should avoid a negative attitude toward change.",
+     "我們應避免對變革採取負面態度。"
+    ]
+   ]
+  },
+  {
+   "word": "obtain",
+   "ph": "/əbˈteɪn/",
+   "pos": "v. 獲得；得到",
+   "zh": "獲得；得到",
+   "colloc": "obtain permission 取得許可 | obtain information 獲得資訊",
+   "distinct": "get 得到（通用） | acquire 購得；習得",
+   "ex": [
+    [
+     "How can we obtain a building permit?",
+     "我們該如何取得建築許可？"
+    ],
+    [
+     "The researchers hope to obtain better results.",
+     "研究人員希望獲得更好的結果。"
+    ],
+    [
+     "Please obtain a copy of the receipt.",
+     "請取得一份收據副本。"
+    ]
+   ]
+  },
+  {
+   "word": "operation",
+   "ph": "/ˌɑːpəˈreɪʃn/",
+   "pos": "n. 操作；營運；手術",
+   "zh": "操作；營運；手術",
+   "colloc": "in operation 運作中 | business operation 業務營運",
+   "distinct": "function 功能 | procedure 程序",
+   "ex": [
+    [
+     "The new factory is now in full operation.",
+     "新工廠現在已全面營運。"
+    ],
+    [
+     "He is responsible for daily office operations.",
+     "他負責日常的辦公室營運。"
+    ],
+    [
+     "We need to simplify the operation process.",
+     "我們需要簡化操作流程。"
+    ]
+   ]
+  },
+  {
+   "word": "opportunity",
+   "ph": "/ˌɑːpərˈtuːnəti/",
+   "pos": "n. 機會",
+   "zh": "機會",
+   "colloc": "take the opportunity 把握機會 | equal opportunity 平等機會",
+   "distinct": "chance 偶然的機會 | occasion 場合",
+   "ex": [
+    [
+     "This is a great opportunity to grow.",
+     "這是成長的絕佳機會。"
+    ],
+    [
+     "I look forward to the opportunity to work.",
+     "我期待有這個工作的機會。"
+    ],
+    [
+     "Take the opportunity to ask your questions.",
+     "把握機會提出你的問題。"
+    ]
+   ]
+  },
+  {
+   "word": "option",
+   "ph": "/ˈɑːpʃn/",
+   "pos": "n. 選項；選擇權",
+   "zh": "選項；選擇權",
+   "colloc": "have the option 選項 | available options 可用的選項",
+   "distinct": "choice 選擇 | alternative 二選一的選擇",
+   "ex": [
+    [
+     "We have several options for the vendor.",
+     "我們針對供應商有幾個選項。"
+    ],
+    [
+     "What is the best option for our budget?",
+     "以我們的預算來說哪個選項最好？"
+    ],
+    [
+     "You have the option to renew the lease.",
+     "你有續租的選擇權。"
+    ]
+   ]
+  },
+  {
+   "word": "organize",
+   "ph": "/ˈɔːrɡənaɪz/",
+   "pos": "v. 組織；籌辦；整理",
+   "zh": "組織；籌辦；整理",
+   "colloc": "organize a meeting 籌辦會議 | organize files 整理檔案",
+   "distinct": "arrange 排列；約定 | structure 建構",
+   "ex": [
+    [
+     "She will organize the upcoming sales event.",
+     "她將籌辦即將到來的銷售活動。"
+    ],
+    [
+     "Please organize your files before leaving today.",
+     "請在今天下班前整理好你的檔案。"
+    ],
+    [
+     "We need to organize the team better.",
+     "我們需要更好地組織這個團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "period",
+   "ph": "/ˈpɪriəd/",
+   "pos": "n. 時期；階段；期間",
+   "zh": "時期；階段；期間",
+   "colloc": "probation period 試用期 | trial period 試用期",
+   "distinct": "stage 階段 | era 時代",
+   "ex": [
+    [
+     "The project has a three-month trial period.",
+     "該專案有三個月的試用期。"
+    ],
+    [
+     "During this period, sales were very high.",
+     "在此期間，銷售額非常高。"
+    ],
+    [
+     "We need to focus on this growth period.",
+     "我們需要專注於這個成長階段。"
+    ]
+   ]
+  },
+  {
+   "word": "permission",
+   "ph": "/pərˈmɪʃn/",
+   "pos": "n. 許可；允許",
+   "zh": "許可；允許",
+   "colloc": "obtain permission 獲得許可 | with permission 經允許",
+   "distinct": "authorization 授權 | consent 同意",
+   "ex": [
+    [
+     "You need permission to access the server.",
+     "你需要許可才能存取伺服器。"
+    ],
+    [
+     "Did you ask for permission to leave early?",
+     "你有申請早退的許可嗎？"
+    ],
+    [
+     "No one can enter without my permission.",
+     "沒有我的許可任何人不得進入。"
+    ]
+   ]
+  },
+  {
+   "word": "phase",
+   "ph": "/feɪz/",
+   "pos": "n. 階段；時期",
+   "zh": "階段；時期",
+   "colloc": "first phase 第一階段 | initial phase 初期階段",
+   "distinct": "period 一段時間 | step 步驟",
+   "ex": [
+    [
+     "The first phase of the project is done.",
+     "專案的第一階段已經完成了。"
+    ],
+    [
+     "We are entering a new phase of growth.",
+     "我們正進入一個新的成長階段。"
+    ],
+    [
+     "The next phase involves extensive market research.",
+     "下一階段涉及廣泛的市場研究。"
+    ]
+   ]
+  },
+  {
+   "word": "preparation",
+   "ph": "/ˌprepəˈreɪʃn/",
+   "pos": "n. 準備；預備",
+   "zh": "準備；預備",
+   "colloc": "in preparation for 為...做準備 | make preparations 進行準備",
+   "distinct": "readiness 就緒狀態 | training 訓練",
+   "ex": [
+    [
+     "Much preparation is needed for the event.",
+     "活動需要大量的準備工作。"
+    ],
+    [
+     "We are doing this in preparation for audit.",
+     "我們正在為審計做準備。"
+    ],
+    [
+     "The team made preparations for the arrival.",
+     "團隊為訪客的抵達做了準備。"
+    ]
+   ]
+  },
+  {
+   "word": "probable",
+   "ph": "/ˈprɑːbəbl/",
+   "pos": "adj. 可能的；大概的",
+   "zh": "可能的；大概的",
+   "colloc": "highly probable 極有可能 | probable cause 合理理由",
+   "distinct": "possible 可能的（機會較小） | likely 很可能的",
+   "ex": [
+    [
+     "It is probable that he will be promoted.",
+     "他很有可能會被升職。"
+    ],
+    [
+     "What is the probable cost of this repair?",
+     "這項維修大概的費用是多少？"
+    ],
+    [
+     "There is a probable delay in shipment.",
+     "出貨很有可能會延遲。"
+    ]
+   ]
+  },
+  {
+   "word": "prospect",
+   "ph": "/ˈprɑːspekt/",
+   "pos": "n. 前景；預期；潛在客戶",
+   "zh": "前景；預期；潛在客戶",
+   "colloc": "job prospect 工作前景 | business prospect 商業展望",
+   "distinct": "perspective 觀點 | expectation 期望",
+   "ex": [
+    [
+     "The job prospect in this field is good.",
+     "該領域的工作前景很不錯。"
+    ],
+    [
+     "We are contacting a new sales prospect today.",
+     "我們今天正在聯絡一位潛在客戶。"
+    ],
+    [
+     "The economic prospect remains uncertain this year.",
+     "今年的經濟展望仍不確定。"
+    ]
+   ]
+  }
+ ]
+}

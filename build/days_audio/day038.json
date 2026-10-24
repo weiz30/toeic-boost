@@ -1,0 +1,448 @@
+{
+ "day": 38,
+ "theme": "教材字彙・進階 650–750 第 38 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "van",
+   "ph": "/væn/",
+   "pos": "n. 廂型車；貨車",
+   "zh": "廂型車；貨車",
+   "colloc": "delivery van 快遞貨車 | cargo van 載貨廂型車",
+   "distinct": "truck 卡車（較大） | lorry 貨車（英式用法）",
+   "ex": [
+    [
+     "The delivery van just arrived at the loading dock.",
+     "快遞貨車剛抵達裝卸貨碼頭。"
+    ],
+    [
+     "We need a larger van to transport the office equipment.",
+     "我們需要更大的貨車來搬運辦公設備。"
+    ],
+    [
+     "Please park the company van in the designated area.",
+     "請將公司貨車停在指定區域。"
+    ]
+   ]
+  },
+  {
+   "word": "view",
+   "ph": "/vjuː/",
+   "pos": "n. 視野；看法 | v. 觀看；看待",
+   "zh": "視野；看法；景觀",
+   "colloc": "in my view 在我看來 | view from the office 辦公室窗景",
+   "distinct": "opinion 主張；意見 | prospect 前景；期望",
+   "ex": [
+    [
+     "This office offers a spectacular view of the harbor.",
+     "這間辦公室有絕佳的港口視野。"
+    ],
+    [
+     "In my view, we should invest in new technology.",
+     "在我看來，我們應該投資新科技。"
+    ],
+    [
+     "Management views the current market shift as an opportunity.",
+     "管理階層將目前的市場變動視為機會。"
+    ]
+   ]
+  },
+  {
+   "word": "volume",
+   "ph": "/ˈvɒljuːm/",
+   "pos": "n. 音量；體積；數量",
+   "zh": "音量；數量；冊",
+   "colloc": "sales volume 銷售量 | high volume 大量",
+   "distinct": "amount 總數（不可數） | capacity 容量",
+   "ex": [
+    [
+     "The sales volume has increased significantly this quarter.",
+     "本季銷售量顯著成長。"
+    ],
+    [
+     "Please turn down the volume of the conference call.",
+     "請將電話會議的音量調小。"
+    ],
+    [
+     "They are managing a high volume of customer inquiries.",
+     "他們正在處理大量的客戶詢問。"
+    ]
+   ]
+  },
+  {
+   "word": "vote",
+   "ph": "/vəʊt/",
+   "pos": "n. 選票；投票 | v. 投票；表決",
+   "zh": "選票；投票",
+   "colloc": "cast a vote 投下一票 | vote for 支持；投票給",
+   "distinct": "poll 民意調查 | ballot 選票（秘密投票用）",
+   "ex": [
+    [
+     "The board will vote on the proposal tomorrow.",
+     "董事會明天將針對該提案表決。"
+    ],
+    [
+     "Every employee has the right to cast a vote.",
+     "每位員工都有權利投下一票。"
+    ],
+    [
+     "We need more votes to pass the new policy.",
+     "我們需要更多票數來通過這項新政策。"
+    ]
+   ]
+  },
+  {
+   "word": "water",
+   "ph": "/ˈwɔːtər/",
+   "pos": "n. 水 | v. 澆水",
+   "zh": "水；澆灌",
+   "colloc": "drinking water 飲用水 | water supply 供水",
+   "distinct": "liquid 液體 | fluid 流體",
+   "ex": [
+    [
+     "Make sure there is fresh water in the meeting room.",
+     "確保會議室裡有新鮮的飲用水。"
+    ],
+    [
+     "The plant needs someone to water it every morning.",
+     "這盆植物每天早上都需要有人澆水。"
+    ],
+    [
+     "We are experiencing a temporary water supply interruption.",
+     "我們目前面臨暫時性的供水中斷。"
+    ]
+   ]
+  },
+  {
+   "word": "wet",
+   "ph": "/wet/",
+   "pos": "adj. 濕的 | v. 弄濕",
+   "zh": "濕的；潮濕的",
+   "colloc": "wet floor 濕滑地板 | soaking wet 濕透的",
+   "distinct": "damp 微濕的 | moist 潮濕的",
+   "ex": [
+    [
+     "Please watch out for the wet floor in the lobby.",
+     "請小心大廳內濕滑的地板。"
+    ],
+    [
+     "The documents got wet during the heavy rainfall.",
+     "這些文件在強降雨中被弄濕了。"
+    ],
+    [
+     "Keep the sensitive equipment away from wet conditions.",
+     "請將精密設備存放在乾燥環境。"
+    ]
+   ]
+  },
+  {
+   "word": "wood",
+   "ph": "/wʊd/",
+   "pos": "n. 木頭；木材",
+   "zh": "木頭；木材",
+   "colloc": "hard wood 硬木 | wood furniture 木製家具",
+   "distinct": "timber 木材（建築用） | lumber 木材（美式）",
+   "ex": [
+    [
+     "The office desk is made of high-quality wood.",
+     "這張辦公桌是用優質木材製成的。"
+    ],
+    [
+     "We prefer using wood for the interior renovation.",
+     "我們傾向在室內裝修中使用木頭。"
+    ],
+    [
+     "The warehouse is filled with crates made of wood.",
+     "倉庫裡堆滿了木製板條箱。"
+    ]
+   ]
+  },
+  {
+   "word": "worry",
+   "ph": "/ˈwʌri/",
+   "pos": "n. 擔心 | v. 擔心；煩惱",
+   "zh": "擔心；煩惱",
+   "colloc": "worry about 擔心 | cause for worry 擔心的理由",
+   "distinct": "concern 關切；掛念 | anxiety 焦慮",
+   "ex": [
+    [
+     "There is no need to worry about the deadline.",
+     "不需要為截止日期感到擔心。"
+    ],
+    [
+     "The recent decline in sales is a major worry.",
+     "近期銷售額下滑是一個主要的隱憂。"
+    ],
+    [
+     "Do not worry about the minor errors in the draft.",
+     "不必煩惱草稿中那些微小的錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "addition",
+   "ph": "/əˈdɪʃn/",
+   "pos": "n. 增加；附加物",
+   "zh": "增加；附加",
+   "colloc": "in addition 此外 | a new addition 新成員；新添購",
+   "distinct": "extension 擴充 | supplement 補充物",
+   "ex": [
+    [
+     "The new software is a valuable addition to our system.",
+     "這套新軟體是對我們系統很有價值的補充。"
+    ],
+    [
+     "In addition, we need to finalize the contract today.",
+     "此外，我們今天需要完成合約定稿。"
+    ],
+    [
+     "The addition of new staff will improve our productivity.",
+     "增加新員工將提升我們的生產力。"
+    ]
+   ]
+  },
+  {
+   "word": "agent",
+   "ph": "/ˈeɪdʒənt/",
+   "pos": "n. 代理人；經紀人；代理商",
+   "zh": "代理人；經紀人",
+   "colloc": "travel agent 旅行社職員 | real estate agent 房地產仲介",
+   "distinct": "representative 代表 | broker 經紀人",
+   "ex": [
+    [
+     "Our booking agent confirmed the flight reservation yesterday.",
+     "我們的訂位代理人昨天確認了航班預訂。"
+    ],
+    [
+     "You should consult a real estate agent for the lease.",
+     "你應該諮詢房地產仲介來處理租約。"
+    ],
+    [
+     "The insurance agent explained the terms of the policy.",
+     "保險代理人說明了保單條款。"
+    ]
+   ]
+  },
+  {
+   "word": "attack",
+   "ph": "/əˈtæk/",
+   "pos": "n. 攻擊 | v. 攻擊；抨擊",
+   "zh": "攻擊；抨擊",
+   "colloc": "cyber attack 網路攻擊 | attack a problem 著手處理問題",
+   "distinct": "assault 突擊 | criticize 批評",
+   "ex": [
+    [
+     "The company faced a severe cyber attack last month.",
+     "公司上個月遭遇嚴重的網路攻擊。"
+    ],
+    [
+     "We need to attack this project with a new strategy.",
+     "我們需要用新的策略著手處理這個專案。"
+    ],
+    [
+     "The competitor began to attack our pricing model directly.",
+     "競爭對手開始直接抨擊我們的定價模式。"
+    ]
+   ]
+  },
+  {
+   "word": "away",
+   "ph": "/əˈweɪ/",
+   "pos": "adv. 離開；在遠處",
+   "zh": "離開；遠處",
+   "colloc": "right away 立刻 | be away 出差；不在",
+   "distinct": "far 遙遠的 | off 離開；關閉",
+   "ex": [
+    [
+     "The manager is away on a business trip this week.",
+     "經理這週出差不在辦公室。"
+    ],
+    [
+     "Please send the report to the client right away.",
+     "請立刻將報告寄給客戶。"
+    ],
+    [
+     "Our main office is located away from the city center.",
+     "我們的總公司位於遠離市中心的地方。"
+    ]
+   ]
+  },
+  {
+   "word": "banker",
+   "ph": "/ˈbæŋkər/",
+   "pos": "n. 銀行家；銀行職員",
+   "zh": "銀行家；銀行業者",
+   "colloc": "investment banker 投資銀行家 | senior banker 資深銀行家",
+   "distinct": "clerk 行員 | financier 金融家",
+   "ex": [
+    [
+     "The investment banker provided insight on the market trend.",
+     "這位投資銀行家提供了市場趨勢的見解。"
+    ],
+    [
+     "She has worked as a banker for over ten years.",
+     "她擔任銀行從業人員已經超過十年了。"
+    ],
+    [
+     "The meeting with the senior banker was very productive.",
+     "與資深銀行家的會議非常有成效。"
+    ]
+   ]
+  },
+  {
+   "word": "banking",
+   "ph": "/ˈbæŋkɪŋ/",
+   "pos": "n. 銀行業",
+   "zh": "銀行業",
+   "colloc": "online banking 線上銀行 | banking sector 銀行業",
+   "distinct": "finance 金融 | accounting 會計",
+   "ex": [
+    [
+     "The banking sector is experiencing rapid digital transformation.",
+     "銀行業正在經歷快速的數位轉型。"
+    ],
+    [
+     "Modern banking requires strict security for online transactions.",
+     "現代銀行業對線上交易需要嚴格的安全控管。"
+    ],
+    [
+     "He decided to pursue a career in corporate banking.",
+     "他決定投身於企業金融領域。"
+    ]
+   ]
+  },
+  {
+   "word": "beach",
+   "ph": "/biːtʃ/",
+   "pos": "n. 海灘",
+   "zh": "海灘",
+   "colloc": "sandy beach 沙灘 | beach resort 海濱度假村",
+   "distinct": "coast 海岸 | shore 岸邊",
+   "ex": [
+    [
+     "The company retreat will be held at a beach resort.",
+     "公司員工旅遊將在海濱度假村舉辦。"
+    ],
+    [
+     "They organized a cleanup event at the local beach.",
+     "他們在當地的海灘組織了一場淨灘活動。"
+    ],
+    [
+     "The hotel offers a private beach for all guests.",
+     "這家飯店為所有房客提供私人海灘。"
+    ]
+   ]
+  },
+  {
+   "word": "begin",
+   "ph": "/bɪˈɡɪn/",
+   "pos": "v. 開始",
+   "zh": "開始",
+   "colloc": "begin with 從...開始 | begin to do 開始做",
+   "distinct": "start 開始 | commence 開始（正式）",
+   "ex": [
+    [
+     "The annual meeting will begin at nine o'clock sharp.",
+     "年度會議將在九點整準時開始。"
+    ],
+    [
+     "We should begin by reviewing the project goals.",
+     "我們應該從檢視專案目標開始。"
+    ],
+    [
+     "The team will begin to implement the new system soon.",
+     "團隊很快就會開始執行新系統。"
+    ]
+   ]
+  },
+  {
+   "word": "beginning",
+   "ph": "/bɪˈɡɪnɪŋ/",
+   "pos": "n. 開始 | adj. 初級的",
+   "zh": "開始；開端",
+   "colloc": "at the beginning 在開始時 | from the beginning 從頭開始",
+   "distinct": "start 起點 | inception 開端",
+   "ex": [
+    [
+     "At the beginning of the year, we set new targets.",
+     "在年初時，我們設定了新的目標。"
+    ],
+    [
+     "The beginning of the presentation was very engaging.",
+     "簡報的開場非常引人入勝。"
+    ],
+    [
+     "You should read the manual from the beginning.",
+     "你應該從頭閱讀這本手冊。"
+    ]
+   ]
+  },
+  {
+   "word": "belief",
+   "ph": "/bɪˈliːf/",
+   "pos": "n. 信念；信仰；相信",
+   "zh": "信念；相信",
+   "colloc": "firm belief 堅定的信念 | common belief 一般看法",
+   "distinct": "faith 信心；信仰 | opinion 觀點",
+   "ex": [
+    [
+     "Our firm belief is that innovation drives long-term success.",
+     "我們堅信創新能推動長期成功。"
+    ],
+    [
+     "It is a common belief that hard work leads to rewards.",
+     "人們普遍相信努力工作會帶來回報。"
+    ],
+    [
+     "His belief in the project motivated the entire team.",
+     "他對此專案的信念激勵了整個團隊。"
+    ]
+   ]
+  },
+  {
+   "word": "brand",
+   "ph": "/brænd/",
+   "pos": "n. 品牌 | v. 打上品牌",
+   "zh": "品牌；商標",
+   "colloc": "brand name 品牌名稱 | build a brand 建立品牌",
+   "distinct": "trademark 商標 | label 標籤",
+   "ex": [
+    [
+     "This company is famous for its luxury brand image.",
+     "這家公司以其奢華的品牌形象聞名。"
+    ],
+    [
+     "We are looking for ways to build our brand awareness.",
+     "我們正在尋找提升品牌知名度的方法。"
+    ],
+    [
+     "Each product should carry the company's official brand.",
+     "每項產品都應該標示公司的正式品牌。"
+    ]
+   ]
+  },
+  {
+   "word": "bring",
+   "ph": "/brɪŋ/",
+   "pos": "v. 帶來；拿來",
+   "zh": "帶來；提供",
+   "colloc": "bring up 提出；養育 | bring about 導致",
+   "distinct": "take 帶走 | fetch 去拿回來",
+   "ex": [
+    [
+     "Please bring your laptop to the team meeting tomorrow.",
+     "請明天帶你的筆電來參加團隊會議。"
+    ],
+    [
+     "The new marketing strategy will bring in more customers.",
+     "新的行銷策略將會帶來更多客戶。"
+    ],
+    [
+     "Did you bring the signed contract to the office?",
+     "你有把簽好的合約帶到辦公室嗎？"
+    ]
+   ]
+  }
+ ]
+}

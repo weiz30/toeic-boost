@@ -1,0 +1,448 @@
+{
+ "day": 2,
+ "theme": "教材字彙・基礎 550–650 第 2 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "content",
+   "ph": "/ˈkɒntent/",
+   "pos": "n. 內容 | adj. 滿意的",
+   "zh": "內容；目錄；滿足的",
+   "colloc": "content marketing 內容行銷 | table of contents 目錄",
+   "distinct": "context 語境；上下文 | container 容器",
+   "ex": [
+    [
+     "The report has valuable content for our team.",
+     "這份報告對我們團隊有珍貴的內容。"
+    ],
+    [
+     "She seems content with the current salary.",
+     "她似乎對目前的薪水感到滿意。"
+    ],
+    [
+     "Please review the content of the contract.",
+     "請檢視這份合約的內容。"
+    ]
+   ]
+  },
+  {
+   "word": "delivery",
+   "ph": "/dɪˈlɪvəri/",
+   "pos": "n. 遞送；交付；演說風格",
+   "zh": "遞送；交付；演講方式",
+   "colloc": "delivery service 配送服務 | free delivery 免運費",
+   "distinct": "distribution 分配；配銷 | shipment 裝運的貨物",
+   "ex": [
+    [
+     "We expect the delivery by tomorrow afternoon.",
+     "我們預計明天下午收到貨物。"
+    ],
+    [
+     "His delivery of the presentation was excellent.",
+     "他這次簡報的表達方式很出色。"
+    ],
+    [
+     "The store offers free delivery on all orders.",
+     "該店提供所有訂單免費配送。"
+    ]
+   ]
+  },
+  {
+   "word": "department",
+   "ph": "/dɪˈpɑːrtmənt/",
+   "pos": "n. 部門；系",
+   "zh": "部門；處；科",
+   "colloc": "accounting department 會計部 | HR department 人力資源部",
+   "distinct": "sector 行業；領域 | division 部門；分公司",
+   "ex": [
+    [
+     "Our department is hiring a new assistant.",
+     "我們部門正在徵求一位新助理。"
+    ],
+    [
+     "Please contact the marketing department directly.",
+     "請直接聯繫行銷部門。"
+    ],
+    [
+     "Every department must submit a budget report.",
+     "每個部門都必須提交預算報告。"
+    ]
+   ]
+  },
+  {
+   "word": "impact",
+   "ph": "/ˈɪmpækt/",
+   "pos": "n. 影響；衝擊 | v. 產生影響",
+   "zh": "影響；衝擊",
+   "colloc": "have an impact on 對...有影響 | major impact 重大影響",
+   "distinct": "influence 影響力（較長遠）| effect 結果；效果",
+   "ex": [
+    [
+     "The new policy had a major impact on sales.",
+     "新政策對銷售額產生了重大影響。"
+    ],
+    [
+     "Rising costs will impact our annual profit.",
+     "成本上升將影響我們的年度利潤。"
+    ],
+    [
+     "We need to assess the environmental impact.",
+     "我們需要評估環境影響。"
+    ]
+   ]
+  },
+  {
+   "word": "income",
+   "ph": "/ˈɪnkʌm/",
+   "pos": "n. 收入；所得",
+   "zh": "收入；所得",
+   "colloc": "annual income 年收入 | disposable income 可支配收入",
+   "distinct": "salary 薪水（定期）| revenue 營收（企業）",
+   "ex": [
+    [
+     "She is looking for a steady source of income.",
+     "她正在尋找穩定的收入來源。"
+    ],
+    [
+     "High income earners pay higher taxes.",
+     "高收入者繳納較高的稅金。"
+    ],
+    [
+     "The company generates income from digital ads.",
+     "該公司透過數位廣告獲利。"
+    ]
+   ]
+  },
+  {
+   "word": "local",
+   "ph": "/ˈloʊkl/",
+   "pos": "adj. 當地的；本地的 | n. 當地人",
+   "zh": "當地的；本地的",
+   "colloc": "local business 本地企業 | local market 當地市場",
+   "distinct": "regional 地區的 | domestic 國內的",
+   "ex": [
+    [
+     "We decided to hire a local supplier.",
+     "我們決定僱用一家當地供應商。"
+    ],
+    [
+     "The event attracted many local residents.",
+     "這場活動吸引了許多當地居民。"
+    ],
+    [
+     "Support local businesses in your community.",
+     "請支持你社區裡的在地企業。"
+    ]
+   ]
+  },
+  {
+   "word": "professional",
+   "ph": "/prəˈfeʃənl/",
+   "pos": "adj. 專業的；職業的 | n. 專業人士",
+   "zh": "專業的；職業的",
+   "colloc": "professional advice 專業建議 | professional development 職業發展",
+   "distinct": "vocational 職業技術的 | expert 專家",
+   "ex": [
+    [
+     "You should maintain a professional attitude.",
+     "你應該保持專業的態度。"
+    ],
+    [
+     "She is a professional in the accounting field.",
+     "她是會計領域的專業人士。"
+    ],
+    [
+     "We offer professional training for employees.",
+     "我們為員工提供專業訓練。"
+    ]
+   ]
+  },
+  {
+   "word": "strictly",
+   "ph": "/ˈstrɪktli/",
+   "pos": "adv. 嚴格地；完全地",
+   "zh": "嚴格地；完全地",
+   "colloc": "strictly prohibited 嚴格禁止 | strictly followed 嚴格遵守",
+   "distinct": "severely 嚴重地 | precisely 精確地",
+   "ex": [
+    [
+     "Smoking is strictly prohibited in the office.",
+     "辦公室內嚴格禁止抽菸。"
+    ],
+    [
+     "The budget must be strictly followed.",
+     "預算必須被嚴格遵守。"
+    ],
+    [
+     "These rules are strictly enforced by management.",
+     "管理層嚴格執行這些規則。"
+    ]
+   ]
+  },
+  {
+   "word": "clear",
+   "ph": "/klɪr/",
+   "pos": "adj. 清晰的；明確的 | v. 清除",
+   "zh": "清晰的；明白的；清除",
+   "colloc": "clear instruction 明確指示 | clear understanding 清晰的理解",
+   "distinct": "vivid 生動的 | transparent 透明的",
+   "ex": [
+    [
+     "Please give me a clear explanation of this.",
+     "請對此給我一個明確的解釋。"
+    ],
+    [
+     "The path needs to be cleared of snow.",
+     "這條路需要清除積雪。"
+    ],
+    [
+     "It is clear that we need more staff.",
+     "顯然我們需要更多員工。"
+    ]
+   ]
+  },
+  {
+   "word": "convince",
+   "ph": "/kənˈvɪns/",
+   "pos": "v. 說服；使確信",
+   "zh": "說服；使確信",
+   "colloc": "convince someone to do 說服某人做某事 | convince someone of 說服某人相信",
+   "distinct": "persuade 勸說 | influence 影響",
+   "ex": [
+    [
+     "I need to convince my boss to approve it.",
+     "我需要說服老闆批准這件事。"
+    ],
+    [
+     "They convinced him of the project's value.",
+     "他們使他確信該專案的價值。"
+    ],
+    [
+     "Nothing could convince her to change her mind.",
+     "沒什麼能說服她改變心意。"
+    ]
+   ]
+  },
+  {
+   "word": "area",
+   "ph": "/ˈeriə/",
+   "pos": "n. 地區；領域；範圍",
+   "zh": "地區；區域；領域",
+   "colloc": "waiting area 等候區 | area of expertise 專長領域",
+   "distinct": "region 地區（較大）| zone 區域（特定用途）",
+   "ex": [
+    [
+     "The conference will be held in this area.",
+     "會議將在此地區舉辦。"
+    ],
+    [
+     "She is an expert in the area of finance.",
+     "她是金融領域的專家。"
+    ],
+    [
+     "Please keep the work area clean at all times.",
+     "請隨時保持工作區域整潔。"
+    ]
+   ]
+  },
+  {
+   "word": "press",
+   "ph": "/pres/",
+   "pos": "v. 按；壓 | n. 新聞界；印刷",
+   "zh": "按；壓；媒體",
+   "colloc": "press release 新聞稿 | press conference 記者會",
+   "distinct": "push 推 | squeeze 擠壓",
+   "ex": [
+    [
+     "Press the green button to start the machine.",
+     "按下綠色按鈕啟動機器。"
+    ],
+    [
+     "The press reported on the merger today.",
+     "媒體今天報導了這項合併案。"
+    ],
+    [
+     "We will issue a press release next week.",
+     "我們下週將發布新聞稿。"
+    ]
+   ]
+  },
+  {
+   "word": "announce",
+   "ph": "/əˈnaʊns/",
+   "pos": "v. 宣布；公告",
+   "zh": "宣布；公告",
+   "colloc": "announce the results 宣布結果 | officially announce 正式宣布",
+   "distinct": "declare 宣告 | publish 發布（出版品）",
+   "ex": [
+    [
+     "The manager announced the new company policy.",
+     "經理宣布了新的公司政策。"
+    ],
+    [
+     "They will announce the winner tomorrow morning.",
+     "他們將於明早宣布獲勝者。"
+    ],
+    [
+     "An email was sent to announce the change.",
+     "一封電子郵件被發出以宣布變更。"
+    ]
+   ]
+  },
+  {
+   "word": "present",
+   "ph": "/ˈpreznt/",
+   "pos": "adj. 出席的；現在的 | v. 呈現；簡報",
+   "zh": "出席的；現在的；簡報",
+   "colloc": "present at the meeting 出席會議 | present an idea 提出想法",
+   "distinct": "current 目前的 | offer 提供",
+   "ex": [
+    [
+     "Most of the staff were present today.",
+     "大部分員工今天都有出席。"
+    ],
+    [
+     "I need to present my proposal to the board.",
+     "我需要向董事會簡報我的提案。"
+    ],
+    [
+     "He presented a summary of the quarterly report.",
+     "他呈現了季報的摘要。"
+    ]
+   ]
+  },
+  {
+   "word": "record",
+   "ph": "/ˈrekərd/",
+   "pos": "n. 紀錄；唱片 | v. /rɪˈkɔːrd/ 錄音；記載",
+   "zh": "紀錄；錄音",
+   "colloc": "keep a record 做紀錄 | set a record 破紀錄",
+   "distinct": "log 日誌 | file 檔案",
+   "ex": [
+    [
+     "Please keep a record of all your expenses.",
+     "請保留所有費用的紀錄。"
+    ],
+    [
+     "The meeting will be recorded for later review.",
+     "會議將被錄音以便日後檢閱。"
+    ],
+    [
+     "Our team set a new sales record this month.",
+     "我們團隊本月創下了新的銷售紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "address",
+   "ph": "/əˈdres/",
+   "pos": "n. 地址；演說 | v. 處理；對...演說",
+   "zh": "地址；處理；對...演說",
+   "colloc": "mailing address 通訊地址 | address the issue 處理問題",
+   "distinct": "location 地點 | deal with 處理",
+   "ex": [
+    [
+     "Please confirm your office address with us.",
+     "請與我們確認你的辦公室地址。"
+    ],
+    [
+     "We need to address these concerns immediately.",
+     "我們需要立即處理這些疑慮。"
+    ],
+    [
+     "The CEO will address the employees tomorrow.",
+     "執行長明天將對員工發表演說。"
+    ]
+   ]
+  },
+  {
+   "word": "increase",
+   "ph": "/ɪnˈkriːs/",
+   "pos": "v. 增加 | n. /ˈɪnkriːs/ 增長",
+   "zh": "增加；增長",
+   "colloc": "increase in price 價格上漲 | significant increase 顯著增長",
+   "distinct": "rise 上升 | expand 擴張",
+   "ex": [
+    [
+     "We hope to increase sales by ten percent.",
+     "我們希望銷售額能增加百分之十。"
+    ],
+    [
+     "There has been an increase in customer demand.",
+     "客戶需求出現了增長。"
+    ],
+    [
+     "Rising demand will increase our production costs.",
+     "需求上升將增加我們的生產成本。"
+    ]
+   ]
+  },
+  {
+   "word": "permit",
+   "ph": "/pərˈmɪt/",
+   "pos": "v. 允許；准許 | n. /ˈpɜːrmɪt/ 許可證",
+   "zh": "允許；許可證",
+   "colloc": "work permit 工作許可證 | permit someone to do 允許某人做",
+   "distinct": "allow 允許 | authorize 授權",
+   "ex": [
+    [
+     "The rules do not permit personal calls here.",
+     "規定不允許在這裡打私人電話。"
+    ],
+    [
+     "You need a parking permit to use this lot.",
+     "你需要停車證才能使用這個停車場。"
+    ],
+    [
+     "Weather permitting, we will hold the event.",
+     "若天氣允許，我們將舉辦該活動。"
+    ]
+   ]
+  },
+  {
+   "word": "stir",
+   "ph": "/stɜːr/",
+   "pos": "v. 攪拌；引起（情緒/活動）",
+   "zh": "攪拌；引起；轟動",
+   "colloc": "stir up 激起；挑起 | create a stir 引起轟動",
+   "distinct": "mix 混合 | incite 煽動",
+   "ex": [
+    [
+     "Please stir the mixture until it is smooth.",
+     "請將混合物攪拌至平滑。"
+    ],
+    [
+     "The new announcement stirred a lot of interest.",
+     "這項新公告引起了極大興趣。"
+    ],
+    [
+     "His comments created a stir among the staff.",
+     "他的評論在員工中引起了轟動。"
+    ]
+   ]
+  },
+  {
+   "word": "subject",
+   "ph": "/ˈsʌbdʒɪkt/",
+   "pos": "n. 主題；科目 | adj. 受支配的 | v. 使服從",
+   "zh": "主題；科目；受支配的",
+   "colloc": "change the subject 轉換話題 | subject to change 可能會變動",
+   "distinct": "topic 話題 | theme 主旨",
+   "ex": [
+    [
+     "The subject of the meeting is the new budget.",
+     "會議的主題是關於新預算。"
+    ],
+    [
+     "This schedule is subject to change without notice.",
+     "此行程表若有變更恕不另行通知。"
+    ],
+    [
+     "English is a required subject for all students.",
+     "英文是所有學生的必修科目。"
+    ]
+   ]
+  }
+ ]
+}

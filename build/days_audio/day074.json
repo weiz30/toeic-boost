@@ -1,0 +1,448 @@
+{
+ "day": 74,
+ "theme": "教材片語・中高階 750–850 第 10 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "put out for display",
+   "ph": "",
+   "pos": "phr. 陳列出來",
+   "zh": "陳列；展示",
+   "colloc": "put out 拿出 | for display 供展示",
+   "distinct": "showcase 櫥窗展示 | exhibit 展覽",
+   "ex": [
+    [
+     "New products were put out for display in the lobby.",
+     "新產品已陳列在大廳供人參觀。"
+    ],
+    [
+     "Please put out for display all the promotional items today.",
+     "請在今天把所有促銷品都陳列出來。"
+    ],
+    [
+     "The team put out for display their latest design concepts.",
+     "團隊展示了他們最新的設計概念。"
+    ]
+   ]
+  },
+  {
+   "word": "retirement party",
+   "ph": "",
+   "pos": "phr. 退休派對",
+   "zh": "退休歡送會；退休派對",
+   "colloc": "host a party 舉辦派對 | attend a party 參加派對",
+   "distinct": "farewell party 歡送會 | reception 接待會",
+   "ex": [
+    [
+     "We are organizing a retirement party for our director.",
+     "我們正在為部門主管籌備退休歡送會。"
+    ],
+    [
+     "Everyone is invited to the retirement party this afternoon.",
+     "邀請各位參加今天下午的退休歡送會。"
+    ],
+    [
+     "The retirement party will be held in the main conference room.",
+     "退休歡送會將在主會議室舉行。"
+    ]
+   ]
+  },
+  {
+   "word": "set a record",
+   "ph": "",
+   "pos": "phr. 創下紀錄",
+   "zh": "創下紀錄；刷新紀錄",
+   "colloc": "break a record 打破紀錄 | current record 當前紀錄",
+   "distinct": "make a record 錄音 | keep a record 紀錄存檔",
+   "ex": [
+    [
+     "Our sales team managed to set a record this quarter.",
+     "我們的銷售團隊在本季創下了紀錄。"
+    ],
+    [
+     "This new machine helped set a record for production speed.",
+     "這台新機器協助創下了生產速度的紀錄。"
+    ],
+    [
+     "The company expects to set a record for annual profit.",
+     "公司預期將創下年度獲利紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "take over",
+   "ph": "",
+   "pos": "phr. 接管；接手",
+   "zh": "接管；接替；接手",
+   "colloc": "take over the business 接管業務 | take over the project 接手專案",
+   "distinct": "take on 承擔 | take up 佔用",
+   "ex": [
+    [
+     "She will take over the marketing department starting next month.",
+     "她將從下個月起接管行銷部門。"
+    ],
+    [
+     "Mr. Chen is going to take over as the project manager.",
+     "陳先生將接手擔任專案經理。"
+    ],
+    [
+     "The multinational corporation decided to take over the local firm.",
+     "那家跨國公司決定接管當地的企業。"
+    ]
+   ]
+  },
+  {
+   "word": "walk through",
+   "ph": "",
+   "pos": "phr. 逐步引導；詳細檢查",
+   "zh": "逐步說明；實地視察",
+   "colloc": "walk through the process 說明流程 | walk through the office 視察辦公室",
+   "distinct": "go over 複習；審查 | look through 瀏覽",
+   "ex": [
+    [
+     "Could you walk through the new system with me?",
+     "你可以帶我逐步了解這套新系統嗎？"
+    ],
+    [
+     "The architect will walk through the construction site today.",
+     "建築師今天將會實地視察施工現場。"
+    ],
+    [
+     "Let us walk through the contract clauses together tomorrow.",
+     "讓我們明天一起詳細審閱合約條款。"
+    ]
+   ]
+  },
+  {
+   "word": "warm up",
+   "ph": "",
+   "pos": "phr. 熱身；暖身",
+   "zh": "暖身；預熱",
+   "colloc": "warm up the audience 炒熱氣氛 | warm up session 熱身階段",
+   "distinct": "heat up 加熱 | cool down 冷卻",
+   "ex": [
+    [
+     "The speaker tried to warm up the audience with a joke.",
+     "講者試圖用笑話來炒熱現場氣氛。"
+    ],
+    [
+     "Please turn on the oven to warm up before baking.",
+     "烘烤前請先開啟烤箱進行預熱。"
+    ],
+    [
+     "The team did some exercises to warm up before the meeting.",
+     "團隊在會議前做了一些運動來暖身。"
+    ]
+   ]
+  },
+  {
+   "word": "a copy of",
+   "ph": "",
+   "pos": "phr. 一份副本",
+   "zh": "一份；副本",
+   "colloc": "keep a copy 留存一份 | send a copy 發送副本",
+   "distinct": "an original 正本 | a duplicate 複製品",
+   "ex": [
+    [
+     "Please submit a copy of your identification card.",
+     "請繳交一份您的身分證影本。"
+    ],
+    [
+     "I have attached a copy of the report for your review.",
+     "我已附上一份報告供您審閱。"
+    ],
+    [
+     "Every employee should have a copy of the handbook.",
+     "每位員工都應持有一份員工手冊。"
+    ]
+   ]
+  },
+  {
+   "word": "a selection of",
+   "ph": "",
+   "pos": "phr. 精選；一系列",
+   "zh": "精選品；一系列選擇",
+   "colloc": "a wide selection of 多樣選擇 | a careful selection of 精心挑選",
+   "distinct": "a collection of 收藏品 | a range of 一系列範圍",
+   "ex": [
+    [
+     "We offer a selection of wines for our guests to enjoy.",
+     "我們提供一系列精選紅酒供賓客享用。"
+    ],
+    [
+     "The catalog features a selection of new summer outfits.",
+     "目錄中刊載了一系列夏季新款服飾。"
+    ],
+    [
+     "There is a selection of snacks available in the lounge.",
+     "貴賓室提供一系列點心供選擇。"
+    ]
+   ]
+  },
+  {
+   "word": "a variety of",
+   "ph": "",
+   "pos": "phr. 各式各樣的",
+   "zh": "各樣；多種",
+   "colloc": "a variety of options 多種選擇 | a variety of tasks 各種任務",
+   "distinct": "a range of 範圍內的 | a series of 一系列的",
+   "ex": [
+    [
+     "The shop provides a variety of office supplies for us.",
+     "這家店為我們提供各式各樣的辦公用品。"
+    ],
+    [
+     "We encountered a variety of issues during the implementation.",
+     "我們在執行期間遇到了各式各樣的問題。"
+    ],
+    [
+     "The hotel offers a variety of services to its guests.",
+     "這家飯店為房客提供多樣化的服務。"
+    ]
+   ]
+  },
+  {
+   "word": "address the audience",
+   "ph": "",
+   "pos": "phr. 向聽眾演說",
+   "zh": "向聽眾致詞；發表演說",
+   "colloc": "address the public 向大眾演說 | keynote address 主題演講",
+   "distinct": "give a speech 發表演講 | speak to the audience 向觀眾說話",
+   "ex": [
+    [
+     "The CEO will address the audience at the annual conference.",
+     "執行長將在年會上向聽眾致詞。"
+    ],
+    [
+     "It is time to address the audience about our goals.",
+     "現在是時候向聽眾說明我們的目標了。"
+    ],
+    [
+     "The guest speaker stood up to address the audience.",
+     "客座講者站起來向聽眾發表演說。"
+    ]
+   ]
+  },
+  {
+   "word": "at no charge",
+   "ph": "",
+   "pos": "phr. 免費",
+   "zh": "免費；無費用",
+   "colloc": "provided at no charge 免費提供 | completely at no charge 完全免費",
+   "distinct": "free of charge 免費 | for free 免費",
+   "ex": [
+    [
+     "Replacement parts are provided at no charge under warranty.",
+     "保固期內的零件更換均為免費提供。"
+    ],
+    [
+     "We offer technical support at no charge for our clients.",
+     "我們為客戶提供免費的技術支援。"
+    ],
+    [
+     "The shuttle bus service is available at no charge.",
+     "接駁巴士服務為免費搭乘。"
+    ]
+   ]
+  },
+  {
+   "word": "at no cost",
+   "ph": "",
+   "pos": "phr. 免費；零成本",
+   "zh": "免費；無需成本",
+   "colloc": "at no extra cost 無額外費用 | at no cost to you 對您零支出",
+   "distinct": "at cost 按成本價 | low cost 低成本",
+   "ex": [
+    [
+     "You can upgrade your subscription at no cost this month.",
+     "本月您可以免費升級您的訂閱服務。"
+    ],
+    [
+     "The initial consultation is provided at no cost.",
+     "初步諮詢服務是免費提供的。"
+    ],
+    [
+     "Training will be conducted at no cost to the employees.",
+     "培訓課程將對員工免費實施。"
+    ]
+   ]
+  },
+  {
+   "word": "back order",
+   "ph": "",
+   "pos": "phr. 延期交貨訂單",
+   "zh": "延期交貨；缺貨待補",
+   "colloc": "place on back order 列入缺貨清單 | item on back order 缺貨中的品項",
+   "distinct": "out of stock 缺貨 | pending order 待處理訂單",
+   "ex": [
+    [
+     "That specific model is currently on back order.",
+     "該特定型號目前處於延期交貨狀態。"
+    ],
+    [
+     "We apologize that your item has been placed on back order.",
+     "我們很抱歉您的訂單目前缺貨待補。"
+    ],
+    [
+     "Many customers canceled orders due to back order delays.",
+     "許多客戶因延期交貨而取消訂單。"
+    ]
+   ]
+  },
+  {
+   "word": "be absent from",
+   "ph": "",
+   "pos": "phr. 缺席",
+   "zh": "缺席；不在",
+   "colloc": "be absent from work 缺勤 | be absent from the meeting 會議缺席",
+   "distinct": "leave from 離開 | present at 出席",
+   "ex": [
+    [
+     "He will be absent from the office for a week.",
+     "他將缺席辦公室一週。"
+    ],
+    [
+     "Please notify HR if you will be absent from the training.",
+     "若您將缺席培訓，請務必通知人資部。"
+    ],
+    [
+     "Several members were absent from the monthly planning meeting.",
+     "幾位成員缺席了月度規劃會議。"
+    ]
+   ]
+  },
+  {
+   "word": "be allowed to do",
+   "ph": "",
+   "pos": "phr. 被允許做某事",
+   "zh": "獲准；被允許",
+   "colloc": "be allowed to enter 被准許進入 | be allowed to use 被准許使用",
+   "distinct": "be permitted to do 被許可做 | be supposed to do 被期待做",
+   "ex": [
+    [
+     "Staff members are allowed to work from home on Fridays.",
+     "員工被允許在週五遠端辦公。"
+    ],
+    [
+     "You are not allowed to use personal phones during work.",
+     "工作期間您不被允許使用個人手機。"
+    ],
+    [
+     "Only authorized personnel are allowed to enter the laboratory.",
+     "只有授權人員才被允許進入實驗室。"
+    ]
+   ]
+  },
+  {
+   "word": "be in agreement",
+   "ph": "",
+   "pos": "phr. 同意；達成共識",
+   "zh": "一致；贊同",
+   "colloc": "be in full agreement 完全同意 | reach an agreement 達成協議",
+   "distinct": "agree with 同意某人 | agree on 同意某事",
+   "ex": [
+    [
+     "The board members are in agreement regarding the budget.",
+     "董事會成員對於預算達成了一致共識。"
+    ],
+    [
+     "We are all in agreement that the project should continue.",
+     "我們一致同意該專案應持續進行。"
+    ],
+    [
+     "Are we in agreement about the revised schedule?",
+     "我們對於修訂後的時程表達成共識了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "be influenced by appearance",
+   "ph": "",
+   "pos": "phr. 受外表影響",
+   "zh": "受外觀影響；以貌取人",
+   "colloc": "be heavily influenced 被嚴重影響 | appearance matters 外表很重要",
+   "distinct": "be affected by 受某事影響 | focus on appearance 專注於外觀",
+   "ex": [
+    [
+     "One should not be influenced by appearance during the interview.",
+     "面試時不應該受到外表的影響。"
+    ],
+    [
+     "The decision was clearly influenced by the product's appearance.",
+     "這項決策明顯受到了產品外觀的影響。"
+    ],
+    [
+     "Do not let yourself be influenced by appearance alone.",
+     "別讓自己僅僅被外表所影響。"
+    ]
+   ]
+  },
+  {
+   "word": "be lined with",
+   "ph": "",
+   "pos": "phr. 排滿；沿著排列",
+   "zh": "排列著；沿著佈滿",
+   "colloc": "be lined with trees 兩側種滿樹木 | be lined with shops 排滿商店",
+   "distinct": "lined up 排隊 | filled with 裝滿",
+   "ex": [
+    [
+     "The main street is lined with many luxury boutiques.",
+     "主要街道的兩側排滿了許多高級精品店。"
+    ],
+    [
+     "The office wall was lined with numerous awards and certificates.",
+     "辦公室的牆上排滿了各式獎項與證書。"
+    ],
+    [
+     "The path is lined with colorful flowers for the event.",
+     "為了活動，小徑兩側種滿了鮮豔的花朵。"
+    ]
+   ]
+  },
+  {
+   "word": "be mounted on",
+   "ph": "",
+   "pos": "phr. 安裝在…上",
+   "zh": "安裝；鑲嵌",
+   "colloc": "be mounted on the wall 安裝在牆上 | be mounted on a base 固定在底座",
+   "distinct": "be attached to 附著在 | be placed on 放在…上",
+   "ex": [
+    [
+     "The projector should be mounted on the ceiling firmly.",
+     "投影機應該穩固地安裝在天花板上。"
+    ],
+    [
+     "New cameras are mounted on every corner of the building.",
+     "大樓的每個角落都安裝了新的攝影機。"
+    ],
+    [
+     "The artwork is mounted on a piece of wooden board.",
+     "這件藝術品被鑲嵌在木板上。"
+    ]
+   ]
+  },
+  {
+   "word": "be qualified for",
+   "ph": "",
+   "pos": "phr. 有資格勝任",
+   "zh": "具備資格；勝任",
+   "colloc": "highly qualified 高度稱職 | qualified for the position 職位稱職",
+   "distinct": "be eligible for 有資格獲得 | be suitable for 適合",
+   "ex": [
+    [
+     "She is definitely qualified for the senior marketing position.",
+     "她絕對有資格勝任資深行銷職位。"
+    ],
+    [
+     "Not all applicants are qualified for this technical role.",
+     "並非所有申請者都具備這項技術職位的資格。"
+    ],
+    [
+     "The candidate proved to be qualified for the new challenge.",
+     "該候選人證明自己有能力勝任這項新挑戰。"
+    ]
+   ]
+  }
+ ]
+}

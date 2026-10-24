@@ -1,0 +1,448 @@
+{
+ "day": 21,
+ "theme": "教材字彙・基礎 550–650 第 21 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "relation",
+   "ph": "/rɪˈleɪʃn/",
+   "pos": "n. 關係；關聯",
+   "zh": "關係；關聯",
+   "colloc": "in relation to 與...有關 | public relations 公共關係",
+   "distinct": "relationship 人際關係 | connection 連結",
+   "ex": [
+    [
+     "The company values its relation with clients.",
+     "公司重視與客戶的關係。"
+    ],
+    [
+     "We discussed plans in relation to the merger.",
+     "我們討論了關於合併案的計畫。"
+    ],
+    [
+     "Good public relations are vital for growth.",
+     "良好的公關對成長至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "responsible",
+   "ph": "/rɪˈspɑːnsəbl/",
+   "pos": "adj. 負責任的；承擔責任的",
+   "zh": "負責任的；承擔責任的",
+   "ex": [
+    [
+     "Who is responsible for this department?",
+     "誰負責這個部門？"
+    ],
+    [
+     "The manager is responsible for the budget.",
+     "經理負責該項預算。"
+    ],
+    [
+     "You are responsible for completing the task.",
+     "你有責任完成這項任務。"
+    ]
+   ],
+   "colloc": "be responsible for 對...負責 | socially responsible 具社會責任的",
+   "distinct": "accountable 負有解釋責任的 | liable 有法律責任的"
+  },
+  {
+   "word": "safety",
+   "ph": "/ˈseɪfti/",
+   "pos": "n. 安全；安全性",
+   "zh": "安全；安全性",
+   "colloc": "safety regulations 安全規定 | workplace safety 工作場所安全",
+   "distinct": "security 保全；防衛 | protection 保護",
+   "ex": [
+    [
+     "We prioritize safety in our factory.",
+     "我們在工廠內將安全放在首位。"
+    ],
+    [
+     "All staff must follow safety protocols.",
+     "所有員工必須遵守安全規範。"
+    ],
+    [
+     "Regular inspections ensure the safety of equipment.",
+     "定期檢查確保了設備的安全。"
+    ]
+   ]
+  },
+  {
+   "word": "skilled",
+   "ph": "/skɪld/",
+   "pos": "adj. 熟練的；有技能的",
+   "zh": "熟練的；有技能的",
+   "colloc": "highly skilled 高度熟練的 | skilled worker 技術工人",
+   "distinct": "qualified 有資格的 | experienced 有經驗的",
+   "ex": [
+    [
+     "The firm hires only skilled professionals.",
+     "該公司只聘用熟練的專業人士。"
+    ],
+    [
+     "She is a highly skilled graphic designer.",
+     "她是一位技術高超的平面設計師。"
+    ],
+    [
+     "Finding skilled labor is a top priority.",
+     "尋找熟練勞動力是首要任務。"
+    ]
+   ]
+  },
+  {
+   "word": "vital",
+   "ph": "/ˈvaɪtl/",
+   "pos": "adj. 至關重要的；充滿活力的",
+   "zh": "至關重要的；不可或缺的",
+   "colloc": "vital role 至關重要的角色 | vital information 關鍵資訊",
+   "distinct": "crucial 決定性的 | essential 必要的",
+   "ex": [
+    [
+     "Marketing plays a vital role in sales.",
+     "行銷在銷售中扮演關鍵角色。"
+    ],
+    [
+     "Reliable data is vital for decision making.",
+     "可靠的數據對於決策至關重要。"
+    ],
+    [
+     "This meeting is vital to our success.",
+     "這場會議對於我們的成功極其重要。"
+    ]
+   ]
+  },
+  {
+   "word": "wave",
+   "ph": "/weɪv/",
+   "pos": "n. 波浪；揮手 | v. 揮動；波動",
+   "zh": "波浪；揮手；波動",
+   "colloc": "wave of enthusiasm 熱情高漲 | wave goodbye 揮手道別",
+   "distinct": "fluctuation 波動（數據） | vibration 震動",
+   "ex": [
+    [
+     "The new policy caused a wave of concern.",
+     "新政策引起了一陣憂慮。"
+    ],
+    [
+     "He waved to his colleagues at the exit.",
+     "他在出口處向同事揮手。"
+    ],
+    [
+     "Economic indicators show a wave of growth.",
+     "經濟指標顯示出一波成長。"
+    ]
+   ]
+  },
+  {
+   "word": "accept",
+   "ph": "/əkˈsept/",
+   "pos": "v. 接受；承認",
+   "zh": "接受；承認",
+   "colloc": "accept an offer 接受報價 | accept responsibility 承擔責任",
+   "distinct": "admit 承認（錯誤） | receive 收到",
+   "ex": [
+    [
+     "We are happy to accept your proposal.",
+     "我們很高興接受您的提案。"
+    ],
+    [
+     "They accepted the terms of the contract.",
+     "他們接受了合約條款。"
+    ],
+    [
+     "Does the store accept credit card payments?",
+     "這家店接受信用卡付款嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "advantage",
+   "ph": "/ədˈvæntɪdʒ/",
+   "pos": "n. 優勢；好處",
+   "zh": "優勢；好處",
+   "colloc": "competitive advantage 競爭優勢 | take advantage of 利用",
+   "distinct": "merit 優點 | benefit 利益",
+   "ex": [
+    [
+     "Our location gives us a competitive advantage.",
+     "我們的地理位置提供了競爭優勢。"
+    ],
+    [
+     "Consider all the advantages of this plan.",
+     "考慮這項計畫的所有好處。"
+    ],
+    [
+     "He took advantage of the free training.",
+     "他利用了免費的培訓機會。"
+    ]
+   ]
+  },
+  {
+   "word": "advise",
+   "ph": "/ədˈvaɪz/",
+   "pos": "v. 建議；通知",
+   "zh": "建議；通知",
+   "colloc": "advise against 勸阻 | be advised to 建議要...",
+   "distinct": "suggest 建議（非正式） | notify 通知",
+   "ex": [
+    [
+     "The consultant advised us to cut costs.",
+     "顧問建議我們削減成本。"
+    ],
+    [
+     "We advise all passengers to arrive early.",
+     "我們建議所有乘客提早抵達。"
+    ],
+    [
+     "You are advised to check the itinerary.",
+     "建議您確認行程。"
+    ]
+   ]
+  },
+  {
+   "word": "amount",
+   "ph": "/əˈmaʊnt/",
+   "pos": "n. 數量；總額 | v. 總計",
+   "zh": "數量；總額；總計",
+   "colloc": "a large amount of 大量的 | total amount 總計",
+   "distinct": "quantity 數量（可計算） | number 數字",
+   "ex": [
+    [
+     "A large amount of money was spent.",
+     "花費了大量的金錢。"
+    ],
+    [
+     "The total amount due is five hundred dollars.",
+     "應付總金額是五百美元。"
+    ],
+    [
+     "These costs amount to our entire budget.",
+     "這些費用總計為我們的全部預算。"
+    ]
+   ]
+  },
+  {
+   "word": "apologize",
+   "ph": "/əˈpɑːlədʒaɪz/",
+   "pos": "v. 道歉",
+   "zh": "道歉",
+   "colloc": "apologize for 為...道歉 | apologize to 向...道歉",
+   "distinct": "regret 後悔；遺憾 | excuse 原諒",
+   "ex": [
+    [
+     "I would like to apologize for the delay.",
+     "我想為延誤道歉。"
+    ],
+    [
+     "The manager apologized to the angry customer.",
+     "經理向憤怒的客戶道歉。"
+    ],
+    [
+     "We sincerely apologize for the inconvenience caused.",
+     "我們對造成的不便深表歉意。"
+    ]
+   ]
+  },
+  {
+   "word": "approximately",
+   "ph": "/əˈprɑːksɪmətli/",
+   "pos": "adv. 大約；近似地",
+   "zh": "大約；近似地",
+   "colloc": "approximately equal to 大約等於 | approximately ten percent 大約百分之十",
+   "distinct": "about 大約（口語） | roughly 大略地",
+   "ex": [
+    [
+     "The project will take approximately two weeks.",
+     "該專案將耗時大約兩週。"
+    ],
+    [
+     "Approximately fifty staff members attended the event.",
+     "大約有五十名員工參加了活動。"
+    ],
+    [
+     "Revenue increased by approximately twenty percent.",
+     "營收成長了大約百分之二十。"
+    ]
+   ]
+  },
+  {
+   "word": "attitude",
+   "ph": "/ˈætɪtuːd/",
+   "pos": "n. 態度；心態",
+   "zh": "態度；心態",
+   "colloc": "positive attitude 正面態度 | attitude toward 對...的態度",
+   "distinct": "opinion 看法 | mindset 思維模式",
+   "ex": [
+    [
+     "A positive attitude helps in team work.",
+     "積極的態度有助於團隊合作。"
+    ],
+    [
+     "His attitude toward the project has changed.",
+     "他對這個專案的態度改變了。"
+    ],
+    [
+     "We value employees with a professional attitude.",
+     "我們重視態度專業的員工。"
+    ]
+   ]
+  },
+  {
+   "word": "award",
+   "ph": "/əˈwɔːrd/",
+   "pos": "n. 獎項；獎金 | v. 授予；判給",
+   "zh": "獎項；獎金；授予",
+   "colloc": "win an award 贏得獎項 | award a contract 授予合約",
+   "distinct": "reward 報答；酬謝 | prize 獎品",
+   "ex": [
+    [
+     "She won an award for excellent performance.",
+     "她因卓越表現贏得了一個獎項。"
+    ],
+    [
+     "The company awarded him a bonus check.",
+     "公司授予他一張獎金支票。"
+    ],
+    [
+     "They were awarded the contract last month.",
+     "他們上個月獲得了該合約。"
+    ]
+   ]
+  },
+  {
+   "word": "ban",
+   "ph": "/bæn/",
+   "pos": "v. 禁止 | n. 禁令",
+   "zh": "禁止；禁令",
+   "colloc": "impose a ban 實施禁令 | smoking ban 禁菸令",
+   "distinct": "forbid 禁止（正式） | prohibit 法律禁止",
+   "ex": [
+    [
+     "The city decided to ban plastic bags.",
+     "市府決定禁止使用塑膠袋。"
+    ],
+    [
+     "There is a total ban on cell phones.",
+     "這裡全面禁止使用手機。"
+    ],
+    [
+     "The new regulation bans parking on streets.",
+     "新規定禁止在街上停車。"
+    ]
+   ]
+  },
+  {
+   "word": "capable",
+   "ph": "/ˈkeɪpəbl/",
+   "pos": "adj. 有能力的；能幹的",
+   "zh": "有能力的；能幹的",
+   "colloc": "capable of doing 能夠做某事 | highly capable 高度勝任的",
+   "distinct": "competent 勝任的 | able 有能力的",
+   "ex": [
+    [
+     "He is capable of handling complex tasks.",
+     "他有能力處理複雜的任務。"
+    ],
+    [
+     "She is a very capable project manager.",
+     "她是一位非常有能力的專案經理。"
+    ],
+    [
+     "The system is capable of high performance.",
+     "該系統具備高性能的能力。"
+    ]
+   ]
+  },
+  {
+   "word": "chance",
+   "ph": "/tʃæns/",
+   "pos": "n. 機會；可能性",
+   "zh": "機會；可能性",
+   "colloc": "take a chance 冒險 | have a chance to 有機會做...",
+   "distinct": "opportunity 機會（正式） | possibility 可能性",
+   "ex": [
+    [
+     "I had a chance to visit the branch.",
+     "我有機會去造訪分公司。"
+    ],
+    [
+     "There is a good chance for promotion here.",
+     "這裡有很好的升遷機會。"
+    ],
+    [
+     "Don't miss the chance to meet them.",
+     "別錯過與他們會面的機會。"
+    ]
+   ]
+  },
+  {
+   "word": "combine",
+   "ph": "/kəmˈbaɪn/",
+   "pos": "v. 結合；合併",
+   "zh": "結合；合併",
+   "colloc": "combine A with B 將 A 與 B 結合 | combine forces 聯手",
+   "distinct": "merge 合併（企業） | unite 團結",
+   "ex": [
+    [
+     "We should combine our resources for success.",
+     "我們應該結合資源以取得成功。"
+    ],
+    [
+     "The software combines speed with simplicity.",
+     "這套軟體結合了速度與簡潔。"
+    ],
+    [
+     "They combined two departments into one unit.",
+     "他們將兩個部門合併成一個單位。"
+    ]
+   ]
+  },
+  {
+   "word": "comfortable",
+   "ph": "/ˈkʌmftəbl/",
+   "pos": "adj. 舒適的；自在的",
+   "zh": "舒適的；自在的",
+   "colloc": "comfortable chair 舒適的椅子 | feel comfortable with 對...感到自在",
+   "distinct": "cozy 溫馨舒適的 | relaxing 放鬆的",
+   "ex": [
+    [
+     "The new office chairs are very comfortable.",
+     "新的辦公椅非常舒適。"
+    ],
+    [
+     "I feel comfortable with this new arrangement.",
+     "對於這個新安排我感到自在。"
+    ],
+    [
+     "Make yourself comfortable in the waiting area.",
+     "請在休息區自在地就座。"
+    ]
+   ]
+  },
+  {
+   "word": "commit",
+   "ph": "/kəˈmɪt/",
+   "pos": "v. 承諾；投入（時間或金錢）",
+   "zh": "承諾；投入",
+   "colloc": "commit to doing 承諾做某事 | commit resources 投入資源",
+   "distinct": "dedicate 致力於 | pledge 保證",
+   "ex": [
+    [
+     "We commit to providing the best service.",
+     "我們承諾提供最好的服務。"
+    ],
+    [
+     "They committed all resources to the project.",
+     "他們將所有資源投入到該專案。"
+    ],
+    [
+     "Both parties committed to a long-term goal.",
+     "雙方都承諾致力於長期目標。"
+    ]
+   ]
+  }
+ ]
+}

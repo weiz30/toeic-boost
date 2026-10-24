@@ -1,0 +1,448 @@
+{
+ "day": 54,
+ "theme": "教材字彙・中高階 750–850 第 54 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "elegantly",
+   "ph": "/ˈelɪɡəntli/",
+   "pos": "adv. 優雅地 | 簡潔地",
+   "zh": "優雅地；簡潔地",
+   "colloc": "dress elegantly 穿著優雅 | elegantly designed 設計簡潔",
+   "distinct": "gracefully 優美地（強調動作）| neatly 整潔地",
+   "ex": [
+    [
+     "The lobby is elegantly decorated with modern art.",
+     "大廳以現代藝術進行了優雅的裝飾。"
+    ],
+    [
+     "She handled the difficult client very elegantly.",
+     "她非常優雅地處理了那位棘手的客戶。"
+    ],
+    [
+     "This software solves the problem quite elegantly.",
+     "這套軟體以相當簡潔的方式解決了問題。"
+    ]
+   ]
+  },
+  {
+   "word": "engineering",
+   "ph": "/ˌendʒɪˈnɪərɪŋ/",
+   "pos": "n. 工程學 | 工程設計",
+   "zh": "工程學；工程設計",
+   "colloc": "civil engineering 土木工程 | engineering firm 工程公司",
+   "distinct": "engine 引擎 | engineer 工程師",
+   "ex": [
+    [
+     "Our engineering department is testing the new model.",
+     "我們的工程部門正在測試這款新機型。"
+    ],
+    [
+     "Structural engineering is vital for this skyscraper.",
+     "結構工程對這棟摩天大樓至關重要。"
+    ],
+    [
+     "The engineering design meets all safety requirements.",
+     "該工程設計符合所有安全規範。"
+    ]
+   ]
+  },
+  {
+   "word": "excluding",
+   "ph": "/ɪkˈskluːdɪŋ/",
+   "pos": "prep. 不包括 | 除...之外",
+   "zh": "不包括；除...之外",
+   "colloc": "excluding tax 不含稅 | excluding weekends 不含週末",
+   "distinct": "including 包括 | except 除了",
+   "ex": [
+    [
+     "The price is five hundred dollars, excluding tax.",
+     "價格是五百美元，不含稅。"
+    ],
+    [
+     "Total revenue excluding the new branch is stable.",
+     "排除新分店後的總營收很穩定。"
+    ],
+    [
+     "Participants are chosen excluding current board members.",
+     "參與者人選不包含現任董事會成員。"
+    ]
+   ]
+  },
+  {
+   "word": "excuse",
+   "ph": "/ɪkˈskjuːs/",
+   "pos": "n. 藉口 | v. 原諒",
+   "zh": "藉口；原諒",
+   "colloc": "make an excuse 找藉口 | poor excuse 爛藉口",
+   "distinct": "pretext 託詞（虛假理由）| apology 道歉",
+   "ex": [
+    [
+     "Please excuse the delay in our shipment.",
+     "請原諒我們出貨的延遲。"
+    ],
+    [
+     "He had no excuse for missing the meeting.",
+     "他沒有理由缺席會議。"
+    ],
+    [
+     "Management will not accept any more excuses.",
+     "管理層不會再接受任何藉口。"
+    ]
+   ]
+  },
+  {
+   "word": "factor",
+   "ph": "/ˈfæktər/",
+   "pos": "n. 因素 | 要素",
+   "zh": "因素；要素",
+   "colloc": "key factor 關鍵因素 | risk factor 風險因素",
+   "distinct": "element 要素（組成成分）| cause 原因",
+   "ex": [
+    [
+     "Cost is a major factor in our decision.",
+     "成本是我們決策的主要考量因素。"
+    ],
+    [
+     "Several factors contributed to the sales growth.",
+     "多項因素促成了銷售額的成長。"
+    ],
+    [
+     "We must factor in the potential market changes.",
+     "我們必須將潛在的市場變化納入考量。"
+    ]
+   ]
+  },
+  {
+   "word": "faintly",
+   "ph": "/ˈfeɪntli/",
+   "pos": "adv. 微弱地 | 模糊地",
+   "zh": "微弱地；模糊地",
+   "colloc": "faintly visible 隱約可見 | faintly smell 微弱氣味",
+   "distinct": "vaguely 模糊地（抽象）| dimly 昏暗地",
+   "ex": [
+    [
+     "The logo was faintly visible on the package.",
+     "包裝上的商標隱約可見。"
+    ],
+    [
+     "He smiled faintly when hearing the news.",
+     "聽到消息時他微微一笑。"
+    ],
+    [
+     "The office faintly smelled of fresh coffee.",
+     "辦公室裡隱約飄散著現煮咖啡味。"
+    ]
+   ]
+  },
+  {
+   "word": "flooring",
+   "ph": "/ˈflɔːrɪŋ/",
+   "pos": "n. 地板材料 | 鋪設地板",
+   "zh": "地板材料；鋪設地板",
+   "colloc": "wooden flooring 木質地板 | install flooring 鋪設地板",
+   "distinct": "floor 地板（物體表面）| ground 地面（室外）",
+   "ex": [
+    [
+     "We need to choose durable flooring for the lobby.",
+     "我們需要為大廳挑選耐用的地板材料。"
+    ],
+    [
+     "The new flooring was installed over the weekend.",
+     "新的地板已在週末鋪設完成。"
+    ],
+    [
+     "Quality flooring significantly improves the office environment.",
+     "優質的地板能顯著改善辦公環境。"
+    ]
+   ]
+  },
+  {
+   "word": "frighten",
+   "ph": "/ˈfraɪtn/",
+   "pos": "v. 使驚嚇 | 使害怕",
+   "zh": "使驚嚇；使害怕",
+   "colloc": "frighten away 嚇跑 | frighten someone into doing 脅迫某人做",
+   "distinct": "scare 使害怕 | terrify 使恐懼（程度深）",
+   "ex": [
+    [
+     "Don't let the sudden changes frighten you.",
+     "別讓這些突如其來的變動嚇到了。"
+    ],
+    [
+     "The sharp drop in profit frightened investors.",
+     "獲利的急劇下滑讓投資人感到恐慌。"
+    ],
+    [
+     "New regulations may frighten some small businesses.",
+     "新法規可能會讓一些小型企業感到擔憂。"
+    ]
+   ]
+  },
+  {
+   "word": "hammering",
+   "ph": "/ˈhæmərɪŋ/",
+   "pos": "n. 敲擊 | v. 敲擊（hammer 的現在分詞）",
+   "zh": "敲擊；持續打擊",
+   "colloc": "constant hammering 持續的敲擊聲 | hammering away 埋頭苦幹",
+   "distinct": "tapping 輕敲 | pounding 重擊",
+   "ex": [
+    [
+     "The hammering noise is disturbing the staff.",
+     "敲擊的噪音正在干擾員工。"
+    ],
+    [
+     "They are hammering out a new agreement today.",
+     "他們今天正在敲定一項新協議。"
+    ],
+    [
+     "Constant hammering continued until the project finished.",
+     "持續的敲擊聲一直持續到專案結束。"
+    ]
+   ]
+  },
+  {
+   "word": "handling",
+   "ph": "/ˈhændlɪŋ/",
+   "pos": "n. 處理 | 搬運 | 操作",
+   "zh": "處理；搬運；操作",
+   "colloc": "careful handling 小心搬運 | handling fee 手續費",
+   "distinct": "management 管理 | disposal 處置",
+   "ex": [
+    [
+     "Proper handling of chemicals is strictly required.",
+     "嚴格要求對化學品進行適當處理。"
+    ],
+    [
+     "The company charges a small handling fee.",
+     "公司會收取一筆小額手續費。"
+    ],
+    [
+     "His handling of the public relations crisis was impressive.",
+     "他對公關危機的處理令人印象深刻。"
+    ]
+   ]
+  },
+  {
+   "word": "harm",
+   "ph": "/hɑːrm/",
+   "pos": "n. 傷害 | 損害 | v. 損害",
+   "zh": "傷害；損害",
+   "colloc": "cause harm 造成傷害 | do more harm than good 得不償失",
+   "distinct": "damage 損壞（物體）| injury 傷害（人體）",
+   "ex": [
+    [
+     "Overworking can do more harm than good.",
+     "工作過度往往得不償失。"
+    ],
+    [
+     "The new policy will not harm our business.",
+     "這項新政策不會損害我們的業務。"
+    ],
+    [
+     "There is no harm in asking for help.",
+     "尋求協助並沒有什麼壞處。"
+    ]
+   ]
+  },
+  {
+   "word": "highlight",
+   "ph": "/ˈhaɪlaɪt/",
+   "pos": "v. 強調 | 凸顯 | n. 最精彩的部分",
+   "zh": "強調；凸顯；精彩片段",
+   "colloc": "highlight the importance 強調重要性 | career highlight 職業生涯亮點",
+   "distinct": "emphasize 強調（觀點）| underline 畫底線",
+   "ex": [
+    [
+     "The report highlights a decrease in expenses.",
+     "該報告凸顯了支出的減少。"
+    ],
+    [
+     "Please highlight the key points in the presentation.",
+     "請在簡報中標註重點。"
+    ],
+    [
+     "The merger was a highlight of the year.",
+     "這次合併是年度的重要大事。"
+    ]
+   ]
+  },
+  {
+   "word": "ignore",
+   "ph": "/ɪɡˈnɔːr/",
+   "pos": "v. 忽視 | 不理會",
+   "zh": "忽視；不理會",
+   "colloc": "ignore the warning 忽視警告 | ignore the advice 不理建議",
+   "distinct": "neglect 疏忽（該做而未做）| overlook 漏看",
+   "ex": [
+    [
+     "We cannot ignore these customer complaints.",
+     "我們不能忽視這些客戶投訴。"
+    ],
+    [
+     "He chose to ignore the email from the boss.",
+     "他選擇不理會老闆的電子郵件。"
+    ],
+    [
+     "Ignoring market trends will lead to failure.",
+     "忽視市場趨勢將導致失敗。"
+    ]
+   ]
+  },
+  {
+   "word": "illegal",
+   "ph": "/ɪˈliːɡl/",
+   "pos": "adj. 非法的 | 違法的",
+   "zh": "非法的；違法的",
+   "colloc": "illegal act 非法行為 | illegal entry 非法進入",
+   "distinct": "unlawful 不合法的 | criminal 犯罪的",
+   "ex": [
+    [
+     "Using pirated software is illegal in this country.",
+     "在這個國家使用盜版軟體是違法的。"
+    ],
+    [
+     "The contract was found to contain illegal clauses.",
+     "合約被發現包含非法條款。"
+    ],
+    [
+     "It is illegal to dump waste in this area.",
+     "在此區傾倒廢棄物是違法行為。"
+    ]
+   ]
+  },
+  {
+   "word": "impossible",
+   "ph": "/ɪmˈpɒsəbl/",
+   "pos": "adj. 不可能的 | 難以忍受的",
+   "zh": "不可能的；難以忍受的",
+   "colloc": "mission impossible 不可能的任務 | virtually impossible 幾乎不可能",
+   "distinct": "improbable 不大可能的 | unattainable 無法達成的",
+   "ex": [
+    [
+     "It is impossible to finish the project by tomorrow.",
+     "明天之前完成這個專案是不可能的。"
+    ],
+    [
+     "Maintaining this schedule seems impossible right now.",
+     "目前要維持這個行程表似乎不可能。"
+    ],
+    [
+     "The high standards make the job almost impossible.",
+     "高標準讓這份工作變得幾乎無法執行。"
+    ]
+   ]
+  },
+  {
+   "word": "impress",
+   "ph": "/ɪmˈpres/",
+   "pos": "v. 給...留下深刻印象",
+   "zh": "留下深刻印象",
+   "colloc": "impress someone with something 以某事讓某人印象深刻 | deeply impressed 深受感動",
+   "distinct": "express 表達 | suppress 壓抑",
+   "ex": [
+    [
+     "Her dedication really impressed the board members.",
+     "她的敬業精神真的讓董事會成員印象深刻。"
+    ],
+    [
+     "The candidate aimed to impress the hiring manager.",
+     "那位應徵者試圖給招募經理留下好印象。"
+    ],
+    [
+     "I am impressed by your progress this month.",
+     "我對你這個月的進步感到印象深刻。"
+    ]
+   ]
+  },
+  {
+   "word": "including",
+   "ph": "/ɪnˈkluːdɪŋ/",
+   "pos": "prep. 包括",
+   "zh": "包括",
+   "colloc": "including VAT 含增值稅 | including meals 包含餐點",
+   "distinct": "containing 包含（內容物）| comprising 由...組成",
+   "ex": [
+    [
+     "The price is ten dollars, including shipping costs.",
+     "價格是十美元，包含運費。"
+    ],
+    [
+     "Five staff members, including the manager, attended.",
+     "包括經理在內的五名員工出席了。"
+    ],
+    [
+     "Our services, including maintenance, are fully guaranteed.",
+     "我們的服務包含維修在內都有完整保固。"
+    ]
+   ]
+  },
+  {
+   "word": "inevitable",
+   "ph": "/ɪnˈevɪtəbl/",
+   "pos": "adj. 不可避免的 | 必然發生的",
+   "zh": "不可避免的；必然的",
+   "colloc": "inevitable result 必然結果 | face the inevitable 面對現實",
+   "distinct": "unavoidable 不可避開的 | certain 確定的",
+   "ex": [
+    [
+     "Market fluctuations are an inevitable part of business.",
+     "市場波動是商業中不可避免的一部分。"
+    ],
+    [
+     "The delay was inevitable due to bad weather.",
+     "由於天氣惡劣，延遲是不可避免的。"
+    ],
+    [
+     "We must prepare for the inevitable changes ahead.",
+     "我們必須為即將到來的必然變化做準備。"
+    ]
+   ]
+  },
+  {
+   "word": "institution",
+   "ph": "/ˌɪnstɪˈtjuːʃn/",
+   "pos": "n. 機構 | 制度 | 習俗",
+   "zh": "機構；制度；習俗",
+   "colloc": "financial institution 金融機構 | academic institution 學術機構",
+   "distinct": "organization 組織 | establishment 建立；機構",
+   "ex": [
+    [
+     "The bank is a major financial institution here.",
+     "這家銀行是當地主要的金融機構。"
+    ],
+    [
+     "He works for a leading research institution.",
+     "他在一家頂尖的研究機構工作。"
+    ],
+    [
+     "The institution has been serving the community for decades.",
+     "該機構已為社區服務數十年。"
+    ]
+   ]
+  },
+  {
+   "word": "interpretation",
+   "ph": "/ɪnˌtɜːrprəˈteɪʃn/",
+   "pos": "n. 解釋 | 口譯 | 理解",
+   "zh": "解釋；口譯；理解",
+   "colloc": "different interpretation 不同解讀 | simultaneous interpretation 同步口譯",
+   "distinct": "explanation 解說 | translation 筆譯",
+   "ex": [
+    [
+     "We disagree on the interpretation of the contract.",
+     "我們對該合約的解釋有分歧。"
+    ],
+    [
+     "The conference will provide simultaneous interpretation services.",
+     "研討會將提供同步口譯服務。"
+    ],
+    [
+     "His interpretation of the data was highly accurate.",
+     "他對數據的解讀非常精確。"
+    ]
+   ]
+  }
+ ]
+}

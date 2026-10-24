@@ -1,0 +1,448 @@
+{
+ "day": 42,
+ "theme": "教材字彙・進階 650–750 第 42 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "solve",
+   "ph": "/sɒlv/",
+   "pos": "v. 解決；解答",
+   "zh": "解決；解答",
+   "colloc": "solve a problem 解決問題 | solve a mystery 解開謎團",
+   "distinct": "resolve 決心；解決困難問題 | settle 解決爭議",
+   "ex": [
+    [
+     "We need to solve this technical issue immediately.",
+     "我們必須立即解決這個技術問題。"
+    ],
+    [
+     "The manager proposed a way to solve the conflict.",
+     "經理提出了解決衝突的方法。"
+    ],
+    [
+     "Can you help me solve this complex billing error?",
+     "你能幫我解決這個複雜的帳單錯誤嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "somewhat",
+   "ph": "/ˈsʌm.wɒt/",
+   "pos": "adv. 有點；稍微",
+   "zh": "有點；稍微",
+   "colloc": "somewhat disappointed 有點失望 | somewhat surprised 有點驚訝",
+   "distinct": "somehow 以某種方式 | somewhat 程度副詞",
+   "ex": [
+    [
+     "The quarterly report is somewhat confusing to read.",
+     "這份季度報告讀起來有點令人困惑。"
+    ],
+    [
+     "Our sales figures are somewhat lower than expected.",
+     "我們的銷售數據比預期稍微低了一些。"
+    ],
+    [
+     "Management seems somewhat hesitant to approve the budget.",
+     "管理層似乎對批准預算有點猶豫。"
+    ]
+   ]
+  },
+  {
+   "word": "speech",
+   "ph": "/spiːtʃ/",
+   "pos": "n. 演講；言詞",
+   "zh": "演講；發言",
+   "colloc": "give a speech 發表演講 | opening speech 開幕演講",
+   "distinct": "lecture 學術講座 | talk 非正式談話",
+   "ex": [
+    [
+     "The CEO gave an inspiring speech at the conference.",
+     "執行長在會議上發表了鼓舞人心的演講。"
+    ],
+    [
+     "Her opening speech set the tone for the event.",
+     "她的開幕致詞為活動定下了基調。"
+    ],
+    [
+     "Please prepare a short speech for the award ceremony.",
+     "請為頒獎典禮準備一段簡短的致詞。"
+    ]
+   ]
+  },
+  {
+   "word": "spell",
+   "ph": "/spel/",
+   "pos": "v. 拼字；意味著 | n. 一段時間",
+   "zh": "拼字；意味著",
+   "colloc": "spell out 詳述；清楚說明 | spell check 拼字檢查",
+   "distinct": "spill 灑出 | swell 腫脹",
+   "ex": [
+    [
+     "Could you please spell your last name for me?",
+     "可以請您為我拼寫一下您的姓氏嗎？"
+    ],
+    [
+     "Strict regulations often spell disaster for small businesses.",
+     "嚴格的法規通常意味著小型企業的災難。"
+    ],
+    [
+     "The new policy spells trouble for our current workflow.",
+     "新政策對我們目前的工作流程意味著麻煩。"
+    ]
+   ]
+  },
+  {
+   "word": "strict",
+   "ph": "/strɪkt/",
+   "pos": "adj. 嚴格的；嚴謹的",
+   "zh": "嚴格的；嚴謹的",
+   "colloc": "strict rule 嚴格規定 | strict budget 嚴格的預算",
+   "distinct": "severe 嚴重的；苛刻的 | harsh 刺耳的；嚴厲的",
+   "ex": [
+    [
+     "The company enforces strict safety rules at the factory.",
+     "公司在工廠執行嚴格的安全規定。"
+    ],
+    [
+     "We are under strict instructions to keep this confidential.",
+     "我們接到嚴格指示要對此事保密。"
+    ],
+    [
+     "Management maintains a strict policy against workplace harassment.",
+     "管理層維持禁止職場騷擾的嚴格政策。"
+    ]
+   ]
+  },
+  {
+   "word": "surface",
+   "ph": "/ˈsɜː.fɪs/",
+   "pos": "n. 表面；外表 | v. 浮現",
+   "zh": "表面；外表；浮現",
+   "colloc": "on the surface 從表面看 | smooth surface 光滑表面",
+   "distinct": "appearance 外貌 | layer 層次",
+   "ex": [
+    [
+     "New information surfaced during the final audit process.",
+     "在最後審計過程中浮現了新的資訊。"
+    ],
+    [
+     "Clean the desk surface before placing the equipment down.",
+     "放置設備前請先清潔桌面表面。"
+    ],
+    [
+     "These issues only surfaced after the project launch.",
+     "這些問題直到專案啟動後才浮現出來。"
+    ]
+   ]
+  },
+  {
+   "word": "switch",
+   "ph": "/swɪtʃ/",
+   "pos": "n. 開關；轉換 | v. 轉換；交換",
+   "zh": "開關；轉換；交換",
+   "colloc": "switch sides 轉換立場 | switch to a new plan 換成新方案",
+   "distinct": "shift 移動；變動 | change 改變",
+   "ex": [
+    [
+     "We decided to switch to a more reliable supplier.",
+     "我們決定轉換到更可靠的供應商。"
+    ],
+    [
+     "Please flip the switch to turn on the machine.",
+     "請按開關以啟動機器。"
+    ],
+    [
+     "He wants to switch his shift with a colleague.",
+     "他想要跟同事交換輪班時段。"
+    ]
+   ]
+  },
+  {
+   "word": "task",
+   "ph": "/tɑːsk/",
+   "pos": "n. 任務；工作 | v. 指派任務",
+   "zh": "任務；工作",
+   "colloc": "complete a task 完成任務 | assigned task 被指派的任務",
+   "distinct": "duty 職責；義務 | chore 雜務",
+   "ex": [
+    [
+     "I have several urgent tasks to finish by today.",
+     "我有幾項緊急任務要在今天完成。"
+    ],
+    [
+     "The assistant was tasked with organizing the files.",
+     "助理被指派負責整理檔案。"
+    ],
+    [
+     "Each team member is responsible for their own task.",
+     "每位團隊成員都對自己的任務負責。"
+    ]
+   ]
+  },
+  {
+   "word": "taste",
+   "ph": "/teɪst/",
+   "pos": "n. 味道；品味 | v. 品嚐；嚐起來",
+   "zh": "味道；品味；品嚐",
+   "colloc": "good taste 有品味 | taste test 試吃",
+   "distinct": "flavor 風味 | sense of taste 味覺",
+   "ex": [
+    [
+     "The product design reflects the company's refined taste.",
+     "產品設計反映了公司高雅的品味。"
+    ],
+    [
+     "Clients were invited to taste the new menu items.",
+     "客戶受邀品嚐新菜單上的餐點。"
+    ],
+    [
+     "This coffee has a unique and pleasant bitter taste.",
+     "這咖啡有一種獨特且宜人的苦味。"
+    ]
+   ]
+  },
+  {
+   "word": "tight",
+   "ph": "/taɪt/",
+   "pos": "adj. 緊的；拮据的 | adv. 緊緊地",
+   "zh": "緊的；拮据的",
+   "colloc": "tight budget 預算吃緊 | tight schedule 時間緊湊",
+   "distinct": "tense 緊張的 | firm 堅固的",
+   "ex": [
+    [
+     "We are working on a very tight schedule this month.",
+     "我們這個月的工作時間非常緊湊。"
+    ],
+    [
+     "The company is operating on a tight budget recently.",
+     "公司最近的預算運作非常吃緊。"
+    ],
+    [
+     "Ensure the bolts are screwed in nice and tight.",
+     "確保螺栓被旋得又緊又好。"
+    ]
+   ]
+  },
+  {
+   "word": "tool",
+   "ph": "/tuːl/",
+   "pos": "n. 工具；手段",
+   "zh": "工具；手段",
+   "colloc": "marketing tool 行銷工具 | powerful tool 強大的工具",
+   "distinct": "instrument 儀器；樂器 | device 裝置",
+   "ex": [
+    [
+     "Data analysis is a vital tool for business growth.",
+     "數據分析是企業成長的重要工具。"
+    ],
+    [
+     "They used specialized tools to repair the mainframe.",
+     "他們使用專業工具來維修主機。"
+    ],
+    [
+     "Software tools can significantly improve your daily productivity.",
+     "軟體工具能顯著提升你的日常生產力。"
+    ]
+   ]
+  },
+  {
+   "word": "trading",
+   "ph": "/ˈtreɪ.dɪŋ/",
+   "pos": "n. 貿易；交易",
+   "zh": "貿易；交易",
+   "colloc": "trading company 貿易公司 | international trading 國際貿易",
+   "distinct": "commerce 商業；通商 | business 生意",
+   "ex": [
+    [
+     "The trading company specializes in importing raw materials.",
+     "這家貿易公司專門進口原物料。"
+    ],
+    [
+     "Global trading volume has increased significantly this quarter.",
+     "本季全球貿易量顯著增加。"
+    ],
+    [
+     "He works in the stock trading department downtown.",
+     "他在市中心的股票交易部門工作。"
+    ]
+   ]
+  },
+  {
+   "word": "truly",
+   "ph": "/ˈtruː.li/",
+   "pos": "adv. 真實地；真正地",
+   "zh": "真實地；真正地",
+   "colloc": "truly grateful 非常感謝 | truly impressive 真正令人印象深刻",
+   "distinct": "really 真的 | honestly 誠實地",
+   "ex": [
+    [
+     "We are truly sorry for the inconvenience caused today.",
+     "我們對今天造成的不便深感抱歉。"
+    ],
+    [
+     "It was a truly productive meeting for everyone involved.",
+     "對所有參與者來說，這是一場真正有成效的會議。"
+    ],
+    [
+     "She is truly dedicated to her professional development.",
+     "她真正致力於自己的專業發展。"
+    ]
+   ]
+  },
+  {
+   "word": "underground",
+   "ph": "/ˌʌn.dəˈɡraʊnd/",
+   "pos": "adj. 地下的 | n. 地鐵 | adv. 在地下",
+   "zh": "地下的；地鐵",
+   "colloc": "underground parking 地下停車場 | take the underground 搭乘地鐵",
+   "distinct": "subway 地鐵（美） | metro 地鐵（歐）",
+   "ex": [
+    [
+     "The office building has three floors of underground parking.",
+     "這棟辦公大樓有三層地下停車場。"
+    ],
+    [
+     "Most of the utility lines are buried underground.",
+     "大部分的公用管線都埋在地下。"
+    ],
+    [
+     "We took the underground to reach the city center.",
+     "我們搭乘地鐵前往市中心。"
+    ]
+   ]
+  },
+  {
+   "word": "unlike",
+   "ph": "/ˌʌnˈlaɪk/",
+   "pos": "prep. 不像；和...不同 | adj. 不同的",
+   "zh": "不像；和...不同",
+   "colloc": "unlike previous years 不像往年 | unlike others 不像其他人",
+   "distinct": "dislike 不喜歡 | likely 可能的",
+   "ex": [
+    [
+     "Unlike his predecessor, the new manager prefers emails.",
+     "不像前任，這位新經理比較喜歡電子郵件。"
+    ],
+    [
+     "The product is unlike anything currently on the market.",
+     "這個產品與目前市面上的任何東西都不同。"
+    ],
+    [
+     "Unlike last quarter, our sales exceeded all targets.",
+     "不像上一季，我們這次的銷售超過了所有目標。"
+    ]
+   ]
+  },
+  {
+   "word": "usual",
+   "ph": "/ˈjuː.ʒu.əl/",
+   "pos": "adj. 通常的；慣常的",
+   "zh": "通常的；慣常的",
+   "colloc": "as usual 如往常一樣 | business as usual 照常營業",
+   "distinct": "regular 定期的；規律的 | common 常見的",
+   "ex": [
+    [
+     "The meeting finished later than the usual time.",
+     "會議比平常的時間更晚結束。"
+    ],
+    [
+     "She arrived at the office at the usual hour.",
+     "她於平常的時間抵達辦公室。"
+    ],
+    [
+     "Despite the crisis, it was business as usual today.",
+     "儘管有危機，今天依然照常營業。"
+    ]
+   ]
+  },
+  {
+   "word": "visit",
+   "ph": "/ˈvɪz.ɪt/",
+   "pos": "v. 拜訪；參觀 | n. 訪問；參觀",
+   "zh": "拜訪；參觀",
+   "colloc": "business visit 商務拜訪 | official visit 正式訪問",
+   "distinct": "tour 巡迴參觀 | attend 出席",
+   "ex": [
+    [
+     "The client will visit our factory next Tuesday.",
+     "客戶下週二將會參觀我們的工廠。"
+    ],
+    [
+     "We are planning a visit to the regional office.",
+     "我們正計畫前往區域辦公室拜訪。"
+    ],
+    [
+     "Thank you for taking the time to visit us.",
+     "感謝您撥冗前來拜訪我們。"
+    ]
+   ]
+  },
+  {
+   "word": "weekly",
+   "ph": "/ˈwiːk.li/",
+   "pos": "adj. 每週的 | adv. 每週地 | n. 週刊",
+   "zh": "每週的；每週地",
+   "colloc": "weekly meeting 每週會議 | weekly report 週報",
+   "distinct": "monthly 每月的 | daily 每日的",
+   "ex": [
+    [
+     "We hold a weekly meeting to discuss project updates.",
+     "我們每週召開會議討論專案進度。"
+    ],
+    [
+     "Please submit your weekly report by Friday afternoon.",
+     "請在週五下午前提交您的週報。"
+    ],
+    [
+     "The team receives a weekly update from the director.",
+     "團隊每週都會收到主任的最新消息。"
+    ]
+   ]
+  },
+  {
+   "word": "airport",
+   "ph": "/ˈeə.pɔːt/",
+   "pos": "n. 機場",
+   "zh": "機場",
+   "colloc": "international airport 國際機場 | airport shuttle 機場接駁車",
+   "distinct": "airfield 飛機場 | terminal 航廈",
+   "ex": [
+    [
+     "The taxi dropped me off at the airport entrance.",
+     "計程車在機場入口處讓我下車。"
+    ],
+    [
+     "We need to leave early to arrive at the airport.",
+     "我們需要早點出發才能抵達機場。"
+    ],
+    [
+     "The airport security check was very efficient today.",
+     "今天機場的安全檢查非常有效率。"
+    ]
+   ]
+  },
+  {
+   "word": "basis",
+   "ph": "/ˈbeɪ.sɪs/",
+   "pos": "n. 基礎；根據",
+   "zh": "基礎；根據",
+   "colloc": "on a daily basis 每天 | on a regular basis 定期地",
+   "distinct": "foundation 地基；基礎 | principle 原則",
+   "ex": [
+    [
+     "We communicate with the client on a daily basis.",
+     "我們與客戶保持每日溝通。"
+    ],
+    [
+     "These figures serve as the basis for our proposal.",
+     "這些數據是我們提案的基礎。"
+    ],
+    [
+     "The agreement provides a solid basis for our partnership.",
+     "該協議為我們的合作提供了堅實的基礎。"
+    ]
+   ]
+  }
+ ]
+}

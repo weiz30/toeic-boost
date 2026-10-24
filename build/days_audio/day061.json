@@ -1,0 +1,448 @@
+{
+ "day": 61,
+ "theme": "教材字彙・中高階 750–850 第 61 群",
+ "level": "中高階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "pair",
+   "ph": "/pɛr/",
+   "pos": "n. 一雙；一對 | v. 配對",
+   "zh": "一雙；一對；配對",
+   "colloc": "a pair of 一雙 | match and pair 配對組合",
+   "distinct": "couple 兩個人或事 | twins 雙胞胎",
+   "ex": [
+    [
+     "Please pair the socks before folding them.",
+     "摺疊襪子前請先將它們配對。"
+    ],
+    [
+     "We bought a pair of high-quality leather shoes.",
+     "我們買了一雙高品質的皮鞋。"
+    ],
+    [
+     "The company will pair each intern with a mentor.",
+     "公司將為每位實習生安排一位導師。"
+    ]
+   ]
+  },
+  {
+   "word": "pour",
+   "ph": "/pɔːr/",
+   "pos": "v. 倒；灌；傾注",
+   "zh": "倒；斟；大量湧入",
+   "colloc": "pour coffee 倒咖啡 | pour money into 投入大量資金",
+   "distinct": "spill 潑灑；溢出 | splash 濺起",
+   "ex": [
+    [
+     "Could you pour some water into my glass?",
+     "可以幫我往杯子裡倒點水嗎？"
+    ],
+    [
+     "Investors continue to pour capital into the startup.",
+     "投資者持續將資金投入這家新創公司。"
+    ],
+    [
+     "Heavy rain began to pour during the outdoor event.",
+     "戶外活動期間下起了傾盆大雨。"
+    ]
+   ]
+  },
+  {
+   "word": "accuse",
+   "ph": "/əˈkjuːz/",
+   "pos": "v. 指控；譴責",
+   "zh": "指控；譴責",
+   "colloc": "accuse someone of sth. 指控某人某事 | falsely accuse 錯誤指控",
+   "distinct": "blame 責怪 | charge 控告（法律用語）",
+   "ex": [
+    [
+     "The manager was accused of ignoring safety regulations.",
+     "該經理被指控忽視安全規定。"
+    ],
+    [
+     "They accused him of stealing sensitive company data.",
+     "他們指控他竊取公司機密數據。"
+    ],
+    [
+     "Do not accuse anyone without having solid evidence.",
+     "在沒有確鑿證據前，不要指控任何人。"
+    ]
+   ]
+  },
+  {
+   "word": "angle",
+   "ph": "/ˈæŋɡl/",
+   "pos": "n. 角度；觀點 | v. 調整角度",
+   "zh": "角度；觀點",
+   "colloc": "from a different angle 從不同角度 | camera angle 攝影角度",
+   "distinct": "aspect 方面 | viewpoint 觀點",
+   "ex": [
+    [
+     "We need to look at this problem from a new angle.",
+     "我們需要從新的角度看待這個問題。"
+    ],
+    [
+     "The camera angle shows the product features clearly.",
+     "攝影角度清晰地呈現了產品特色。"
+    ],
+    [
+     "Marketing strategies should angle toward younger consumers.",
+     "行銷策略應針對年輕消費者調整方向。"
+    ]
+   ]
+  },
+  {
+   "word": "behind",
+   "ph": "/bɪˈhaɪnd/",
+   "pos": "prep. 在…後面 | adv. 落後；在後",
+   "zh": "在…後面；落後",
+   "colloc": "behind schedule 進度落後 | behind the scenes 在幕後",
+   "distinct": "after 在之後（時間） | back 後方",
+   "ex": [
+    [
+     "The construction project is running behind schedule.",
+     "這項建築工程的進度目前落後。"
+    ],
+    [
+     "She works behind the scenes to support the team.",
+     "她在幕後工作以支援團隊。"
+    ],
+    [
+     "There is a clear strategy behind this decision.",
+     "這項決策背後有著明確的策略。"
+    ]
+   ]
+  },
+  {
+   "word": "bound",
+   "ph": "/baʊnd/",
+   "pos": "adj. 肯定會的；受束縛的 | v. 跳躍",
+   "zh": "肯定會；受束縛",
+   "colloc": "bound to happen 必然發生 | be bound by rules 受規則束縛",
+   "distinct": "limit 界限 | tie 綑綁",
+   "ex": [
+    [
+     "Success is bound to follow such hard work.",
+     "如此努力工作肯定會帶來成功。"
+    ],
+    [
+     "The contract is bound by international trade laws.",
+     "該合約受國際貿易法規約束。"
+    ],
+    [
+     "We are bound for Tokyo for the annual conference.",
+     "我們準備前往東京參加年度會議。"
+    ]
+   ]
+  },
+  {
+   "word": "confine",
+   "ph": "/kənˈfaɪn/",
+   "pos": "v. 限制；局限",
+   "zh": "限制；局限",
+   "colloc": "confine to 限制在 | confine within 侷限於",
+   "distinct": "limit 額度限制 | restrict 約束",
+   "ex": [
+    [
+     "Please confine your report to the main topic.",
+     "請將報告內容限制在主體議題上。"
+    ],
+    [
+     "The discussion was confined to budget cuts only.",
+     "討論僅限於預算削減的部分。"
+    ],
+    [
+     "Bad weather confined the staff to the office.",
+     "惡劣天氣使員工被迫留在辦公室內。"
+    ]
+   ]
+  },
+  {
+   "word": "correctly",
+   "ph": "/kəˈrektli/",
+   "pos": "adv. 正確地",
+   "zh": "正確地",
+   "colloc": "operate correctly 正確操作 | identify correctly 正確識別",
+   "distinct": "accurately 精確地 | properly 適當地",
+   "ex": [
+    [
+     "Ensure the machine is installed correctly before use.",
+     "使用前請確保機器安裝正確。"
+    ],
+    [
+     "He correctly identified the cause of the system error.",
+     "他正確地指出了系統錯誤的原因。"
+    ],
+    [
+     "Data must be entered correctly to ensure accuracy.",
+     "數據必須正確輸入以確保準確性。"
+    ]
+   ]
+  },
+  {
+   "word": "count",
+   "ph": "/kaʊnt/",
+   "pos": "v. 計算；視為 | n. 總數",
+   "zh": "計算；視為；總數",
+   "colloc": "count on 依靠 | count as 算作",
+   "distinct": "calculate 計算 | estimate 估計",
+   "ex": [
+    [
+     "We need to count the inventory before we close.",
+     "打烊前我們需要清點庫存。"
+    ],
+    [
+     "You can count on him for professional assistance.",
+     "你可以信賴他以獲得專業協助。"
+    ],
+    [
+     "Every suggestion counts toward improving our workflow.",
+     "每一項建議對於改善工作流程都很重要。"
+    ]
+   ]
+  },
+  {
+   "word": "countryside",
+   "ph": "/ˈkʌntrisaɪd/",
+   "pos": "n. 鄉間；農村地區",
+   "zh": "鄉間；農村地區",
+   "colloc": "beautiful countryside 美麗的鄉村 | live in the countryside 住鄉下",
+   "distinct": "village 村莊 | rural area 農村地區",
+   "ex": [
+    [
+     "Our company retreat will be held in the countryside.",
+     "公司員工旅遊將在鄉間舉行。"
+    ],
+    [
+     "They prefer the peaceful life in the countryside.",
+     "他們偏好鄉間寧靜的生活。"
+    ],
+    [
+     "Many tourists visit the countryside for fresh air.",
+     "許多遊客為了新鮮空氣而造訪鄉間。"
+    ]
+   ]
+  },
+  {
+   "word": "debt",
+   "ph": "/det/",
+   "pos": "n. 債務；欠款",
+   "zh": "債務；欠款",
+   "colloc": "pay off debt 償還債務 | in debt 負債",
+   "distinct": "loan 貸款 | deficit 赤字",
+   "ex": [
+    [
+     "The company is struggling to pay off its debt.",
+     "這家公司正努力償還債務。"
+    ],
+    [
+     "He managed to clear all his personal debt.",
+     "他成功清償了所有個人債務。"
+    ],
+    [
+     "High interest rates increased the total debt burden.",
+     "高利率增加了整體債務負擔。"
+    ]
+   ]
+  },
+  {
+   "word": "equivalent",
+   "ph": "/ɪˈkwɪvələnt/",
+   "pos": "adj. 相等的；對等的 | n. 對應物",
+   "zh": "相等的；對等的",
+   "colloc": "be equivalent to 相等於 | cash equivalent 現金等價物",
+   "distinct": "equal 平等的；相等的 | identical 一模一樣的",
+   "ex": [
+    [
+     "This certification is equivalent to a master's degree.",
+     "這張證書相當於碩士學位。"
+    ],
+    [
+     "We need an equivalent level of professional experience.",
+     "我們需要具備同等專業經驗的人選。"
+    ],
+    [
+     "The product price is equivalent to the market average.",
+     "該產品價格相當於市場平均值。"
+    ]
+   ]
+  },
+  {
+   "word": "express",
+   "ph": "/ɪkˈspres/",
+   "pos": "v. 表達 | adj. 明確的；快遞的",
+   "zh": "表達；明確的；快遞",
+   "colloc": "express opinion 表達意見 | express delivery 快遞服務",
+   "distinct": "state 陳述 | articulate 清楚表達",
+   "ex": [
+    [
+     "Please express your feedback regarding the new policy.",
+     "請表達您對於新政策的意見回饋。"
+    ],
+    [
+     "The board expressed concern about the declining profit.",
+     "董事會對於利潤下降表示擔憂。"
+    ],
+    [
+     "I will send the documents by express mail today.",
+     "我今天會透過快遞郵寄這些文件。"
+    ]
+   ]
+  },
+  {
+   "word": "expressly",
+   "ph": "/ɪkˈspresli/",
+   "pos": "adv. 明確地；特別地",
+   "zh": "明確地；特別地",
+   "colloc": "expressly forbidden 明確禁止 | expressly stated 明確說明",
+   "distinct": "clearly 清晰地 | specifically 特別地",
+   "ex": [
+    [
+     "Smoking is expressly prohibited in the office area.",
+     "辦公區域明確禁止吸菸。"
+    ],
+    [
+     "The contract expressly states the terms of payment.",
+     "合約中明確規定了付款條件。"
+    ],
+    [
+     "He came here expressly to discuss the merger deal.",
+     "他來到這裡正是為了討論合併案。"
+    ]
+   ]
+  },
+  {
+   "word": "faithfully",
+   "ph": "/ˈfeɪθfəli/",
+   "pos": "adv. 忠實地；誠實地",
+   "zh": "忠實地；誠實地",
+   "colloc": "yours faithfully 誠摯地（信件結尾） | follow faithfully 忠實遵循",
+   "distinct": "loyally 忠誠地 | honestly 誠實地",
+   "ex": [
+    [
+     "Our team has faithfully executed the project plan.",
+     "我們的團隊忠實地執行了專案計畫。"
+    ],
+    [
+     "She faithfully attends every single staff meeting.",
+     "她忠實地參加每一場員工會議。"
+    ],
+    [
+     "The film adaptation represents the book quite faithfully.",
+     "電影改編相當忠實地呈現了原著。"
+    ]
+   ]
+  },
+  {
+   "word": "fishing",
+   "ph": "/ˈfɪʃɪŋ/",
+   "pos": "n. 釣魚；捕魚",
+   "zh": "釣魚；捕魚",
+   "colloc": "fishing industry 漁業 | go fishing 去釣魚",
+   "distinct": "angling 垂釣 | trawling 拖網捕魚",
+   "ex": [
+    [
+     "The local economy depends heavily on the fishing industry.",
+     "當地經濟相當依賴漁業。"
+    ],
+    [
+     "Many employees went fishing during the weekend retreat.",
+     "許多員工在週末員工旅遊時去釣魚。"
+    ],
+    [
+     "Strict regulations govern the fishing seasons here.",
+     "嚴格的規定管理著此地的捕魚季節。"
+    ]
+   ]
+  },
+  {
+   "word": "fully",
+   "ph": "/ˈfʊli/",
+   "pos": "adv. 完全地；充分地",
+   "zh": "完全地；充分地",
+   "colloc": "fully understand 完全理解 | fully operational 完全運作",
+   "distinct": "totally 完全地 | entirely 全部地",
+   "ex": [
+    [
+     "We are fully aware of the potential risks involved.",
+     "我們充分了解涉及的潛在風險。"
+    ],
+    [
+     "The new software system is now fully operational.",
+     "新軟體系統目前已完全投入運作。"
+    ],
+    [
+     "Please ensure the report is fully completed by Friday.",
+     "請確保報告在週五前完全完成。"
+    ]
+   ]
+  },
+  {
+   "word": "game",
+   "ph": "/ɡeɪm/",
+   "pos": "n. 遊戲；競賽 | adj. 願意冒險的",
+   "zh": "遊戲；競賽",
+   "colloc": "business game 商業賽局 | play the game 遵守規則",
+   "distinct": "match 比賽 | sport 運動",
+   "ex": [
+    [
+     "The team is playing a challenging game of strategy.",
+     "團隊正在進行一場具挑戰性的策略賽局。"
+    ],
+    [
+     "He is always game for a new business venture.",
+     "他總是願意嘗試新的商業冒險。"
+    ],
+    [
+     "Success in the market is like a complex game.",
+     "市場競爭就像一場複雜的遊戲。"
+    ]
+   ]
+  },
+  {
+   "word": "gathering",
+   "ph": "/ˈɡæðərɪŋ/",
+   "pos": "n. 聚會；聚集",
+   "zh": "聚會；聚集",
+   "colloc": "social gathering 社交聚會 | attend a gathering 參加聚會",
+   "distinct": "meeting 會議 | assembly 集會",
+   "ex": [
+    [
+     "The annual gathering brings all regional managers together.",
+     "年度聚會將所有區域經理聚集在一起。"
+    ],
+    [
+     "We are planning a small gathering for the retirement.",
+     "我們正在為退休人員籌備一個小型聚會。"
+    ],
+    [
+     "Informal gatherings help build a better team culture.",
+     "非正式聚會有助於建立更好的團隊文化。"
+    ]
+   ]
+  },
+  {
+   "word": "hollow",
+   "ph": "/ˈhɑːloʊ/",
+   "pos": "adj. 空心的；虛偽的 | n. 洞；凹處",
+   "zh": "空心的；虛偽的",
+   "colloc": "hollow promise 空頭支票 | hollow structure 空心結構",
+   "distinct": "empty 空的 | vacant 空缺的",
+   "ex": [
+    [
+     "He made a hollow promise to fix the issue quickly.",
+     "他開出空頭支票說會快速解決問題。"
+    ],
+    [
+     "The metal pipe has a hollow core for wiring.",
+     "這根金屬管中心是空的，用於配線。"
+    ],
+    [
+     "Without action, these marketing slogans remain hollow.",
+     "若無實際行動，這些行銷口號就顯得虛偽。"
+    ]
+   ]
+  }
+ ]
+}

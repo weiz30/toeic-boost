@@ -1,0 +1,448 @@
+{
+ "day": 16,
+ "theme": "教材字彙・基礎 550–650 第 16 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "demonstrate",
+   "ph": "/ˈdemənstreɪt/",
+   "pos": "v. 示範；證明",
+   "zh": "示範；證明；顯示",
+   "colloc": "demonstrate the ability 展示能力 | demonstrate a product 演示產品",
+   "distinct": "exhibit 陳列；展示 | illustrate 說明；圖解",
+   "ex": [
+    [
+     "The manager will demonstrate the new software.",
+     "經理將會演示這套新軟體。"
+    ],
+    [
+     "This report demonstrates our commitment to quality.",
+     "這份報告證明了我們對品質的承諾。"
+    ],
+    [
+     "Please demonstrate how to use the device.",
+     "請示範如何使用這台設備。"
+    ]
+   ]
+  },
+  {
+   "word": "direction",
+   "ph": "/dəˈrekʃn/",
+   "pos": "n. 方向；指導；管理",
+   "zh": "方向；指導；趨勢",
+   "colloc": "in the direction of 朝向...的方向 | under the direction of 在...指導下",
+   "distinct": "instruction 指示；說明書 | guidance 指導；引導",
+   "ex": [
+    [
+     "The company is moving in a new direction.",
+     "公司正朝著新的方向發展。"
+    ],
+    [
+     "We work under the direction of the CEO.",
+     "我們在執行長的指導下工作。"
+    ],
+    [
+     "Can you give me directions to the office?",
+     "可以給我去辦公室的方向指引嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "domestic",
+   "ph": "/dəˈmestɪk/",
+   "pos": "adj. 國內的；家庭的",
+   "zh": "國內的；家庭的",
+   "colloc": "domestic market 國內市場 | domestic flight 國內航班",
+   "distinct": "international 國際的 | internal 內部的",
+   "ex": [
+    [
+     "Domestic sales have increased significantly this year.",
+     "今年國內銷售額顯著成長。"
+    ],
+    [
+     "We focus on both domestic and foreign markets.",
+     "我們同時關注國內與國外市場。"
+    ],
+    [
+     "The airline handles domestic flights only.",
+     "這家航空公司僅負責國內航線。"
+    ]
+   ]
+  },
+  {
+   "word": "employment",
+   "ph": "/ɪmˈplɔɪmənt/",
+   "pos": "n. 就業；雇用",
+   "zh": "就業；雇用；受雇",
+   "colloc": "employment contract 雇用合約 | full-time employment 全職工作",
+   "distinct": "recruitment 招募 | occupation 職業",
+   "ex": [
+    [
+     "The company offers long-term employment opportunities.",
+     "該公司提供長期就業機會。"
+    ],
+    [
+     "She signed an employment contract yesterday.",
+     "她昨天簽署了雇用合約。"
+    ],
+    [
+     "Employment rates rose after the economic recovery.",
+     "經濟復甦後就業率有所上升。"
+    ]
+   ]
+  },
+  {
+   "word": "encouragement",
+   "ph": "/ɪnˈkɜːrɪdʒmənt/",
+   "pos": "n. 鼓勵；支持",
+   "zh": "鼓勵；激勵；支持",
+   "colloc": "offer encouragement 給予鼓勵 | words of encouragement 鼓勵的話",
+   "distinct": "support 支持 | motivation 動機；積極性",
+   "ex": [
+    [
+     "Your feedback provides great encouragement to us.",
+     "您的回饋對我們是很大的鼓勵。"
+    ],
+    [
+     "Management needs to offer more encouragement to staff.",
+     "管理層需要給員工更多鼓勵。"
+    ],
+    [
+     "He offered words of encouragement before the presentation.",
+     "他在簡報前給予了鼓勵的話語。"
+    ]
+   ]
+  },
+  {
+   "word": "essential",
+   "ph": "/ɪˈsenʃl/",
+   "pos": "adj. 必要的；本質的",
+   "zh": "必要的；關鍵的；基本的",
+   "colloc": "essential part 關鍵部分 | absolutely essential 絕對必要",
+   "distinct": "necessary 必要的 | fundamental 基礎的",
+   "ex": [
+    [
+     "Good communication is essential for teamwork.",
+     "良好的溝通對團隊合作至關重要。"
+    ],
+    [
+     "It is essential to finish the report today.",
+     "今天完成這份報告是必要的。"
+    ],
+    [
+     "Experience is an essential requirement for this job.",
+     "經驗是這份工作的必要條件。"
+    ]
+   ]
+  },
+  {
+   "word": "evenly",
+   "ph": "/ˈiːvənli/",
+   "pos": "adv. 平均地；均衡地",
+   "zh": "平均地；均勻地；平靜地",
+   "colloc": "evenly distributed 平均分布 | spread evenly 均勻塗抹",
+   "distinct": "equally 相等地 | smoothly 平順地",
+   "ex": [
+    [
+     "Workload should be distributed evenly among staff.",
+     "工作量應該在員工間平均分配。"
+    ],
+    [
+     "Please spread the glue evenly on the surface.",
+     "請將膠水均勻塗抹在表面。"
+    ],
+    [
+     "The two teams are evenly matched today.",
+     "今天兩隊實力相當。"
+    ]
+   ]
+  },
+  {
+   "word": "expectation",
+   "ph": "/ˌekspekˈteɪʃn/",
+   "pos": "n. 期望；預期",
+   "zh": "期望；預期；指望",
+   "colloc": "meet expectations 符合期望 | beyond expectations 超出預期",
+   "distinct": "prospect 前景 | anticipation 預料",
+   "ex": [
+    [
+     "The product failed to meet our expectations.",
+     "該產品未能達到我們的期望。"
+    ],
+    [
+     "Sales exceeded our expectations this quarter.",
+     "本季銷售額超出了我們的預期。"
+    ],
+    [
+     "We have high expectations for the new project.",
+     "我們對新專案抱有高度期望。"
+    ]
+   ]
+  },
+  {
+   "word": "face",
+   "ph": "/feɪs/",
+   "pos": "n. 臉；表面 | v. 面對；朝向",
+   "zh": "面對；面臨；表層",
+   "colloc": "face a challenge 面臨挑戰 | face to face 面對面",
+   "distinct": "confront 對抗 | encounter 遭遇",
+   "ex": [
+    [
+     "The company will face many challenges ahead.",
+     "公司未來將面臨許多挑戰。"
+    ],
+    [
+     "We need to face the problem directly.",
+     "我們需要直接面對這個問題。"
+    ],
+    [
+     "Their office faces the city park.",
+     "他們的辦公室面向城市公園。"
+    ]
+   ]
+  },
+  {
+   "word": "focus",
+   "ph": "/ˈfəʊkəs/",
+   "pos": "v. 集中；聚焦 | n. 焦點；重點",
+   "zh": "集中；聚焦；焦點",
+   "colloc": "focus on 專注於 | main focus 主要焦點",
+   "distinct": "concentrate 集中注意力 | emphasize 強調",
+   "ex": [
+    [
+     "We need to focus on our core business.",
+     "我們需要專注於核心業務。"
+    ],
+    [
+     "The main focus of the meeting is marketing.",
+     "會議的主要焦點是行銷。"
+    ],
+    [
+     "Please focus your attention on the screen.",
+     "請將注意力集中在螢幕上。"
+    ]
+   ]
+  },
+  {
+   "word": "follow",
+   "ph": "/ˈfɒləʊ/",
+   "pos": "v. 跟隨；遵循；理解",
+   "zh": "跟隨；遵循；聽懂",
+   "colloc": "follow instructions 遵循指示 | follow the schedule 按行程表",
+   "distinct": "obey 服從 | track 追蹤",
+   "ex": [
+    [
+     "All employees must follow safety rules.",
+     "所有員工必須遵守安全規則。"
+    ],
+    [
+     "Did you follow what the client said?",
+     "你有聽懂客戶說的話嗎？"
+    ],
+    [
+     "Please follow me to the conference room.",
+     "請跟我到會議室。"
+    ]
+   ]
+  },
+  {
+   "word": "form",
+   "ph": "/fɔːm/",
+   "pos": "n. 表格；形式 | v. 形成；組成",
+   "zh": "表格；形式；結構",
+   "colloc": "fill out a form 填寫表格 | in the form of 以...形式",
+   "distinct": "format 格式 | shape 形狀",
+   "ex": [
+    [
+     "Please fill out this registration form.",
+     "請填寫這份註冊表格。"
+    ],
+    [
+     "A new committee was formed last week.",
+     "一個新的委員會上週成立了。"
+    ],
+    [
+     "They sent the data in the form of a report.",
+     "他們以報告形式寄送了資料。"
+    ]
+   ]
+  },
+  {
+   "word": "formal",
+   "ph": "/ˈfɔːml/",
+   "pos": "adj. 正式的",
+   "zh": "正式的；拘謹的",
+   "colloc": "formal attire 正式服裝 | formal meeting 正式會議",
+   "distinct": "official 官方的 | ceremonial 儀式上的",
+   "ex": [
+    [
+     "The interview will be a formal event.",
+     "面試將會是一個正式場合。"
+    ],
+    [
+     "You should wear formal attire for the party.",
+     "你參加派對應該穿著正式服裝。"
+    ],
+    [
+     "We sent a formal letter to the client.",
+     "我們發了一封正式信函給客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "formally",
+   "ph": "/ˈfɔːməli/",
+   "pos": "adv. 正式地",
+   "zh": "正式地",
+   "colloc": "formally announced 正式宣布 | formally invited 正式邀請",
+   "distinct": "officially 官方地 | strictly 嚴格地",
+   "ex": [
+    [
+     "The merger was formally announced yesterday.",
+     "合併案已於昨天正式宣布。"
+    ],
+    [
+     "We were formally invited to the ceremony.",
+     "我們收到了出席典禮的正式邀請。"
+    ],
+    [
+     "The proposal will be presented formally soon.",
+     "提案很快會被正式提出。"
+    ]
+   ]
+  },
+  {
+   "word": "growth",
+   "ph": "/ɡrəʊθ/",
+   "pos": "n. 成長；增長",
+   "zh": "成長；增長；發展",
+   "colloc": "economic growth 經濟成長 | job growth 就業成長",
+   "distinct": "development 發展 | increase 增加",
+   "ex": [
+    [
+     "The company experienced rapid growth last year.",
+     "公司去年經歷了快速成長。"
+    ],
+    [
+     "We aim for sustainable growth in profits.",
+     "我們的目標是利潤的永續成長。"
+    ],
+    [
+     "Market growth depends on consumer demand.",
+     "市場成長取決於消費者需求。"
+    ]
+   ]
+  },
+  {
+   "word": "hardly",
+   "ph": "/ˈhɑːdli/",
+   "pos": "adv. 幾乎不",
+   "zh": "幾乎不；勉強",
+   "colloc": "hardly any 幾乎沒有 | hardly ever 幾乎從不",
+   "distinct": "hard 努力地 | barely 僅僅",
+   "ex": [
+    [
+     "There is hardly any time left for changes.",
+     "幾乎沒有時間進行更改了。"
+    ],
+    [
+     "I hardly know the new staff member.",
+     "我幾乎不認識那位新進員工。"
+    ],
+    [
+     "Hardly anyone attended the late meeting.",
+     "幾乎沒人參加那場晚間會議。"
+    ]
+   ]
+  },
+  {
+   "word": "ideal",
+   "ph": "/aɪˈdiːəl/",
+   "pos": "adj. 理想的 | n. 理想",
+   "zh": "理想的；完美的",
+   "colloc": "ideal candidate 理想人選 | ideal location 理想位置",
+   "distinct": "perfect 完美的 | optimal 最優的",
+   "ex": [
+    [
+     "She is the ideal candidate for the job.",
+     "她是這份工作的理想人選。"
+    ],
+    [
+     "This office is in an ideal location.",
+     "這間辦公室位於理想的地點。"
+    ],
+    [
+     "It is not an ideal time to expand.",
+     "現在不是擴張的理想時機。"
+    ]
+   ]
+  },
+  {
+   "word": "identify",
+   "ph": "/aɪˈdentɪfaɪ/",
+   "pos": "v. 識別；鑑定；確認",
+   "zh": "識別；確認；鑑定",
+   "colloc": "identify the problem 確認問題 | identify a need 發現需求",
+   "distinct": "recognize 認出 | specify 明確說明",
+   "ex": [
+    [
+     "We need to identify the cause of the error.",
+     "我們需要找出錯誤的原因。"
+    ],
+    [
+     "The study helps identify new market trends.",
+     "這項研究有助於識別新的市場趨勢。"
+    ],
+    [
+     "Can you identify who sent this email?",
+     "你可以確認是誰寄了這封郵件嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "impression",
+   "ph": "/ɪmˈpreʃn/",
+   "pos": "n. 印象；感想",
+   "zh": "印象；感想",
+   "colloc": "first impression 第一印象 | make a good impression 給人好印象",
+   "distinct": "expression 表情；表達 | pressure 壓力",
+   "ex": [
+    [
+     "She made a very good impression at the interview.",
+     "她在面試中給人很好的印象。"
+    ],
+    [
+     "My first impression of the team is positive.",
+     "我對團隊的第一印象很正面。"
+    ],
+    [
+     "The presentation left a strong impression on me.",
+     "那場簡報給我留下了深刻印象。"
+    ]
+   ]
+  },
+  {
+   "word": "increasing",
+   "ph": "/ɪnˈkriːsɪŋ/",
+   "pos": "adj. 增加的；漸增的",
+   "zh": "增加的；越來越多的",
+   "colloc": "increasing demand 需求增加 | increasing number 數量增加",
+   "distinct": "growing 成長中的 | rising 上升的",
+   "ex": [
+    [
+     "There is an increasing demand for online services.",
+     "對線上服務的需求正在增加。"
+    ],
+    [
+     "We face an increasing number of complaints.",
+     "我們面臨越來越多的投訴。"
+    ],
+    [
+     "Increasing competition requires better strategies.",
+     "日益激烈的競爭需要更好的策略。"
+    ]
+   ]
+  }
+ ]
+}

@@ -1,0 +1,448 @@
+{
+ "day": 90,
+ "theme": "教材片語・中高階 750–850 第 26 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "lead to",
+   "ph": "",
+   "pos": "phr. 導致；引起",
+   "zh": "導致；通向",
+   "colloc": "lead to success 導致成功 | lead to a result 導致某結果",
+   "distinct": "result in 導致結果 | contribute to 有助於",
+   "ex": [
+    [
+     "Poor communication often leads to serious misunderstandings.",
+     "溝通不良往往會導致嚴重的誤解。"
+    ],
+    [
+     "This new policy will lead to higher operational costs.",
+     "這項新政策將導致更高的營運成本。"
+    ],
+    [
+     "The narrow hallway leads to the main conference room.",
+     "這條狹窄的走廊通往主會議室。"
+    ]
+   ]
+  },
+  {
+   "word": "lead up to",
+   "ph": "",
+   "pos": "phr. 為…做準備；導致（事件發生前）",
+   "zh": "為…做準備；引發",
+   "colloc": "lead up to the event 為事件做準備 | lead up to the deadline 臨近截止日期",
+   "distinct": "prepare for 準備 | pave the way for 為…鋪路",
+   "ex": [
+    [
+     "The team is working hard to lead up to the launch.",
+     "團隊正努力為產品發布做準備。"
+    ],
+    [
+     "Several small incidents led up to the major conflict.",
+     "幾次小衝突引發了後來的重大爭執。"
+    ],
+    [
+     "We analyzed the factors that led up to the merger.",
+     "我們分析了導致這次合併的各項因素。"
+    ]
+   ]
+  },
+  {
+   "word": "lean over the railing",
+   "ph": "",
+   "pos": "phr. 靠在欄杆上",
+   "zh": "身體倚靠在欄杆上",
+   "colloc": "lean over to look 靠過去看 | rest on the railing 倚靠欄杆",
+   "distinct": "lean against the wall 靠在牆上 | hang over the railing 懸在欄杆上",
+   "ex": [
+    [
+     "The supervisor leaned over the railing to observe the site.",
+     "主管靠在欄杆上觀察現場狀況。"
+    ],
+    [
+     "Please do not lean over the railing for safety reasons.",
+     "基於安全考量，請勿倚靠欄杆。"
+    ],
+    [
+     "A man is leaning over the railing while talking on his phone.",
+     "一名男子正靠在欄杆上講電話。"
+    ]
+   ]
+  },
+  {
+   "word": "limited edition",
+   "ph": "",
+   "pos": "phr. 限量版",
+   "zh": "限量發行；限量版",
+   "colloc": "limited edition watch 限量版手錶 | release a limited edition 發行限量版",
+   "distinct": "mass production 大量生產 | exclusive collection 獨家系列",
+   "ex": [
+    [
+     "This limited edition fountain pen is highly sought after.",
+     "這款限量版鋼筆非常搶手。"
+    ],
+    [
+     "We decided to purchase the limited edition software package.",
+     "我們決定購買該限量版軟體套裝。"
+    ],
+    [
+     "Only five hundred units of this limited edition were manufactured.",
+     "這種限量版產品僅生產了五百個。"
+    ]
+   ]
+  },
+  {
+   "word": "load a truck",
+   "ph": "",
+   "pos": "phr. 裝載貨車",
+   "zh": "將貨物搬上貨車",
+   "colloc": "load a truck with boxes 用箱子裝載貨車 | finish loading a truck 完成裝車",
+   "distinct": "unload a truck 卸貨 | pack a truck 整理貨車",
+   "ex": [
+    [
+     "The workers are busy loading a truck at the warehouse.",
+     "工人們正忙著在倉庫裝載貨車。"
+    ],
+    [
+     "He helped the driver load a truck with new merchandise.",
+     "他協助司機將新商品裝上貨車。"
+    ],
+    [
+     "It takes two hours to fully load a truck.",
+     "裝滿一輛貨車需要兩個小時。"
+    ]
+   ]
+  },
+  {
+   "word": "load size",
+   "ph": "",
+   "pos": "phr. 裝載量；負載大小",
+   "zh": "裝載量；負載規模",
+   "colloc": "adjust the load size 調整裝載量 | optimize the load size 優化負載大小",
+   "distinct": "cargo capacity 貨運容量 | shipment volume 運輸量",
+   "ex": [
+    [
+     "Please verify the load size before the departure.",
+     "出發前請確認裝載量。"
+    ],
+    [
+     "The machine can handle a larger load size than expected.",
+     "這台機器能處理比預期更大的負載量。"
+    ],
+    [
+     "We need to reduce the load size for international shipping.",
+     "我們需要減少國際運輸的裝載量。"
+    ]
+   ]
+  },
+  {
+   "word": "lock up",
+   "ph": "",
+   "pos": "phr. 上鎖；鎖好門窗",
+   "zh": "鎖上；將…關進監獄",
+   "colloc": "lock up the office 鎖好辦公室 | lock up the files 將檔案鎖好",
+   "distinct": "close down 停業 | shut down 關閉",
+   "ex": [
+    [
+     "Remember to lock up the warehouse before you leave today.",
+     "今天離開前記得把倉庫鎖好。"
+    ],
+    [
+     "She is the last one to lock up the building.",
+     "她是最後一個離開並鎖好建築物的人。"
+    ],
+    [
+     "Did you lock up the confidential documents in the safe?",
+     "你把機密文件鎖進保險箱了嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "look different",
+   "ph": "",
+   "pos": "phr. 看起來不同",
+   "zh": "看起來不一樣；顯得不同",
+   "colloc": "look different from before 看起來與之前不同 | make it look different 使其看起來不同",
+   "distinct": "appear different 看起來有異 | seem different 似乎不同",
+   "ex": [
+    [
+     "The new website layout makes the pages look different.",
+     "新的網站排版讓頁面看起來很不一樣。"
+    ],
+    [
+     "After the renovation, the office looks different.",
+     "裝修後，辦公室看起來顯得不同了。"
+    ],
+    [
+     "These two products look different but function the same way.",
+     "這兩項產品外觀不同，但功能一樣。"
+    ]
+   ]
+  },
+  {
+   "word": "mailing list",
+   "ph": "",
+   "pos": "phr. 通訊錄；郵寄名單",
+   "zh": "通訊錄；郵寄名單",
+   "colloc": "add to a mailing list 加入通訊錄 | update the mailing list 更新郵寄名單",
+   "distinct": "contact list 聯絡人清單 | customer database 客戶資料庫",
+   "ex": [
+    [
+     "Please add my email address to your mailing list.",
+     "請將我的電子郵件地址加入你們的通訊錄。"
+    ],
+    [
+     "We use a mailing list to send newsletters to clients.",
+     "我們利用郵寄名單發送電子報給客戶。"
+    ],
+    [
+     "The marketing team updated the mailing list this morning.",
+     "行銷團隊今天早上更新了郵寄名單。"
+    ]
+   ]
+  },
+  {
+   "word": "make a delivery",
+   "ph": "",
+   "pos": "phr. 進行配送；送貨",
+   "zh": "送貨；遞送",
+   "colloc": "make a delivery on time 準時送貨 | schedule to make a delivery 安排送貨",
+   "distinct": "deliver goods 運送貨物 | receive a delivery 收到貨物",
+   "ex": [
+    [
+     "The courier will make a delivery later this afternoon.",
+     "快遞員將於今天下午稍晚進行配送。"
+    ],
+    [
+     "We make a delivery to the downtown area every Tuesday.",
+     "我們每週二會往市中心送貨。"
+    ],
+    [
+     "They were unable to make a delivery due to heavy snow.",
+     "由於大雪，他們無法進行配送。"
+    ]
+   ]
+  },
+  {
+   "word": "make a mistake",
+   "ph": "",
+   "pos": "phr. 犯錯",
+   "zh": "犯錯；失誤",
+   "colloc": "make a mistake in calculations 計算錯誤 | avoid making a mistake 避免犯錯",
+   "distinct": "commit an error 產生錯誤 | err 犯過失",
+   "ex": [
+    [
+     "It is easy to make a mistake when typing quickly.",
+     "快速打字時很容易犯錯。"
+    ],
+    [
+     "Please check your report again to avoid making a mistake.",
+     "請再次檢查你的報告，以避免犯錯。"
+    ],
+    [
+     "The accountant admitted he made a mistake in the summary.",
+     "會計師承認他在總結報告中犯了一個錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "make a move",
+   "ph": "",
+   "pos": "phr. 採取行動；搬家；啟程",
+   "zh": "採取行動；出發",
+   "colloc": "make a move to start 開始行動 | make a move before others 在他人之前採取行動",
+   "distinct": "take action 採取行動 | set off 出發",
+   "ex": [
+    [
+     "It is time for us to make a move on this proposal.",
+     "我們現在是時候對這項提案採取行動了。"
+    ],
+    [
+     "The company will make a move into the international market.",
+     "公司將採取行動進入國際市場。"
+    ],
+    [
+     "We should make a move now to reach the venue on time.",
+     "我們現在就該出發，才能準時抵達會場。"
+    ]
+   ]
+  },
+  {
+   "word": "make a note of",
+   "ph": "",
+   "pos": "phr. 記下；紀錄",
+   "zh": "記下；留意",
+   "colloc": "make a note of the date 記下日期 | make a note of instructions 記下說明",
+   "distinct": "take down 寫下 | jot down 草草記下",
+   "ex": [
+    [
+     "Please make a note of the revised meeting time.",
+     "請記下修改後的會議時間。"
+    ],
+    [
+     "I will make a note of your suggestions for future reference.",
+     "我會記下你的建議以供日後參考。"
+    ],
+    [
+     "Make a note of any questions you have during the presentation.",
+     "請在簡報期間記下你有任何疑問之處。"
+    ]
+   ]
+  },
+  {
+   "word": "make a recording",
+   "ph": "",
+   "pos": "phr. 進行錄音；錄製",
+   "zh": "錄音；錄影",
+   "colloc": "make a recording of the lecture 錄下演講 | allow to make a recording 允許錄音",
+   "distinct": "record a video 錄影 | take a transcript 做逐字稿",
+   "ex": [
+    [
+     "The technician will make a recording of the board meeting.",
+     "技術人員將會為董事會會議進行錄音。"
+    ],
+    [
+     "We decided to make a recording for those who missed the session.",
+     "我們決定為錯過會議的人製作一份錄音檔。"
+    ],
+    [
+     "Are you allowed to make a recording during the interview?",
+     "面試期間允許進行錄音嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "make a selection",
+   "ph": "",
+   "pos": "phr. 進行選擇；挑選",
+   "zh": "挑選；選擇",
+   "colloc": "make a selection from the menu 從菜單中選擇 | assist you to make a selection 協助你挑選",
+   "distinct": "choose 選擇 | select 挑選",
+   "ex": [
+    [
+     "Take your time to make a selection from our product catalog.",
+     "請慢慢從我們的產品目錄中挑選。"
+    ],
+    [
+     "Customers can make a selection online before visiting the store.",
+     "顧客可以在前往門市前先在網路上進行選擇。"
+    ],
+    [
+     "It is difficult to make a selection among these great candidates.",
+     "要在這些優秀候選人中做出選擇很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "make a stop",
+   "ph": "",
+   "pos": "phr. 中途停留",
+   "zh": "中途停留；停靠",
+   "colloc": "make a stop at the station 在車站停靠 | make a stop for lunch 中途停下來吃午餐",
+   "distinct": "stop over 中途過夜 | pause 暫停",
+   "ex": [
+    [
+     "The tour bus will make a stop at the local museum.",
+     "觀光巴士將會在當地博物館中途停留。"
+    ],
+    [
+     "We need to make a stop at the post office first.",
+     "我們需要先在郵局停一下。"
+    ],
+    [
+     "The train will make a stop in every major city.",
+     "火車將會在每個大城市停靠。"
+    ]
+   ]
+  },
+  {
+   "word": "make a transfer",
+   "ph": "",
+   "pos": "phr. 轉帳；轉乘",
+   "zh": "轉帳；轉機；轉乘",
+   "colloc": "make a transfer to another account 轉帳到另一個帳戶 | make a transfer at the airport 在機場轉機",
+   "distinct": "wire money 匯款 | switch 轉換",
+   "ex": [
+    [
+     "You can make a transfer using our mobile banking application.",
+     "您可以使用我們的行動銀行應用程式進行轉帳。"
+    ],
+    [
+     "Passengers need to make a transfer to reach their final destination.",
+     "乘客需要轉乘才能抵達最終目的地。"
+    ],
+    [
+     "I will make a transfer to cover the invoice amount.",
+     "我會進行轉帳以支付帳單金額。"
+    ]
+   ]
+  },
+  {
+   "word": "make an exception",
+   "ph": "",
+   "pos": "phr. 給予例外；破例",
+   "zh": "破例；作為例外",
+   "colloc": "make an exception for someone 為某人破例 | refuse to make an exception 拒絕破例",
+   "distinct": "give an exemption 豁免 | waive a rule 放棄規則",
+   "ex": [
+    [
+     "The manager agreed to make an exception for this urgent case.",
+     "經理同意為這起緊急案件破例。"
+    ],
+    [
+     "We cannot make an exception to our company policy.",
+     "我們不能對公司政策破例。"
+    ],
+    [
+     "She decided to make an exception because of his excellent record.",
+     "因為他表現優異，她決定破例一次。"
+    ]
+   ]
+  },
+  {
+   "word": "make an impression",
+   "ph": "",
+   "pos": "phr. 給人留下印象",
+   "zh": "留下印象；給予好感",
+   "colloc": "make an impression on someone 給某人留下印象 | make a good impression 留下好印象",
+   "distinct": "leave a mark 留下痕跡 | influence someone 影響某人",
+   "ex": [
+    [
+     "The candidate made a positive impression during the interview.",
+     "這位候選人在面試時留下了良好的印象。"
+    ],
+    [
+     "Dressing professionally helps you make an impression in meetings.",
+     "穿著專業有助於在會議中留下好印象。"
+    ],
+    [
+     "He really wants to make an impression on the new director.",
+     "他非常希望能給新任總監留下深刻印象。"
+    ]
+   ]
+  },
+  {
+   "word": "make no exception",
+   "ph": "",
+   "pos": "phr. 沒有例外；一律相同",
+   "zh": "無一例外；沒有特例",
+   "colloc": "make no exception for anyone 對任何人都不例外 | allow for making no exception 規定沒有例外",
+   "distinct": "without exception 無一例外 | apply to all 適用於所有人",
+   "ex": [
+    [
+     "All employees must attend the training, making no exception.",
+     "所有員工都必須參加培訓，沒有例外。"
+    ],
+    [
+     "The security rules apply to everyone and we make no exception.",
+     "安全規則適用於每個人，我們不會有任何例外。"
+    ],
+    [
+     "We make no exception to the deadline for submitting reports.",
+     "我們對於提交報告的截止日期絕不破例。"
+    ]
+   ]
+  }
+ ]
+}

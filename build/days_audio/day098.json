@@ -1,0 +1,448 @@
+{
+ "day": 98,
+ "theme": "教材片語・中高階 750–850 第 34 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "cut costs",
+   "ph": "",
+   "pos": "phr. 削減成本",
+   "zh": "削減開支；縮減成本",
+   "colloc": "cut costs effectively 有效地削減成本 | cut costs significantly 大幅削減開支",
+   "distinct": "reduce expenses 減少支出 | slash prices 大幅降價",
+   "ex": [
+    [
+     "The company needs to cut costs to stay competitive.",
+     "公司需要削減成本以保持競爭力。"
+    ],
+    [
+     "Management decided to cut costs by reducing travel budgets.",
+     "管理層決定透過縮減差旅預算來削減成本。"
+    ],
+    [
+     "We are looking for ways to cut costs this quarter.",
+     "我們正設法在本季削減開支。"
+    ]
+   ]
+  },
+  {
+   "word": "cut the grass",
+   "ph": "",
+   "pos": "phr. 除草",
+   "zh": "割草；除草",
+   "colloc": "cut the grass regularly 定期除草 | finish cutting the grass 完成除草",
+   "distinct": "mow the lawn 割草坪 | trim the hedges 修剪樹籬",
+   "ex": [
+    [
+     "Please cut the grass before the client arrives today.",
+     "請在客戶今天抵達前把草除掉。"
+    ],
+    [
+     "The landscape team will cut the grass on Friday.",
+     "景觀團隊將在週五進行除草工作。"
+    ],
+    [
+     "You should cut the grass while the weather is nice.",
+     "天氣好的時候你應該把草割了。"
+    ]
+   ]
+  },
+  {
+   "word": "decorative item",
+   "ph": "",
+   "pos": "n. 裝飾品",
+   "zh": "裝飾物；擺飾",
+   "colloc": "buy a decorative item 購買裝飾品 | display a decorative item 展示裝飾品",
+   "distinct": "ornament 飾品 | accessory 配件",
+   "ex": [
+    [
+     "Every decorative item in the lobby is hand-crafted.",
+     "大廳裡的每一件裝飾品都是手工製作的。"
+    ],
+    [
+     "She selected a unique decorative item for the office desk.",
+     "她為辦公桌挑選了一件獨特的裝飾品。"
+    ],
+    [
+     "The store offers a variety of decorative items for events.",
+     "這家店提供多種用於活動的裝飾品。"
+    ]
+   ]
+  },
+  {
+   "word": "do a good job",
+   "ph": "",
+   "pos": "phr. 幹得好",
+   "zh": "表現優異；做得好",
+   "colloc": "do a good job on something 在某事上表現優異 | expect someone to do a good job 期待某人有良好表現",
+   "distinct": "perform well 表現良好 | succeed in a task 任務成功",
+   "ex": [
+    [
+     "You did a good job on the quarterly marketing report.",
+     "你在季度行銷報告上的表現很優秀。"
+    ],
+    [
+     "The team did a good job despite the tight deadline.",
+     "儘管期限緊迫，團隊還是表現得很好。"
+    ],
+    [
+     "I know you will do a good job with this project.",
+     "我知道你一定能把這個專案做好。"
+    ]
+   ]
+  },
+  {
+   "word": "down size",
+   "ph": "",
+   "pos": "v. 裁員；縮小規模",
+   "zh": "裁減人力；縮減規模",
+   "colloc": "downsize the workforce 裁減員工 | forced to downsize 被迫縮減規模",
+   "distinct": "lay off 解僱 | restructure 重組",
+   "ex": [
+    [
+     "The corporation had to downsize due to falling profits.",
+     "由於利潤下降，該公司不得不縮減規模。"
+    ],
+    [
+     "Many firms downsize to remain profitable in tough markets.",
+     "許多公司為了在嚴峻市場中保持獲利而裁員。"
+    ],
+    [
+     "Management decided to downsize the department next month.",
+     "管理層決定下個月縮減該部門的人力。"
+    ]
+   ]
+  },
+  {
+   "word": "draw up",
+   "ph": "",
+   "pos": "phr. 起草；擬定",
+   "zh": "草擬；編制",
+   "colloc": "draw up a contract 起草合約 | draw up a plan 擬定計畫",
+   "distinct": "draft 起草 | compose 創作",
+   "ex": [
+    [
+     "Our legal team will draw up the agreement by tomorrow.",
+     "我們的法律團隊將在明天前起草好協議。"
+    ],
+    [
+     "We need to draw up a proposal for the client.",
+     "我們需要為客戶擬定一份提案。"
+    ],
+    [
+     "The committee began to draw up the new safety guidelines.",
+     "委員會開始著手擬定新的安全規範。"
+    ]
+   ]
+  },
+  {
+   "word": "dress formally",
+   "ph": "",
+   "pos": "phr. 穿著正式",
+   "zh": "正式著裝；著正裝",
+   "colloc": "required to dress formally 被要求穿著正式 | dress formally for the event 為活動正式著裝",
+   "distinct": "wear a suit 穿西裝 | business attire 商務正裝",
+   "ex": [
+    [
+     "Employees are expected to dress formally for the meeting.",
+     "員工出席會議時應穿著正式服裝。"
+    ],
+    [
+     "Please dress formally when meeting with the board members.",
+     "與董事會成員會面時，請穿著正式。"
+    ],
+    [
+     "The invitation states that guests should dress formally.",
+     "邀請函上註明賓客需穿著正式服裝。"
+    ]
+   ]
+  },
+  {
+   "word": "dressed in suit",
+   "ph": "",
+   "pos": "phr. 穿著西裝",
+   "zh": "身著西裝",
+   "colloc": "be dressed in a suit 穿著西裝 | appear dressed in a suit 以西裝造型現身",
+   "distinct": "wear a suit 穿著西裝 | in a suit 穿著西裝",
+   "ex": [
+    [
+     "The executive was dressed in a suit during the presentation.",
+     "那位高階主管在簡報時穿著西裝。"
+    ],
+    [
+     "All candidates arrived dressed in suits for the interview.",
+     "所有應徵者都穿著西裝抵達面試現場。"
+    ],
+    [
+     "He is always dressed in a suit when visiting clients.",
+     "他拜訪客戶時總是一身西裝打扮。"
+    ]
+   ]
+  },
+  {
+   "word": "driving direction",
+   "ph": "",
+   "pos": "n. 開車路線指南",
+   "zh": "開車指引；駕駛方向",
+   "colloc": "provide driving directions 提供開車路線 | follow the driving directions 按照開車指引",
+   "distinct": "navigation 導航 | route map 路線圖",
+   "ex": [
+    [
+     "Could you send me the driving directions to your office?",
+     "你可以把去你辦公室的開車路線寄給我嗎？"
+    ],
+    [
+     "The website provides clear driving directions for visitors.",
+     "該網站為訪客提供了清晰的開車路線指引。"
+    ],
+    [
+     "We lost our way, so we checked the driving directions.",
+     "我們迷路了，所以查看了開車路線指引。"
+    ]
+   ]
+  },
+  {
+   "word": "environmental regulations",
+   "ph": "",
+   "pos": "n. 環保法規",
+   "zh": "環境規範；環境保護條例",
+   "colloc": "comply with environmental regulations 遵守環保法規 | violate environmental regulations 違反環保法規",
+   "distinct": "safety standards 安全標準 | industry laws 產業法規",
+   "ex": [
+    [
+     "The factory must follow strict environmental regulations.",
+     "該工廠必須遵守嚴格的環境保護法規。"
+    ],
+    [
+     "New environmental regulations will affect our production process.",
+     "新的環保法規將影響我們的生產流程。"
+    ],
+    [
+     "They were fined for failing to meet environmental regulations.",
+     "他們因未符合環保法規而被罰款。"
+    ]
+   ]
+  },
+  {
+   "word": "extend an invitation",
+   "ph": "",
+   "pos": "phr. 發出邀請",
+   "zh": "邀請；提出邀約",
+   "colloc": "extend an invitation to someone 向某人發出邀請 | formally extend an invitation 正式發出邀請",
+   "distinct": "invite 邀請 | send an invitation 發送邀請函",
+   "ex": [
+    [
+     "We would like to extend an invitation to the gala.",
+     "我們希望能邀請您參加晚宴。"
+    ],
+    [
+     "The CEO extended an invitation to the local business leaders.",
+     "執行長向當地商業領袖發出了邀請。"
+    ],
+    [
+     "Thank you for extending an invitation to your workshop.",
+     "感謝您邀請我參加您的工作坊。"
+    ]
+   ]
+  },
+  {
+   "word": "fill in for",
+   "ph": "",
+   "pos": "phr. 代替；代理",
+   "zh": "代理職務；暫代",
+   "colloc": "fill in for a colleague 代理同事職務 | be asked to fill in for someone 被要求代理某人",
+   "distinct": "replace 取代 | cover for 代理",
+   "ex": [
+    [
+     "I will fill in for Sarah while she is on leave.",
+     "莎拉休假期間我會代理她的職務。"
+    ],
+    [
+     "Can you fill in for me at the staff meeting today?",
+     "你今天能代替我參加員工會議嗎？"
+    ],
+    [
+     "He was asked to fill in for the manager temporarily.",
+     "他被要求暫時代理經理的職務。"
+    ]
+   ]
+  },
+  {
+   "word": "fill with",
+   "ph": "",
+   "pos": "phr. 裝滿；充填",
+   "zh": "裝滿；填滿",
+   "colloc": "fill the container with water 用水裝滿容器 | fill the form with details 在表格中填寫細節",
+   "distinct": "pack 装包 | stuff 塞滿",
+   "ex": [
+    [
+     "Fill the boxes with packing peanuts before shipping them.",
+     "出貨前先把保麗龍填充物裝滿箱子。"
+    ],
+    [
+     "The organizers will fill the hall with eager guests.",
+     "主辦單位會讓大廳擠滿熱切的賓客。"
+    ],
+    [
+     "Please fill the application form with your personal information.",
+     "請在申請表上填寫您的個人資料。"
+    ]
+   ]
+  },
+  {
+   "word": "financial statement",
+   "ph": "",
+   "pos": "n. 財務報表",
+   "zh": "財務報告；財報",
+   "colloc": "review a financial statement 審閱財務報表 | release a financial statement 公布財務報表",
+   "distinct": "balance sheet 資產負債表 | income statement 損益表",
+   "ex": [
+    [
+     "The accountant is reviewing the quarterly financial statement.",
+     "會計師正在審核季度財務報表。"
+    ],
+    [
+     "Investors analyzed the financial statement before buying shares.",
+     "投資者在購買股票前分析了財務報表。"
+    ],
+    [
+     "We need to prepare the financial statement by month-end.",
+     "我們需要在月底前準備好財務報表。"
+    ]
+   ]
+  },
+  {
+   "word": "first hand",
+   "ph": "",
+   "pos": "adv. 親身地 | adj. 第一手的",
+   "zh": "第一手；親自",
+   "colloc": "experience something first hand 親身體驗某事 | get first hand information 獲得第一手資訊",
+   "distinct": "directly 直接地 | personally 親自",
+   "ex": [
+    [
+     "I witnessed the market change first hand last year.",
+     "去年我親眼見證了市場的變化。"
+    ],
+    [
+     "He gained first hand experience working in the factory.",
+     "他在工廠工作獲得了第一手的經驗。"
+    ],
+    [
+     "We need first hand reports from the project site.",
+     "我們需要來自專案現場的第一手報告。"
+    ]
+   ]
+  },
+  {
+   "word": "flow chart",
+   "ph": "",
+   "pos": "n. 流程圖",
+   "zh": "作業流程圖",
+   "colloc": "create a flow chart 製作流程圖 | understand the flow chart 理解流程圖",
+   "distinct": "diagram 圖表 | graph 圖形",
+   "ex": [
+    [
+     "The flow chart explains the new manufacturing process clearly.",
+     "該流程圖清楚地說明了新的製造程序。"
+    ],
+    [
+     "Please use a flow chart to illustrate the workflow.",
+     "請使用流程圖來說明工作流程。"
+    ],
+    [
+     "I drew a flow chart to simplify the complex task.",
+     "我畫了一張流程圖來簡化這項複雜的任務。"
+    ]
+   ]
+  },
+  {
+   "word": "focus group",
+   "ph": "",
+   "pos": "n. 焦點小組",
+   "zh": "焦點小組；討論小組",
+   "colloc": "conduct a focus group 進行焦點小組會議 | gather feedback from a focus group 從焦點小組收集回饋",
+   "distinct": "survey 調查 | committee 委員會",
+   "ex": [
+    [
+     "We invited customers to join a focus group session.",
+     "我們邀請客戶參加焦點小組會議。"
+    ],
+    [
+     "The focus group shared valuable feedback on the prototype.",
+     "焦點小組對原型產品提供了寶貴意見。"
+    ],
+    [
+     "Marketing teams often use focus groups to test products.",
+     "行銷團隊常使用焦點小組來測試產品。"
+    ]
+   ]
+  },
+  {
+   "word": "focus on",
+   "ph": "",
+   "pos": "phr. 專注於；聚焦於",
+   "zh": "專注；集中",
+   "colloc": "focus on the goals 專注於目標 | focus on the results 聚焦於結果",
+   "distinct": "concentrate on 集中於 | emphasize 強調",
+   "ex": [
+    [
+     "We should focus on improving our customer service.",
+     "我們應該專注於改善客戶服務。"
+    ],
+    [
+     "The management team needs to focus on long-term strategy.",
+     "管理團隊需要聚焦於長期策略。"
+    ],
+    [
+     "Please focus on the main topic during the meeting.",
+     "請在會議期間專注於主要議題。"
+    ]
+   ]
+  },
+  {
+   "word": "followed by",
+   "ph": "",
+   "pos": "phr. 接著是；隨後是",
+   "zh": "緊接著；隨後",
+   "colloc": "be followed by a Q&A 接著進行問答 | presentation followed by lunch 簡報後用餐",
+   "distinct": "after 在...之後 | subsequent to 隨後",
+   "ex": [
+    [
+     "The lecture will be followed by a short discussion.",
+     "講座結束後將接著進行簡短討論。"
+    ],
+    [
+     "There is a keynote speech followed by a reception.",
+     "將有主題演講，隨後是接待會。"
+    ],
+    [
+     "The announcement was followed by a round of applause.",
+     "公告之後緊接著響起一陣掌聲。"
+    ]
+   ]
+  },
+  {
+   "word": "for a change",
+   "ph": "",
+   "pos": "phr. 作為改變；換換口味",
+   "zh": "作為改變；換個方式",
+   "colloc": "do something for a change 做點不一樣的事 | try something for a change 嘗試新事物",
+   "distinct": "for once 這一次 | instead 代替",
+   "ex": [
+    [
+     "Let us go out for lunch for a change today.",
+     "今天我們換個方式，出去吃午餐吧。"
+    ],
+    [
+     "He decided to take the train for a change.",
+     "為了換個方式，他決定搭火車。"
+    ],
+    [
+     "We should try a different approach for a change.",
+     "我們應該試試不同的方法來做點改變。"
+    ]
+   ]
+  }
+ ]
+}

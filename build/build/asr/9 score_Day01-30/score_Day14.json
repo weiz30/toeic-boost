@@ -1,0 +1,1417 @@
+{
+ "file": "9 score_Day01-30\\score_Day14.mp3",
+ "dur": 588.62,
+ "segments": [
+  {
+   "s": 0.0,
+   "e": 1.5,
+   "t": "Day 14"
+  },
+  {
+   "s": 4.5,
+   "e": 5.6,
+   "t": "LC"
+  },
+  {
+   "s": 6.8,
+   "e": 7.8,
+   "t": "Agent"
+  },
+  {
+   "s": 10.0,
+   "e": 11.0,
+   "t": "Airport"
+  },
+  {
+   "s": 14.2,
+   "e": 15.2,
+   "t": "Height 10"
+  },
+  {
+   "s": 15.2,
+   "e": 16.2,
+   "t": "Shat 10"
+  },
+  {
+   "s": 16.2,
+   "e": 17.5,
+   "t": "Boat"
+  },
+  {
+   "s": 17.5,
+   "e": 18.5,
+   "t": "Boat"
+  },
+  {
+   "s": 21.5,
+   "e": 22.7,
+   "t": "Business class"
+  },
+  {
+   "s": 22.7,
+   "e": 24.1,
+   "t": "商物艙"
+  },
+  {
+   "s": 24.1,
+   "e": 25.2,
+   "t": "Connect"
+  },
+  {
+   "s": 25.2,
+   "e": 26.2,
+   "t": "Connect"
+  },
+  {
+   "s": 26.2,
+   "e": 27.5,
+   "t": "連接"
+  },
+  {
+   "s": 27.5,
+   "e": 29.1,
+   "t": "Departure time"
+  },
+  {
+   "s": 29.1,
+   "e": 30.44,
+   "t": "departure time"
+  },
+  {
+   "s": 30.44,
+   "e": 33.18,
+   "t": "early free shop"
+  },
+  {
+   "s": 33.18,
+   "e": 34.64,
+   "t": "duty free shop"
+  },
+  {
+   "s": 34.64,
+   "e": 37.32,
+   "t": "first class"
+  },
+  {
+   "s": 37.32,
+   "e": 38.68,
+   "t": "first class"
+  },
+  {
+   "s": 38.68,
+   "e": 42.08,
+   "t": "flight"
+  },
+  {
+   "s": 42.08,
+   "e": 48.88,
+   "t": "go on vacation"
+  },
+  {
+   "s": 48.88,
+   "e": 52.36,
+   "t": "guidebook"
+  },
+  {
+   "s": 52.36,
+   "e": 55.78,
+   "t": "journey"
+  },
+  {
+   "s": 55.78,
+   "e": 58.66,
+   "t": "Lü Xing, non-stop flight"
+  },
+  {
+   "s": 58.66,
+   "e": 60.24,
+   "t": "non-stop flight"
+  },
+  {
+   "s": 60.24,
+   "e": 62.56,
+   "t": "Zifei Hangbin, Pack"
+  },
+  {
+   "s": 62.56,
+   "e": 63.46,
+   "t": "Pack"
+  },
+  {
+   "s": 63.46,
+   "e": 66.5,
+   "t": "Bao Guo Da Bao, Passport"
+  },
+  {
+   "s": 66.5,
+   "e": 67.58,
+   "t": "Passport"
+  },
+  {
+   "s": 67.58,
+   "e": 69.76,
+   "t": "Hu Jiao, Pilot"
+  },
+  {
+   "s": 69.76,
+   "e": 70.72,
+   "t": "Pilot"
+  },
+  {
+   "s": 70.72,
+   "e": 73.06,
+   "t": "Fishing Yuan, Salon"
+  },
+  {
+   "s": 73.06,
+   "e": 74.18,
+   "t": "Salon"
+  },
+  {
+   "s": 74.18,
+   "e": 76.98,
+   "t": "電沙龍, Span"
+  },
+  {
+   "s": 76.98,
+   "e": 78.06,
+   "t": "Span"
+  },
+  {
+   "s": 78.06,
+   "e": 80.74,
+   "t": "Chao Dong, Hen Quang He Liu Dong"
+  },
+  {
+   "s": 80.74,
+   "e": 81.68,
+   "t": "Trip"
+  },
+  {
+   "s": 81.68,
+   "e": 82.48,
+   "t": "Trip"
+  },
+  {
+   "s": 82.48,
+   "e": 83.66,
+   "t": "Lü Xing"
+  },
+  {
+   "s": 83.66,
+   "e": 85.0,
+   "t": "RC"
+  },
+  {
+   "s": 85.0,
+   "e": 87.0,
+   "t": "border"
+  },
+  {
+   "s": 87.0,
+   "e": 89.0,
+   "t": "border"
+  },
+  {
+   "s": 89.0,
+   "e": 91.0,
+   "t": "central"
+  },
+  {
+   "s": 91.0,
+   "e": 95.0,
+   "t": "safe"
+  },
+  {
+   "s": 95.0,
+   "e": 99.0,
+   "t": "sudden"
+  },
+  {
+   "s": 99.0,
+   "e": 103.0,
+   "t": "travel"
+  },
+  {
+   "s": 103.0,
+   "e": 107.0,
+   "t": "under water"
+  },
+  {
+   "s": 107.0,
+   "e": 111.0,
+   "t": "unique"
+  },
+  {
+   "s": 111.0,
+   "e": 113.0,
+   "t": "visitor"
+  },
+  {
+   "s": 113.0,
+   "e": 115.0,
+   "t": "訪客參觀著"
+  },
+  {
+   "s": 115.0,
+   "e": 120.52,
+   "t": "Day 14"
+  },
+  {
+   "s": 120.52,
+   "e": 123.52,
+   "t": "心智多意800分單字"
+  },
+  {
+   "s": 123.52,
+   "e": 125.52,
+   "t": "LC"
+  },
+  {
+   "s": 125.52,
+   "e": 127.52,
+   "t": "Abort"
+  },
+  {
+   "s": 127.52,
+   "e": 130.52,
+   "t": "在船飛機列車上"
+  },
+  {
+   "s": 130.52,
+   "e": 131.52,
+   "t": "在什麼上"
+  },
+  {
+   "s": 131.52,
+   "e": 133.52,
+   "t": "Aircraft"
+  },
+  {
+   "s": 133.52,
+   "e": 135.52,
+   "t": "航空器飛機"
+  },
+  {
+   "s": 135.52,
+   "e": 137.52,
+   "t": "Airfare"
+  },
+  {
+   "s": 137.52,
+   "e": 139.52,
+   "t": "機票費用"
+  },
+  {
+   "s": 139.52,
+   "e": 141.52,
+   "t": "I'll seat"
+  },
+  {
+   "s": 141.52,
+   "e": 143.52,
+   "t": "靠走到的座位"
+  },
+  {
+   "s": 143.52,
+   "e": 145.52,
+   "t": "Be on a trip"
+  },
+  {
+   "s": 145.52,
+   "e": 146.52,
+   "t": "Be on a trip."
+  },
+  {
+   "s": 146.52,
+   "e": 149.52,
+   "t": "In the travel center, board a flight."
+  },
+  {
+   "s": 149.52,
+   "e": 150.52,
+   "t": "Board a flight."
+  },
+  {
+   "s": 150.52,
+   "e": 153.52,
+   "t": "登上班期, boarding gate."
+  },
+  {
+   "s": 153.52,
+   "e": 154.52,
+   "t": "boarding gate."
+  },
+  {
+   "s": 154.52,
+   "e": 157.52,
+   "t": "登基门, boarding pass."
+  },
+  {
+   "s": 157.52,
+   "e": 159.52,
+   "t": "boarding pass."
+  },
+  {
+   "s": 159.52,
+   "e": 162.52,
+   "t": "登基正, boarding time."
+  },
+  {
+   "s": 162.52,
+   "e": 163.52,
+   "t": "boarding time."
+  },
+  {
+   "s": 163.52,
+   "e": 166.52,
+   "t": "登基时间, biar."
+  },
+  {
+   "s": 166.52,
+   "e": 167.52,
+   "t": "biar."
+  },
+  {
+   "s": 167.52,
+   "e": 170.52,
+   "t": "坐飛機, carry on baggage."
+  },
+  {
+   "s": 170.52,
+   "e": 171.52,
+   "t": "carry on baggage."
+  },
+  {
+   "s": 171.52,
+   "e": 174.52,
+   "t": "随身行李, connecting flight."
+  },
+  {
+   "s": 174.52,
+   "e": 176.52,
+   "t": "Connecting flight"
+  },
+  {
+   "s": 176.52,
+   "e": 178.52,
+   "t": "轉接班機"
+  },
+  {
+   "s": 178.52,
+   "e": 180.52,
+   "t": "crew"
+  },
+  {
+   "s": 180.52,
+   "e": 182.52,
+   "t": "全體船員"
+  },
+  {
+   "s": 182.52,
+   "e": 184.52,
+   "t": "全體機務人員"
+  },
+  {
+   "s": 184.52,
+   "e": 186.52,
+   "t": "cruise"
+  },
+  {
+   "s": 186.52,
+   "e": 188.52,
+   "t": "成船遊覽"
+  },
+  {
+   "s": 188.52,
+   "e": 190.52,
+   "t": "currency exchange"
+  },
+  {
+   "s": 190.52,
+   "e": 192.52,
+   "t": "貨幣兌換"
+  },
+  {
+   "s": 192.52,
+   "e": 194.52,
+   "t": "drift"
+  },
+  {
+   "s": 194.52,
+   "e": 196.52,
+   "t": "飄流"
+  },
+  {
+   "s": 196.52,
+   "e": 198.52,
+   "t": "ferry"
+  },
+  {
+   "s": 198.52,
+   "e": 200.52,
+   "t": "flight attendant"
+  },
+  {
+   "s": 200.52,
+   "e": 202.52,
+   "t": "flight attendant"
+  },
+  {
+   "s": 202.52,
+   "e": 204.52,
+   "t": "fluid"
+  },
+  {
+   "s": 204.52,
+   "e": 206.52,
+   "t": "ET"
+  },
+  {
+   "s": 206.52,
+   "e": 208.52,
+   "t": "guest pass"
+  },
+  {
+   "s": 208.52,
+   "e": 210.52,
+   "t": "Falker Ruchangquan"
+  },
+  {
+   "s": 210.52,
+   "e": 212.52,
+   "t": "guided tour"
+  },
+  {
+   "s": 212.52,
+   "e": 214.52,
+   "t": "guided tour"
+  },
+  {
+   "s": 214.52,
+   "e": 216.52,
+   "t": "有道有帶領的旅行"
+  },
+  {
+   "s": 216.52,
+   "e": 218.52,
+   "t": "immigration"
+  },
+  {
+   "s": 218.52,
+   "e": 220.52,
+   "t": "入境寸茶"
+  },
+  {
+   "s": 220.52,
+   "e": 222.52,
+   "t": "未來的移民"
+  },
+  {
+   "s": 222.52,
+   "e": 224.52,
+   "t": "in flight"
+  },
+  {
+   "s": 224.52,
+   "e": 226.52,
+   "t": "landing"
+  },
+  {
+   "s": 226.52,
+   "e": 228.52,
+   "t": "降落"
+  },
+  {
+   "s": 228.52,
+   "e": 230.52,
+   "t": "landmark"
+  },
+  {
+   "s": 230.52,
+   "e": 235.18,
+   "t": "D-B-B-B-G-G-G-G-G-U-L-A-O-V-R-L-E-O-V-R"
+  },
+  {
+   "s": 235.18,
+   "e": 238.02,
+   "t": "C-C-C-T-N-L-L-E-F-R"
+  },
+  {
+   "s": 238.02,
+   "e": 239.12,
+   "t": "L-E-F-R"
+  },
+  {
+   "s": 239.12,
+   "e": 243.02,
+   "t": "C-C-C-C-N-W-L-N-L-N-L-N-L-A-R"
+  },
+  {
+   "s": 243.02,
+   "e": 247.06,
+   "t": "P-E-D-E-L-G-G-G-G-G-G"
+  },
+  {
+   "s": 247.06,
+   "e": 250.72,
+   "t": "C-C-C-N-L-A-R-N-L-N-L-D"
+  },
+  {
+   "s": 250.72,
+   "e": 255.08,
+   "t": "C-C-C-C-C-C-L-G-G-G-G"
+  },
+  {
+   "s": 255.08,
+   "e": 258.7,
+   "t": "C-C-C-C-N-L-N-L-L-L-L-N-L-L-L-L"
+  },
+  {
+   "s": 258.7,
+   "e": 265.7,
+   "t": "Observation Tower"
+  },
+  {
+   "s": 265.7,
+   "e": 271.7,
+   "t": "Overbook"
+  },
+  {
+   "s": 271.7,
+   "e": 277.7,
+   "t": "Overhead Rack"
+  },
+  {
+   "s": 277.7,
+   "e": 281.7,
+   "t": "Port"
+  },
+  {
+   "s": 281.7,
+   "e": 286.7,
+   "t": "Reclame"
+  },
+  {
+   "s": 286.7,
+   "e": 289.42,
+   "t": "聚物的趣回令回"
+  },
+  {
+   "s": 289.42,
+   "e": 290.94,
+   "t": "Roll the boat"
+  },
+  {
+   "s": 290.94,
+   "e": 292.18,
+   "t": "Roll the boat"
+  },
+  {
+   "s": 292.18,
+   "e": 293.54,
+   "t": "花泉"
+  },
+  {
+   "s": 293.54,
+   "e": 294.94,
+   "t": "Stop over"
+  },
+  {
+   "s": 294.94,
+   "e": 296.14,
+   "t": "Stop over"
+  },
+  {
+   "s": 296.14,
+   "e": 297.58,
+   "t": "中途停留"
+  },
+  {
+   "s": 297.58,
+   "e": 298.74,
+   "t": "Take off"
+  },
+  {
+   "s": 298.74,
+   "e": 299.94,
+   "t": "Take off"
+  },
+  {
+   "s": 299.94,
+   "e": 301.1,
+   "t": "起飛"
+  },
+  {
+   "s": 301.1,
+   "e": 302.82,
+   "t": "Take one's bag off"
+  },
+  {
+   "s": 302.82,
+   "e": 304.54,
+   "t": "Take one's bag off"
+  },
+  {
+   "s": 304.54,
+   "e": 306.42,
+   "t": "把包包拿下來"
+  },
+  {
+   "s": 306.42,
+   "e": 307.98,
+   "t": "Train conductor"
+  },
+  {
+   "s": 307.98,
+   "e": 309.7,
+   "t": "Train conductor"
+  },
+  {
+   "s": 309.7,
+   "e": 310.98,
+   "t": "列車長"
+  },
+  {
+   "s": 310.98,
+   "e": 312.58,
+   "t": "Travel agency"
+  },
+  {
+   "s": 312.58,
+   "e": 313.94,
+   "t": "Travel agency"
+  },
+  {
+   "s": 313.94,
+   "e": 315.26,
+   "t": "旅行社"
+  },
+  {
+   "s": 315.26,
+   "e": 316.42,
+   "t": "Unload"
+  },
+  {
+   "s": 316.42,
+   "e": 319.46,
+   "t": "Unload"
+  },
+  {
+   "s": 319.96,
+   "e": 321.8,
+   "t": "Unlock"
+  },
+  {
+   "s": 322.3,
+   "e": 323.86,
+   "t": "Open the word"
+  },
+  {
+   "s": 324.1,
+   "e": 325.38,
+   "t": "Walking tour"
+  },
+  {
+   "s": 325.56,
+   "e": 326.66,
+   "t": "Walking tour"
+  },
+  {
+   "s": 326.92,
+   "e": 328.2,
+   "t": "Tour步旅行"
+  },
+  {
+   "s": 328.46,
+   "e": 330.0,
+   "t": "Part five and six"
+  },
+  {
+   "s": 330.26,
+   "e": 331.02,
+   "t": "Distant"
+  },
+  {
+   "s": 331.44,
+   "e": 332.3,
+   "t": "Distant"
+  },
+  {
+   "s": 332.8,
+   "e": 333.82,
+   "t": "Yao Yuan's"
+  },
+  {
+   "s": 334.08,
+   "e": 334.84,
+   "t": "Favor"
+  },
+  {
+   "s": 335.36,
+   "e": 335.88,
+   "t": "Favor"
+  },
+  {
+   "s": 336.14,
+   "e": 337.42,
+   "t": "Shanyi's行為"
+  },
+  {
+   "s": 337.68,
+   "e": 338.44,
+   "t": "幫助"
+  },
+  {
+   "s": 338.7,
+   "e": 339.72,
+   "t": "Overhead"
+  },
+  {
+   "s": 339.98,
+   "e": 340.74,
+   "t": "Overhead"
+  },
+  {
+   "s": 341.0,
+   "e": 342.28,
+   "t": "頭上方的"
+  },
+  {
+   "s": 342.54,
+   "e": 343.56,
+   "t": "Remains"
+  },
+  {
+   "s": 344.06,
+   "e": 344.84,
+   "t": "Remains"
+  },
+  {
+   "s": 344.84,
+   "e": 347.82,
+   "t": "移籍 移住"
+  },
+  {
+   "s": 347.82,
+   "e": 349.32,
+   "t": "Rightly"
+  },
+  {
+   "s": 349.32,
+   "e": 350.32,
+   "t": "Rightly"
+  },
+  {
+   "s": 350.32,
+   "e": 352.78,
+   "t": "正确的理所当然的"
+  },
+  {
+   "s": 352.78,
+   "e": 354.6,
+   "t": "Tastefully"
+  },
+  {
+   "s": 354.6,
+   "e": 355.9,
+   "t": "Tastefully"
+  },
+  {
+   "s": 355.9,
+   "e": 358.28,
+   "t": "高雅的雅至的"
+  },
+  {
+   "s": 358.28,
+   "e": 360.04,
+   "t": "Travel arrangement"
+  },
+  {
+   "s": 360.04,
+   "e": 361.56,
+   "t": "Travel arrangement"
+  },
+  {
+   "s": 361.56,
+   "e": 363.02,
+   "t": "旅行安排"
+  },
+  {
+   "s": 363.02,
+   "e": 364.22,
+   "t": "Part 7"
+  },
+  {
+   "s": 364.22,
+   "e": 365.62,
+   "t": "Accumulate"
+  },
+  {
+   "s": 365.62,
+   "e": 366.78,
+   "t": "Accumulate"
+  },
+  {
+   "s": 366.78,
+   "e": 368.12,
+   "t": "累積"
+  },
+  {
+   "s": 368.12,
+   "e": 369.52,
+   "t": "Geographic"
+  },
+  {
+   "s": 369.52,
+   "e": 370.78,
+   "t": "Geographic"
+  },
+  {
+   "s": 370.78,
+   "e": 372.1,
+   "t": "地理上的"
+  },
+  {
+   "s": 372.1,
+   "e": 373.84,
+   "t": "Go through customs"
+  },
+  {
+   "s": 373.84,
+   "e": 375.32,
+   "t": "Go through customs."
+  },
+  {
+   "s": 375.32,
+   "e": 378.3,
+   "t": "通過海關, jet lag"
+  },
+  {
+   "s": 378.3,
+   "e": 379.38,
+   "t": "jet lag"
+  },
+  {
+   "s": 379.38,
+   "e": 382.0,
+   "t": "實差感, memorable"
+  },
+  {
+   "s": 382.0,
+   "e": 383.16,
+   "t": "Memorable"
+  },
+  {
+   "s": 383.16,
+   "e": 386.98,
+   "t": "值得紀念的,難忘的, memorial"
+  },
+  {
+   "s": 386.98,
+   "e": 388.12,
+   "t": "Memorial"
+  },
+  {
+   "s": 388.12,
+   "e": 391.4,
+   "t": "紀念物,紀念的, precisely"
+  },
+  {
+   "s": 391.4,
+   "e": 392.44,
+   "t": "precisely"
+  },
+  {
+   "s": 392.44,
+   "e": 394.96,
+   "t": "精確地, round trip"
+  },
+  {
+   "s": 394.96,
+   "e": 396.12,
+   "t": "round trip"
+  },
+  {
+   "s": 396.12,
+   "e": 398.72,
+   "t": "來回旅行, runway"
+  },
+  {
+   "s": 398.72,
+   "e": 399.76,
+   "t": "runway"
+  },
+  {
+   "s": 399.76,
+   "e": 402.56,
+   "t": "七成跑道, c-signus"
+  },
+  {
+   "s": 402.56,
+   "e": 403.84,
+   "t": "Seasickness"
+  },
+  {
+   "s": 403.84,
+   "e": 405.16,
+   "t": "Yunquan"
+  },
+  {
+   "s": 405.16,
+   "e": 406.8,
+   "t": "Sensation"
+  },
+  {
+   "s": 406.8,
+   "e": 408.16,
+   "t": "Sensation"
+  },
+  {
+   "s": 408.16,
+   "e": 409.0,
+   "t": "感覺"
+  },
+  {
+   "s": 409.0,
+   "e": 410.56,
+   "t": "激動"
+  },
+  {
+   "s": 410.56,
+   "e": 412.36,
+   "t": "suburban train line"
+  },
+  {
+   "s": 412.36,
+   "e": 414.08,
+   "t": "suburban train line"
+  },
+  {
+   "s": 414.08,
+   "e": 416.44,
+   "t": "往交取的列車路線"
+  },
+  {
+   "s": 416.44,
+   "e": 417.68,
+   "t": "voyage"
+  },
+  {
+   "s": 417.68,
+   "e": 418.76,
+   "t": "voyage"
+  },
+  {
+   "s": 418.76,
+   "e": 420.16,
+   "t": "行海"
+  },
+  {
+   "s": 420.16,
+   "e": 421.48,
+   "t": "wildlife"
+  },
+  {
+   "s": 421.48,
+   "e": 422.56,
+   "t": "wildlife"
+  },
+  {
+   "s": 422.56,
+   "e": 429.02,
+   "t": "野生動植物"
+  },
+  {
+   "s": 429.02,
+   "e": 430.74,
+   "t": "Day 14"
+  },
+  {
+   "s": 430.74,
+   "e": 434.26,
+   "t": "新制多億900分單字"
+  },
+  {
+   "s": 434.26,
+   "e": 435.74,
+   "t": "LC"
+  },
+  {
+   "s": 435.74,
+   "e": 437.74,
+   "t": "air sickness"
+  },
+  {
+   "s": 437.74,
+   "e": 439.74,
+   "t": "illness"
+  },
+  {
+   "s": 439.74,
+   "e": 441.74,
+   "t": "barge"
+  },
+  {
+   "s": 441.74,
+   "e": 443.74,
+   "t": "Pingdi huo chuan"
+  },
+  {
+   "s": 443.74,
+   "e": 445.74,
+   "t": "be left unattended"
+  },
+  {
+   "s": 445.74,
+   "e": 447.74,
+   "t": "be left unattended"
+  },
+  {
+   "s": 447.74,
+   "e": 450.74,
+   "t": "buckle up"
+  },
+  {
+   "s": 450.74,
+   "e": 452.74,
+   "t": "fast and seatbelt"
+  },
+  {
+   "s": 452.74,
+   "e": 453.74,
+   "t": "buckle up"
+  },
+  {
+   "s": 453.74,
+   "e": 455.74,
+   "t": "fast and seatbelt"
+  },
+  {
+   "s": 455.74,
+   "e": 457.74,
+   "t": "koo shangan全代"
+  },
+  {
+   "s": 457.74,
+   "e": 459.74,
+   "t": "carousel"
+  },
+  {
+   "s": 459.74,
+   "e": 460.74,
+   "t": "行李转盆"
+  },
+  {
+   "s": 460.74,
+   "e": 462.74,
+   "t": "channel"
+  },
+  {
+   "s": 462.74,
+   "e": 464.74,
+   "t": "hikashahangdao"
+  },
+  {
+   "s": 464.74,
+   "e": 465.74,
+   "t": "deck"
+  },
+  {
+   "s": 465.74,
+   "e": 466.74,
+   "t": "deck"
+  },
+  {
+   "s": 466.74,
+   "e": 467.74,
+   "t": "japan"
+  },
+  {
+   "s": 467.74,
+   "e": 468.74,
+   "t": "dock"
+  },
+  {
+   "s": 468.74,
+   "e": 469.74,
+   "t": "dock"
+  },
+  {
+   "s": 469.74,
+   "e": 470.74,
+   "t": "trun-u"
+  },
+  {
+   "s": 470.74,
+   "e": 471.74,
+   "t": "matou"
+  },
+  {
+   "s": 471.74,
+   "e": 472.74,
+   "t": "harbor"
+  },
+  {
+   "s": 472.74,
+   "e": 473.74,
+   "t": "harbor"
+  },
+  {
+   "s": 473.74,
+   "e": 474.74,
+   "t": "ganko"
+  },
+  {
+   "s": 474.74,
+   "e": 475.74,
+   "t": "入港停播"
+  },
+  {
+   "s": 475.74,
+   "e": 477.74,
+   "t": "life preserver"
+  },
+  {
+   "s": 477.74,
+   "e": 478.74,
+   "t": "life preserver"
+  },
+  {
+   "s": 478.74,
+   "e": 479.74,
+   "t": "just生用句"
+  },
+  {
+   "s": 479.74,
+   "e": 481.74,
+   "t": "meet once flight"
+  },
+  {
+   "s": 481.74,
+   "e": 483.74,
+   "t": "meet once flight"
+  },
+  {
+   "s": 483.74,
+   "e": 484.74,
+   "t": "微魔人阶阶"
+  },
+  {
+   "s": 484.74,
+   "e": 486.74,
+   "t": "stall"
+  },
+  {
+   "s": 486.74,
+   "e": 487.74,
+   "t": "或天"
+  },
+  {
+   "s": 487.74,
+   "e": 488.74,
+   "t": "tan-way"
+  },
+  {
+   "s": 488.74,
+   "e": 489.74,
+   "t": "泡毛"
+  },
+  {
+   "s": 489.74,
+   "e": 493.44,
+   "t": "洗火,失速,tie the boat to"
+  },
+  {
+   "s": 493.44,
+   "e": 498.08,
+   "t": "把船停播在,turbulence"
+  },
+  {
+   "s": 498.08,
+   "e": 502.18,
+   "t": "卵流,part five and six"
+  },
+  {
+   "s": 502.18,
+   "e": 504.58,
+   "t": "allowance"
+  },
+  {
+   "s": 504.58,
+   "e": 510.52,
+   "t": "允許量,不貼,concourse"
+  },
+  {
+   "s": 510.52,
+   "e": 515.4,
+   "t": "火車站機場等的中央大廳,大堂"
+  },
+  {
+   "s": 515.4,
+   "e": 517.72,
+   "t": "lodging"
+  },
+  {
+   "s": 517.72,
+   "e": 522.08,
+   "t": "技术,技术出,Presumable"
+  },
+  {
+   "s": 522.08,
+   "e": 527.28,
+   "t": "可推测的,可能有的 Touchdown"
+  },
+  {
+   "s": 527.28,
+   "e": 529.48,
+   "t": "遭遂"
+  },
+  {
+   "s": 529.48,
+   "e": 532.4,
+   "t": "Aviation"
+  },
+  {
+   "s": 532.4,
+   "e": 536.2,
+   "t": "飞行,Charter plane"
+  },
+  {
+   "s": 536.2,
+   "e": 539.8,
+   "t": "包机,Confer"
+  },
+  {
+   "s": 539.8,
+   "e": 545.96,
+   "t": "生涯,鞋伤,Dismbarke,Get off,Leave"
+  },
+  {
+   "s": 545.96,
+   "e": 549.04,
+   "t": "This embark, get off, leave."
+  },
+  {
+   "s": 549.04,
+   "e": 551.04,
+   "t": "Xia zhao tong gong jue."
+  },
+  {
+   "s": 551.04,
+   "e": 552.44,
+   "t": "Dispense."
+  },
+  {
+   "s": 552.44,
+   "e": 553.6,
+   "t": "Dispense."
+  },
+  {
+   "s": 553.6,
+   "e": 554.88,
+   "t": "Fun fa."
+  },
+  {
+   "s": 554.88,
+   "e": 556.2,
+   "t": "Impound."
+  },
+  {
+   "s": 556.2,
+   "e": 557.4,
+   "t": "Impound."
+  },
+  {
+   "s": 557.4,
+   "e": 558.8,
+   "t": "Ku ya."
+  },
+  {
+   "s": 558.8,
+   "e": 560.44,
+   "t": "Motion sickness."
+  },
+  {
+   "s": 560.44,
+   "e": 562.04,
+   "t": "Motion sickness."
+  },
+  {
+   "s": 562.04,
+   "e": 563.56,
+   "t": "Dong Yun Zheng."
+  },
+  {
+   "s": 563.56,
+   "e": 564.96,
+   "t": "Prestigious."
+  },
+  {
+   "s": 564.96,
+   "e": 566.24,
+   "t": "Prestigious."
+  },
+  {
+   "s": 566.24,
+   "e": 569.36,
+   "t": "You're so wrong, the quarantine desk."
+  },
+  {
+   "s": 569.36,
+   "e": 570.72,
+   "t": "Quarantine desk."
+  },
+  {
+   "s": 570.72,
+   "e": 572.0,
+   "t": "Qian Yi Zhen."
+  },
+  {
+   "s": 572.0,
+   "e": 573.4,
+   "t": "Remittance."
+  },
+  {
+   "s": 573.4,
+   "e": 574.52,
+   "t": "Remittance."
+  },
+  {
+   "s": 574.52,
+   "e": 575.72,
+   "t": "Hui Kuan."
+  },
+  {
+   "s": 575.72,
+   "e": 577.72,
+   "t": "swap"
+  },
+  {
+   "s": 577.72,
+   "e": 579.72,
+   "t": "交換隊調"
+  },
+  {
+   "s": 579.72,
+   "e": 581.72,
+   "t": "turn up"
+  },
+  {
+   "s": 581.72,
+   "e": 583.72,
+   "t": "出現隊找到"
+  },
+  {
+   "s": 583.72,
+   "e": 585.72,
+   "t": "vessel"
+  },
+  {
+   "s": 585.72,
+   "e": 587.72,
+   "t": "大型船艦"
+  }
+ ],
+ "text": "Day 14 LC Agent Airport Height 10 Shat 10 Boat Boat Business class 商物艙 Connect Connect 連接 Departure time departure time early free shop duty free shop first class first class flight go on vacation guidebook journey Lü Xing, non-stop flight non-stop flight Zifei Hangbin, Pack Pack Bao Guo Da Bao, Passport Passport Hu Jiao, Pilot Pilot Fishing Yuan, Salon Salon 電沙龍, Span Span Chao Dong, Hen Quang He Liu Dong Trip Trip Lü Xing RC border border central safe sudden travel under water unique visitor 訪客參觀著 Day 14 心智多意800分單字 LC Abort 在船飛機列車上 在什麼上 Aircraft 航空器飛機 Airfare 機票費用 I'll seat 靠走到的座位 Be on a trip Be on a trip. In the travel center, board a flight. Board a flight. 登上班期, boarding gate. boarding gate. 登基门, boarding pass. boarding pass. 登基正, boarding time. boarding time. 登基时间, biar. biar. 坐飛機, carry on baggage. carry on baggage. 随身行李, connecting flight. Connecting flight 轉接班機 crew 全體船員 全體機務人員 cruise 成船遊覽 currency exchange 貨幣兌換 drift 飄流 ferry flight attendant flight attendant fluid ET guest pass Falker Ruchangquan guided tour guided tour 有道有帶領的旅行 immigration 入境寸茶 未來的移民 in flight landing 降落 landmark D-B-B-B-G-G-G-G-G-U-L-A-O-V-R-L-E-O-V-R C-C-C-T-N-L-L-E-F-R L-E-F-R C-C-C-C-N-W-L-N-L-N-L-N-L-A-R P-E-D-E-L-G-G-G-G-G-G C-C-C-N-L-A-R-N-L-N-L-D C-C-C-C-C-C-L-G-G-G-G C-C-C-C-N-L-N-L-L-L-L-N-L-L-L-L Observation Tower Overbook Overhead Rack Port Reclame 聚物的趣回令回 Roll the boat Roll the boat 花泉 Stop over Stop over 中途停留 Take off Take off 起飛 Take one's bag off Take one's bag off 把包包拿下來 Train conductor Train conductor 列車長 Travel agency Travel agency 旅行社 Unload Unload Unlock Open the word Walking tour Walking tour Tour步旅行 Part five and six Distant Distant Yao Yuan's Favor Favor Shanyi's行為 幫助 Overhead Overhead 頭上方的 Remains Remains 移籍 移住 Rightly Rightly 正确的理所当然的 Tastefully Tastefully 高雅的雅至的 Travel arrangement Travel arrangement 旅行安排 Part 7 Accumulate Accumulate 累積 Geographic Geographic 地理上的 Go through customs Go through customs. 通過海關, jet lag jet lag 實差感, memorable Memorable 值得紀念的,難忘的, memorial Memorial 紀念物,紀念的, precisely precisely 精確地, round trip round trip 來回旅行, runway runway 七成跑道, c-signus Seasickness Yunquan Sensation Sensation 感覺 激動 suburban train line suburban train line 往交取的列車路線 voyage voyage 行海 wildlife wildlife 野生動植物 Day 14 新制多億900分單字 LC air sickness illness barge Pingdi huo chuan be left unattended be left unattended buckle up fast and seatbelt buckle up fast and seatbelt koo shangan全代 carousel 行李转盆 channel hikashahangdao deck deck japan dock dock trun-u matou harbor harbor ganko 入港停播 life preserver life preserver just生用句 meet once flight meet once flight 微魔人阶阶 stall 或天 tan-way 泡毛 洗火,失速,tie the boat to 把船停播在,turbulence 卵流,part five and six allowance 允許量,不貼,concourse 火車站機場等的中央大廳,大堂 lodging 技术,技术出,Presumable 可推测的,可能有的 Touchdown 遭遂 Aviation 飞行,Charter plane 包机,Confer 生涯,鞋伤,Dismbarke,Get off,Leave This embark, get off, leave. Xia zhao tong gong jue. Dispense. Dispense. Fun fa. Impound. Impound. Ku ya. Motion sickness. Motion sickness. Dong Yun Zheng. Prestigious. Prestigious. You're so wrong, the quarantine desk. Quarantine desk. Qian Yi Zhen. Remittance. Remittance. Hui Kuan. swap 交換隊調 turn up 出現隊找到 vessel 大型船艦"
+}

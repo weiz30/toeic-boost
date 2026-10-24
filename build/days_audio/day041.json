@@ -1,0 +1,448 @@
+{
+ "day": 41,
+ "theme": "教材字彙・進階 650–750 第 41 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "politics",
+   "ph": "/ˈpɑːlətɪks/",
+   "pos": "n. 政治；政治活動",
+   "zh": "政治；政治活動",
+   "colloc": "office politics 辦公室政治 | local politics 地方政治",
+   "distinct": "policy 政策 | political 政治的",
+   "ex": [
+    [
+     "Office politics can be stressful for new employees.",
+     "辦公室政治對新進員工來說可能很有壓力。"
+    ],
+    [
+     "She has always been interested in national politics.",
+     "她一直對國家政治很感興趣。"
+    ],
+    [
+     "Management decided to stay out of company politics.",
+     "管理層決定不參與公司的派系鬥爭。"
+    ]
+   ]
+  },
+  {
+   "word": "pollution",
+   "ph": "/pəˈluːʃn/",
+   "pos": "n. 污染",
+   "zh": "污染",
+   "colloc": "air pollution 空氣污染 | reduce pollution 減少污染",
+   "distinct": "pollutant 污染物 | pollute 污染（動詞）",
+   "ex": [
+    [
+     "Strict regulations help to reduce industrial pollution.",
+     "嚴格的法規有助於減少工業污染。"
+    ],
+    [
+     "The company faces lawsuits over water pollution.",
+     "該公司面臨關於水污染的訴訟。"
+    ],
+    [
+     "Noise pollution is a major issue in urban areas.",
+     "噪音污染是都會區的一大問題。"
+    ]
+   ]
+  },
+  {
+   "word": "positive",
+   "ph": "/ˈpɑːzətɪv/",
+   "pos": "adj. 正面的；確信的；積極的",
+   "zh": "正面的；確信的；積極的",
+   "colloc": "positive feedback 正面回饋 | positive result 陽性結果",
+   "distinct": "optimistic 樂觀的 | affirmative 肯定的",
+   "ex": [
+    [
+     "The client provided very positive feedback on our design.",
+     "客戶對我們的設計提供了非常正面的回饋。"
+    ],
+    [
+     "We are positive that the deal will close soon.",
+     "我們確信這筆交易很快就會成交。"
+    ],
+    [
+     "The team maintained a positive attitude during the crisis.",
+     "團隊在危機期間保持了積極的態度。"
+    ]
+   ]
+  },
+  {
+   "word": "precise",
+   "ph": "/prɪˈsaɪs/",
+   "pos": "adj. 精確的；明確的",
+   "zh": "精確的；明確的",
+   "colloc": "precise measurement 精確測量 | precise information 明確資訊",
+   "distinct": "accurate 準確的 | concise 簡潔的",
+   "ex": [
+    [
+     "Please provide the precise date for the delivery.",
+     "請提供貨運送達的確切日期。"
+    ],
+    [
+     "The machine requires precise calibration before use.",
+     "機器在使用前需要精確的校準。"
+    ],
+    [
+     "He gave a precise summary of the meeting highlights.",
+     "他對會議重點做了精確的摘要。"
+    ]
+   ]
+  },
+  {
+   "word": "prize",
+   "ph": "/praɪz/",
+   "pos": "n. 獎品；獎金 | v. 重視",
+   "zh": "獎品；獎金；重視",
+   "colloc": "win a prize 贏得獎項 | grand prize 首獎",
+   "distinct": "award 獎項（正式） | reward 獎勵",
+   "ex": [
+    [
+     "The company offers a cash prize for the best idea.",
+     "公司為最佳點子提供現金獎勵。"
+    ],
+    [
+     "We prize honesty above all other employee traits.",
+     "我們重視誠實勝過其他員工特質。"
+    ],
+    [
+     "She won the top prize in the international competition.",
+     "她在國際競賽中贏得了最高獎項。"
+    ]
+   ]
+  },
+  {
+   "word": "profession",
+   "ph": "/prəˈfeʃn/",
+   "pos": "n. 職業；專業",
+   "zh": "職業；專業",
+   "colloc": "legal profession 法律界 | enter the profession 進入該行業",
+   "distinct": "occupation 工作 | career 生涯",
+   "ex": [
+    [
+     "He has been in the accounting profession for years.",
+     "他在會計界工作多年。"
+    ],
+    [
+     "The medical profession requires constant learning.",
+     "醫療專業需要不斷地學習。"
+    ],
+    [
+     "She decided to leave the legal profession last month.",
+     "她上個月決定離開法律界。"
+    ]
+   ]
+  },
+  {
+   "word": "publisher",
+   "ph": "/ˈpʌblɪʃər/",
+   "pos": "n. 出版商；發行人",
+   "zh": "出版商；發行人",
+   "colloc": "book publisher 書籍出版商 | major publisher 主要發行商",
+   "distinct": "author 作者 | editor 編輯",
+   "ex": [
+    [
+     "The publisher will release the new manual tomorrow.",
+     "出版商明天將發行這本新手冊。"
+    ],
+    [
+     "She works as a senior editor for a major publisher.",
+     "她在一家大出版社擔任資深編輯。"
+    ],
+    [
+     "Authors often negotiate contracts with the publisher.",
+     "作者常與出版商協商合約。"
+    ]
+   ]
+  },
+  {
+   "word": "rare",
+   "ph": "/rer/",
+   "pos": "adj. 稀有的；罕見的",
+   "zh": "稀有的；罕見的",
+   "colloc": "rare opportunity 難得的機會 | rare disease 罕見疾病",
+   "distinct": "scarce 匱乏的 | unique 獨特的",
+   "ex": [
+    [
+     "This is a rare opportunity to expand into Asia.",
+     "這是一個拓展亞洲市場的難得機會。"
+    ],
+    [
+     "It is rare for him to miss a deadline.",
+     "他幾乎從未錯過截止日期。"
+    ],
+    [
+     "Finding such experienced staff is quite rare.",
+     "找到經驗如此豐富的員工相當罕見。"
+    ]
+   ]
+  },
+  {
+   "word": "relationship",
+   "ph": "/rɪˈleɪʃnʃɪp/",
+   "pos": "n. 關係；關聯",
+   "zh": "關係；關聯",
+   "colloc": "business relationship 商業關係 | build a relationship 建立關係",
+   "distinct": "connection 連結 | rapport 融洽關係",
+   "ex": [
+    [
+     "Maintaining a good relationship with clients is vital.",
+     "與客戶保持良好的關係至關重要。"
+    ],
+    [
+     "There is a strong relationship between price and quality.",
+     "價格與品質之間有強烈的關聯。"
+    ],
+    [
+     "We have developed a long-term relationship with them.",
+     "我們已經與他們建立了長期的合作關係。"
+    ]
+   ]
+  },
+  {
+   "word": "ruler",
+   "ph": "/ˈruːlər/",
+   "pos": "n. 統治者；尺",
+   "zh": "統治者；尺",
+   "colloc": "strict ruler 嚴格的統治者 | measure with a ruler 用尺測量",
+   "distinct": "rule 規則 | regulation 規定",
+   "ex": [
+    [
+     "Use a ruler to draw a straight line here.",
+     "用尺在這裡畫一條直線。"
+    ],
+    [
+     "The historical figure was known as a fair ruler.",
+     "這位歷史人物以公正的統治者聞名。"
+    ],
+    [
+     "Everything must be measured with a precise ruler.",
+     "每一項都必須用精確的尺測量。"
+    ]
+   ]
+  },
+  {
+   "word": "score",
+   "ph": "/skɔːr/",
+   "pos": "n. 分數；成績 | v. 得分",
+   "zh": "分數；成績；得分",
+   "colloc": "high score 高分 | score a point 得分",
+   "distinct": "grade 等級 | result 結果",
+   "ex": [
+    [
+     "The candidate achieved a high score on the test.",
+     "這位候選人在測試中獲得了高分。"
+    ],
+    [
+     "Our team managed to score in the final minute.",
+     "我們隊伍在最後一分鐘成功得分。"
+    ],
+    [
+     "She is reviewing the scores from the survey.",
+     "她正在檢視調查問卷的得分。"
+    ]
+   ]
+  },
+  {
+   "word": "scratch",
+   "ph": "/skrætʃ/",
+   "pos": "v. 刮傷；抓 | n. 刮痕",
+   "zh": "刮傷；抓；刮痕",
+   "colloc": "scratch the surface 觸及皮毛 | leave a scratch 留下刮痕",
+   "distinct": "scrape 擦傷 | scribble 潦草書寫",
+   "ex": [
+    [
+     "Please be careful not to scratch the new desk.",
+     "請小心不要刮傷新的辦公桌。"
+    ],
+    [
+     "The delivery box had a deep scratch on it.",
+     "快遞箱上有一個深深的刮痕。"
+    ],
+    [
+     "He started the business from scratch last year.",
+     "他去年白手起家創立了這間公司。"
+    ]
+   ]
+  },
+  {
+   "word": "senior",
+   "ph": "/ˈsiːniər/",
+   "pos": "adj. 資深的；年長的 | n. 上級；年長者",
+   "zh": "資深的；年長的；上級",
+   "colloc": "senior manager 資深經理 | senior staff 資深員工",
+   "distinct": "superior 上司 | junior 資淺的",
+   "ex": [
+    [
+     "The proposal requires approval from a senior manager.",
+     "該提案需要資深經理的批准。"
+    ],
+    [
+     "She is a senior member of the research department.",
+     "她是研究部門的資深成員。"
+    ],
+    [
+     "He sought advice from his senior regarding the project.",
+     "他針對該專案向他的上級尋求建議。"
+    ]
+   ]
+  },
+  {
+   "word": "sharp",
+   "ph": "/ʃɑːrp/",
+   "pos": "adj. 銳利的；明顯的；急劇的",
+   "zh": "銳利的；明顯的；急劇的",
+   "colloc": "sharp increase 急劇增加 | sharp drop 銳減",
+   "distinct": "keen 敏銳的 | pointed 尖銳的",
+   "ex": [
+    [
+     "We noticed a sharp increase in sales this quarter.",
+     "我們注意到本季銷售額有急劇增加。"
+    ],
+    [
+     "The company reported a sharp decline in profit.",
+     "公司回報獲利大幅下滑。"
+    ],
+    [
+     "His sharp eyes caught the error in the report.",
+     "他敏銳的眼睛察覺了報告中的錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "sharply",
+   "ph": "/ˈʃɑːrpli/",
+   "pos": "adv. 急劇地；尖銳地",
+   "zh": "急劇地；尖銳地",
+   "colloc": "rise sharply 急劇上升 | criticize sharply 嚴厲批評",
+   "distinct": "suddenly 突然地 | quickly 快速地",
+   "ex": [
+    [
+     "Stock prices fell sharply after the announcement.",
+     "公告發布後，股價急劇下跌。"
+    ],
+    [
+     "Energy costs have risen sharply over the year.",
+     "能源成本在過去一年中急劇上升。"
+    ],
+    [
+     "The manager spoke sharply to the team members.",
+     "經理嚴厲地對團隊成員訓話。"
+    ]
+   ]
+  },
+  {
+   "word": "sheet",
+   "ph": "/ʃiːt/",
+   "pos": "n. 一張（紙）；薄板",
+   "zh": "一張（紙）；薄板",
+   "colloc": "data sheet 數據表 | cover sheet 封面",
+   "distinct": "page 頁 | document 文件",
+   "ex": [
+    [
+     "Please print the report on a single sheet.",
+     "請將報告印在單張紙上。"
+    ],
+    [
+     "Fill out the information sheet before entering.",
+     "進入前請填寫資訊表。"
+    ],
+    [
+     "Attach a cover sheet to your project proposal.",
+     "在你的專案提案上附上一張封面。"
+    ]
+   ]
+  },
+  {
+   "word": "shop",
+   "ph": "/ʃɑːp/",
+   "pos": "n. 商店 | v. 購物",
+   "zh": "商店；購物",
+   "colloc": "online shop 線上商店 | shop around 到處比價",
+   "distinct": "store 大型商店 | boutique 精品店",
+   "ex": [
+    [
+     "The local shop sells high-quality office supplies.",
+     "這家在地商店販售高品質的辦公用品。"
+    ],
+    [
+     "Many people prefer to shop online these days.",
+     "現在很多人傾向於線上購物。"
+    ],
+    [
+     "It is wise to shop around before buying equipment.",
+     "購買設備前先貨比三家是明智的。"
+    ]
+   ]
+  },
+  {
+   "word": "shortly",
+   "ph": "/ˈʃɔːrtli/",
+   "pos": "adv. 不久；很快地",
+   "zh": "不久；很快地",
+   "colloc": "shortly after 不久之後 | shortly before 不久之前",
+   "distinct": "soon 即將 | recently 最近",
+   "ex": [
+    [
+     "The meeting will start shortly in room B.",
+     "會議不久將在 B 室開始。"
+    ],
+    [
+     "He arrived shortly after the presentation finished.",
+     "簡報結束後不久他就抵達了。"
+    ],
+    [
+     "We will be boarding shortly at gate ten.",
+     "我們不久後將在十號登機門登機。"
+    ]
+   ]
+  },
+  {
+   "word": "shower",
+   "ph": "/ˈʃaʊər/",
+   "pos": "n. 淋浴；陣雨 | v. 淋浴",
+   "zh": "淋浴；陣雨",
+   "colloc": "take a shower 洗澡 | rain shower 陣雨",
+   "distinct": "bath 盆浴 | storm 風暴",
+   "ex": [
+    [
+     "The hotel room has a very modern shower.",
+     "飯店房間有非常現代化的淋浴設備。"
+    ],
+    [
+     "There was a heavy rain shower this morning.",
+     "今天早上有一場大陣雨。"
+    ],
+    [
+     "I usually take a shower before going to work.",
+     "我習慣在上班前淋浴。"
+    ]
+   ]
+  },
+  {
+   "word": "situation",
+   "ph": "/ˌsɪtʃuˈeɪʃn/",
+   "pos": "n. 情況；處境",
+   "zh": "情況；處境",
+   "colloc": "difficult situation 困難處境 | current situation 當前情況",
+   "distinct": "condition 條件/狀況 | circumstance 環境/境遇",
+   "ex": [
+    [
+     "We need to assess the current situation carefully.",
+     "我們需要仔細評估當前的情況。"
+    ],
+    [
+     "The manager handled the difficult situation well.",
+     "經理處理這項困難處境處理得很好。"
+    ],
+    [
+     "Explain the situation to the client immediately.",
+     "請立刻向客戶說明當前狀況。"
+    ]
+   ]
+  }
+ ]
+}

@@ -364,22 +364,31 @@ function finishDay(auto) {
 }
 
 /* ------------------------------------------------------------------ 地圖 */
-const STAGES = [
-  { from: 1, to: 30, name: '基礎 600–750', cls: 's1' },
-  { from: 31, to: 60, name: '進階 750–850', cls: 's2' },
-  { from: 61, to: 90, name: '高分 850–900', cls: 's3' },
-  { from: 91, to: 100, name: '片語與總複習', cls: 's4' },
-];
+// 階段直接由資料的 level 欄位分群（課程字表可能改版，不要寫死天數區間）
+function stageBands() {
+  const bands = [];
+  (CURR.days || []).forEach((d) => {
+    const lv = d.level || '其他';
+    const last = bands[bands.length - 1];
+    if (last && last.name === lv) { last.to = d.day; last.days.push(d.day); }
+    else bands.push({ name: lv, from: d.day, to: d.day, days: [d.day] });
+  });
+  return bands;
+}
 function renderMap() {
-  $('#stageLegend').innerHTML = STAGES.map((s) => `<span class="stagechip ${s.cls}">第 ${s.from}–${s.to} 天 · ${s.name}</span>`).join('');
+  const bands = stageBands();
+  $('#stageLegend').innerHTML = bands
+    .map((b, i) => `<span class="stagechip s${(i % 4) + 1}">第 ${b.from}${b.to !== b.from ? '–' + b.to : ''} 天 · ${esc(b.name)}${b.days.length < 3 ? '' : ''}</span>`)
+    .join('');
   const cur = state.curDay || currentDayNum();
   $('#dayGrid').innerHTML = CURR.days.map((d) => {
-    const st = STAGES.find((s) => d.day >= s.from && d.day <= s.to) || STAGES[0];
+    const bi = bands.findIndex((b) => d.day >= b.from && d.day <= b.to);
+    const cls = ['daycell', `s${(bi % 4) + 1}`].filter(Boolean).join(' ');
     const learned = dayLearned(d.day);
     const done = !!state.dayDone[d.day];
-    const cls = ['daycell', st.cls, done ? 'is-done' : learned ? 'is-doing' : '', d.day === cur ? 'is-cur' : ''].filter(Boolean).join(' ');
-    return `<button class="${cls}" data-day="${d.day}" title="${esc(d.theme)}">
-      <b>${pad(d.day)}</b><span>${esc((d.theme || '').slice(0, 7))}</span>
+    const extra = [done ? 'is-done' : learned ? 'is-doing' : '', d.day === cur ? 'is-cur' : ''].filter(Boolean).join(' ');
+    return `<button class="${cls} ${extra}" data-day="${d.day}" title="${esc(d.theme)}">
+      <b>${pad(d.day)}</b><span>${esc((d.theme || '').slice(0, 8))}</span>
       <i style="width:${(learned / 20) * 100}%"></i></button>`;
   }).join('');
 }

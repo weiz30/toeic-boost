@@ -1,0 +1,448 @@
+{
+ "day": 87,
+ "theme": "教材片語・中高階 750–850 第 23 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "even out",
+   "ph": "",
+   "pos": "phr. 使平衡；使平穩",
+   "zh": "使平均；使平坦",
+   "colloc": "even out the workload 平均分配工作量 | even out the differences 平衡差異",
+   "distinct": "level off 趨於平穩 | smooth out 解決問題",
+   "ex": [
+    [
+     "These measures will help even out the seasonal fluctuations.",
+     "這些措施將有助於平衡季節性波動。"
+    ],
+    [
+     "We need to even out the distribution of tasks among staff.",
+     "我們需要平衡員工之間的工作分配。"
+    ],
+    [
+     "Our sales figures began to even out after the campaign.",
+     "促銷活動後我們的銷售數字開始趨於平穩。"
+    ]
+   ]
+  },
+  {
+   "word": "except for",
+   "ph": "",
+   "pos": "phr. 除了……之外",
+   "zh": "除…之外；除去",
+   "colloc": "except for the fact that 除了事實是… | except for one detail 除了一個細節",
+   "distinct": "apart from 除了...之外（包含/不包含） | besides 此外",
+   "ex": [
+    [
+     "The office was empty except for the security guard.",
+     "除了保全人員之外，辦公室裡空無一人。"
+    ],
+    [
+     "Everything is ready except for the signed contract.",
+     "除了已簽署的合約外，所有項目都已就緒。"
+    ],
+    [
+     "The report is accurate except for a few minor errors.",
+     "除了幾個小錯誤外，該報告內容相當準確。"
+    ]
+   ]
+  },
+  {
+   "word": "express mail",
+   "ph": "",
+   "pos": "phr. 快遞",
+   "zh": "快捷郵件；快遞",
+   "colloc": "send by express mail 用快遞寄送 | express mail service 快遞服務",
+   "distinct": "courier 遞送員/快遞服務 | priority mail 優先郵件",
+   "ex": [
+    [
+     "Please send the documents by express mail tomorrow morning.",
+     "請明天早上用快遞寄送這些文件。"
+    ],
+    [
+     "The express mail arrived at the office by noon.",
+     "快遞在中午前送達辦公室。"
+    ],
+    [
+     "I opted for express mail to ensure timely delivery.",
+     "我選擇快遞以確保及時送達。"
+    ]
+   ]
+  },
+  {
+   "word": "face away from",
+   "ph": "",
+   "pos": "phr. 背對著",
+   "zh": "背對；面向遠處",
+   "colloc": "face away from the camera 背對鏡頭 | face away from the window 背對窗戶",
+   "distinct": "face toward 面向 | turn away 轉身離開",
+   "ex": [
+    [
+     "The desk is positioned to face away from the door.",
+     "辦公桌的位置設計成背對著門。"
+    ],
+    [
+     "He sat at the table and faced away from me.",
+     "他坐在桌邊並背對著我。"
+    ],
+    [
+     "Please ensure your chair does not face away from the screen.",
+     "請確保您的椅子沒有背對著螢幕。"
+    ]
+   ]
+  },
+  {
+   "word": "fall behind",
+   "ph": "",
+   "pos": "phr. 落後；延誤",
+   "zh": "跟不上；延誤",
+   "colloc": "fall behind schedule 進度落後 | fall behind on payments 繳款逾期",
+   "distinct": "lag behind 滯後 | catch up 趕上",
+   "ex": [
+    [
+     "The construction project started to fall behind last month.",
+     "營建工程上個月開始進度落後。"
+    ],
+    [
+     "We cannot afford to fall behind our main competitors.",
+     "我們不能輸給主要競爭對手。"
+    ],
+    [
+     "If we fall behind on deadlines, we will face penalties.",
+     "如果我們錯過截止日期，將會面臨罰款。"
+    ]
+   ]
+  },
+  {
+   "word": "family run",
+   "ph": "",
+   "pos": "phr. 家族經營的",
+   "zh": "家族管理的",
+   "colloc": "a family run business 家族企業 | family run restaurant 家族經營餐館",
+   "distinct": "corporation 大型企業 | franchise 加盟連鎖店",
+   "ex": [
+    [
+     "This local hotel has been a family run enterprise since 1980.",
+     "這家在地旅館自1980年以來一直是家族經營。"
+    ],
+    [
+     "They prefer to invest in small family run companies.",
+     "他們偏好投資小型家族企業。"
+    ],
+    [
+     "Our family run bakery values traditional recipes and quality.",
+     "我們家族經營的烘焙坊重視傳統配方與品質。"
+    ]
+   ]
+  },
+  {
+   "word": "figure out",
+   "ph": "",
+   "pos": "phr. 理解；想出",
+   "zh": "解決；弄清楚",
+   "colloc": "figure out a solution 想出解決方案 | figure out how to operate 操作弄懂",
+   "distinct": "work out 計算出/解決 | realize 意識到",
+   "ex": [
+    [
+     "I am trying to figure out why the system failed.",
+     "我正試著找出系統故障的原因。"
+    ],
+    [
+     "Management is still figuring out the budget for next year.",
+     "管理層仍在規劃明年的預算。"
+    ],
+    [
+     "We need to figure out a better way to communicate.",
+     "我們需要想出更好的溝通方式。"
+    ]
+   ]
+  },
+  {
+   "word": "fold in half",
+   "ph": "",
+   "pos": "phr. 對折",
+   "zh": "摺成兩半",
+   "colloc": "fold in half carefully 小心對折 | fold in half horizontally 水平對折",
+   "distinct": "fold over 摺疊覆蓋 | roll up 捲起來",
+   "ex": [
+    [
+     "Please fold the flyer in half before putting it in envelopes.",
+     "請將傳單對折後再放入信封。"
+    ],
+    [
+     "You should fold the paper in half to fit the file.",
+     "你應該把紙對折以放入檔案夾。"
+    ],
+    [
+     "Fold the document in half and staple the edge.",
+     "將文件對折並將邊緣裝訂起來。"
+    ]
+   ]
+  },
+  {
+   "word": "fold up",
+   "ph": "",
+   "pos": "phr. 收起；摺疊",
+   "zh": "摺疊收納",
+   "colloc": "fold up the chairs 收起椅子 | fold up the screen 收起屏風",
+   "distinct": "put away 收好 | pack up 打包",
+   "ex": [
+    [
+     "Staff will fold up the tables after the conference ends.",
+     "會議結束後工作人員會將桌子收起來。"
+    ],
+    [
+     "She began to fold up the laundry after it dried.",
+     "她開始將曬乾的衣物摺疊收好。"
+    ],
+    [
+     "Please fold up your laptop before leaving the meeting room.",
+     "離開會議室前請將您的筆記型電腦蓋上收好。"
+    ]
+   ]
+  },
+  {
+   "word": "follow up on",
+   "ph": "",
+   "pos": "phr. 追蹤；跟進",
+   "zh": "採取後續行動",
+   "colloc": "follow up on a lead 追蹤商機 | follow up on an inquiry 跟進詢問",
+   "distinct": "keep track of 紀錄 | monitor 監控",
+   "ex": [
+    [
+     "I need to follow up on the customer's recent feedback.",
+     "我需要追蹤客戶最近的意見回饋。"
+    ],
+    [
+     "The manager will follow up on the results next week.",
+     "經理下週會跟進相關結果。"
+    ],
+    [
+     "Please follow up on the email you sent this morning.",
+     "請追蹤您今天早上寄出的那封信件。"
+    ]
+   ]
+  },
+  {
+   "word": "front door",
+   "ph": "",
+   "pos": "phr. 前門",
+   "zh": "正門；大門",
+   "colloc": "at the front door 在前門 | lock the front door 鎖上大門",
+   "distinct": "main entrance 主要入口 | lobby 大廳",
+   "ex": [
+    [
+     "Visitors should report to the desk by the front door.",
+     "訪客請向大門旁的櫃台報到。"
+    ],
+    [
+     "The delivery person left the box at the front door.",
+     "外送人員將箱子放在了大門口。"
+    ],
+    [
+     "Please ensure the front door is locked before leaving.",
+     "離開前請確認大門已經鎖好。"
+    ]
+   ]
+  },
+  {
+   "word": "frozen food product",
+   "ph": "",
+   "pos": "phr. 冷凍食品",
+   "zh": "冷凍食品項目",
+   "colloc": "sell frozen food products 販售冷凍食品 | launch a frozen food product 推出冷凍食品",
+   "distinct": "fresh produce 新鮮農產品 | canned goods 罐頭食品",
+   "ex": [
+    [
+     "Our company is launching a new line of frozen food products.",
+     "我們公司即將推出一系列新的冷凍食品。"
+    ],
+    [
+     "This frozen food product contains no artificial preservatives.",
+     "這款冷凍食品不含人工防腐劑。"
+    ],
+    [
+     "The supermarket expanded its range of frozen food products.",
+     "該超市擴增了冷凍食品的品項。"
+    ]
+   ]
+  },
+  {
+   "word": "gardening tool",
+   "ph": "",
+   "pos": "phr. 園藝工具",
+   "zh": "園藝用具",
+   "colloc": "store gardening tools 收納園藝工具 | high-quality gardening tool 高品質園藝工具",
+   "distinct": "household appliance 家用電器 | construction equipment 營建設備",
+   "ex": [
+    [
+     "He bought a set of professional gardening tools for the yard.",
+     "他為院子買了一套專業園藝工具。"
+    ],
+    [
+     "Please keep the gardening tools in the shed after use.",
+     "使用後請將園藝工具放在工具棚內。"
+    ],
+    [
+     "She is looking for a durable gardening tool for pruning.",
+     "她正在尋找一把耐用的修剪園藝工具。"
+    ]
+   ]
+  },
+  {
+   "word": "gather up",
+   "ph": "",
+   "pos": "phr. 收集；收拾",
+   "zh": "聚集；蒐集",
+   "colloc": "gather up the files 收集文件 | gather up the supplies 收拾物資",
+   "distinct": "collect 收集 | tidy up 整理",
+   "ex": [
+    [
+     "The assistant will gather up all the handouts for the meeting.",
+     "助理會為會議收集所有的講義。"
+    ],
+    [
+     "We need to gather up our belongings before the train arrives.",
+     "火車到站前我們需要收拾好隨身物品。"
+    ],
+    [
+     "Please gather up the scattered papers on the conference table.",
+     "請將會議桌上散亂的文件收集起來。"
+    ]
+   ]
+  },
+  {
+   "word": "gathering space",
+   "ph": "",
+   "pos": "phr. 聚會空間",
+   "zh": "公共空間；集會場所",
+   "colloc": "an indoor gathering space 室內聚會空間 | public gathering space 公共集會空間",
+   "distinct": "meeting room 會議室 | lounge 休息室",
+   "ex": [
+    [
+     "The hotel offers a spacious gathering space for corporate events.",
+     "這家飯店為企業活動提供了寬敞的聚會空間。"
+    ],
+    [
+     "Employees use the break room as a casual gathering space.",
+     "員工將休息室當作非正式的聚會空間。"
+    ],
+    [
+     "The architectural design includes a central gathering space.",
+     "建築設計中包含了一個中央聚會場所。"
+    ]
+   ]
+  },
+  {
+   "word": "general population",
+   "ph": "",
+   "pos": "phr. 一般大眾",
+   "zh": "普通民眾；全體人口",
+   "colloc": "the general population 的一般大眾 | represent the general population 代表大眾",
+   "distinct": "target audience 目標客群 | demographic 人口統計",
+   "ex": [
+    [
+     "These products are designed for the general population.",
+     "這些產品是為一般大眾所設計的。"
+    ],
+    [
+     "The survey results reflect the views of the general population.",
+     "問卷調查結果反映了一般大眾的觀點。"
+    ],
+    [
+     "Access to healthcare is a concern for the general population.",
+     "醫療照護的可及性是一般大眾關心的議題。"
+    ]
+   ]
+  },
+  {
+   "word": "generation gap",
+   "ph": "",
+   "pos": "phr. 代溝",
+   "zh": "世代差異",
+   "colloc": "bridge the generation gap 跨越代溝 | the generation gap issue 代溝問題",
+   "distinct": "cultural difference 文化差異 | communication barrier 溝通障礙",
+   "ex": [
+    [
+     "The company is trying to bridge the generation gap among staff.",
+     "公司正試圖彌合員工之間的代溝。"
+    ],
+    [
+     "Sometimes a generation gap causes misunderstandings in teamwork.",
+     "有時代溝會導致團隊合作中的誤解。"
+    ],
+    [
+     "Mentorship programs can help reduce the generation gap.",
+     "導師制度有助於縮小世代差異。"
+    ]
+   ]
+  },
+  {
+   "word": "get alone",
+   "ph": "",
+   "pos": "phr. 獨處",
+   "zh": "獨自相處",
+   "colloc": "get alone well 獨處得好 | time to get alone 需要獨處時間",
+   "distinct": "be alone 獨自一人 | get along 相處融洽",
+   "ex": [
+    [
+     "Sometimes I need time to get alone and focus on work.",
+     "有時我需要時間獨處並專注於工作。"
+    ],
+    [
+     "She prefers to get alone in the library to study.",
+     "她偏好在圖書館獨處進行研究。"
+    ],
+    [
+     "Finding space to get alone in a busy office is difficult.",
+     "在忙碌的辦公室中找空間獨處很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "get along with",
+   "ph": "",
+   "pos": "phr. 與……相處融洽",
+   "zh": "和睦相處",
+   "colloc": "get along with colleagues 與同事相處 | get along with the team 與團隊相處",
+   "distinct": "work with 與...共事 | deal with 處理",
+   "ex": [
+    [
+     "It is important to get along with your teammates.",
+     "與隊友相處融洽是很重要的。"
+    ],
+    [
+     "She finds it easy to get along with everyone in the office.",
+     "她發現自己很容易與辦公室裡的每個人相處。"
+    ],
+    [
+     "He tries to get along with all his business partners.",
+     "他試著與所有的商業夥伴保持良好的關係。"
+    ]
+   ]
+  },
+  {
+   "word": "get in line",
+   "ph": "",
+   "pos": "phr. 排隊",
+   "zh": "加入隊伍",
+   "colloc": "get in line for the event 為活動排隊 | get in line at the counter 在櫃檯排隊",
+   "distinct": "wait in line 等候隊伍 | stand in line 站著排隊",
+   "ex": [
+    [
+     "Customers began to get in line before the store opened.",
+     "顧客在商店開門前就開始排隊了。"
+    ],
+    [
+     "Please get in line to register for the seminar.",
+     "請排隊報名參加研討會。"
+    ],
+    [
+     "There were many people waiting to get in line for tickets.",
+     "有許多人等著排隊購買門票。"
+    ]
+   ]
+  }
+ ]
+}

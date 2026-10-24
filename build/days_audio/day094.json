@@ -1,0 +1,448 @@
+{
+ "day": 94,
+ "theme": "教材片語・中高階 750–850 第 30 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "sales figure",
+   "ph": "",
+   "pos": "n. 銷售數據",
+   "zh": "銷售數據；銷售額",
+   "colloc": "annual sales figure 年度銷售額 | check the sales figure 檢查銷售數據",
+   "distinct": "sales volume 銷售量 | sales revenue 銷售營收",
+   "ex": [
+    [
+     "Please update the latest sales figure for the team.",
+     "請為團隊更新最新的銷售數據。"
+    ],
+    [
+     "The sales figure for this quarter exceeded our expectations.",
+     "本季的銷售額超出了我們的預期。"
+    ],
+    [
+     "Managers are reviewing the sales figure from last month.",
+     "經理們正在檢視上個月的銷售數據。"
+    ]
+   ]
+  },
+  {
+   "word": "sales presentation",
+   "ph": "",
+   "pos": "n. 銷售簡報",
+   "zh": "銷售簡報",
+   "colloc": "give a sales presentation 進行銷售簡報 | prepare a sales presentation 準備銷售簡報",
+   "distinct": "marketing presentation 行銷簡報 | product demonstration 產品演示",
+   "ex": [
+    [
+     "She gave a compelling sales presentation to the client.",
+     "她為客戶進行了一場引人入勝的銷售簡報。"
+    ],
+    [
+     "We need to prepare a professional sales presentation today.",
+     "我們今天需要準備一份專業的銷售簡報。"
+    ],
+    [
+     "The sales presentation focuses on our new service features.",
+     "這場銷售簡報著重於我們的新服務特色。"
+    ]
+   ]
+  },
+  {
+   "word": "sales report",
+   "ph": "",
+   "pos": "n. 銷售報告",
+   "zh": "銷售報告",
+   "colloc": "submit a sales report 提交銷售報告 | analyze the sales report 分析銷售報告",
+   "distinct": "financial report 財務報告 | progress report 進度報告",
+   "ex": [
+    [
+     "The sales report is due by the end of Friday.",
+     "銷售報告要在週五下班前繳交。"
+    ],
+    [
+     "I have analyzed the monthly sales report for accuracy.",
+     "我已經分析過這份月度銷售報告的準確性。"
+    ],
+    [
+     "Could you send me the sales report for this region?",
+     "你可以寄給我這區的銷售報告嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "secondary effect",
+   "ph": "",
+   "pos": "n. 次要影響",
+   "zh": "次要影響；間接影響",
+   "colloc": "consider the secondary effect 考慮次要影響 | mitigate the secondary effect 減輕次要影響",
+   "distinct": "primary effect 主要影響 | side effect 副作用",
+   "ex": [
+    [
+     "We must consider the secondary effect of this policy change.",
+     "我們必須考慮這項政策變動的次要影響。"
+    ],
+    [
+     "The new tax law had a significant secondary effect on trade.",
+     "新稅法對貿易產生了顯著的間接影響。"
+    ],
+    [
+     "They are investigating the secondary effect of the market slump.",
+     "他們正在調查市場蕭條的次要影響。"
+    ]
+   ]
+  },
+  {
+   "word": "see if",
+   "ph": "",
+   "pos": "phr. 看看是否",
+   "zh": "看看是否；確認是否",
+   "colloc": "see if we can 看看我們是否能 | see if it is 看看它是否是",
+   "distinct": "see whether 看看是否（較正式） | check if 確認是否",
+   "ex": [
+    [
+     "Let me see if the manager is available now.",
+     "讓我看看經理現在是否有空。"
+    ],
+    [
+     "I will see if we can finish the task early.",
+     "我會看看我們是否能提早完成這項任務。"
+    ],
+    [
+     "He called to see if the shipment had arrived.",
+     "他打電話來看看貨物是否已經送達。"
+    ]
+   ]
+  },
+  {
+   "word": "send off to",
+   "ph": "",
+   "pos": "phr. 寄送給",
+   "zh": "寄送給；派遣至",
+   "colloc": "send off to the office 寄送到辦公室 | send off to the client 寄送給客戶",
+   "distinct": "send out 發送 | ship to 運送至",
+   "ex": [
+    [
+     "I will send off the contract to the legal department.",
+     "我會把合約寄送給法務部門。"
+    ],
+    [
+     "Please send off the samples to our partner company.",
+     "請將樣品寄送給我們的合作公司。"
+    ],
+    [
+     "The documents were sent off to the headquarters yesterday.",
+     "文件昨天已經寄送到總部了。"
+    ]
+   ]
+  },
+  {
+   "word": "senior executive",
+   "ph": "",
+   "pos": "n. 高階主管",
+   "zh": "高階主管；資深執行官",
+   "colloc": "meet a senior executive 會見高階主管 | a senior executive decision 高階主管的決策",
+   "distinct": "middle manager 中階主管 | junior staff 初階員工",
+   "ex": [
+    [
+     "The senior executive will host the annual company meeting.",
+     "高階主管將主持年度公司會議。"
+    ],
+    [
+     "She was promoted to a senior executive position last year.",
+     "她去年被晉升為高階主管職位。"
+    ],
+    [
+     "We need approval from a senior executive for this budget.",
+     "這項預算需要高階主管的核准。"
+    ]
+   ]
+  },
+  {
+   "word": "serve a customer",
+   "ph": "",
+   "pos": "phr. 服務顧客",
+   "zh": "服務顧客；接待顧客",
+   "colloc": "serve a customer promptly 迅速服務顧客 | serve a customer well 妥善服務顧客",
+   "distinct": "assist a client 協助客戶 | handle a complaint 處理投訴",
+   "ex": [
+    [
+     "Our staff are trained to serve a customer with care.",
+     "我們的員工受過訓練，能用心服務顧客。"
+    ],
+    [
+     "It is important to serve a customer in a professional manner.",
+     "以專業的態度服務顧客是很重要的。"
+    ],
+    [
+     "He is busy serving a customer at the front desk.",
+     "他正忙於在櫃檯服務顧客。"
+    ]
+   ]
+  },
+  {
+   "word": "set aside",
+   "ph": "",
+   "pos": "phr. 撥出；擱置",
+   "zh": "撥出；留出；擱置",
+   "colloc": "set aside funds 撥出資金 | set aside time 撥出時間",
+   "distinct": "put aside 暫時放下 | reserve 預留",
+   "ex": [
+    [
+     "We should set aside time to discuss the new strategy.",
+     "我們應該撥出時間來討論新策略。"
+    ],
+    [
+     "The committee decided to set aside the proposal for now.",
+     "委員會決定暫時擱置這項提案。"
+    ],
+    [
+     "They have set aside some money for emergency repairs.",
+     "他們已經撥出一筆錢用於緊急維修。"
+    ]
+   ]
+  },
+  {
+   "word": "set down to work",
+   "ph": "",
+   "pos": "phr. 開始工作",
+   "zh": "開始工作；定下心來工作",
+   "colloc": "set down to work immediately 立即開始工作 | set down to work on the project 開始處理專案",
+   "distinct": "get down to work 開始著手工作 | start working 開始工作",
+   "ex": [
+    [
+     "It is time to set down to work on the monthly report.",
+     "是時候定下心來處理月度報告了。"
+    ],
+    [
+     "They set down to work as soon as the meeting ended.",
+     "會議一結束，他們就開始著手工作。"
+    ],
+    [
+     "We need to set down to work to meet the deadline.",
+     "為了趕上截止日期，我們必須開始認真工作。"
+    ]
+   ]
+  },
+  {
+   "word": "set the table",
+   "ph": "",
+   "pos": "phr. 擺放餐具",
+   "zh": "擺放餐具；佈置餐桌",
+   "colloc": "set the table for dinner 為晚餐擺放餐具 | help set the table 幫忙擺放餐具",
+   "distinct": "clear the table 收拾餐桌 | arrange the table 安排座位",
+   "ex": [
+    [
+     "The waiter is setting the table for the business lunch.",
+     "服務生正在為商務午餐擺放餐具。"
+    ],
+    [
+     "Please help me set the table before the guests arrive.",
+     "請在客人抵達前幫我擺放餐具。"
+    ],
+    [
+     "They set the table with fine china for the banquet.",
+     "他們為宴會擺放了精緻瓷器餐具。"
+    ]
+   ]
+  },
+  {
+   "word": "set up",
+   "ph": "",
+   "pos": "phr. 設立；安排",
+   "zh": "設立；建立；安裝；安排",
+   "colloc": "set up a business 創業 | set up a meeting 安排會議",
+   "distinct": "establish 建立（機構） | arrange 安排（行程）",
+   "ex": [
+    [
+     "They plan to set up a new branch in Taipei.",
+     "他們計劃在台北設立一家新分公司。"
+    ],
+    [
+     "I will set up a conference call for tomorrow morning.",
+     "我會為明天早上安排一場電話會議。"
+    ],
+    [
+     "The IT department helped set up the new software.",
+     "資訊部門協助安裝了新軟體。"
+    ]
+   ]
+  },
+  {
+   "word": "set up an interview",
+   "ph": "",
+   "pos": "phr. 安排面試",
+   "zh": "安排面試",
+   "colloc": "successfully set up an interview 成功安排面試 | help set up an interview 協助安排面試",
+   "distinct": "arrange an interview 安排面試 | conduct an interview 進行面試",
+   "ex": [
+    [
+     "Human resources will set up an interview with the candidate.",
+     "人資部門將會與候選人安排面試。"
+    ],
+    [
+     "I managed to set up an interview for next Wednesday.",
+     "我設法安排了下週三的面試。"
+    ],
+    [
+     "Please set up an interview as soon as you receive the resume.",
+     "收到履歷後請儘快安排面試。"
+    ]
+   ]
+  },
+  {
+   "word": "show off",
+   "ph": "",
+   "pos": "phr. 炫耀；賣弄",
+   "zh": "炫耀；賣弄",
+   "colloc": "like to show off 喜歡炫耀 | show off their skills 炫耀他們的技能",
+   "distinct": "boast 自誇 | display 展示",
+   "ex": [
+    [
+     "He likes to show off his expensive office equipment.",
+     "他喜歡炫耀他昂貴的辦公設備。"
+    ],
+    [
+     "There is no need to show off during the presentation.",
+     "簡報時不需要刻意賣弄。"
+    ],
+    [
+     "She showed off her new marketing strategy to the team.",
+     "她向團隊展示了她新的行銷策略。"
+    ]
+   ]
+  },
+  {
+   "word": "sick leave",
+   "ph": "",
+   "pos": "n. 病假",
+   "zh": "病假",
+   "colloc": "take sick leave 請病假 | on sick leave 請病假中",
+   "distinct": "annual leave 年假 | personal leave 事假",
+   "ex": [
+    [
+     "He is on sick leave for the rest of the week.",
+     "他這週剩下的時間都在請病假。"
+    ],
+    [
+     "Please submit your sick leave application through the portal.",
+     "請透過系統提交您的病假申請。"
+    ],
+    [
+     "She had to take sick leave due to a sudden illness.",
+     "由於突發疾病，她必須請病假。"
+    ]
+   ]
+  },
+  {
+   "word": "side by side",
+   "ph": "",
+   "pos": "phr. 並排；並肩",
+   "zh": "並排；並肩；共同",
+   "colloc": "work side by side 並肩工作 | sit side by side 並排坐",
+   "distinct": "together 一起 | alongside 在旁邊",
+   "ex": [
+    [
+     "Our departments will work side by side on this project.",
+     "我們的部門將會並肩合作完成這個專案。"
+    ],
+    [
+     "The two companies are working side by side to innovate.",
+     "這兩家公司正並肩合作進行創新。"
+    ],
+    [
+     "They sat side by side to review the legal documents.",
+     "他們並排坐著審閱法律文件。"
+    ]
+   ]
+  },
+  {
+   "word": "side effect",
+   "ph": "",
+   "pos": "n. 副作用",
+   "zh": "副作用",
+   "colloc": "unexpected side effect 意想不到的副作用 | manage the side effect 管理副作用",
+   "distinct": "consequence 後果 | secondary effect 次要影響",
+   "ex": [
+    [
+     "The new policy had an unintended side effect on morale.",
+     "新政策對士氣產生了非預期的副作用。"
+    ],
+    [
+     "We must evaluate every potential side effect of this plan.",
+     "我們必須評估這項計畫的每一個潛在副作用。"
+    ],
+    [
+     "The drug has a mild side effect on some patients.",
+     "該藥物對一些病人有輕微的副作用。"
+    ]
+   ]
+  },
+  {
+   "word": "sign up for",
+   "ph": "",
+   "pos": "phr. 報名參加",
+   "zh": "報名參加；註冊",
+   "colloc": "sign up for a course 報名課程 | sign up for the newsletter 訂閱電子報",
+   "distinct": "register for 註冊 | enroll in 註冊入學/課程",
+   "ex": [
+    [
+     "Many employees signed up for the leadership training program.",
+     "許多員工報名參加了領導力培訓計畫。"
+    ],
+    [
+     "You can sign up for the seminar on the website.",
+     "你可以在網站上報名參加研討會。"
+    ],
+    [
+     "She signed up for the newsletter to get industry updates.",
+     "她訂閱了電子報以獲取產業最新消息。"
+    ]
+   ]
+  },
+  {
+   "word": "sit through",
+   "ph": "",
+   "pos": "phr. 耐著性子看完/坐完",
+   "zh": "耐著性子看完；坐著聽完",
+   "colloc": "sit through a meeting 坐著聽完會議 | sit through the lecture 聽完講座",
+   "distinct": "attend 參加 | endure 忍受",
+   "ex": [
+    [
+     "It is difficult to sit through such a long presentation.",
+     "要耐著性子聽完這麼長的簡報很困難。"
+    ],
+    [
+     "I had to sit through three hours of budget reviews.",
+     "我不得不耐著性子參加了三個小時的預算審查。"
+    ],
+    [
+     "Everyone had to sit through the boring safety video.",
+     "每個人都得耐著性子看完那部無聊的安全影片。"
+    ]
+   ]
+  },
+  {
+   "word": "speak on the phone",
+   "ph": "",
+   "pos": "phr. 通電話",
+   "zh": "通電話；講電話",
+   "colloc": "speak on the phone briefly 簡短通話 | speak on the phone about the deal 通電話討論交易",
+   "distinct": "talk on the phone 講電話 | call someone 打電話給某人",
+   "ex": [
+    [
+     "I will speak on the phone with the client later.",
+     "我稍後會與客戶通電話。"
+    ],
+    [
+     "He is busy speaking on the phone regarding the contract.",
+     "他正忙著就合約事宜通電話。"
+    ],
+    [
+     "We often speak on the phone to coordinate our schedules.",
+     "我們常通電話來協調彼此的行程。"
+    ]
+   ]
+  }
+ ]
+}

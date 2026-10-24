@@ -1,0 +1,448 @@
+{
+ "day": 35,
+ "theme": "教材字彙・進階 650–750 第 35 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "goods",
+   "ph": "/ɡʊdz/",
+   "pos": "n. 商品；貨物",
+   "zh": "商品；貨物",
+   "colloc": "consumer goods 消費品 | defective goods 瑕疵品",
+   "distinct": "merchandise 商品（不可數） | cargo 貨物（運輸用）",
+   "ex": [
+    [
+     "The company will ship the goods next week.",
+     "公司下週將運送這批貨物。"
+    ],
+    [
+     "Our store offers a wide range of goods.",
+     "我們的商店提供各式各樣的商品。"
+    ],
+    [
+     "Customs officials inspected the imported goods.",
+     "海關官員檢查了進口的貨物。"
+    ]
+   ]
+  },
+  {
+   "word": "governed",
+   "ph": "/ˈɡʌvərnd/",
+   "pos": "v. 統治；管理（governed 為 govern 的過去式或過去分詞）",
+   "zh": "統治；管理；約束",
+   "colloc": "strictly governed 被嚴格管理 | be governed by 受...支配",
+   "distinct": "rule 統治（強調權力） | manage 管理（強調事務）",
+   "ex": [
+    [
+     "These policies are governed by international law.",
+     "這些政策受國際法規範。"
+    ],
+    [
+     "The region was governed by a local council.",
+     "該地區由地方議會治理。"
+    ],
+    [
+     "Market prices are governed by supply and demand.",
+     "市場價格受供需機制約束。"
+    ]
+   ]
+  },
+  {
+   "word": "government",
+   "ph": "/ˈɡʌvərmənt/",
+   "pos": "n. 政府；政體",
+   "zh": "政府；政體",
+   "colloc": "government official 政府官員 | local government 地方政府",
+   "distinct": "administration 行政機關 | regime 政權",
+   "ex": [
+    [
+     "The government announced new tax regulations today.",
+     "政府今日宣布了新的稅務法規。"
+    ],
+    [
+     "Many government projects rely on private funding.",
+     "許多政府計畫仰賴私人資金。"
+    ],
+    [
+     "He works for a local government agency.",
+     "他在一家地方政府機構工作。"
+    ]
+   ]
+  },
+  {
+   "word": "grab",
+   "ph": "/ɡræb/",
+   "pos": "v. 抓取；佔用 | n. 抓取",
+   "zh": "抓取；佔用；把握",
+   "colloc": "grab an opportunity 把握機會 | grab a seat 搶位子",
+   "distinct": "seize 奪取（強行） | grasp 緊握（概念或物體）",
+   "ex": [
+    [
+     "Let us grab a coffee before the meeting.",
+     "開會前我們先去喝杯咖啡吧。"
+    ],
+    [
+     "She managed to grab the last available ticket.",
+     "她成功搶到了最後一張票。"
+    ],
+    [
+     "The company aims to grab a larger market share.",
+     "該公司目標是搶占更大的市場份額。"
+    ]
+   ]
+  },
+  {
+   "word": "group",
+   "ph": "/ɡruːp/",
+   "pos": "n. 組；群體 | v. 將...分組",
+   "zh": "組；群體；分組",
+   "colloc": "focus group 焦點小組 | working group 工作小組",
+   "distinct": "team 團隊（目標一致） | category 類別",
+   "ex": [
+    [
+     "Please divide the participants into four groups.",
+     "請將與會者分成四個小組。"
+    ],
+    [
+     "The marketing group presented their latest proposal.",
+     "行銷小組發表了最新的提案。"
+    ],
+    [
+     "We should group these tasks by priority level.",
+     "我們應該按優先順序將這些工作分類。"
+    ]
+   ]
+  },
+  {
+   "word": "headache",
+   "ph": "/ˈhedeɪk/",
+   "pos": "n. 頭痛；令人頭痛的事",
+   "zh": "頭痛；棘手的事",
+   "colloc": "a real headache 一個大麻煩 | suffer a headache 遭受頭痛",
+   "distinct": "nuisance 討厭的人事物 | trouble 困難",
+   "ex": [
+    [
+     "Scheduling the meeting became a major headache.",
+     "安排會議時間變成一件很頭痛的事。"
+    ],
+    [
+     "He took some medicine for his splitting headache.",
+     "他服了藥來緩解劇烈的頭痛。"
+    ],
+    [
+     "Technical issues are a headache for the IT department.",
+     "技術問題對資訊部門來說很棘手。"
+    ]
+   ]
+  },
+  {
+   "word": "height",
+   "ph": "/haɪt/",
+   "pos": "n. 高度；巔峰",
+   "zh": "高度；巔峰；高地",
+   "colloc": "reach the height 達到高峰 | at a height of 在...高度",
+   "distinct": "altitude 海拔高度 | length 長度",
+   "ex": [
+    [
+     "The building reaches a height of fifty meters.",
+     "這棟建築物高度達到五十公尺。"
+    ],
+    [
+     "Business success was at its height last year.",
+     "商業成就去年達到巔峰。"
+    ],
+    [
+     "Please check the height requirements for this equipment.",
+     "請確認該設備的高度要求。"
+    ]
+   ]
+  },
+  {
+   "word": "informal",
+   "ph": "/ɪnˈfɔːrml/",
+   "pos": "adj. 非正式的；隨意的",
+   "zh": "非正式的；隨意的",
+   "colloc": "informal meeting 非正式會議 | informal dress code 非正式穿著",
+   "distinct": "casual 隨便的 | unofficial 非官方的",
+   "ex": [
+    [
+     "They held an informal chat during the break.",
+     "他們在休息時間進行了非正式閒聊。"
+    ],
+    [
+     "The atmosphere at the startup is quite informal.",
+     "這家新創公司的氣氛相當隨興。"
+    ],
+    [
+     "Please keep the written report professional, not informal.",
+     "書面報告請保持專業，不要過於口語。"
+    ]
+   ]
+  },
+  {
+   "word": "invention",
+   "ph": "/ɪnˈvenʃn/",
+   "pos": "n. 發明；發明物",
+   "zh": "發明；發明物；創造",
+   "colloc": "a brilliant invention 一項絕妙發明 | patent an invention 為發明申請專利",
+   "distinct": "discovery 發現（既有事物） | innovation 創新（改進）",
+   "ex": [
+    [
+     "The invention of the internet changed the business world.",
+     "網際網路的發明改變了商業世界。"
+    ],
+    [
+     "She is working on a new invention for the home.",
+     "她正在研發一種新的居家發明。"
+    ],
+    [
+     "The company invested heavily in this invention.",
+     "該公司對這項發明進行了鉅額投資。"
+    ]
+   ]
+  },
+  {
+   "word": "invite",
+   "ph": "/ɪnˈvaɪt/",
+   "pos": "v. 邀請；招致 | n. 邀請",
+   "zh": "邀請；招致",
+   "colloc": "invite someone to 邀請某人至 | send an invite 發送邀請",
+   "distinct": "ask 詢問/要求 | request 正式要求",
+   "ex": [
+    [
+     "I would like to invite you to our gala.",
+     "我想邀請您參加我們的盛會。"
+    ],
+    [
+     "Their low prices invite more customers to visit.",
+     "他們低廉的價格吸引更多顧客上門。"
+    ],
+    [
+     "Did you receive the invite for the annual dinner?",
+     "你有收到年度晚宴的邀請函嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "joint",
+   "ph": "/dʒɔɪnt/",
+   "pos": "adj. 共同的；聯合的 | n. 關節",
+   "zh": "共同的；聯合的",
+   "colloc": "joint venture 合資企業 | joint account 聯名帳戶",
+   "distinct": "shared 共享的 | mutual 互相的",
+   "ex": [
+    [
+     "The two companies formed a joint venture.",
+     "這兩家公司成立了一家合資企業。"
+    ],
+    [
+     "This is a joint effort to increase sales.",
+     "這是提高銷售額的共同努力。"
+    ],
+    [
+     "We will make a joint decision later today.",
+     "我們稍後會做出共同決策。"
+    ]
+   ]
+  },
+  {
+   "word": "knife",
+   "ph": "/naɪf/",
+   "pos": "n. 刀；刀具",
+   "zh": "刀；刀具",
+   "colloc": "sharp knife 利刃 | kitchen knife 菜刀",
+   "distinct": "blade 刀片 | cutter 切割器",
+   "ex": [
+    [
+     "Please handle the knife with great care.",
+     "請務必小心使用這把刀。"
+    ],
+    [
+     "The chef uses a professional knife for cooking.",
+     "主廚使用專業的刀具烹飪。"
+    ],
+    [
+     "He sharpened the knife before cutting the meat.",
+     "他在切肉前磨了磨刀子。"
+    ]
+   ]
+  },
+  {
+   "word": "landscape",
+   "ph": "/ˈlændskeɪp/",
+   "pos": "n. 風景；景觀 | v. 對...進行景觀設計",
+   "zh": "風景；景觀；領域",
+   "colloc": "competitive landscape 競爭態勢 | beautiful landscape 美麗風景",
+   "distinct": "scenery 風景（自然） | view 視野",
+   "ex": [
+    [
+     "The competitive landscape of this industry is changing.",
+     "這個產業的競爭態勢正在改變。"
+    ],
+    [
+     "They hired a firm to landscape the garden.",
+     "他們聘請了一家公司來進行花園造景。"
+    ],
+    [
+     "The view features a stunning mountain landscape.",
+     "該視野擁有迷人的山區景觀。"
+    ]
+   ]
+  },
+  {
+   "word": "large",
+   "ph": "/lɑːrdʒ/",
+   "pos": "adj. 大的；大規模的",
+   "zh": "大的；大規模的；眾多的",
+   "colloc": "large scale 大規模 | large amount 大量",
+   "distinct": "big 大的（廣義） | huge 巨大的",
+   "ex": [
+    [
+     "We are planning a large event for our clients.",
+     "我們正在為客戶規劃一場大型活動。"
+    ],
+    [
+     "A large portion of the budget goes to marketing.",
+     "預算中很大一部分用於行銷。"
+    ],
+    [
+     "The company has a large number of employees.",
+     "這家公司擁有大量員工。"
+    ]
+   ]
+  },
+  {
+   "word": "level",
+   "ph": "/ˈlevl/",
+   "pos": "n. 水準；等級；高度 | adj. 水平的",
+   "zh": "水準；等級；高度",
+   "colloc": "at an entry level 入門級 | skill level 技能水準",
+   "distinct": "rank 等級/職位 | stage 階段",
+   "ex": [
+    [
+     "Your language skill level is quite impressive.",
+     "您的語言能力水準令人印象深刻。"
+    ],
+    [
+     "The project reached a new level of success.",
+     "該專案達到了新的成功水準。"
+    ],
+    [
+     "Please ensure the surface is perfectly level.",
+     "請確保表面完全水平。"
+    ]
+   ]
+  },
+  {
+   "word": "loose",
+   "ph": "/luːs/",
+   "pos": "adj. 鬆的；寬鬆的",
+   "zh": "鬆的；寬鬆的；不嚴謹的",
+   "colloc": "loose ends 未完之事 | loose clothing 寬鬆衣物",
+   "distinct": "lost 遺失的 | release 釋放",
+   "ex": [
+    [
+     "The screw has become loose over time.",
+     "螺絲隨著時間推移變得鬆動了。"
+    ],
+    [
+     "He prefers wearing loose shirts in summer.",
+     "他夏天偏好穿寬鬆的襯衫。"
+    ],
+    [
+     "There are still some loose ends in the contract.",
+     "合約中仍有一些未解決的細節。"
+    ]
+   ]
+  },
+  {
+   "word": "magazine",
+   "ph": "/ˌmæɡəˈziːn/",
+   "pos": "n. 雜誌",
+   "zh": "雜誌；彈匣",
+   "colloc": "business magazine 商業雜誌 | monthly magazine 月刊",
+   "distinct": "journal 學術期刊 | newspaper 報紙",
+   "ex": [
+    [
+     "We placed an advertisement in the business magazine.",
+     "我們在商業雜誌上刊登了廣告。"
+    ],
+    [
+     "She contributes articles to a fashion magazine.",
+     "她為時尚雜誌撰寫文章。"
+    ],
+    [
+     "You can find the report in this month's magazine.",
+     "你可以在本月的雜誌中找到該報告。"
+    ]
+   ]
+  },
+  {
+   "word": "meaning",
+   "ph": "/ˈmiːnɪŋ/",
+   "pos": "n. 意義；含義",
+   "zh": "意義；含義；用意",
+   "colloc": "the true meaning 真義 | clear meaning 明確的含義",
+   "distinct": "definition 定義 | significance 重要性",
+   "ex": [
+    [
+     "What is the exact meaning of this clause?",
+     "這項條款的確切含義是什麼？"
+    ],
+    [
+     "His words carry a deeper meaning than expected.",
+     "他的話語包含比預期更深層的意義。"
+    ],
+    [
+     "The meaning of the feedback is quite clear.",
+     "這項回饋的用意十分明確。"
+    ]
+   ]
+  },
+  {
+   "word": "midday",
+   "ph": "/ˌmɪdˈdeɪ/",
+   "pos": "n. 中午；正午",
+   "zh": "中午；正午",
+   "colloc": "around midday 在中午左右 | midday sun 正午的太陽",
+   "distinct": "noon 正午 | midnight 午夜",
+   "ex": [
+    [
+     "The meeting will conclude around midday.",
+     "會議將在中午左右結束。"
+    ],
+    [
+     "It gets very hot during the midday heat.",
+     "正午時分天氣變得非常炎熱。"
+    ],
+    [
+     "Let's schedule a lunch break at midday.",
+     "我們安排在中午休息用餐吧。"
+    ]
+   ]
+  },
+  {
+   "word": "minimum",
+   "ph": "/ˈmɪnɪməm/",
+   "pos": "n. 最小值；最低限度 | adj. 最低的",
+   "zh": "最小值；最低限度",
+   "colloc": "minimum wage 最低工資 | minimum requirement 最低要求",
+   "distinct": "minimal 最小的（形容詞） | maximum 最大值",
+   "ex": [
+    [
+     "The minimum requirement for this job is experience.",
+     "這份工作的最低要求是具備經驗。"
+    ],
+    [
+     "We need a minimum of ten people to start.",
+     "我們至少需要十個人才能開始。"
+    ],
+    [
+     "The company raised the minimum wage last month.",
+     "公司上個月提高了最低工資。"
+    ]
+   ]
+  }
+ ]
+}

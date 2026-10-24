@@ -1,0 +1,448 @@
+{
+ "day": 36,
+ "theme": "教材字彙・進階 650–750 第 36 群",
+ "level": "進階 650–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "miss",
+   "ph": "/mɪs/",
+   "pos": "v. 錯過；想念 | n. 小姐",
+   "zh": "錯過；想念",
+   "colloc": "miss the deadline 錯過截止日期 | miss an opportunity 錯失良機",
+   "distinct": "lose 遺失（物品）| omit 疏忽（遺漏）",
+   "ex": [
+    [
+     "I cannot afford to miss the meeting. ",
+     "我不能錯過這次會議。"
+    ],
+    [
+     "The shipment missed the scheduled departure. ",
+     "這批貨物錯過了預定的出發時間。"
+    ],
+    [
+     "We missed our target for this quarter. ",
+     "我們錯過了本季的目標。"
+    ]
+   ]
+  },
+  {
+   "word": "network",
+   "ph": "/ˈnetwɜːrk/",
+   "pos": "n. 網路；人脈 | v. 建立人脈",
+   "zh": "網路；人脈",
+   "colloc": "networking event 社交活動 | professional network 專業人脈網",
+   "distinct": "web 網狀物 | connection 連結（關係）",
+   "ex": [
+    [
+     "Our company has an extensive distribution network. ",
+     "我們公司擁有廣泛的經銷網路。"
+    ],
+    [
+     "Networking is essential for career development. ",
+     "建立人脈對職涯發展至關重要。"
+    ],
+    [
+     "The IT department repaired the server network. ",
+     "資訊部門修復了伺服器網路。"
+    ]
+   ]
+  },
+  {
+   "word": "newspaper",
+   "ph": "/ˈnuːzˌpeɪpər/",
+   "pos": "n. 報紙",
+   "zh": "報紙",
+   "colloc": "daily newspaper 日報 | read the newspaper 閱讀報紙",
+   "distinct": "magazine 雜誌 | periodical 期刊",
+   "ex": [
+    [
+     "He advertised the vacancy in the newspaper. ",
+     "他在報紙上刊登了職缺廣告。"
+    ],
+    [
+     "Did you see the article in today's newspaper? ",
+     "你有看到今天報紙上的那篇報導嗎？"
+    ],
+    [
+     "The newspaper reported a rise in profit. ",
+     "那份報紙報導了利潤成長的消息。"
+    ]
+   ]
+  },
+  {
+   "word": "offering",
+   "ph": "/ˈɔːfərɪŋ/",
+   "pos": "n. 提供的產品（或服務）；報價",
+   "zh": "提供的產品；報價",
+   "colloc": "special offering 特別優惠 | product offering 產品線",
+   "distinct": "offer 提供（動詞）| bid 出價",
+   "ex": [
+    [
+     "Our latest software offering is very competitive. ",
+     "我們最新的軟體產品非常有競爭力。"
+    ],
+    [
+     "The company expanded its service offerings. ",
+     "該公司擴展了他們的服務項目。"
+    ],
+    [
+     "They analyzed the current market offerings. ",
+     "他們分析了目前的市場產品。"
+    ]
+   ]
+  },
+  {
+   "word": "original",
+   "ph": "/əˈrɪdʒənl/",
+   "pos": "adj. 最初的；原創的 | n. 原件",
+   "zh": "最初的；原創的",
+   "colloc": "original plan 原定計畫 | keep the original 保留原件",
+   "distinct": "initial 開始的 | creative 有創意的",
+   "ex": [
+    [
+     "Please submit the original copy of the invoice. ",
+     "請提交發票的正本。"
+    ],
+    [
+     "The original design was much more complex. ",
+     "最初的設計要複雜得多。"
+    ],
+    [
+     "She provided some original ideas for the campaign. ",
+     "她為該活動提供了一些原創的想法。"
+    ]
+   ]
+  },
+  {
+   "word": "paper",
+   "ph": "/ˈpeɪpər/",
+   "pos": "n. 紙；文件；報告 | v. 用紙覆蓋",
+   "zh": "紙；文件；報告",
+   "colloc": "paper work 文書工作 | research paper 研究報告",
+   "distinct": "document 文件 | file 檔案",
+   "ex": [
+    [
+     "Please fill out these papers by noon. ",
+     "請在中午前填好這些文件。"
+    ],
+    [
+     "The printer is out of paper again. ",
+     "印表機又沒紙了。"
+    ],
+    [
+     "He is writing a research paper on marketing. ",
+     "他正在撰寫一篇行銷研究報告。"
+    ]
+   ]
+  },
+  {
+   "word": "pattern",
+   "ph": "/ˈpætərn/",
+   "pos": "n. 模式；圖案 | v. 仿製",
+   "zh": "模式；圖案",
+   "colloc": "spending pattern 消費模式 | follow a pattern 遵循模式",
+   "distinct": "model 模型 | trend 趨勢",
+   "ex": [
+    [
+     "We noticed a pattern in consumer behavior. ",
+     "我們注意到消費者行為的一種模式。"
+    ],
+    [
+     "The wallpaper features a simple floral pattern. ",
+     "這款壁紙有簡單的花卉圖案。"
+    ],
+    [
+     "Traffic patterns change during the rush hour. ",
+     "尖峰時段的交通模式會改變。"
+    ]
+   ]
+  },
+  {
+   "word": "planning",
+   "ph": "/ˈplænɪŋ/",
+   "pos": "n. 計畫；規劃",
+   "zh": "計畫；規劃",
+   "colloc": "financial planning 財務規劃 | strategic planning 策略規劃",
+   "distinct": "plan 計畫（名詞）| preparation 準備",
+   "ex": [
+    [
+     "Effective planning is key to project success. ",
+     "有效的規劃是專案成功的關鍵。"
+    ],
+    [
+     "She is in charge of event planning. ",
+     "她負責活動的規劃工作。"
+    ],
+    [
+     "Long-term planning helps us stay ahead. ",
+     "長期規劃有助於我們保持領先。"
+    ]
+   ]
+  },
+  {
+   "word": "point",
+   "ph": "/pɔɪnt/",
+   "pos": "n. 觀點；重點；點 | v. 指向",
+   "zh": "觀點；重點；點",
+   "colloc": "get to the point 說重點 | main point 主要觀點",
+   "distinct": "spot 地點 | issue 議題",
+   "ex": [
+    [
+     "What is the main point of his proposal? ",
+     "他提案的主要重點是什麼？"
+    ],
+    [
+     "You have a valid point regarding the budget. ",
+     "關於預算的部分，你的觀點很合理。"
+    ],
+    [
+     "The manager pointed out a flaw in the plan. ",
+     "經理指出了計畫中的一個缺失。"
+    ]
+   ]
+  },
+  {
+   "word": "post",
+   "ph": "/poʊst/",
+   "pos": "v. 郵寄；公告 | n. 職位；郵件",
+   "zh": "郵寄；公告；職位",
+   "colloc": "post an ad 刊登廣告 | vacant post 空缺職位",
+   "distinct": "position 職位 | mail 郵件",
+   "ex": [
+    [
+     "The company posted the results on the website. ",
+     "公司將結果公告在網站上。"
+    ],
+    [
+     "He applied for the post of marketing manager. ",
+     "他應徵了行銷經理的職位。"
+    ],
+    [
+     "Please post the documents to our head office. ",
+     "請將這些文件寄到我們的總公司。"
+    ]
+   ]
+  },
+  {
+   "word": "practical",
+   "ph": "/ˈpræktɪkl/",
+   "pos": "adj. 實際的；實用的",
+   "zh": "實際的；實用的",
+   "colloc": "practical experience 實務經驗 | practical solution 實用的解決方案",
+   "distinct": "pragmatic 務實的 | functional 功能性的",
+   "ex": [
+    [
+     "We need a practical approach to this problem. ",
+     "我們需要一個解決此問題的務實方法。"
+    ],
+    [
+     "The workshop provides practical training for staff. ",
+     "研討會為員工提供實務訓練。"
+    ],
+    [
+     "It is not practical to buy new equipment now. ",
+     "現在購買新設備並不實際。"
+    ]
+   ]
+  },
+  {
+   "word": "professor",
+   "ph": "/prəˈfesər/",
+   "pos": "n. 教授",
+   "zh": "教授",
+   "colloc": "assistant professor 助理教授 | university professor 大學教授",
+   "distinct": "teacher 教師 | lecturer 講師",
+   "ex": [
+    [
+     "The professor is an expert in economics. ",
+     "那位教授是經濟學方面的專家。"
+    ],
+    [
+     "I have an appointment with the professor today. ",
+     "我今天跟教授有個約。"
+    ],
+    [
+     "Many students attended the professor's lecture. ",
+     "許多學生參加了教授的演講。"
+    ]
+   ]
+  },
+  {
+   "word": "pure",
+   "ph": "/pjʊr/",
+   "pos": "adj. 純淨的；純粹的",
+   "zh": "純淨的；純粹的",
+   "colloc": "pure water 純水 | pure coincidence 純屬巧合",
+   "distinct": "clean 乾淨的 | simple 簡單的",
+   "ex": [
+    [
+     "The factory uses pure materials for production. ",
+     "工廠使用純淨的原料進行生產。"
+    ],
+    [
+     "It was pure luck that we finished early. ",
+     "我們能提早完成純屬運氣好。"
+    ],
+    [
+     "The company focuses on pure profit growth. ",
+     "公司專注於純粹的利潤成長。"
+    ]
+   ]
+  },
+  {
+   "word": "quit",
+   "ph": "/kwɪt/",
+   "pos": "v. 停止；辭職",
+   "zh": "停止；辭職",
+   "colloc": "quit the job 辭職 | quit smoking 戒菸",
+   "distinct": "resign 辭職（正式）| stop 停止",
+   "ex": [
+    [
+     "He decided to quit his job last month. ",
+     "他上個月決定辭職。"
+    ],
+    [
+     "We cannot afford to quit now. ",
+     "我們現在不能放棄。"
+    ],
+    [
+     "She quit the project due to family issues. ",
+     "由於家庭問題，她退出了這個專案。"
+    ]
+   ]
+  },
+  {
+   "word": "reader",
+   "ph": "/ˈriːdər/",
+   "pos": "n. 讀者",
+   "zh": "讀者",
+   "colloc": "target reader 目標讀者 | loyal reader 忠實讀者",
+   "distinct": "audience 聽眾 | viewer 觀眾",
+   "ex": [
+    [
+     "This magazine attracts a wide range of readers. ",
+     "這本雜誌吸引了廣大的讀者群。"
+    ],
+    [
+     "The author knows exactly what the readers want. ",
+     "作者非常清楚讀者想要什麼。"
+    ],
+    [
+     "Our goal is to reach more online readers. ",
+     "我們的目標是接觸更多的線上讀者。"
+    ]
+   ]
+  },
+  {
+   "word": "relaxing",
+   "ph": "/rɪˈlæksɪŋ/",
+   "pos": "adj. 令人放鬆的",
+   "zh": "令人放鬆的",
+   "colloc": "relaxing atmosphere 放鬆的氛圍 | relaxing holiday 放鬆的假期",
+   "distinct": "relaxed 放鬆的（心情）| comfortable 舒適的",
+   "ex": [
+    [
+     "The hotel offers a very relaxing environment. ",
+     "這家飯店提供非常放鬆的環境。"
+    ],
+    [
+     "Soft music makes for a relaxing afternoon. ",
+     "輕柔的音樂讓下午時光很放鬆。"
+    ],
+    [
+     "We enjoyed a relaxing break at the resort. ",
+     "我們在度假村享受了放鬆的休息時間。"
+    ]
+   ]
+  },
+  {
+   "word": "rent",
+   "ph": "/rent/",
+   "pos": "n. 租金 | v. 租用",
+   "zh": "租金；租用",
+   "colloc": "monthly rent 每月租金 | rent a car 租車",
+   "distinct": "hire 雇用（或短暫租用）| lease 長期租賃",
+   "ex": [
+    [
+     "The rent for this office is quite high. ",
+     "這間辦公室的租金相當高。"
+    ],
+    [
+     "We need to rent a space for the seminar. ",
+     "我們需要租一個場地辦研討會。"
+    ],
+    [
+     "They rent equipment for construction projects. ",
+     "他們為建築工程租賃設備。"
+    ]
+   ]
+  },
+  {
+   "word": "role",
+   "ph": "/roʊl/",
+   "pos": "n. 角色；職責",
+   "zh": "角色；職責",
+   "colloc": "play a role 扮演角色 | key role 關鍵角色",
+   "distinct": "job 工作 | duty 責任",
+   "ex": [
+    [
+     "She plays a key role in the marketing team. ",
+     "她在行銷團隊中扮演關鍵角色。"
+    ],
+    [
+     "He is looking for a new role in sales. ",
+     "他正在尋找銷售領域的新職位。"
+    ],
+    [
+     "Technology plays a major role in our business. ",
+     "科技在我們的業務中扮演主要角色。"
+    ]
+   ]
+  },
+  {
+   "word": "root",
+   "ph": "/ruːt/",
+   "pos": "n. 根；根源 | v. 生根",
+   "zh": "根；根源",
+   "colloc": "root cause 根本原因 | get to the root 找出根源",
+   "distinct": "base 底部 | source 來源",
+   "ex": [
+    [
+     "We need to address the root cause of the error. ",
+     "我們需要解決錯誤的根本原因。"
+    ],
+    [
+     "Poor communication is often at the root of conflict. ",
+     "溝通不良往往是衝突的根源。"
+    ],
+    [
+     "They are trying to get to the root of the problem. ",
+     "他們正試圖找出問題的源頭。"
+    ]
+   ]
+  },
+  {
+   "word": "routine",
+   "ph": "/ruːˈtiːn/",
+   "pos": "n. 例行公事 | adj. 例行的",
+   "zh": "例行公事；例行的",
+   "colloc": "daily routine 日常事務 | routine inspection 例行檢查",
+   "distinct": "schedule 時間表 | habit 習慣",
+   "ex": [
+    [
+     "Checking emails is part of my daily routine. ",
+     "檢查電子郵件是我日常事務的一部分。"
+    ],
+    [
+     "We conduct routine maintenance every month. ",
+     "我們每個月進行例行維護。"
+    ],
+    [
+     "The process is just a routine procedure. ",
+     "這個流程只是個例行程序。"
+    ]
+   ]
+  }
+ ]
+}

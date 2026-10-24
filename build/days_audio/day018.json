@@ -1,0 +1,448 @@
+{
+ "day": 18,
+ "theme": "教材字彙・基礎 550–650 第 18 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "rating",
+   "ph": "/ˈreɪtɪŋ/",
+   "pos": "n. 等級；評價",
+   "zh": "等級；評價；評分",
+   "colloc": "high rating 高評價 | credit rating 信用評等",
+   "distinct": "ranking 名次；排名 | grade 成績；等級",
+   "ex": [
+    [
+     "The hotel has a five-star rating.",
+     "這家飯店擁有五星級的評價。"
+    ],
+    [
+     "Her performance rating was excellent this year.",
+     "她今年的績效評估表現優異。"
+    ],
+    [
+     "Consumer ratings influence our sales strategy.",
+     "消費者的評價影響了我們的銷售策略。"
+    ]
+   ]
+  },
+  {
+   "word": "receive",
+   "ph": "/rɪˈsiːv/",
+   "pos": "v. 收到；接到",
+   "zh": "收到；接到；獲得",
+   "colloc": "receive a call 接到電話 | receive a package 收到包裹",
+   "distinct": "accept 接受（提議、禮物）| obtain 獲得",
+   "ex": [
+    [
+     "Did you receive my email this morning?",
+     "你今天早上有收到我的電子郵件嗎？"
+    ],
+    [
+     "We will receive the shipment on Friday.",
+     "我們將在週五收到這批貨物。"
+    ],
+    [
+     "She expects to receive a promotion soon.",
+     "她預期很快會獲得升遷。"
+    ]
+   ]
+  },
+  {
+   "word": "reception",
+   "ph": "/rɪˈsepʃn/",
+   "pos": "n. 接待處；歡迎會",
+   "zh": "接待處；接待；歡迎會",
+   "colloc": "reception desk 接待櫃檯 | cold reception 冷淡的接待",
+   "distinct": "receiver 話筒；聽筒 | recipient 收件人",
+   "ex": [
+    [
+     "Please register at the reception desk.",
+     "請在接待櫃檯辦理登記。"
+    ],
+    [
+     "We are hosting a reception for the new CEO.",
+     "我們正在為新任執行長舉辦歡迎會。"
+    ],
+    [
+     "The proposal received a warm reception from the board.",
+     "這項提議受到了董事會的熱烈歡迎。"
+    ]
+   ]
+  },
+  {
+   "word": "reflect",
+   "ph": "/rɪˈflekt/",
+   "pos": "v. 反映；深思",
+   "zh": "反映；顯示；深思",
+   "colloc": "reflect on 思考 | reflect the quality 反映出品質",
+   "distinct": "refract 折射 | deflect 偏轉",
+   "ex": [
+    [
+     "The prices reflect the high cost of production.",
+     "價格反映了高昂的生產成本。"
+    ],
+    [
+     "Management needs time to reflect on the strategy.",
+     "管理層需要時間深思這項策略。"
+    ],
+    [
+     "The survey results reflect employee satisfaction.",
+     "調查結果反映了員工的滿意度。"
+    ]
+   ]
+  },
+  {
+   "word": "represent",
+   "ph": "/ˌreprɪˈzent/",
+   "pos": "v. 代表；象徵",
+   "zh": "代表；象徵；代理",
+   "colloc": "represent the company 代表公司 | represent a challenge 代表一項挑戰",
+   "distinct": "presentation 簡報 | representative 代表人",
+   "ex": [
+    [
+     "She will represent our team at the conference.",
+     "她將代表我們團隊參加研討會。"
+    ],
+    [
+     "This new law represents a significant change.",
+     "這項新法律代表著重大的改變。"
+    ],
+    [
+     "He represents a firm based in New York.",
+     "他代理一家總部位於紐約的公司。"
+    ]
+   ]
+  },
+  {
+   "word": "require",
+   "ph": "/rɪˈkwaɪər/",
+   "pos": "v. 需要；要求",
+   "zh": "需要；要求；規定",
+   "colloc": "require assistance 需要協助 | require attention 需要注意",
+   "distinct": "request 請求（客氣）| demand 強烈要求",
+   "ex": [
+    [
+     "This job requires strong communication skills.",
+     "這份工作需要良好的溝通技巧。"
+    ],
+    [
+     "Safety regulations require wearing protective gear.",
+     "安全法規規定必須配戴防護裝備。"
+    ],
+    [
+     "Does the project require additional funding?",
+     "這個專案需要額外的資金嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "responsibility",
+   "ph": "/rɪˌspɒnsəˈbɪləti/",
+   "pos": "n. 責任；職責",
+   "zh": "責任；職責；義務",
+   "colloc": "take responsibility 承擔責任 | job responsibility 工作職責",
+   "distinct": "duty 職責（本分）| obligation 義務（法律或道義）",
+   "ex": [
+    [
+     "It is our responsibility to meet the deadline.",
+     "準時完成任務是我們的責任。"
+    ],
+    [
+     "He took full responsibility for the project delay.",
+     "他為專案延誤承擔了全部責任。"
+    ],
+    [
+     "Your daily responsibilities include managing the budget.",
+     "你的日常職責包括管理預算。"
+    ]
+   ]
+  },
+  {
+   "word": "settle",
+   "ph": "/ˈsetl/",
+   "pos": "v. 解決；定居；支付",
+   "zh": "解決；安排；支付",
+   "colloc": "settle a dispute 解決糾紛 | settle the bill 付帳",
+   "distinct": "solve 解決（問題）| decide 決定",
+   "ex": [
+    [
+     "We finally settled the dispute with our supplier.",
+     "我們最終解決了與供應商的糾紛。"
+    ],
+    [
+     "Please settle the invoice by the end of month.",
+     "請在月底前結清這張發票。"
+    ],
+    [
+     "They have settled into their new office space.",
+     "他們已經適應了新的辦公室空間。"
+    ]
+   ]
+  },
+  {
+   "word": "shift",
+   "ph": "/ʃɪft/",
+   "pos": "n. 輪班；轉變 | v. 轉移；改變",
+   "zh": "輪班；轉變；移動",
+   "colloc": "night shift 夜班 | shift the focus 轉移焦點",
+   "distinct": "switch 交換；轉換 | move 移動",
+   "ex": [
+    [
+     "She works the evening shift at the warehouse.",
+     "她在倉庫上晚班。"
+    ],
+    [
+     "Market trends have started to shift recently.",
+     "市場趨勢最近開始出現轉變。"
+    ],
+    [
+     "We need to shift our focus to core products.",
+     "我們需要將焦點轉移到核心產品上。"
+    ]
+   ]
+  },
+  {
+   "word": "solution",
+   "ph": "/səˈluːʃn/",
+   "pos": "n. 解決方案；解答",
+   "zh": "解決方案；解答；溶解",
+   "colloc": "provide a solution 提供方案 | cost-effective solution 具成本效益的方案",
+   "distinct": "resolution 決議；決心 | answer 答案",
+   "ex": [
+    [
+     "This software offers a simple solution to the problem.",
+     "這套軟體為該問題提供了簡單的解決方案。"
+    ],
+    [
+     "We are looking for a long-term solution.",
+     "我們正在尋找長期的解決方案。"
+    ],
+    [
+     "Your suggestion is the best solution so far.",
+     "你的建議是目前為止最好的解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "trust",
+   "ph": "/trʌst/",
+   "pos": "n. 信任；託付 | v. 相信",
+   "zh": "信任；信賴；託付",
+   "colloc": "build trust 建立信任 | gain trust 獲得信任",
+   "distinct": "believe 相信（事實）| rely 依賴",
+   "ex": [
+    [
+     "Building trust with clients is our priority.",
+     "與客戶建立信任是我們的首要任務。"
+    ],
+    [
+     "I trust that you will handle this correctly.",
+     "我相信你會妥善處理這件事。"
+    ],
+    [
+     "The team relies on mutual trust to succeed.",
+     "團隊仰賴彼此的信任來取得成功。"
+    ]
+   ]
+  },
+  {
+   "word": "typical",
+   "ph": "/ˈtɪpɪkl/",
+   "pos": "adj. 典型的；具代表性的",
+   "zh": "典型的；具代表性的；一貫的",
+   "colloc": "typical example 典型例子 | typical day 典型的一天",
+   "distinct": "standard 標準的 | average 平均的",
+   "ex": [
+    [
+     "This is a typical error in accounting records.",
+     "這是會計紀錄中典型的錯誤。"
+    ],
+    [
+     "A typical workday lasts eight hours here.",
+     "這裡典型的工作日長度為八小時。"
+    ],
+    [
+     "That response is typical of his management style.",
+     "那種回應方式是他典型的管理風格。"
+    ]
+   ]
+  },
+  {
+   "word": "unable",
+   "ph": "/ʌnˈeɪbl/",
+   "pos": "adj. 無法；不能",
+   "zh": "無法；不能",
+   "colloc": "unable to attend 無法出席 | unable to reach 無法聯繫",
+   "distinct": "incapable 無能力的 | disabled 殘疾的",
+   "ex": [
+    [
+     "I am unable to attend the meeting tomorrow.",
+     "我明天無法出席會議。"
+    ],
+    [
+     "The system was unable to process the data.",
+     "系統無法處理這些資料。"
+    ],
+    [
+     "He is unable to provide further information now.",
+     "他現在無法提供進一步的資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "whole",
+   "ph": "/həʊl/",
+   "pos": "adj. 全部的；整體的 | n. 全部",
+   "zh": "全部的；整體的；整個",
+   "colloc": "the whole team 全體團隊 | whole day 一整天",
+   "distinct": "total 總計的 | entire 強調完整無缺",
+   "ex": [
+    [
+     "The whole department participated in the training.",
+     "整個部門都參與了這次訓練。"
+    ],
+    [
+     "I spent the whole morning reviewing documents.",
+     "我花了一整個上午審閱文件。"
+    ],
+    [
+     "This project requires the whole team's effort.",
+     "這個專案需要全體團隊的努力。"
+    ]
+   ]
+  },
+  {
+   "word": "associate",
+   "ph": "/əˈsəʊsieɪt/",
+   "pos": "v. 聯想；結交 | n. 同事；合夥人",
+   "zh": "聯想；關聯；同事",
+   "colloc": "work associate 工作夥伴 | associate with 與...交往",
+   "distinct": "colleague 同事 | partner 合夥人",
+   "ex": [
+    [
+     "We associate high prices with better quality.",
+     "我們將高價格與較好的品質聯想在一起。"
+    ],
+    [
+     "He is a sales associate at the retail store.",
+     "他是零售店的銷售員。"
+    ],
+    [
+     "I have been an associate of this firm for years.",
+     "我擔任這家公司的合夥人多年了。"
+    ]
+   ]
+  },
+  {
+   "word": "capacity",
+   "ph": "/kəˈpæsəti/",
+   "pos": "n. 容量；生產力；職位",
+   "zh": "容量；生產力；能力",
+   "colloc": "full capacity 滿載 | production capacity 生產能力",
+   "distinct": "ability 能力（個人）| volume 體積",
+   "ex": [
+    [
+     "The factory is operating at full capacity.",
+     "工廠正以滿載產能運作。"
+    ],
+    [
+     "She acts in the capacity of a consultant.",
+     "她以顧問的身分行事。"
+    ],
+    [
+     "This venue has a capacity of five hundred people.",
+     "這個場地可容納五百人。"
+    ]
+   ]
+  },
+  {
+   "word": "compare",
+   "ph": "/kəmˈpeər/",
+   "pos": "v. 比較；對照",
+   "zh": "比較；對照；比擬",
+   "colloc": "compare with 與...比較 | compared to 與...相比",
+   "distinct": "contrast 對比（強調差異）| analyze 分析",
+   "ex": [
+    [
+     "Compare these two models before making a decision.",
+     "做決定前先比較這兩款型號。"
+    ],
+    [
+     "Our service is better compared to our competitors.",
+     "與競爭對手相比，我們的服務更好。"
+    ],
+    [
+     "It is difficult to compare the two results.",
+     "這兩項結果很難進行比較。"
+    ]
+   ]
+  },
+  {
+   "word": "complicated",
+   "ph": "/ˈkɒmplɪkeɪtɪd/",
+   "pos": "adj. 複雜的；難懂的",
+   "zh": "複雜的；難懂的",
+   "colloc": "complicated process 複雜的流程 | complicated issue 複雜的問題",
+   "distinct": "complex 複雜的（結構）| difficult 困難的",
+   "ex": [
+    [
+     "The tax filing process is quite complicated.",
+     "報稅流程相當複雜。"
+    ],
+    [
+     "This is a complicated situation for the company.",
+     "這對公司來說是一個複雜的情況。"
+    ],
+    [
+     "His instructions were too complicated to follow.",
+     "他的指示太複雜而難以執行。"
+    ]
+   ]
+  },
+  {
+   "word": "condition",
+   "ph": "/kənˈdɪʃn/",
+   "pos": "n. 狀況；條件 | v. 決定；使習慣",
+   "zh": "狀況；條件；環境",
+   "colloc": "working condition 工作條件 | in good condition 狀況良好",
+   "distinct": "term 條款 | situation 情況",
+   "ex": [
+    [
+     "The car is in excellent condition.",
+     "這台車的車況極佳。"
+    ],
+    [
+     "We need to discuss the condition of the contract.",
+     "我們需要討論合約的條款。"
+    ],
+    [
+     "Safe working conditions are required by law.",
+     "法律要求必須具備安全的工作環境。"
+    ]
+   ]
+  },
+  {
+   "word": "contemporary",
+   "ph": "/kənˈtempərəri/",
+   "pos": "adj. 當代的；現代的",
+   "zh": "當代的；現代的；同時期的",
+   "colloc": "contemporary art 當代藝術 | contemporary issues 當代議題",
+   "distinct": "modern 現代的 | current 目前的",
+   "ex": [
+    [
+     "The building features a contemporary design style.",
+     "這棟建築具有當代的設計風格。"
+    ],
+    [
+     "We discussed several contemporary issues in the meeting.",
+     "我們在會議中討論了幾個當代議題。"
+    ],
+    [
+     "The book covers contemporary business management trends.",
+     "這本書涵蓋了當代企業管理趨勢。"
+    ]
+   ]
+  }
+ ]
+}

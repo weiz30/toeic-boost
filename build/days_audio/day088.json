@@ -1,0 +1,448 @@
+{
+ "day": 88,
+ "theme": "教材片語・中高階 750–850 第 24 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "get the food ready",
+   "ph": "",
+   "pos": "phr. 準備食物",
+   "zh": "準備食物；備餐",
+   "colloc": "get the food ready on time 準時準備好食物 | get the food ready for the guests 為賓客準備食物",
+   "distinct": "prepare the meal 準備餐點（較正式） | cook dinner 煮晚餐（具體動作）",
+   "ex": [
+    [
+     "Could you please help get the food ready for the meeting?",
+     "你能幫忙為會議準備食物嗎？"
+    ],
+    [
+     "We need to get the food ready before the clients arrive.",
+     "客戶抵達前我們需要準備好食物。"
+    ],
+    [
+     "The catering team will get the food ready by noon.",
+     "外燴團隊將在中午前準備好食物。"
+    ]
+   ]
+  },
+  {
+   "word": "give directions",
+   "ph": "",
+   "pos": "phr. 指引方向；給予指示",
+   "zh": "指引方向；給予指示",
+   "colloc": "give clear directions 給予明確指示 | give directions to the office 指引前往辦公室的方向",
+   "distinct": "provide guidance 提供指導 | explain the route 解釋路線",
+   "ex": [
+    [
+     "The manager will give directions for the upcoming project.",
+     "經理將為即將到來的專案給予指示。"
+    ],
+    [
+     "Please give directions to the visitors at the front desk.",
+     "請在櫃檯為訪客指引方向。"
+    ],
+    [
+     "Staff members are trained to give directions to customers.",
+     "員工受過培訓，能為顧客指引方向。"
+    ]
+   ]
+  },
+  {
+   "word": "give in",
+   "ph": "",
+   "pos": "phr. 屈服；讓步；投降",
+   "zh": "屈服；讓步",
+   "colloc": "give in to pressure 在壓力下屈服 | give in to demands 對要求讓步",
+   "distinct": "give up 放棄（行動） | compromise 妥協（達成協議）",
+   "ex": [
+    [
+     "Management will not give in to these unreasonable demands.",
+     "管理層不會對這些無理要求讓步。"
+    ],
+    [
+     "They eventually gave in after hours of intense negotiation.",
+     "經過數小時激烈談判，他們最終妥協了。"
+    ],
+    [
+     "Do not give in to the pressure from competitors.",
+     "不要向競爭對手的壓力屈服。"
+    ]
+   ]
+  },
+  {
+   "word": "give out",
+   "ph": "",
+   "pos": "phr. 分發；散發；耗盡",
+   "zh": "分發；散發；耗盡",
+   "colloc": "give out samples 分發樣品 | give out flyers 散發傳單",
+   "distinct": "distribute 分配（正式） | run out of 用完（耗盡庫存）",
+   "ex": [
+    [
+     "We plan to give out brochures at the trade show.",
+     "我們計畫在貿易展上分發宣傳冊。"
+    ],
+    [
+     "The company will give out awards to top performers.",
+     "公司將向表現優異者頒發獎項。"
+    ],
+    [
+     "Our supplies will give out if we do not order more.",
+     "如果我們不加訂，物資將會耗盡。"
+    ]
+   ]
+  },
+  {
+   "word": "half price",
+   "ph": "",
+   "pos": "phr. 半價",
+   "zh": "半價",
+   "colloc": "sell at half price 以半價出售 | offered at half price 以半價提供",
+   "distinct": "fifty percent off 五折優惠 | reduced price 減價",
+   "ex": [
+    [
+     "Everything in the store is currently at half price.",
+     "店內所有商品目前皆以半價出售。"
+    ],
+    [
+     "They offer software upgrades at half price for students.",
+     "他們為學生提供半價軟體升級。"
+    ],
+    [
+     "We purchased the office equipment at half price.",
+     "我們以半價購得了辦公設備。"
+    ]
+   ]
+  },
+  {
+   "word": "have a light dinner",
+   "ph": "",
+   "pos": "phr. 吃清淡的晚餐",
+   "zh": "吃清淡的晚餐",
+   "colloc": "prefer to have a light dinner 偏好清淡晚餐 | have a light dinner before the flight 飛行前吃清淡晚餐",
+   "distinct": "have a heavy meal 吃大餐 | eat out 外食",
+   "ex": [
+    [
+     "Let us have a light dinner before the evening shift.",
+     "我們在晚班前吃點清淡的晚餐吧。"
+    ],
+    [
+     "I usually have a light dinner to stay productive.",
+     "我通常吃清淡的晚餐以保持工作效率。"
+    ],
+    [
+     "The executive decided to have a light dinner with the client.",
+     "那位高階主管決定與客戶共進清淡的晚餐。"
+    ]
+   ]
+  },
+  {
+   "word": "have a meal",
+   "ph": "",
+   "pos": "phr. 用餐",
+   "zh": "用餐",
+   "colloc": "have a meal together 一起用餐 | have a meal at the restaurant 在餐廳用餐",
+   "distinct": "dine 進餐（正式） | eat food 吃食物（一般）",
+   "ex": [
+    [
+     "We can have a meal while discussing the contract details.",
+     "我們可以邊用餐邊討論合約細節。"
+    ],
+    [
+     "The team will have a meal to celebrate the success.",
+     "團隊將透過用餐來慶祝成功。"
+    ],
+    [
+     "It is hard to have a meal without being interrupted.",
+     "想要不被打擾地用餐真是難事。"
+    ]
+   ]
+  },
+  {
+   "word": "have permission to do",
+   "ph": "",
+   "pos": "phr. 獲准做某事",
+   "zh": "獲准；被允許",
+   "colloc": "have permission to enter 獲准進入 | have permission to access 獲准存取",
+   "distinct": "obtain authorization 取得授權 | get approval 獲得批准",
+   "ex": [
+    [
+     "You must have permission to access the restricted database.",
+     "你必須取得授權才能存取受限資料庫。"
+    ],
+    [
+     "Do you have permission to use the company car?",
+     "你有權使用公司車嗎？"
+    ],
+    [
+     "Employees have permission to work remotely twice a week.",
+     "員工獲准每週兩天遠距工作。"
+    ]
+   ]
+  },
+  {
+   "word": "head for",
+   "ph": "",
+   "pos": "phr. 前往；出發前往",
+   "zh": "前往；朝…走去",
+   "colloc": "head for the office 前往辦公室 | head for the airport 出發前往機場",
+   "distinct": "leave for 出發前往 | head towards 朝向…走去",
+   "ex": [
+    [
+     "We should head for the conference room right now.",
+     "我們現在應該前往會議室。"
+    ],
+    [
+     "The consultant will head for the client site tomorrow.",
+     "顧問明天將前往客戶所在地。"
+    ],
+    [
+     "Let us head for the exit after the presentation ends.",
+     "簡報結束後我們往出口走吧。"
+    ]
+   ]
+  },
+  {
+   "word": "hold power",
+   "ph": "",
+   "pos": "phr. 掌握權力",
+   "zh": "掌握權力；握有實權",
+   "colloc": "hold power in the company 在公司掌握權力 | hold power for a term 執政一任",
+   "distinct": "exercise power 行使權力 | be in control 控制中",
+   "ex": [
+    [
+     "The board of directors holds power over major decisions.",
+     "董事會對重大決策握有權力。"
+    ],
+    [
+     "She has held power in the department for ten years.",
+     "她在該部門掌握實權已有十年之久。"
+    ],
+    [
+     "Whoever holds power must be accountable to shareholders.",
+     "無論誰掌握權力都必須對股東負責。"
+    ]
+   ]
+  },
+  {
+   "word": "hold the line",
+   "ph": "",
+   "pos": "phr. 不掛斷電話；維持現狀",
+   "zh": "不掛斷電話；維持現狀",
+   "colloc": "please hold the line 請別掛斷 | hold the line on prices 維持價格不變",
+   "distinct": "stay on the line 線上等待 | wait a moment 等一下",
+   "ex": [
+    [
+     "Please hold the line while I check your account balance.",
+     "請稍候別掛斷，我來確認您的帳戶餘額。"
+    ],
+    [
+     "The government is trying to hold the line on inflation.",
+     "政府正試圖控制通貨膨脹。"
+    ],
+    [
+     "Kindly hold the line until the operator connects you.",
+     "請在線上等候，直到接線員為您轉接。"
+    ]
+   ]
+  },
+  {
+   "word": "hold up",
+   "ph": "",
+   "pos": "phr. 延誤；阻礙；支撐",
+   "zh": "延誤；阻礙；支撐",
+   "colloc": "be held up in traffic 塞車延誤 | hold up the project 拖延專案",
+   "distinct": "delay 延遲 | support 支撐",
+   "ex": [
+    [
+     "The construction work might hold up the shipping process.",
+     "施工可能會拖延出貨流程。"
+    ],
+    [
+     "I was held up by an unexpected client visit today.",
+     "我今天因客戶臨時來訪而被耽擱了。"
+    ],
+    [
+     "What is holding up the approval of this budget?",
+     "是什麼耽誤了這份預算的批准？"
+    ]
+   ]
+  },
+  {
+   "word": "home builder",
+   "ph": "",
+   "pos": "n. 房屋建築商",
+   "zh": "房屋建築商；建商",
+   "colloc": "a local home builder 當地建商 | hire a home builder 聘請建商",
+   "distinct": "contractor 承包商 | architect 建築師",
+   "ex": [
+    [
+     "The home builder is known for high-quality construction.",
+     "該建商以高品質的建築聞名。"
+    ],
+    [
+     "We are negotiating with a home builder for the project.",
+     "我們正與一位建商洽談該專案。"
+    ],
+    [
+     "Home builders are facing challenges due to rising costs.",
+     "由於成本上漲，建商正面臨挑戰。"
+    ]
+   ]
+  },
+  {
+   "word": "home improvement",
+   "ph": "",
+   "pos": "n. 居家修繕；住宅裝修",
+   "zh": "居家修繕；住宅裝修",
+   "colloc": "home improvement project 裝修計畫 | home improvement store 居家修繕用品店",
+   "distinct": "renovation 翻新（大型） | maintenance 維護（日常）",
+   "ex": [
+    [
+     "They spent a lot on home improvement last month.",
+     "他們上個月在居家修繕上花了很多錢。"
+    ],
+    [
+     "Visit our store for all your home improvement needs.",
+     "請光臨我們的商店滿足您所有的裝修需求。"
+    ],
+    [
+     "The government offers tax breaks for home improvement.",
+     "政府針對居家修繕提供稅收減免。"
+    ]
+   ]
+  },
+  {
+   "word": "housing development",
+   "ph": "",
+   "pos": "n. 住宅開發案；住宅區",
+   "zh": "住宅開發案；住宅區",
+   "colloc": "a new housing development 新開發的住宅區 | invest in a housing development 投資住宅開發案",
+   "distinct": "real estate project 房地產項目 | residential area 住宅區",
+   "ex": [
+    [
+     "The company is planning a large housing development project.",
+     "該公司正在規劃大型住宅開發案。"
+    ],
+    [
+     "This housing development attracts many young professionals.",
+     "這個住宅區吸引了許多年輕專業人士。"
+    ],
+    [
+     "Local residents oppose the new housing development plans.",
+     "當地居民反對新的住宅開發計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "i have no idea",
+   "ph": "",
+   "pos": "phr. 我不知道；我不清楚",
+   "zh": "我不知道；我不清楚",
+   "colloc": "honestly, i have no idea 老實說我不知道 | i have no idea about that 對那件事毫無頭緒",
+   "distinct": "i am not sure 我不確定 | i cannot recall 我想不起來",
+   "ex": [
+    [
+     "I have no idea when the shipment will arrive.",
+     "我不清楚貨物何時會抵達。"
+    ],
+    [
+     "To be honest, I have no idea how to operate this.",
+     "老實說，我完全不知道如何操作這個設備。"
+    ],
+    [
+     "I have no idea why the system crashed yesterday.",
+     "我不知道為什麼系統昨天會崩潰。"
+    ]
+   ]
+  },
+  {
+   "word": "if possible",
+   "ph": "",
+   "pos": "phr. 如果可能的話",
+   "zh": "如果可能的話",
+   "colloc": "let me know if possible 如果可能請通知我 | if possible, send it today 如果可能，今天寄出",
+   "distinct": "where possible 在可能範圍內 | as soon as possible 儘快",
+   "ex": [
+    [
+     "If possible, please submit the report by Friday.",
+     "如果可能的話，請在週五前提交報告。"
+    ],
+    [
+     "We would like to reschedule the meeting if possible.",
+     "如果可以，我們想重新安排會議時間。"
+    ],
+    [
+     "Please provide more details if possible.",
+     "如果可以的話，請提供更多細節。"
+    ]
+   ]
+  },
+  {
+   "word": "in a strict way",
+   "ph": "",
+   "pos": "phr. 嚴格地；嚴謹地",
+   "zh": "嚴格地；嚴謹地",
+   "colloc": "enforce rules in a strict way 嚴格執行規定 | managed in a strict way 嚴謹管理",
+   "distinct": "strictly 嚴格地（副詞） | in a professional manner 專業地",
+   "ex": [
+    [
+     "Safety regulations are applied in a strict way here.",
+     "這裡的安全規定是嚴格執行的。"
+    ],
+    [
+     "We must handle these documents in a strict way.",
+     "我們必須以嚴謹的方式處理這些文件。"
+    ],
+    [
+     "The policy was implemented in a strict way by HR.",
+     "人資部嚴格執行了該政策。"
+    ]
+   ]
+  },
+  {
+   "word": "in a timely fashion",
+   "ph": "",
+   "pos": "phr. 及時地；適時地",
+   "zh": "及時地；適時地",
+   "colloc": "respond in a timely fashion 及時回應 | complete in a timely fashion 及時完成",
+   "distinct": "on time 準時 | promptly 立刻地",
+   "ex": [
+    [
+     "All emails must be answered in a timely fashion.",
+     "所有電子郵件都必須及時回覆。"
+    ],
+    [
+     "We need to resolve this issue in a timely fashion.",
+     "我們需要及時解決這個問題。"
+    ],
+    [
+     "The project was completed in a timely fashion.",
+     "該專案及時完成了。"
+    ]
+   ]
+  },
+  {
+   "word": "in contrast",
+   "ph": "",
+   "pos": "phr. 相較之下；與此相對",
+   "zh": "相較之下；與此相對",
+   "colloc": "in contrast to the previous report 與前一份報告相比 | in contrast, the sales rose 相較之下，銷售額上升了",
+   "distinct": "on the other hand 另一方面 | however 然而",
+   "ex": [
+    [
+     "The first quarter was slow; in contrast, sales soared later.",
+     "第一季表現緩慢；相較之下，後來銷售激增。"
+    ],
+    [
+     "In contrast to last year, profits have doubled.",
+     "與去年相比，利潤翻了一倍。"
+    ],
+    [
+     "This model is expensive; in contrast, the other is affordable.",
+     "這款型號很貴；相較之下，另一款很實惠。"
+    ]
+   ]
+  }
+ ]
+}

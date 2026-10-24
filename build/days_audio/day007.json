@@ -1,0 +1,448 @@
+{
+ "day": 7,
+ "theme": "教材字彙・基礎 550–650 第 7 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "attraction",
+   "ph": "/əˈtrækʃn/",
+   "pos": "n. 吸引力；景點",
+   "zh": "吸引力；觀光景點",
+   "colloc": "tourist attraction 觀光景點 | main attraction 主要賣點",
+   "distinct": "attract v. 吸引 | attractive adj. 有吸引力的",
+   "ex": [
+    [
+     "The new park is a major tourist attraction.",
+     "這座新公園是一個主要的觀光景點。"
+    ],
+    [
+     "We discussed the attraction of this product line.",
+     "我們討論了這個產品系列的吸引力。"
+    ],
+    [
+     "High salaries are an attraction for job seekers.",
+     "高薪對於求職者來說具有吸引力。"
+    ]
+   ]
+  },
+  {
+   "word": "audience",
+   "ph": "/ˈɔːdiəns/",
+   "pos": "n. 聽眾；觀眾",
+   "zh": "聽眾；觀眾",
+   "colloc": "target audience 目標受眾 | reach an audience 接觸觀眾",
+   "distinct": "viewer 觀看電視者 | spectator 體育賽事觀眾",
+   "ex": [
+    [
+     "The speaker addressed a large audience today.",
+     "講者今天向一大群聽眾發表演說。"
+    ],
+    [
+     "Our target audience is young professionals.",
+     "我們的目標受眾是年輕的專業人士。"
+    ],
+    [
+     "The audience responded well to the presentation.",
+     "觀眾對這次簡報的反應很好。"
+    ]
+   ]
+  },
+  {
+   "word": "calculate",
+   "ph": "/ˈkælkjuleɪt/",
+   "pos": "v. 計算；估算",
+   "zh": "計算；估算",
+   "colloc": "calculate the cost 計算成本 | calculate the risk 評估風險",
+   "distinct": "compute 運算 | estimate 估計",
+   "ex": [
+    [
+     "Please calculate the total cost for the order.",
+     "請計算這份訂單的總成本。"
+    ],
+    [
+     "We need to calculate the projected profits carefully.",
+     "我們需要仔細估算預期的利潤。"
+    ],
+    [
+     "It is difficult to calculate the exact loss.",
+     "計算確切的損失是很困難的。"
+    ]
+   ]
+  },
+  {
+   "word": "campaign",
+   "ph": "/kæmˈpeɪn/",
+   "pos": "n. 活動；競選 | v. 發起活動",
+   "zh": "活動；競選活動",
+   "colloc": "marketing campaign 行銷活動 | launch a campaign 發起活動",
+   "distinct": "project 專案 | event 活動",
+   "ex": [
+    [
+     "The company launched a new marketing campaign.",
+     "公司發起了一項新的行銷活動。"
+    ],
+    [
+     "Our advertising campaign reached many new clients.",
+     "我們的廣告活動接觸到了許多新客戶。"
+    ],
+    [
+     "They are campaigning for better workplace safety.",
+     "他們正在為改善職場安全發起運動。"
+    ]
+   ]
+  },
+  {
+   "word": "careful",
+   "ph": "/ˈkerfl/",
+   "pos": "adj. 小心的；仔細的",
+   "zh": "小心的；仔細的",
+   "colloc": "be careful with 小心處理 | careful planning 謹慎規劃",
+   "distinct": "cautious 謹慎的 | attentive 專注的",
+   "ex": [
+    [
+     "Please be careful with the fragile equipment.",
+     "請小心處理這些易碎的設備。"
+    ],
+    [
+     "Careful planning is essential for project success.",
+     "謹慎的規劃對專案成功至關重要。"
+    ],
+    [
+     "You should be careful when signing contracts.",
+     "簽署合約時你應該要小心。"
+    ]
+   ]
+  },
+  {
+   "word": "carefully",
+   "ph": "/ˈkerfəli/",
+   "pos": "adv. 小心地；仔細地",
+   "zh": "小心地；仔細地",
+   "colloc": "carefully considered 經過深思熟慮的 | listen carefully 仔細聆聽",
+   "distinct": "cautiously 謹慎地 | thoroughly 徹底地",
+   "ex": [
+    [
+     "Read the instructions carefully before starting.",
+     "開始之前請仔細閱讀說明。"
+    ],
+    [
+     "The manager carefully reviewed the financial report.",
+     "經理仔細審閱了財務報告。"
+    ],
+    [
+     "Each document must be carefully organized today.",
+     "今天每份文件都必須仔細整理。"
+    ]
+   ]
+  },
+  {
+   "word": "certain",
+   "ph": "/ˈsɜːrtn/",
+   "pos": "adj. 肯定的；某種的",
+   "zh": "確定的；特定的",
+   "colloc": "be certain that 確定... | a certain amount of 一定數量的",
+   "distinct": "sure 確信的 | particular 特定的",
+   "ex": [
+    [
+     "I am certain that we will meet the deadline.",
+     "我確信我們會趕上截止日期。"
+    ],
+    [
+     "There is a certain risk in this investment.",
+     "這項投資存在一定的風險。"
+    ],
+    [
+     "Make certain the power is off before leaving.",
+     "離開前確保電源已關閉。"
+    ]
+   ]
+  },
+  {
+   "word": "certificate",
+   "ph": "/sərˈtɪfɪkət/",
+   "pos": "n. 證書；執照",
+   "zh": "證書；證明書",
+   "colloc": "training certificate 培訓證書 | birth certificate 出生證明",
+   "distinct": "license 執照 | degree 學位",
+   "ex": [
+    [
+     "She received a certificate for completing the course.",
+     "她獲得了完成該課程的證書。"
+    ],
+    [
+     "Please submit your professional certificate by Friday.",
+     "請在週五前繳交你的專業證照。"
+    ],
+    [
+     "The certificate is valid for three years.",
+     "這張證書的有效期為三年。"
+    ]
+   ]
+  },
+  {
+   "word": "closely",
+   "ph": "/ˈkloʊsli/",
+   "pos": "adv. 緊密地；密切地",
+   "zh": "緊密地；密切地",
+   "colloc": "work closely with 與...密切合作 | watch closely 密切觀察",
+   "distinct": "near 靠近地 | densely 密集地",
+   "ex": [
+    [
+     "We work closely with our overseas partners.",
+     "我們與海外合作夥伴密切配合。"
+    ],
+    [
+     "Please monitor the market trends very closely.",
+     "請密切監控市場趨勢。"
+    ],
+    [
+     "The two companies are closely related today.",
+     "這兩家公司今日聯繫非常緊密。"
+    ]
+   ]
+  },
+  {
+   "word": "collection",
+   "ph": "/kəˈlekʃn/",
+   "pos": "n. 收集；收藏品",
+   "zh": "收集；收藏品",
+   "colloc": "data collection 資料收集 | fashion collection 時裝系列",
+   "distinct": "selection 精選 | accumulation 累積",
+   "ex": [
+    [
+     "Our data collection method needs improvement.",
+     "我們的資料收集方法需要改進。"
+    ],
+    [
+     "The fall fashion collection is now available.",
+     "秋季時裝系列現在已經上市了。"
+    ],
+    [
+     "He manages a large collection of art pieces.",
+     "他管理著一大批藝術收藏品。"
+    ]
+   ]
+  },
+  {
+   "word": "commitment",
+   "ph": "/kəˈmɪtmənt/",
+   "pos": "n. 承諾；投入；義務",
+   "zh": "承諾；投入",
+   "colloc": "make a commitment 做承諾 | show commitment 展現投入",
+   "distinct": "promise 口頭答應 | dedication 奉獻",
+   "ex": [
+    [
+     "We appreciate your commitment to this project.",
+     "我們感謝你對這個專案的投入。"
+    ],
+    [
+     "They made a commitment to quality service.",
+     "他們對優質服務做出了承諾。"
+    ],
+    [
+     "Maintaining high standards requires total commitment.",
+     "維持高標準需要全力的投入。"
+    ]
+   ]
+  },
+  {
+   "word": "community",
+   "ph": "/kəˈmjuːnəti/",
+   "pos": "n. 社區；團體",
+   "zh": "社區；社群",
+   "colloc": "local community 當地社區 | business community 商業界",
+   "distinct": "society 社會 | organization 組織",
+   "ex": [
+    [
+     "The project benefits the local community greatly.",
+     "這個計畫對當地社區助益良多。"
+    ],
+    [
+     "We hope to serve the community better soon.",
+     "我們希望能盡快更好地服務社群。"
+    ],
+    [
+     "The business community is worried about inflation.",
+     "商業界對通貨膨脹感到擔憂。"
+    ]
+   ]
+  },
+  {
+   "word": "conflict",
+   "ph": "/ˈkɑːnflɪkt/",
+   "pos": "n. 衝突；爭執 | v. 衝突",
+   "zh": "衝突；矛盾",
+   "colloc": "resolve a conflict 解決衝突 | schedule conflict 時間安排衝突",
+   "distinct": "disagreement 分歧 | dispute 爭議",
+   "ex": [
+    [
+     "There is a conflict in our meeting schedule.",
+     "我們的會議行程有衝突。"
+    ],
+    [
+     "We need to resolve the conflict peacefully now.",
+     "我們現在需要和平地解決衝突。"
+    ],
+    [
+     "Personal interests often conflict with professional duties.",
+     "個人利益常與專業職責產生衝突。"
+    ]
+   ]
+  },
+  {
+   "word": "container",
+   "ph": "/kənˈteɪnər/",
+   "pos": "n. 容器；貨櫃",
+   "zh": "容器；貨櫃",
+   "colloc": "shipping container 運輸貨櫃 | storage container 儲存容器",
+   "distinct": "box 箱子 | package 包裝",
+   "ex": [
+    [
+     "The goods were loaded into a shipping container.",
+     "貨物被裝進了運輸貨櫃中。"
+    ],
+    [
+     "Please store the chemicals in a sealed container.",
+     "請將化學品存放在密封容器內。"
+    ],
+    [
+     "This container is designed for long-term storage.",
+     "這個容器是為長期儲存而設計的。"
+    ]
+   ]
+  },
+  {
+   "word": "critical",
+   "ph": "/ˈkrɪtɪkl/",
+   "pos": "adj. 關鍵的；批評的；嚴重的",
+   "zh": "關鍵的；批判性的",
+   "colloc": "critical role 關鍵角色 | critical thinking 批判性思考",
+   "distinct": "crucial 至關重要的 | serious 嚴重的",
+   "ex": [
+    [
+     "Your feedback is critical to our product development.",
+     "你的回饋對我們的產品開發至關重要。"
+    ],
+    [
+     "The situation has reached a critical stage today.",
+     "情況已經到了關鍵階段。"
+    ],
+    [
+     "He is very critical of the new proposal.",
+     "他對這項新提案持嚴格批評態度。"
+    ]
+   ]
+  },
+  {
+   "word": "description",
+   "ph": "/dɪˈskrɪpʃn/",
+   "pos": "n. 描述；說明",
+   "zh": "描述；說明書",
+   "colloc": "job description 工作說明 | provide a description 提供描述",
+   "distinct": "definition 定義 | explanation 解釋",
+   "ex": [
+    [
+     "Please provide a brief description of the job.",
+     "請提供這份工作的簡短描述。"
+    ],
+    [
+     "The product description matches what we need.",
+     "產品說明書符合我們的需求。"
+    ],
+    [
+     "Read the job description before applying online.",
+     "線上申請前請先閱讀工作說明。"
+    ]
+   ]
+  },
+  {
+   "word": "deserve",
+   "ph": "/dɪˈzɜːrv/",
+   "pos": "v. 值得；應得",
+   "zh": "值得；應得",
+   "colloc": "deserve a chance 值得一個機會 | well deserved 實至名歸的",
+   "distinct": "earn 賺取 | merit 應得",
+   "ex": [
+    [
+     "Our hardworking team deserves a long break.",
+     "我們勤奮的團隊值得一個長假。"
+    ],
+    [
+     "This proposal deserves our full attention today.",
+     "這項提案今天值得我們全神關注。"
+    ],
+    [
+     "You deserve recognition for your excellent work.",
+     "你卓越的工作表現值得被表揚。"
+    ]
+   ]
+  },
+  {
+   "word": "discuss",
+   "ph": "/dɪˈskʌs/",
+   "pos": "v. 討論；商討",
+   "zh": "討論；商討",
+   "colloc": "discuss the matter 討論此事 | discuss in detail 詳細討論",
+   "distinct": "debate 辯論 | talk about 談論",
+   "ex": [
+    [
+     "We need to discuss the budget for next year.",
+     "我們需要討論明年的預算。"
+    ],
+    [
+     "Let us discuss this issue in the meeting.",
+     "我們在會議中討論這個議題吧。"
+    ],
+    [
+     "They discussed several options for the expansion.",
+     "他們討論了幾個擴張的方案。"
+    ]
+   ]
+  },
+  {
+   "word": "dismiss",
+   "ph": "/dɪsˈmɪs/",
+   "pos": "v. 解僱；駁回；摒棄",
+   "zh": "解僱；摒棄",
+   "colloc": "dismiss an employee 解僱員工 | dismiss a claim 駁回要求",
+   "distinct": "fire 開除 | reject 拒絕",
+   "ex": [
+    [
+     "The manager decided to dismiss the new applicant.",
+     "經理決定拒絕這位新申請者。"
+    ],
+    [
+     "We cannot simply dismiss these valid concerns.",
+     "我們不能輕易摒棄這些合理的擔憂。"
+    ],
+    [
+     "The case was dismissed due to lack evidence.",
+     "由於缺乏證據，該案被駁回。"
+    ]
+   ]
+  },
+  {
+   "word": "distribution",
+   "ph": "/ˌdɪstrɪˈbjuːʃn/",
+   "pos": "n. 分配；分發；配送",
+   "zh": "分配；配送",
+   "colloc": "distribution center 配送中心 | marketing distribution 行銷通路",
+   "distinct": "allocation 分撥 | delivery 遞送",
+   "ex": [
+    [
+     "The new distribution center opens next month.",
+     "新的配送中心下個月開幕。"
+    ],
+    [
+     "We need to improve our product distribution system.",
+     "我們需要改進產品配送系統。"
+    ],
+    [
+     "The distribution of resources is being reviewed.",
+     "資源的分配情形正在被審查。"
+    ]
+   ]
+  }
+ ]
+}

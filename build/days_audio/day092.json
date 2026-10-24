@@ -1,0 +1,448 @@
+{
+ "day": 92,
+ "theme": "教材片語・中高階 750–850 第 28 群",
+ "level": "中高階 750–850",
+ "kind": "phrase",
+ "items": [
+  {
+   "word": "outdoor wall",
+   "ph": "",
+   "pos": "n. 室外牆壁",
+   "zh": "室外牆壁；戶外牆面",
+   "colloc": "paint an outdoor wall 粉刷外牆 | repair the outdoor wall 修復外牆",
+   "distinct": "exterior wall 外牆 | facade 建築正面",
+   "ex": [
+    [
+     "The outdoor wall requires a fresh coat of paint.",
+     "這面室外牆需要重新粉刷。"
+    ],
+    [
+     "Maintenance crews are fixing the damaged outdoor wall.",
+     "維修人員正在修復受損的室外牆。"
+    ],
+    [
+     "We installed security cameras on the outdoor wall.",
+     "我們在室外牆上安裝了監視攝影機。"
+    ]
+   ]
+  },
+  {
+   "word": "over price",
+   "ph": "",
+   "pos": "v. 把價格定得過高",
+   "zh": "標價過高；定價過高",
+   "colloc": "over price the product 把產品定價過高 | avoid over pricing 避免定價過高",
+   "distinct": "overcharge 索價過高 | inflate price 哄抬價格",
+   "ex": [
+    [
+     "Do not over price the items in our new catalog.",
+     "別把我們新目錄中的商品定價過高。"
+    ],
+    [
+     "They tend to over price their services during the peak season.",
+     "他們傾向在旺季將服務定價過高。"
+    ],
+    [
+     "If you over price the inventory, sales will likely decline.",
+     "如果你將庫存定價過高，銷售量可能會下降。"
+    ]
+   ]
+  },
+  {
+   "word": "packing tape",
+   "ph": "",
+   "pos": "n. 包裝膠帶",
+   "zh": "包裝膠帶；封箱膠帶",
+   "colloc": "a roll of packing tape 一卷封箱膠帶 | use packing tape 使用包裝膠帶",
+   "distinct": "masking tape 遮蔽膠帶 | duct tape 強力膠帶",
+   "ex": [
+    [
+     "Please seal the cardboard boxes with packing tape.",
+     "請用包裝膠帶把紙箱封好。"
+    ],
+    [
+     "We ran out of packing tape in the shipping department.",
+     "運務部門的包裝膠帶用完了。"
+    ],
+    [
+     "Secure the package firmly using high-quality packing tape.",
+     "使用高品質的包裝膠帶將包裹牢固封好。"
+    ]
+   ]
+  },
+  {
+   "word": "pair up with",
+   "ph": "",
+   "pos": "phr. 與...配對；與...搭檔",
+   "zh": "與…配對；與…搭檔",
+   "colloc": "pair up with a partner 與夥伴搭檔 | pair up with a colleague 與同事配對",
+   "distinct": "team up with 與…組隊 | partner with 與…合作",
+   "ex": [
+    [
+     "You should pair up with a colleague for this task.",
+     "你應該找位同事搭檔完成這項任務。"
+    ],
+    [
+     "Employees were asked to pair up with someone from another department.",
+     "員工被要求與其他部門的人配對。"
+    ],
+    [
+     "I will pair up with him to finish the final report.",
+     "我會和他搭檔來完成最後的報告。"
+    ]
+   ]
+  },
+  {
+   "word": "pass over",
+   "ph": "",
+   "pos": "phr. 忽視；略過；不予考慮",
+   "zh": "忽視；略過；跳過",
+   "colloc": "pass over a candidate 略過候選人 | pass over an opportunity 錯過機會",
+   "distinct": "overlook 忽略 | bypass 越過",
+   "ex": [
+    [
+     "He was passed over for the promotion last year.",
+     "他去年升遷時被跳過了。"
+    ],
+    [
+     "The committee decided to pass over that proposal for now.",
+     "委員會決定暫時擱置那個提案。"
+    ],
+    [
+     "Management should not pass over such a talented employee.",
+     "管理層不該忽視如此有才華的員工。"
+    ]
+   ]
+  },
+  {
+   "word": "pass up",
+   "ph": "",
+   "pos": "phr. 放棄（機會）；錯過",
+   "zh": "放過；拒絕；錯失",
+   "colloc": "pass up a chance 錯失機會 | pass up an offer 放棄提議",
+   "distinct": "give up 放棄 | miss out 錯失",
+   "ex": [
+    [
+     "It is an opportunity you should not pass up.",
+     "這是一個你不該錯過的好機會。"
+    ],
+    [
+     "She decided to pass up the job offer in London.",
+     "她決定放棄倫敦那份工作邀約。"
+    ],
+    [
+     "We cannot afford to pass up such a lucrative contract.",
+     "我們承擔不起錯失這份有利可圖的合約。"
+    ]
+   ]
+  },
+  {
+   "word": "pay off",
+   "ph": "",
+   "pos": "phr. 得到回報；償清（債務）",
+   "zh": "得到回報；還清；成功",
+   "colloc": "pay off the debt 還清債務 | the effort paid off 努力得到回報",
+   "distinct": "pay back 償還 | pay up 付清",
+   "ex": [
+    [
+     "Their hard work finally paid off with a big contract.",
+     "他們的努力最終獲得了一份大合約作為回報。"
+    ],
+    [
+     "We need to pay off our company loans within two years.",
+     "我們需要在兩年內還清公司貸款。"
+    ],
+    [
+     "The new marketing strategy is expected to pay off soon.",
+     "新的行銷策略預計很快就會見效。"
+    ]
+   ]
+  },
+  {
+   "word": "pay raise",
+   "ph": "",
+   "pos": "n. 加薪",
+   "zh": "加薪；調薪",
+   "colloc": "request a pay raise 要求加薪 | receive a pay raise 獲得加薪",
+   "distinct": "salary increase 加薪 | promotion 升遷",
+   "ex": [
+    [
+     "He is planning to ask his boss for a pay raise.",
+     "他正計畫向老闆提出加薪要求。"
+    ],
+    [
+     "The employees are negotiating for a significant pay raise.",
+     "員工們正在協商爭取顯著的加薪。"
+    ],
+    [
+     "Performance reviews are often linked to a potential pay raise.",
+     "績效考核通常與潛在的加薪掛鉤。"
+    ]
+   ]
+  },
+  {
+   "word": "personal effects",
+   "ph": "",
+   "pos": "n. 個人物品",
+   "zh": "個人物品；私人物品",
+   "colloc": "declare personal effects 申報個人物品 | store personal effects 存放個人物品",
+   "distinct": "belongings 財產 | property 資產",
+   "ex": [
+    [
+     "Passengers must declare any personal effects at customs.",
+     "旅客必須在海關申報所有個人物品。"
+    ],
+    [
+     "Please remove all personal effects from your desk before moving.",
+     "搬遷前請清空辦公桌上的所有個人物品。"
+    ],
+    [
+     "The insurance policy covers loss of personal effects during travel.",
+     "保險單涵蓋旅行期間個人物品的遺失。"
+    ]
+   ]
+  },
+  {
+   "word": "personal management",
+   "ph": "",
+   "pos": "n. 個人管理",
+   "zh": "個人管理；人力資源管理",
+   "colloc": "improve personal management 提升個人管理 | effective personal management 有效的個人管理",
+   "distinct": "time management 時間管理 | personnel management 人事管理",
+   "ex": [
+    [
+     "Effective personal management is crucial for career success.",
+     "有效的個人管理對職涯成功至關重要。"
+    ],
+    [
+     "She took a seminar on personal management and organization.",
+     "她參加了一場關於個人管理與組織的研討會。"
+    ],
+    [
+     "Good personal management helps reduce stress in the workplace.",
+     "良好的個人管理有助於減少職場壓力。"
+    ]
+   ]
+  },
+  {
+   "word": "pick up the phone",
+   "ph": "",
+   "pos": "phr. 接電話",
+   "zh": "接電話；拿起電話",
+   "colloc": "pick up the phone promptly 迅速接電話 | fail to pick up the phone 未能接聽",
+   "distinct": "answer the phone 回應電話 | dial a number 撥號",
+   "ex": [
+    [
+     "No one picked up the phone when I called the office.",
+     "我打電話到辦公室時沒人接聽。"
+    ],
+    [
+     "You should pick up the phone if it rings during the meeting.",
+     "如果會議中電話響了，你應該接聽。"
+    ],
+    [
+     "She was too busy to pick up the phone yesterday afternoon.",
+     "她昨天下午忙到無法接電話。"
+    ]
+   ]
+  },
+  {
+   "word": "place of origin",
+   "ph": "",
+   "pos": "n. 原產地",
+   "zh": "原產地；產地",
+   "colloc": "state the place of origin 說明原產地 | verify the place of origin 核實產地",
+   "distinct": "source 來源 | location 地點",
+   "ex": [
+    [
+     "The label must clearly indicate the product's place of origin.",
+     "標籤必須清楚標示產品的原產地。"
+    ],
+    [
+     "We need to confirm the place of origin for these raw materials.",
+     "我們需要確認這些原材料的原產地。"
+    ],
+    [
+     "Customs officials checked the goods and their place of origin.",
+     "海關官員檢查了貨物及其原產地。"
+    ]
+   ]
+  },
+  {
+   "word": "plenty of",
+   "ph": "",
+   "pos": "adj. 大量的；充足的",
+   "zh": "充足的；很多的",
+   "colloc": "plenty of time 充裕的時間 | plenty of resources 大量的資源",
+   "distinct": "a lot of 許多的 | abundant 豐富的",
+   "ex": [
+    [
+     "We have plenty of time to finish the project proposal.",
+     "我們有充裕的時間完成專案企劃書。"
+    ],
+    [
+     "There is plenty of space in the new office building.",
+     "新的辦公大樓有充足的空間。"
+    ],
+    [
+     "The company has plenty of resources to invest in research.",
+     "這家公司有大量的資源可以投資研發。"
+    ]
+   ]
+  },
+  {
+   "word": "potential customer",
+   "ph": "",
+   "pos": "n. 潛在客戶",
+   "zh": "潛在客戶；準客戶",
+   "colloc": "reach a potential customer 接觸潛在客戶 | attract potential customers 吸引潛在客戶",
+   "distinct": "existing customer 現有客戶 | target audience 目標受眾",
+   "ex": [
+    [
+     "Our sales team is reaching out to every potential customer.",
+     "我們的業務團隊正在接觸每一位潛在客戶。"
+    ],
+    [
+     "We aim to convert potential customers into long-term clients.",
+     "我們的目標是將潛在客戶轉化為長期合作夥伴。"
+    ],
+    [
+     "Providing free samples is a great way to attract potential customers.",
+     "提供免費樣品是吸引潛在客戶的好方法。"
+    ]
+   ]
+  },
+  {
+   "word": "practical experience",
+   "ph": "",
+   "pos": "n. 實務經驗",
+   "zh": "實務經驗；實踐經驗",
+   "colloc": "gain practical experience 獲得實務經驗 | relevant practical experience 相關實務經驗",
+   "distinct": "theoretical knowledge 理論知識 | hands-on experience 親手實作經驗",
+   "ex": [
+    [
+     "The job description requires at least three years of practical experience.",
+     "職位描述要求至少三年的實務經驗。"
+    ],
+    [
+     "Internships allow students to gain valuable practical experience.",
+     "實習讓學生能獲得寶貴的實務經驗。"
+    ],
+    [
+     "He lacks the practical experience needed for this managerial position.",
+     "他缺乏擔任此管理職位所需的實務經驗。"
+    ]
+   ]
+  },
+  {
+   "word": "price quote",
+   "ph": "",
+   "pos": "n. 報價",
+   "zh": "報價；價格估計",
+   "colloc": "provide a price quote 提供報價 | request a price quote 要求報價",
+   "distinct": "estimate 估價 | invoice 發票",
+   "ex": [
+    [
+     "Please send us a price quote for the office renovation.",
+     "請寄給我們辦公室裝修的報價單。"
+    ],
+    [
+     "We requested a formal price quote from three different suppliers.",
+     "我們向三家不同的供應商要求正式報價。"
+    ],
+    [
+     "The price quote will remain valid for thirty days only.",
+     "此報價僅在三十天內有效。"
+    ]
+   ]
+  },
+  {
+   "word": "product designer",
+   "ph": "",
+   "pos": "n. 產品設計師",
+   "zh": "產品設計師",
+   "colloc": "work as a product designer 擔任產品設計師 | hire a product designer 聘請產品設計師",
+   "distinct": "graphic designer 平面設計師 | interior designer 室內設計師",
+   "ex": [
+    [
+     "The product designer created a sleek and modern laptop.",
+     "產品設計師設計了一款時尚且現代的筆記型電腦。"
+    ],
+    [
+     "Our company is looking for an experienced product designer.",
+     "我們公司正在尋找一位有經驗的產品設計師。"
+    ],
+    [
+     "The product designer collaborates closely with the engineering team.",
+     "產品設計師與工程團隊密切合作。"
+    ]
+   ]
+  },
+  {
+   "word": "product display",
+   "ph": "",
+   "pos": "n. 產品展示",
+   "zh": "產品展示；商品陳列",
+   "colloc": "set up a product display 架設產品展示 | improve the product display 改進產品陳列",
+   "distinct": "product launch 產品發表 | showroom 展示間",
+   "ex": [
+    [
+     "The new product display caught the attention of many shoppers.",
+     "新的產品展示吸引了許多顧客的注意。"
+    ],
+    [
+     "Retail staff must maintain a clean and attractive product display.",
+     "門市人員必須維持整潔且吸引人的商品陳列。"
+    ],
+    [
+     "We decided to change the product display for the holiday season.",
+     "我們決定為節慶季節更改產品展示方式。"
+    ]
+   ]
+  },
+  {
+   "word": "proof of employment",
+   "ph": "",
+   "pos": "n. 在職證明",
+   "zh": "在職證明；工作證明",
+   "colloc": "provide proof of employment 提供在職證明 | request proof of employment 要求工作證明",
+   "distinct": "certificate of graduation 畢業證書 | transcript 成績單",
+   "ex": [
+    [
+     "You need to submit a letter as proof of employment.",
+     "你需要提交一封信作為在職證明。"
+    ],
+    [
+     "The bank requested proof of employment for the loan application.",
+     "銀行要求提供貸款申請的在職證明。"
+    ],
+    [
+     "Human resources will issue your proof of employment tomorrow.",
+     "人力資源部明天會核發你的在職證明。"
+    ]
+   ]
+  },
+  {
+   "word": "property line",
+   "ph": "",
+   "pos": "n. 地界線；土地邊界",
+   "zh": "地界線；土地界線",
+   "colloc": "mark the property line 標示地界線 | cross the property line 越過地界線",
+   "distinct": "boundary 界線 | border 國界；邊境",
+   "ex": [
+    [
+     "The fence was built exactly on the property line.",
+     "圍籬正好建在土地界線上。"
+    ],
+    [
+     "We need to survey the land to determine the property line.",
+     "我們需要測量土地以確定地界線。"
+    ],
+    [
+     "Any construction must stay within the legal property line.",
+     "任何建築工程都必須保持在合法的土地範圍內。"
+    ]
+   ]
+  }
+ ]
+}

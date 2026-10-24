@@ -1,0 +1,448 @@
+{
+ "day": 14,
+ "theme": "教材字彙・基礎 550–650 第 14 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "report",
+   "ph": "/rɪˈpɔːrt/",
+   "pos": "n. 報告 | v. 匯報",
+   "zh": "報告；匯報",
+   "colloc": "annual report 年度報告 | submit a report 提交報告",
+   "distinct": "account 帳戶說明 | record 記錄",
+   "ex": [
+    [
+     "Please submit your weekly report by Friday afternoon.",
+     "請在週五下午前提交你的每週報告。"
+    ],
+    [
+     "The department manager reported the sales figures to the CEO.",
+     "部門經理向執行長匯報了銷售數據。"
+    ],
+    [
+     "This new report highlights the need for market expansion.",
+     "這份新報告強調了市場擴張的必要性。"
+    ]
+   ]
+  },
+  {
+   "word": "representative",
+   "ph": "/ˌreprɪˈzentətɪv/",
+   "pos": "n. 代表 | adj. 有代表性的",
+   "zh": "代表；代理人",
+   "colloc": "sales representative 銷售代表 | customer representative 客服代表",
+   "distinct": "delegate 代表（會議） | agent 代理人",
+   "ex": [
+    [
+     "A sales representative will visit your office next week.",
+     "銷售代表下週會拜訪您的辦公室。"
+    ],
+    [
+     "She is the legal representative for the overseas branch.",
+     "她是海外分公司的法律代表。"
+    ],
+    [
+     "The survey results are representative of our entire client base.",
+     "調查結果足以代表我們所有的客戶群。"
+    ]
+   ]
+  },
+  {
+   "word": "respond",
+   "ph": "/rɪˈspɑːnd/",
+   "pos": "v. 回應 | 回答",
+   "zh": "回應；回答",
+   "colloc": "respond to an email 回覆郵件 | respond quickly 迅速回應",
+   "distinct": "answer 回答問題 | react 反應",
+   "ex": [
+    [
+     "Please respond to the client's inquiry as soon as possible.",
+     "請儘快回應客戶的詢問。"
+    ],
+    [
+     "Management did not respond to the employees' request for a raise.",
+     "管理層未對員工的加薪請求做出回應。"
+    ],
+    [
+     "How should we respond to the competitor's recent price cut?",
+     "我們該如何應對競爭對手最近的降價策略？"
+    ]
+   ]
+  },
+  {
+   "word": "restrict",
+   "ph": "/rɪˈstrɪkt/",
+   "pos": "v. 限制 | 約束",
+   "zh": "限制；約束",
+   "colloc": "restrict access 限制存取 | strictly restricted 嚴格限制",
+   "distinct": "limit 限量 | curb 控制",
+   "ex": [
+    [
+     "The company restricts internet access during working hours.",
+     "公司在工作時間限制網路存取。"
+    ],
+    [
+     "Budget cuts will restrict our ability to hire new staff.",
+     "預算削減將限制我們聘僱新員工的能力。"
+    ],
+    [
+     "Building codes restrict the height of structures in this area.",
+     "建築法規限制了該區域建築物的高度。"
+    ]
+   ]
+  },
+  {
+   "word": "search",
+   "ph": "/sɜːrtʃ/",
+   "pos": "n. 搜尋 | v. 尋找",
+   "zh": "搜尋；尋找",
+   "colloc": "job search 求職 | search for information 搜尋資訊",
+   "distinct": "examine 檢查 | look for 找尋",
+   "ex": [
+    [
+     "Our team is conducting a search for a new office location.",
+     "我們的團隊正在搜尋新的辦公室地點。"
+    ],
+    [
+     "You can search for available files on the company server.",
+     "你可以在公司伺服器上搜尋可用的檔案。"
+    ],
+    [
+     "They searched through the archives for historical data.",
+     "他們在檔案庫中搜尋歷史數據。"
+    ]
+   ]
+  },
+  {
+   "word": "secure",
+   "ph": "/səˈkjʊr/",
+   "pos": "adj. 安全的 | v. 確保",
+   "zh": "安全的；獲得",
+   "colloc": "secure a contract 獲得合約 | secure connection 安全連線",
+   "distinct": "safe 安全的 | protect 保護",
+   "ex": [
+    [
+     "We need to secure the office doors before leaving.",
+     "離開前我們必須確保辦公室門已鎖好。"
+    ],
+    [
+     "It was difficult to secure funding for the new project.",
+     "為新專案爭取到資金相當困難。"
+    ],
+    [
+     "Please ensure that your data is stored in a secure location.",
+     "請確保你的資料存放在安全的地方。"
+    ]
+   ]
+  },
+  {
+   "word": "seek",
+   "ph": "/siːk/",
+   "pos": "v. 尋求 | 請求",
+   "zh": "尋求；請求",
+   "colloc": "seek advice 尋求建議 | seek employment 尋求就業",
+   "distinct": "search 搜尋 | look for 找尋",
+   "ex": [
+    [
+     "The firm is seeking a candidate with relevant experience.",
+     "這家公司正在尋求有相關經驗的候選人。"
+    ],
+    [
+     "You should seek professional advice before signing the agreement.",
+     "簽署合約前你應該尋求專業建議。"
+    ],
+    [
+     "We are seeking new ways to improve operational efficiency.",
+     "我們正在尋求改善營運效率的新方法。"
+    ]
+   ]
+  },
+  {
+   "word": "serve",
+   "ph": "/sɜːrv/",
+   "pos": "v. 服務 | 任職",
+   "zh": "服務；擔任",
+   "colloc": "serve as... 擔任…… | customer service 客戶服務",
+   "distinct": "assist 協助 | provide 提供",
+   "ex": [
+    [
+     "He has served as the company director for ten years.",
+     "他已擔任公司董事十年之久。"
+    ],
+    [
+     "This new policy will serve to reduce waste significantly.",
+     "這項新政策將有助於大幅減少浪費。"
+    ],
+    [
+     "Our staff is dedicated to serving every customer with care.",
+     "我們的員工致力於用心服務每一位客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "strategy",
+   "ph": "/ˈstrætədʒi/",
+   "pos": "n. 策略 | 戰略",
+   "zh": "策略；戰略",
+   "colloc": "marketing strategy 行銷策略 | develop a strategy 制定策略",
+   "distinct": "tactic 戰術 | plan 計畫",
+   "ex": [
+    [
+     "We need a long-term strategy to stay ahead of rivals.",
+     "我們需要一項長期策略以保持領先競爭對手。"
+    ],
+    [
+     "The marketing strategy focuses on digital media platforms.",
+     "該行銷策略著重於數位媒體平台。"
+    ],
+    [
+     "The board of directors approved the company's growth strategy.",
+     "董事會批准了公司的成長策略。"
+    ]
+   ]
+  },
+  {
+   "word": "substantially",
+   "ph": "/səbˈstænʃəli/",
+   "pos": "adv. 大大地 | 相當多地",
+   "zh": "大地；相當多地",
+   "colloc": "substantially increase 大幅增加 | substantially different 截然不同",
+   "distinct": "considerably 相當地 | significantly 明顯地",
+   "ex": [
+    [
+     "Sales have grown substantially over the last two quarters.",
+     "過去兩季銷售額大幅增長。"
+    ],
+    [
+     "The new design is substantially better than the previous one.",
+     "新設計比之前那款好得多。"
+    ],
+    [
+     "Operational costs were reduced substantially after the merger.",
+     "合併後營運成本大幅降低。"
+    ]
+   ]
+  },
+  {
+   "word": "superior",
+   "ph": "/səˈpɪriər/",
+   "pos": "adj. 優越的 | n. 上司",
+   "zh": "優越的；上司",
+   "colloc": "superior quality 優良品質 | report to a superior 向主管匯報",
+   "distinct": "excellent 極好的 | senior 資深的",
+   "ex": [
+    [
+     "Our company is known for providing superior customer support.",
+     "我們公司以提供優質的客戶支援而聞名。"
+    ],
+    [
+     "You should discuss this matter with your direct superior.",
+     "你應該與你的直屬主管討論此事。"
+    ],
+    [
+     "This software offers superior features compared to other tools.",
+     "與其他工具相比，這套軟體提供更優越的功能。"
+    ]
+   ]
+  },
+  {
+   "word": "suppose",
+   "ph": "/səˈpoʊz/",
+   "pos": "v. 假設 | 猜想",
+   "zh": "假設；猜想",
+   "colloc": "be supposed to 應該 | suppose that 假設",
+   "distinct": "assume 假定 | imagine 想像",
+   "ex": [
+    [
+     "We are supposed to submit the project by noon today.",
+     "我們應該要在今天中午前提交該專案。"
+    ],
+    [
+     "What do you suppose is the reason for the delay?",
+     "你認為造成延誤的原因是什麼？"
+    ],
+    [
+     "Let us suppose the market demand drops suddenly next month.",
+     "讓我們假設市場需求下個月會突然下降。"
+    ]
+   ]
+  },
+  {
+   "word": "total",
+   "ph": "/ˈtoʊtl/",
+   "pos": "n. 總數 | adj. 總體的",
+   "zh": "總數；總體的",
+   "colloc": "total amount 總金額 | total sales 總銷售額",
+   "distinct": "sum 總和 | aggregate 總計",
+   "ex": [
+    [
+     "The total cost of the renovation exceeded our budget.",
+     "裝修的總成本超出了我們的預算。"
+    ],
+    [
+     "Please calculate the total number of hours worked this week.",
+     "請計算本週工作的總時數。"
+    ],
+    [
+     "The total attendance for the conference was over five hundred.",
+     "此次會議的總出席人數超過五百人。"
+    ]
+   ]
+  },
+  {
+   "word": "tour",
+   "ph": "/tʊr/",
+   "pos": "n. 巡迴 | 參觀",
+   "zh": "巡迴；參觀",
+   "colloc": "factory tour 工廠參觀 | take a tour 參加導覽",
+   "distinct": "trip 旅行 | travel 移動",
+   "ex": [
+    [
+     "We will take a guided tour of the production facility.",
+     "我們將參加生產設施的導覽參觀。"
+    ],
+    [
+     "The manager is currently on a business tour of Asia.",
+     "經理目前正在亞洲進行商務巡迴。"
+    ],
+    [
+     "Visitors are welcome to take a tour of our showroom.",
+     "歡迎訪客參觀我們的展示間。"
+    ]
+   ]
+  },
+  {
+   "word": "traditional",
+   "ph": "/trəˈdɪʃənl/",
+   "pos": "adj. 傳統的 | 慣例的",
+   "zh": "傳統的；慣例的",
+   "colloc": "traditional method 傳統方法 | traditional business 傳統企業",
+   "distinct": "conventional 習慣的 | customary 習俗的",
+   "ex": [
+    [
+     "The company is moving away from traditional marketing methods.",
+     "公司正逐漸捨棄傳統的行銷方式。"
+    ],
+    [
+     "It is a traditional practice to hold a staff party annually.",
+     "每年舉辦員工派對是傳統慣例。"
+    ],
+    [
+     "We combine traditional craftsmanship with modern technology.",
+     "我們將傳統工藝與現代科技相結合。"
+    ]
+   ]
+  },
+  {
+   "word": "training",
+   "ph": "/ˈtreɪnɪŋ/",
+   "pos": "n. 訓練 | 培訓",
+   "zh": "訓練；培訓",
+   "colloc": "training session 訓練課程 | job training 職前訓練",
+   "distinct": "education 教育 | practice 練習",
+   "ex": [
+    [
+     "All new employees must attend the mandatory training session.",
+     "所有新進員工都必須參加強制性的培訓課程。"
+    ],
+    [
+     "She received excellent training before starting her new role.",
+     "她在開始新職位前接受了完善的培訓。"
+    ],
+    [
+     "The company offers ongoing training for all staff members.",
+     "公司為所有員工提供持續性的培訓。"
+    ]
+   ]
+  },
+  {
+   "word": "transform",
+   "ph": "/trænsˈfɔːrm/",
+   "pos": "v. 改變 | 變革",
+   "zh": "改變；變革",
+   "colloc": "transform the business 轉型企業 | completely transform 完全改變",
+   "distinct": "change 改變 | modify 修改",
+   "ex": [
+    [
+     "The new leadership aims to transform the company's culture.",
+     "新領導階層旨在變革公司文化。"
+    ],
+    [
+     "Innovative technology has transformed the way we work today.",
+     "創新科技已經改變了我們今天的工作方式。"
+    ],
+    [
+     "We plan to transform this warehouse into a modern office.",
+     "我們計畫將這間倉庫改造為現代化的辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "treatment",
+   "ph": "/ˈtriːtmənt/",
+   "pos": "n. 治療 | 對待",
+   "zh": "治療；對待",
+   "colloc": "fair treatment 公平對待 | medical treatment 醫療",
+   "distinct": "therapy 治療療法 | handling 處理",
+   "ex": [
+    [
+     "The company ensures fair treatment for all its employees.",
+     "公司確保所有員工都受到公平對待。"
+    ],
+    [
+     "He is undergoing medical treatment for his back injury.",
+     "他正在接受背部受傷的醫療治療。"
+    ],
+    [
+     "The proposal suggests a new treatment for waste disposal.",
+     "該提案建議了一種廢棄物處理的新方法。"
+    ]
+   ]
+  },
+  {
+   "word": "uncertain",
+   "ph": "/ʌnˈsɜːrtn/",
+   "pos": "adj. 不確定的 | 不可靠的",
+   "zh": "不確定的；模糊的",
+   "colloc": "uncertain future 不確定的未來 | remain uncertain 保持不確定",
+   "distinct": "unsure 不確信 | doubtful 可疑的",
+   "ex": [
+    [
+     "The economic climate remains uncertain for the next quarter.",
+     "下一季的經濟氛圍仍處於不確定狀態。"
+    ],
+    [
+     "I am uncertain about the schedule for tomorrow's meeting.",
+     "我不確定明天會議的行程安排。"
+    ],
+    [
+     "The outcome of the negotiations is still highly uncertain.",
+     "談判結果目前仍充滿高度不確定性。"
+    ]
+   ]
+  },
+  {
+   "word": "usually",
+   "ph": "/ˈjuːʒuəli/",
+   "pos": "adv. 通常 | 大抵",
+   "zh": "通常",
+   "colloc": "usually happen 通常發生 | not usually 不常",
+   "distinct": "generally 大體上 | normally 正常地",
+   "ex": [
+    [
+     "Our weekly staff meeting is usually held on Mondays.",
+     "我們的每週員工會議通常在星期一舉行。"
+    ],
+    [
+     "We usually receive a response within two business days.",
+     "我們通常在兩個工作日內收到回覆。"
+    ],
+    [
+     "The office is usually quiet during the lunch hour.",
+     "午餐時間辦公室通常很安靜。"
+    ]
+   ]
+  }
+ ]
+}

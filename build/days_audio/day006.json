@@ -1,0 +1,448 @@
+{
+ "day": 6,
+ "theme": "教材字彙・基礎 550–650 第 6 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "refuse",
+   "ph": "/rɪˈfjuːz/",
+   "pos": "v. 拒絕",
+   "zh": "拒絕；推辭",
+   "colloc": "refuse an offer 拒絕提議 | refuse to comment 不予置評",
+   "distinct": "decline 婉拒（較委婉）| reject 駁回（較強硬）",
+   "ex": [
+    [
+     "The manager decided to refuse the new proposal.",
+     "經理決定拒絕這項新提案。"
+    ],
+    [
+     "She refused to comment on the company merger.",
+     "她拒絕針對公司合併發表評論。"
+    ],
+    [
+     "Please do not refuse the invitation to the gala.",
+     "請不要拒絕參加這次的盛會邀請。"
+    ]
+   ]
+  },
+  {
+   "word": "remind",
+   "ph": "/rɪˈmaɪnd/",
+   "pos": "v. 提醒",
+   "zh": "提醒；使想起",
+   "colloc": "remind someone of something 提醒某人某事 | remind someone to do something 提醒某人做某事",
+   "distinct": "recall 回憶起 | remember 記得",
+   "ex": [
+    [
+     "May I remind you about our meeting tomorrow?",
+     "我可以提醒你明天開會的事嗎？"
+    ],
+    [
+     "The assistant reminded the CEO to sign the contract.",
+     "助理提醒執行長簽署合約。"
+    ],
+    [
+     "This report reminds me of the previous market analysis.",
+     "這份報告讓我想到之前的市場分析。"
+    ]
+   ]
+  },
+  {
+   "word": "repair",
+   "ph": "/rɪˈper/",
+   "pos": "v. 修理 | n. 修繕",
+   "zh": "修理；修繕",
+   "colloc": "under repair 維修中 | repair the damage 修復損壞",
+   "distinct": "fix 修復（口語）| mend 修補（衣物等）",
+   "ex": [
+    [
+     "The company will repair the broken equipment immediately.",
+     "公司將會立即修理損壞的設備。"
+    ],
+    [
+     "The office building is currently under major repair.",
+     "辦公大樓目前正在進行大規模修繕。"
+    ],
+    [
+     "We need to repair the server before the deadline.",
+     "我們必須在截止日前修好伺服器。"
+    ]
+   ]
+  },
+  {
+   "word": "reserve",
+   "ph": "/rɪˈzɜːrv/",
+   "pos": "v. 預訂；保留",
+   "zh": "預訂；保留",
+   "colloc": "reserve a table 訂位 | reserve the right 保留權利",
+   "distinct": "book 預訂（飯店、機位）| preserve 保存",
+   "ex": [
+    [
+     "I would like to reserve a table for four.",
+     "我想預訂一張四人的桌位。"
+    ],
+    [
+     "The firm reserves the right to change the terms.",
+     "公司保留更改條款的權利。"
+    ],
+    [
+     "They reserved the conference room for the presentation.",
+     "他們預訂了會議室進行簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "sample",
+   "ph": "/ˈsæmpl/",
+   "pos": "n. 樣本 | v. 取樣",
+   "zh": "樣本；樣品",
+   "colloc": "free sample 免費樣品 | product sample 產品樣本",
+   "distinct": "example 例子 | specimen 標本",
+   "ex": [
+    [
+     "The client requested a sample of the new fabric.",
+     "客戶要求提供新布料的樣品。"
+    ],
+    [
+     "We analyzed the sample to ensure high quality standards.",
+     "我們分析了樣本以確保高品質標準。"
+    ],
+    [
+     "Please send a product sample to our office today.",
+     "請今天寄送產品樣品到我們的辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "separate",
+   "ph": "/ˈsepəreɪt/",
+   "pos": "v. 分開 | adj. 分開的",
+   "zh": "分離；分開",
+   "colloc": "separate account 分開的帳戶 | keep separate 分開存放",
+   "distinct": "divide 分割 | detach 拆下",
+   "ex": [
+    [
+     "The accounting department will separate personal and business expenses.",
+     "會計部門會將個人與公司開銷分開。"
+    ],
+    [
+     "Please keep the invoices in a separate folder.",
+     "請將發票分開存放在不同的資料夾。"
+    ],
+    [
+     "We need to separate the tasks into different categories.",
+     "我們需要將工作分開歸類到不同項目。"
+    ]
+   ]
+  },
+  {
+   "word": "simple",
+   "ph": "/ˈsɪmpl/",
+   "pos": "adj. 簡單的",
+   "zh": "簡單的；樸素的",
+   "colloc": "simple process 簡單的流程 | keep it simple 保持簡單",
+   "distinct": "easy 容易的 | basic 基礎的",
+   "ex": [
+    [
+     "The new software offers a very simple interface.",
+     "這套新軟體提供了非常簡單的介面。"
+    ],
+    [
+     "We need a simple solution for this complex problem.",
+     "我們需要針對這個複雜問題提出簡單的解決方案。"
+    ],
+    [
+     "The procedure for claiming refunds is quite simple.",
+     "申請退款的程序相當簡單。"
+    ]
+   ]
+  },
+  {
+   "word": "specific",
+   "ph": "/spəˈsɪfɪk/",
+   "pos": "adj. 特定的 | 明確的",
+   "zh": "特定的；明確的",
+   "colloc": "specific instructions 明確的指示 | specific time 特定時間",
+   "distinct": "special 特別的 | concrete 具體的",
+   "ex": [
+    [
+     "The client has specific requirements for the project.",
+     "客戶對這個專案有明確的要求。"
+    ],
+    [
+     "Could you provide specific examples of your experience?",
+     "你能提供你經驗的具體例子嗎？"
+    ],
+    [
+     "We need to meet at a specific time tomorrow.",
+     "我們明天需要在一個特定的時間碰面。"
+    ]
+   ]
+  },
+  {
+   "word": "spot",
+   "ph": "/spɑːt/",
+   "pos": "n. 地點 | v. 發現",
+   "zh": "地點；斑點；發現",
+   "colloc": "on the spot 當場 | parking spot 停車位",
+   "distinct": "location 地點 | site 場所",
+   "ex": [
+    [
+     "This is an ideal spot for a new office.",
+     "這是開設新辦公室的理想地點。"
+    ],
+    [
+     "The auditor spotted an error in the financial report.",
+     "稽核員發現財務報告中的一個錯誤。"
+    ],
+    [
+     "You must pay the fine on the spot.",
+     "你必須當場繳納罰款。"
+    ]
+   ]
+  },
+  {
+   "word": "statement",
+   "ph": "/ˈsteɪtmənt/",
+   "pos": "n. 陳述；聲明 | 帳單",
+   "zh": "聲明；說明書；對帳單",
+   "colloc": "financial statement 財務報表 | make a statement 發布聲明",
+   "distinct": "claim 主張 | account 帳戶",
+   "ex": [
+    [
+     "The CEO released a statement regarding the layoff.",
+     "執行長發布了關於裁員的聲明。"
+    ],
+    [
+     "Please check your monthly bank statement carefully.",
+     "請仔細檢查你的每月銀行對帳單。"
+    ],
+    [
+     "She made a clear statement about the company policy.",
+     "她對公司政策做出明確的說明。"
+    ]
+   ]
+  },
+  {
+   "word": "step",
+   "ph": "/step/",
+   "pos": "n. 步驟 | 階梯",
+   "zh": "步驟；措施；階梯",
+   "colloc": "step by step 一步步地 | take steps 採取措施",
+   "distinct": "stage 階段 | procedure 程序",
+   "ex": [
+    [
+     "The first step is to register on our website.",
+     "第一步是在我們的網站註冊。"
+    ],
+    [
+     "Management will take steps to improve employee morale.",
+     "管理層將採取措施改善員工士氣。"
+    ],
+    [
+     "Follow these simple steps to install the printer.",
+     "按照這些簡單的步驟來安裝印表機。"
+    ]
+   ]
+  },
+  {
+   "word": "suggestion",
+   "ph": "/səˈdʒestʃən/",
+   "pos": "n. 建議",
+   "zh": "建議；提議",
+   "colloc": "make a suggestion 提出建議 | follow a suggestion 採納建議",
+   "distinct": "advice 忠告 | proposal 提案",
+   "ex": [
+    [
+     "Do you have any suggestions for our marketing plan?",
+     "你對我們的行銷計畫有什麼建議嗎？"
+    ],
+    [
+     "The board accepted his suggestion for cost reduction.",
+     "董事會接受了他削減成本的建議。"
+    ],
+    [
+     "I appreciate your helpful suggestion regarding the project.",
+     "我很感謝你對該專案提供的實用建議。"
+    ]
+   ]
+  },
+  {
+   "word": "absolutely",
+   "ph": "/ˈæbsəluːtli/",
+   "pos": "adv. 絕對地 | 完全地",
+   "zh": "絕對地；完全地",
+   "colloc": "absolutely necessary 絕對必要 | absolutely right 完全正確",
+   "distinct": "completely 完全地 | definitely 肯定地",
+   "ex": [
+    [
+     "It is absolutely necessary to finish the report today.",
+     "今天完成報告是絕對必要的。"
+    ],
+    [
+     "The new system works absolutely perfectly.",
+     "這套新系統運作得非常完美。"
+    ],
+    [
+     "He is absolutely confident about winning the contract.",
+     "他對於拿下合約感到絕對有信心。"
+    ]
+   ]
+  },
+  {
+   "word": "actually",
+   "ph": "/ˈæktʃuəli/",
+   "pos": "adv. 實際上",
+   "zh": "實際上；竟然",
+   "colloc": "actually happen 實際上發生 | in fact 事實上",
+   "distinct": "really 真地 | currently 目前",
+   "ex": [
+    [
+     "The project was actually easier than we expected.",
+     "這個專案實際上比我們預期的簡單。"
+    ],
+    [
+     "I actually spoke to the manager this morning.",
+     "我今天早上真的有跟經理談過話。"
+    ],
+    [
+     "They are actually planning to open a new branch.",
+     "他們實際上正計畫開設一家新分店。"
+    ]
+   ]
+  },
+  {
+   "word": "allow",
+   "ph": "/əˈlaʊ/",
+   "pos": "v. 允許 | 使可能",
+   "zh": "允許；准許",
+   "colloc": "allow someone to do something 允許某人做某事 | be allowed to 被允許",
+   "distinct": "permit 許可（正式）| let 讓（口語）",
+   "ex": [
+    [
+     "The company policy does not allow working from home.",
+     "公司政策不允許在家工作。"
+    ],
+    [
+     "This new software will allow us to save time.",
+     "這套新軟體將能讓我們節省時間。"
+    ],
+    [
+     "Visitors are not allowed in the production area.",
+     "訪客不被允許進入生產區域。"
+    ]
+   ]
+  },
+  {
+   "word": "anniversary",
+   "ph": "/ˌænɪˈvɜːrsəri/",
+   "pos": "n. 週年紀念",
+   "zh": "週年紀念日",
+   "colloc": "tenth anniversary 十週年紀念 | celebrate the anniversary 慶祝週年",
+   "distinct": "birthday 生日 | annual 年度",
+   "ex": [
+    [
+     "We are celebrating our company's twentieth anniversary.",
+     "我們正在慶祝公司成立二十週年。"
+    ],
+    [
+     "The firm will host a party for the anniversary.",
+     "公司將會為週年慶舉辦一場派對。"
+    ],
+    [
+     "The event marks the fifth anniversary of the partnership.",
+     "這項活動標誌著合作關係的五週年。"
+    ]
+   ]
+  },
+  {
+   "word": "appeal",
+   "ph": "/əˈpiːl/",
+   "pos": "v. 吸引 | 呼籲 | n. 吸引力",
+   "zh": "吸引；呼籲；上訴",
+   "colloc": "appeal to someone 吸引某人 | appeal against a decision 對決定上訴",
+   "distinct": "attract 吸引（物理）| plead 懇求",
+   "ex": [
+    [
+     "The new product design appeals to young consumers.",
+     "這款新產品設計很吸引年輕消費者。"
+    ],
+    [
+     "The union appealed for better working conditions.",
+     "工會呼籲改善工作條件。"
+    ],
+    [
+     "He decided to appeal the court's recent decision.",
+     "他決定針對法院最近的判決進行上訴。"
+    ]
+   ]
+  },
+  {
+   "word": "assist",
+   "ph": "/əˈsɪst/",
+   "pos": "v. 協助",
+   "zh": "協助；支援",
+   "colloc": "assist with something 協助處理某事 | assist someone in doing 協助某人做",
+   "distinct": "help 幫助（通用）| support 支援",
+   "ex": [
+    [
+     "Could you assist me with this software installation?",
+     "你能協助我處理這套軟體安裝嗎？"
+    ],
+    [
+     "The team will assist the manager with the audit.",
+     "團隊將會協助經理進行審計。"
+    ],
+    [
+     "We are looking for someone to assist our sales staff.",
+     "我們正在尋找協助銷售人員的人選。"
+    ]
+   ]
+  },
+  {
+   "word": "assume",
+   "ph": "/əˈsuːm/",
+   "pos": "v. 假定 | 承擔（責任）",
+   "zh": "假定；承擔",
+   "colloc": "assume responsibility 承擔責任 | assume that 假定...",
+   "distinct": "presume 推測 | take on 擔負",
+   "ex": [
+    [
+     "Do not assume that the deal is already finalized.",
+     "別假定交易已經拍板定案了。"
+    ],
+    [
+     "She will assume the role of director next month.",
+     "她下個月將會擔當總監的角色。"
+    ],
+    [
+     "We assume that the shipment will arrive by Friday.",
+     "我們假定這批貨會在星期五前抵達。"
+    ]
+   ]
+  },
+  {
+   "word": "attention",
+   "ph": "/əˈtenʃn/",
+   "pos": "n. 注意力 | 關注",
+   "zh": "注意；專注；關懷",
+   "colloc": "pay attention to 注意 | draw attention to 引起關注",
+   "distinct": "focus 焦點 | care 照顧",
+   "ex": [
+    [
+     "Please pay close attention to the safety instructions.",
+     "請密切注意安全須知。"
+    ],
+    [
+     "The new policy has drawn much attention from investors.",
+     "這項新政策引起了投資人的高度關注。"
+    ],
+    [
+     "Thank you for your attention to this important matter.",
+     "感謝您對此重要事務的關注。"
+    ]
+   ]
+  }
+ ]
+}

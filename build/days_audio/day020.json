@@ -1,0 +1,448 @@
+{
+ "day": 20,
+ "theme": "教材字彙・基礎 550–650 第 20 群",
+ "level": "基礎 550–650",
+ "kind": "word",
+ "items": [
+  {
+   "word": "apparently",
+   "ph": "/əˈpærəntli/",
+   "pos": "adv. 顯然地；似乎",
+   "zh": "顯然地；據說",
+   "colloc": "apparently true 顯然是真的 | apparently simple 看似簡單",
+   "distinct": "obviously 明顯地（證據確鑿）| seemingly 外表上地",
+   "ex": [
+    [
+     "Apparently, the merger has been delayed again.",
+     "顯然地，合併案又被延期了。"
+    ],
+    [
+     "The manager is apparently unhappy with the results.",
+     "經理似乎對結果不太滿意。"
+    ],
+    [
+     "He is apparently the best candidate for the job.",
+     "據說他是這份工作最好的候選人。"
+    ]
+   ]
+  },
+  {
+   "word": "appropriate",
+   "ph": "/əˈproʊpriət/",
+   "pos": "adj. 適當的；合適的",
+   "zh": "適當的；合適的",
+   "colloc": "appropriate measures 適當的措施 | appropriate attire 合宜的穿著",
+   "distinct": "proper 合宜的（禮節上）| suitable 適合的（功能上）",
+   "ex": [
+    [
+     "Please wear appropriate attire to the gala.",
+     "請穿著合適的服裝參加晚宴。"
+    ],
+    [
+     "The board will take appropriate action soon.",
+     "董事會很快會採取適當行動。"
+    ],
+    [
+     "Is this software appropriate for our needs?",
+     "這個軟體適合我們的需求嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "cash",
+   "ph": "/kæʃ/",
+   "pos": "n. 現金 | v. 兌現",
+   "zh": "現金；貨幣",
+   "colloc": "cash payment 現金付款 | petty cash 零用金",
+   "distinct": "currency 通貨（國際）| fund 資金",
+   "ex": [
+    [
+     "We offer a discount for cash payments.",
+     "我們提供現金付款的折扣。"
+    ],
+    [
+     "Could you please cash this check for me?",
+     "你能幫我把這張支票兌現嗎？"
+    ],
+    [
+     "The company is running low on cash.",
+     "公司的現金流快要不足了。"
+    ]
+   ]
+  },
+  {
+   "word": "consult",
+   "ph": "/kənˈsʌlt/",
+   "pos": "v. 諮詢；請教；查閱",
+   "zh": "諮詢；查閱",
+   "colloc": "consult a lawyer 諮詢律師 | consult the manual 查閱手冊",
+   "distinct": "inquire 詢問 | confer 商議",
+   "ex": [
+    [
+     "You should consult a financial advisor first.",
+     "你應該先諮詢財務顧問。"
+    ],
+    [
+     "Please consult the employee handbook for details.",
+     "請查閱員工手冊以了解細節。"
+    ],
+    [
+     "We will consult our clients before deciding.",
+     "我們決定前會先諮詢客戶意見。"
+    ]
+   ]
+  },
+  {
+   "word": "dealer",
+   "ph": "/ˈdiːlər/",
+   "pos": "n. 經銷商；業者",
+   "zh": "經銷商；交易商",
+   "colloc": "car dealer 汽車經銷商 | authorized dealer 授權經銷商",
+   "distinct": "distributor 批發商 | merchant 商人",
+   "ex": [
+    [
+     "He is a successful local car dealer.",
+     "他是一位成功的在地汽車經銷商。"
+    ],
+    [
+     "Contact the authorized dealer for repairs.",
+     "請聯繫授權經銷商進行維修。"
+    ],
+    [
+     "The art dealer sold the painting quickly.",
+     "藝術品經銷商很快就把畫賣掉了。"
+    ]
+   ]
+  },
+  {
+   "word": "deposit",
+   "ph": "/dɪˈpɑːzɪt/",
+   "pos": "n. 存款；訂金 | v. 存入",
+   "zh": "存款；訂金；存入",
+   "colloc": "make a deposit 存款 | security deposit 保證金",
+   "distinct": "down payment 頭期款 | installment 分期付款",
+   "ex": [
+    [
+     "Please deposit the check into our account.",
+     "請將支票存入我們的帳戶。"
+    ],
+    [
+     "We require a deposit to secure the order.",
+     "我們需要訂金來確保這筆訂單。"
+    ],
+    [
+     "He made a large deposit at the bank.",
+     "他在銀行存入了一大筆錢。"
+    ]
+   ]
+  },
+  {
+   "word": "director",
+   "ph": "/dəˈrektər/",
+   "pos": "n. 主管；董事；導演",
+   "zh": "主管；董事；導演",
+   "colloc": "board of directors 董事會 | marketing director 行銷總監",
+   "distinct": "manager 經理 | executive 主管人員",
+   "ex": [
+    [
+     "The marketing director will lead the project.",
+     "行銷總監將帶領這個專案。"
+    ],
+    [
+     "She was appointed as the new director.",
+     "她被指派擔任新主管。"
+    ],
+    [
+     "The board of directors met this morning.",
+     "董事會今天早上開會了。"
+    ]
+   ]
+  },
+  {
+   "word": "entirely",
+   "ph": "/ɪnˈtaɪərli/",
+   "pos": "adv. 完全地；全然",
+   "zh": "完全地；徹底地",
+   "colloc": "entirely different 完全不同 | entirely new 全新的",
+   "distinct": "completely 完全地 | totally 徹底地",
+   "ex": [
+    [
+     "The office layout is entirely different now.",
+     "辦公室配置現在完全不同了。"
+    ],
+    [
+     "We are entirely satisfied with the service.",
+     "我們對這項服務感到完全滿意。"
+    ],
+    [
+     "His proposal is entirely new to me.",
+     "他的提議對我來說是全新的。"
+    ]
+   ]
+  },
+  {
+   "word": "familiar",
+   "ph": "/fəˈmɪliər/",
+   "pos": "adj. 熟悉的；親近的",
+   "zh": "熟悉的；常見的",
+   "colloc": "be familiar with 對...熟悉 | familiar face 熟悉的面孔",
+   "distinct": "acquainted 認識的 | knowledgeable 博學的",
+   "ex": [
+    [
+     "Are you familiar with our safety protocols?",
+     "你熟悉我們的安全規章嗎？"
+    ],
+    [
+     "The system design seems quite familiar.",
+     "系統設計看起來很熟悉。"
+    ],
+    [
+     "I am not familiar with this software.",
+     "我不熟悉這個軟體。"
+    ]
+   ]
+  },
+  {
+   "word": "financial",
+   "ph": "/faɪˈnænʃl/",
+   "pos": "adj. 財務的；金融的",
+   "zh": "財務的；金融的",
+   "colloc": "financial report 財務報告 | financial advisor 財務顧問",
+   "distinct": "fiscal 會計年度的 | monetary 貨幣的",
+   "ex": [
+    [
+     "The financial report shows a steady growth.",
+     "財務報告顯示穩定成長。"
+    ],
+    [
+     "We need financial support for the launch.",
+     "我們需要財務支援來進行產品發表。"
+    ],
+    [
+     "Financial markets are fluctuating quite often.",
+     "金融市場目前波動相當頻繁。"
+    ]
+   ]
+  },
+  {
+   "word": "imply",
+   "ph": "/ɪmˈplaɪ/",
+   "pos": "v. 暗示；隱含",
+   "zh": "暗示；意味著",
+   "colloc": "imply that... 暗示... | strongly imply 強烈暗示",
+   "distinct": "suggest 建議；顯示 | indicate 指出",
+   "ex": [
+    [
+     "His tone seemed to imply his disagreement.",
+     "他的語氣似乎暗示他不贊同。"
+    ],
+    [
+     "The results imply that we should adjust.",
+     "結果意味著我們應該進行調整。"
+    ],
+    [
+     "Does the email imply a change in deadline?",
+     "這封郵件暗示截止日期有變嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "join",
+   "ph": "/dʒɔɪn/",
+   "pos": "v. 加入；連接 | n. 接合處",
+   "zh": "加入；參與；連結",
+   "colloc": "join the company 加入公司 | join the meeting 參加會議",
+   "distinct": "participate 參加（需加in）| attend 出席",
+   "ex": [
+    [
+     "We would like you to join our team.",
+     "我們希望你加入我們的團隊。"
+    ],
+    [
+     "Please join us for the annual conference.",
+     "請參加我們的年度會議。"
+    ],
+    [
+     "He decided to join the professional club.",
+     "他決定加入那個專業俱樂部。"
+    ]
+   ]
+  },
+  {
+   "word": "loan",
+   "ph": "/loʊn/",
+   "pos": "n. 貸款；借出 | v. 借出",
+   "zh": "貸款；借款",
+   "colloc": "apply for a loan 申請貸款 | bank loan 銀行貸款",
+   "distinct": "debt 債務 | mortgage 房貸",
+   "ex": [
+    [
+     "The bank approved our small business loan.",
+     "銀行核准了我們的小型企業貸款。"
+    ],
+    [
+     "She is currently paying off a car loan.",
+     "她目前正在償還車貸。"
+    ],
+    [
+     "Can the library loan me these books?",
+     "圖書館可以借我這些書嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "location",
+   "ph": "/loʊˈkeɪʃn/",
+   "pos": "n. 地點；位置",
+   "zh": "地點；場所",
+   "colloc": "at a new location 在新地點 | convenient location 便利的位置",
+   "distinct": "site 基地；工地 | venue 場地",
+   "ex": [
+    [
+     "The store is moving to a new location.",
+     "這家店即將搬到新的地點。"
+    ],
+    [
+     "This is a prime location for an office.",
+     "這是非常適合辦公室的黃金地段。"
+    ],
+    [
+     "We need to confirm the meeting location.",
+     "我們需要確認開會地點。"
+    ]
+   ]
+  },
+  {
+   "word": "monitor",
+   "ph": "/ˈmɑːnɪtər/",
+   "pos": "v. 監控；監督 | n. 螢幕；監控器",
+   "zh": "監控；監督；螢幕",
+   "colloc": "monitor progress 監控進度 | monitor the system 監控系統",
+   "distinct": "supervise 管理；督導 | observe 觀察",
+   "ex": [
+    [
+     "We need to monitor the project closely.",
+     "我們需要密切監控這個專案。"
+    ],
+    [
+     "The staff will monitor the network status.",
+     "員工將會監控網路狀態。"
+    ],
+    [
+     "He bought a new computer monitor today.",
+     "他今天買了一個新的電腦螢幕。"
+    ]
+   ]
+  },
+  {
+   "word": "passenger",
+   "ph": "/ˈpæsɪndʒər/",
+   "pos": "n. 乘客",
+   "zh": "乘客；旅客",
+   "colloc": "passenger terminal 航廈 | airline passenger 航空乘客",
+   "distinct": "commuter 通勤者 | traveler 旅客",
+   "ex": [
+    [
+     "Passengers must check in two hours early.",
+     "乘客必須提早兩小時報到。"
+    ],
+    [
+     "The train was crowded with many passengers.",
+     "火車上擠滿了許多乘客。"
+    ],
+    [
+     "Please ensure all passengers are seated.",
+     "請確認所有乘客都已就座。"
+    ]
+   ]
+  },
+  {
+   "word": "perform",
+   "ph": "/pərˈfɔːrm/",
+   "pos": "v. 執行；履行；表演",
+   "zh": "執行；表現；履行",
+   "colloc": "perform a task 執行任務 | perform well 表現良好",
+   "distinct": "execute 執行（指令）| conduct 進行（活動）",
+   "ex": [
+    [
+     "Our team performs well under high pressure.",
+     "我們的團隊在高壓下表現良好。"
+    ],
+    [
+     "The technician will perform a routine check.",
+     "技術人員將執行例行檢查。"
+    ],
+    [
+     "He is able to perform his duties well.",
+     "他能夠很好地履行職責。"
+    ]
+   ]
+  },
+  {
+   "word": "predict",
+   "ph": "/prɪˈdɪkt/",
+   "pos": "v. 預測；預言",
+   "zh": "預測；預計",
+   "colloc": "predict the outcome 預測結果 | accurately predict 精準預測",
+   "distinct": "forecast 預報（天氣/數據）| foresee 預見",
+   "ex": [
+    [
+     "Experts predict that sales will increase soon.",
+     "專家預測銷售額很快會增加。"
+    ],
+    [
+     "It is hard to predict future market trends.",
+     "很難預測未來的市場趨勢。"
+    ],
+    [
+     "Can you predict the result of the test?",
+     "你能預測測試的結果嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "rate",
+   "ph": "/reɪt/",
+   "pos": "n. 比率；費用；等級 | v. 評估",
+   "zh": "比率；費用；等級",
+   "colloc": "interest rate 利率 | hourly rate 時薪",
+   "distinct": "fee 費用（服務）| price 價格",
+   "ex": [
+    [
+     "The interest rate for the loan is low.",
+     "貸款的利率很低。"
+    ],
+    [
+     "Our hourly rate for consulting is fixed.",
+     "我們的諮詢時薪是固定的。"
+    ],
+    [
+     "How would you rate this new product?",
+     "你會如何評價這項新產品？"
+    ]
+   ]
+  },
+  {
+   "word": "regularly",
+   "ph": "/ˈreɡjələrli/",
+   "pos": "adv. 定期地；經常地",
+   "zh": "定期地；規律地",
+   "colloc": "regularly updated 定期更新 | check regularly 定期檢查",
+   "distinct": "frequently 頻繁地 | occasionally 偶爾地",
+   "ex": [
+    [
+     "We update the company website regularly.",
+     "我們會定期更新公司網站。"
+    ],
+    [
+     "Please check your email regularly for news.",
+     "請定期檢查電子郵件以獲取消息。"
+    ],
+    [
+     "The equipment is serviced regularly by staff.",
+     "設備由員工定期進行保養。"
+    ]
+   ]
+  }
+ ]
+}

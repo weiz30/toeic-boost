@@ -1,0 +1,448 @@
+{
+ "day": 64,
+ "theme": "教材字彙・高分 850–900 第 64 群",
+ "level": "高分 850–900",
+ "kind": "word",
+ "items": [
+  {
+   "word": "nearby",
+   "ph": "/ˈnɪər.baɪ/",
+   "pos": "adj. 附近的 | adv. 在附近",
+   "zh": "附近的；在附近",
+   "colloc": "nearby location 鄰近地點 | nearby restaurant 附近餐廳",
+   "distinct": "near 靠近（介系詞）| neighboring 鄰近的（形容詞）",
+   "ex": [
+    [
+     "There is a nearby parking garage for clients.",
+     "客戶附近有一座停車場。"
+    ],
+    [
+     "We stayed at a hotel located nearby.",
+     "我們住在附近的一家飯店。"
+    ],
+    [
+     "Is there a reputable bank nearby?",
+     "附近有信譽良好的銀行嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "neatly",
+   "ph": "/ˈniːt.li/",
+   "pos": "adv. 整潔地；有序地",
+   "zh": "整潔地；有序地",
+   "colloc": "neatly arranged 整齊排列 | neatly organized 有條理的",
+   "distinct": "tidy 整潔的（形容詞）| orderly 有秩序的",
+   "ex": [
+    [
+     "All documents were neatly stacked on the desk.",
+     "所有文件都整齊地堆在桌上。"
+    ],
+    [
+     "The employee keeps her workspace neatly organized.",
+     "那位員工將工作空間整理得井然有序。"
+    ],
+    [
+     "Please pack the items neatly into boxes.",
+     "請將物品整齊地裝入箱子。"
+    ]
+   ]
+  },
+  {
+   "word": "opposite",
+   "ph": "/ˈɒp.ə.zɪt/",
+   "pos": "adj. 相反的；對面的 | prep. 在…對面",
+   "zh": "相反的；對面的",
+   "colloc": "opposite side 對面側 | opposite direction 相反方向",
+   "distinct": "contrary 相反的（觀點）| across from 在…對面",
+   "ex": [
+    [
+     "The office building is opposite the station.",
+     "辦公大樓就在車站對面。"
+    ],
+    [
+     "They hold opposite views on the new policy.",
+     "他們對新政策持有相反看法。"
+    ],
+    [
+     "He sat in the chair opposite me.",
+     "他坐在我對面的椅子上。"
+    ]
+   ]
+  },
+  {
+   "word": "popularly",
+   "ph": "/ˈpɒp.jə.lə.li/",
+   "pos": "adv. 大眾地；普遍地",
+   "zh": "大眾地；普遍地",
+   "colloc": "popularly known 普遍被稱為 | popularly accepted 被廣泛接受",
+   "distinct": "generally 通常地 | commonly 常見地",
+   "ex": [
+    [
+     "This brand is popularly considered the market leader.",
+     "此品牌被大眾視為市場領導者。"
+    ],
+    [
+     "The software is popularly used in the industry.",
+     "這套軟體在業界被普遍使用。"
+    ],
+    [
+     "The event is popularly attended by local residents.",
+     "這項活動普遍受到當地居民參加。"
+    ]
+   ]
+  },
+  {
+   "word": "priced",
+   "ph": "/praɪst/",
+   "pos": "adj. 定價的",
+   "zh": "定價的",
+   "colloc": "competitively priced 價格具有競爭力 | reasonably priced 合理定價",
+   "distinct": "costly 昂貴的 | affordable 負擔得起的",
+   "ex": [
+    [
+     "These high-quality goods are competitively priced.",
+     "這些高品質商品定價具有競爭力。"
+    ],
+    [
+     "Our services are reasonably priced for startups.",
+     "我們的服務對新創公司來說定價合理。"
+    ],
+    [
+     "The luxury watch is priced at five thousand.",
+     "那支名錶定價五千元。"
+    ]
+   ]
+  },
+  {
+   "word": "pursue",
+   "ph": "/pəˈsjuː/",
+   "pos": "v. 追求；從事；追趕",
+   "zh": "追求；從事；追趕",
+   "colloc": "pursue a career 追求事業 | pursue a goal 追求目標",
+   "distinct": "chase 追逐（具體物件）| seek 尋求",
+   "ex": [
+    [
+     "She wants to pursue a career in finance.",
+     "她想要追求金融界的事業。"
+    ],
+    [
+     "The company will pursue new business opportunities.",
+     "公司將會追求新的商業機會。"
+    ],
+    [
+     "We must pursue this matter further tomorrow.",
+     "我們明天必須進一步處理此事。"
+    ]
+   ]
+  },
+  {
+   "word": "regarding",
+   "ph": "/rɪˈɡɑː.dɪŋ/",
+   "pos": "prep. 關於；有關",
+   "zh": "關於；有關",
+   "colloc": "regarding the matter 關於此事 | regarding your request 有關您的請求",
+   "distinct": "concerning 涉及 | about 關於（較口語）",
+   "ex": [
+    [
+     "I am writing regarding your recent inquiry.",
+     "我寫這封信是關於您最近的諮詢。"
+    ],
+    [
+     "There is no change regarding the schedule.",
+     "關於行程表沒有任何變動。"
+    ],
+    [
+     "Please provide instructions regarding the project.",
+     "請提供有關該專案的指示。"
+    ]
+   ]
+  },
+  {
+   "word": "rough",
+   "ph": "/rʌf/",
+   "pos": "adj. 粗略的；艱難的；粗糙的",
+   "zh": "粗略的；艱難的；粗糙的",
+   "colloc": "rough draft 草稿 | rough estimate 粗略估計",
+   "distinct": "tough 困難的（形容人或物堅韌）| coarse 粗糙的（表面）",
+   "ex": [
+    [
+     "Can you provide a rough estimate of costs?",
+     "你能提供粗略的成本估算嗎？"
+    ],
+    [
+     "The team faced a rough start this year.",
+     "團隊今年面臨了艱難的開始。"
+    ],
+    [
+     "Please prepare a rough draft for approval.",
+     "請準備一份草稿以供批准。"
+    ]
+   ]
+  },
+  {
+   "word": "routinely",
+   "ph": "/ruːˈtiːn.li/",
+   "pos": "adv. 例行地；慣常地",
+   "zh": "例行地；慣常地",
+   "colloc": "routinely check 例行檢查 | routinely perform 例行執行",
+   "distinct": "regularly 定期地 | constantly 持續地",
+   "ex": [
+    [
+     "Technicians routinely check the server status.",
+     "技術人員會例行檢查伺服器狀態。"
+    ],
+    [
+     "We routinely review our quarterly performance.",
+     "我們慣常檢視每季的業績。"
+    ],
+    [
+     "Data is routinely backed up every evening.",
+     "資料每天晚上都會例行備份。"
+    ]
+   ]
+  },
+  {
+   "word": "sensible",
+   "ph": "/ˈsen.sə.bəl/",
+   "pos": "adj. 明智的；合理的；實用的",
+   "zh": "明智的；合理的；實用的",
+   "colloc": "sensible decision 明智的決定 | sensible approach 合理的方法",
+   "distinct": "sensitive 敏感的 | sensible 明智的",
+   "ex": [
+    [
+     "It is a sensible idea to diversify investments.",
+     "分散投資是明智的想法。"
+    ],
+    [
+     "The manager made a sensible choice today.",
+     "經理今天做了一個明智的選擇。"
+    ],
+    [
+     "We need a sensible solution to this problem.",
+     "我們需要針對此問題提出合理的解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "sleeve",
+   "ph": "/sliːv/",
+   "pos": "n. 袖子；封套",
+   "zh": "袖子；封套",
+   "colloc": "long sleeve 長袖 | protective sleeve 保護套",
+   "distinct": "cuff 袖口 | collar 衣領",
+   "ex": [
+    [
+     "The formal shirt has long sleeves.",
+     "這件正式襯衫有長袖。"
+    ],
+    [
+     "Please put the document in a plastic sleeve.",
+     "請將文件放入塑膠封套中。"
+    ],
+    [
+     "The design features unique sleeve patterns.",
+     "該設計採用獨特的袖子紋樣。"
+    ]
+   ]
+  },
+  {
+   "word": "slope",
+   "ph": "/sləʊp/",
+   "pos": "n. 斜坡；傾斜 | v. 傾斜",
+   "zh": "斜坡；傾斜",
+   "colloc": "steep slope 陡坡 | slope down 向下傾斜",
+   "distinct": "hill 小山 | ramp 斜坡道（人造）",
+   "ex": [
+    [
+     "The factory is built on a gentle slope.",
+     "這座工廠建在緩坡上。"
+    ],
+    [
+     "The ground begins to slope toward the river.",
+     "地面開始向河流方向傾斜。"
+    ],
+    [
+     "Construction is difficult on such a steep slope.",
+     "在這種陡坡上施工很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "standing",
+   "ph": "/ˈstæn.dɪŋ/",
+   "pos": "adj. 站立的；長期有效的 | n. 地位；身分",
+   "zh": "站立的；長期有效的；地位",
+   "colloc": "standing ovation 起立鼓掌 | standing order 常設訂單",
+   "distinct": "stationary 靜止的 | state 身分",
+   "ex": [
+    [
+     "There is a standing meeting every Friday.",
+     "每個星期五都有例行會議。"
+    ],
+    [
+     "She has high standing within the company.",
+     "她在公司內擁有很高的地位。"
+    ],
+    [
+     "The candidate received a standing ovation.",
+     "那位候選人贏得了起立鼓掌。"
+    ]
+   ]
+  },
+  {
+   "word": "stream",
+   "ph": "/striːm/",
+   "pos": "n. 溪流；流；串流 | v. 流動；串流播放",
+   "zh": "溪流；流；串流",
+   "colloc": "live stream 直播 | revenue stream 收入來源",
+   "distinct": "river 河流 | flow 流動（動詞為主）",
+   "ex": [
+    [
+     "The company needs a new revenue stream.",
+     "公司需要新的收入來源。"
+    ],
+    [
+     "We will live stream the product launch.",
+     "我們將直播產品發布會。"
+    ],
+    [
+     "Data continues to stream into the system.",
+     "資料持續流入系統中。"
+    ]
+   ]
+  },
+  {
+   "word": "sweet",
+   "ph": "/swiːt/",
+   "pos": "adj. 甜的；貼心的 | n. 甜點",
+   "zh": "甜的；貼心的",
+   "colloc": "sweet treat 甜點心 | sweet gesture 貼心的舉動",
+   "distinct": "sugary 含糖的 | kind 友善的",
+   "ex": [
+    [
+     "The offer included a sweet bonus package.",
+     "這份錄取信包含貼心的額外福利。"
+    ],
+    [
+     "Employees enjoyed some sweet treats during break.",
+     "員工在休息時間享用了一些甜點。"
+    ],
+    [
+     "That was a sweet note from the client.",
+     "那是來自客戶貼心的短訊。"
+    ]
+   ]
+  },
+  {
+   "word": "trap",
+   "ph": "/træp/",
+   "pos": "n. 陷阱 | v. 困住；設陷阱",
+   "zh": "陷阱；困住",
+   "colloc": "set a trap 設陷阱 | fall into a trap 掉入陷阱",
+   "distinct": "pitfall 隱藏的困難 | snare 圈套",
+   "ex": [
+    [
+     "Don't fall into the trap of overspending.",
+     "不要掉入過度消費的陷阱。"
+    ],
+    [
+     "The worker was trapped in the elevator.",
+     "那位員工被困在電梯裡。"
+    ],
+    [
+     "We must avoid traps in the contract.",
+     "我們必須避開合約中的條款陷阱。"
+    ]
+   ]
+  },
+  {
+   "word": "tune",
+   "ph": "/tʃuːn/",
+   "pos": "n. 曲調；和諧 | v. 調音；調整",
+   "zh": "曲調；調整",
+   "colloc": "tune in 收聽/收看 | stay in tune 與…保持一致",
+   "distinct": "adjust 調整（設備）| harmonize 使和諧",
+   "ex": [
+    [
+     "We need to tune our strategy to the market.",
+     "我們需要根據市場調整策略。"
+    ],
+    [
+     "Please tune in to our weekly podcast.",
+     "請準時收聽我們的每週廣播。"
+    ],
+    [
+     "The guitar was out of tune for the performance.",
+     "那把吉他演出時音準不對。"
+    ]
+   ]
+  },
+  {
+   "word": "warn",
+   "ph": "/wɔːn/",
+   "pos": "v. 警告；告誡",
+   "zh": "警告；告誡",
+   "colloc": "warn of 警告關於 | warn against 告誡不要",
+   "distinct": "alert 提醒；警示 | caution 謹慎（名詞/動詞）",
+   "ex": [
+    [
+     "The sign warns of slippery floor conditions.",
+     "告示牌警告地板濕滑。"
+    ],
+    [
+     "He warned his team against late submissions.",
+     "他告誡團隊不要遲交文件。"
+    ],
+    [
+     "I must warn you about the potential risks.",
+     "我必須警告你關於潛在的風險。"
+    ]
+   ]
+  },
+  {
+   "word": "broadly",
+   "ph": "/ˈbrɔːd.li/",
+   "pos": "adv. 大體上；廣泛地",
+   "zh": "大體上；廣泛地",
+   "colloc": "broadly speaking 大體上來說 | broadly defined 廣義定義",
+   "distinct": "widely 廣泛地（範圍大）| generally 通常地",
+   "ex": [
+    [
+     "Broadly speaking, the project is successful.",
+     "大體上來說，這個專案是成功的。"
+    ],
+    [
+     "The term is broadly defined in this document.",
+     "該術語在此文件中被廣泛定義。"
+    ],
+    [
+     "They agree broadly on the main objectives.",
+     "他們大體上同意主要的目標。"
+    ]
+   ]
+  },
+  {
+   "word": "chair",
+   "ph": "/tʃeər/",
+   "pos": "n. 椅子；主席 | v. 主持",
+   "zh": "椅子；主席；主持",
+   "colloc": "office chair 辦公椅 | chair a meeting 主持會議",
+   "distinct": "seat 座位 | moderator 主持人",
+   "ex": [
+    [
+     "She will chair the meeting tomorrow morning.",
+     "她將主持明天早上的會議。"
+    ],
+    [
+     "Please replace the broken office chair.",
+     "請更換那張壞掉的辦公椅。"
+    ],
+    [
+     "Who is going to chair the committee?",
+     "誰要擔任委員會的主席？"
+    ]
+   ]
+  }
+ ]
+}
