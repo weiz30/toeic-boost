@@ -20,6 +20,10 @@
     [
      "The interview is scheduled for Monday morning.",
      "面試安排在星期一上午。"
+    ],
+    [
+     "Please review the project schedule before our Monday meeting.",
+     "請在週一會議前審閱專案時程表。"
     ]
    ]
   },
@@ -39,6 +43,10 @@
     [
      "We have to meet a tight deadline.",
      "我們得趕上很緊的期限。"
+    ],
+    [
+     "We must submit the final report before the Friday deadline.",
+     "我們必須在週五截止日期前提交最終報告。"
     ]
    ]
   },
@@ -58,6 +66,10 @@
     [
      "Please make an appointment in advance.",
      "請事先預約。"
+    ],
+    [
+     "I have a dental appointment right after the board meeting.",
+     "我在董事會結束後有一個牙科預約。"
     ]
    ]
   },
@@ -77,6 +89,10 @@
     [
      "The airline confirmed my reservation.",
      "航空公司確認了我的訂位。"
+    ],
+    [
+     "Please confirm your attendance by replying to this email.",
+     "請回覆此郵件以確認您的出席狀況。"
     ]
    ]
   },
@@ -96,6 +112,10 @@
     [
      "The event was postponed because of the storm.",
      "活動因暴風雨延期。"
+    ],
+    [
+     "The management decided to postpone the launch until next month.",
+     "管理層決定將發布日期延後至下個月。"
     ]
    ]
   },
@@ -115,6 +135,10 @@
     [
      "The conference attracted over 500 attendees.",
      "這場會議吸引了超過五百名與會者。"
+    ],
+    [
+     "The conference organizer provided a badge to every attendee.",
+     "會議主辦方為每位參與者提供了識別證。"
     ]
    ]
   },
@@ -134,6 +158,10 @@
     [
      "Budget planning is at the top of the agenda.",
      "預算規劃是議程的第一項。"
+    ],
+    [
+     "Does everyone have a copy of the meeting agenda today?",
+     "大家都有拿到今天會議的議程表嗎？"
     ]
    ]
   },
@@ -153,6 +181,10 @@
     [
      "She discussed the project with her colleagues.",
      "她和同事們討論了這個專案。"
+    ],
+    [
+     "My colleague assisted me with the complex data analysis task.",
+     "我的同事協助我完成了複雜的數據分析工作。"
     ]
    ]
   },
@@ -172,6 +204,10 @@
     [
      "The supervisor approved my request.",
      "主管批准了我的申請。"
+    ],
+    [
+     "You should discuss your career goals with your direct supervisor.",
+     "你應該與直屬主管討論你的職涯目標。"
     ]
    ]
   },
@@ -191,6 +227,10 @@
     [
      "The store keeps a large inventory of office supplies.",
      "這家店庫存大量的辦公用品。"
+    ],
+    [
+     "We will conduct a physical inventory of the warehouse tomorrow.",
+     "我們明天將對倉庫進行實體庫存盤點。"
     ]
    ]
   },
@@ -210,6 +250,10 @@
     [
      "The company invoices its clients at the end of the month.",
      "公司在月底向客戶請款。"
+    ],
+    [
+     "Please send the digital invoice to our accounting department immediately.",
+     "請將電子發票立即寄送給我們的會計部門。"
     ]
    ]
   },
@@ -229,6 +273,10 @@
     [
      "We received a shipment of new printers.",
      "我們收到一批新的印表機。"
+    ],
+    [
+     "The shipment of electronic components arrived at the facility early.",
+     "電子元件的貨物已提早抵達工廠設施。"
     ]
    ]
   },
@@ -248,6 +296,10 @@
     [
      "Is the repair still covered by the warranty?",
      "這次維修還在保固期內嗎？"
+    ],
+    [
+     "The laptop is still covered under the standard manufacturer warranty.",
+     "這台筆記型電腦仍在標準原廠保固範圍內。"
     ]
    ]
   },
@@ -267,6 +319,10 @@
     [
      "The company refunded the shipping fee.",
      "公司退還了運費。"
+    ],
+    [
+     "I would like to request a full refund for this purchase.",
+     "我想針對這筆消費申請全額退款。"
     ]
    ]
   },
@@ -286,6 +342,10 @@
     [
      "Our itinerary includes a visit to the factory.",
      "我們的行程包含參觀工廠。"
+    ],
+    [
+     "The travel agent sent us the updated business trip itinerary.",
+     "旅行社寄給我們更新後的商務行程表。"
     ]
    ]
   },
@@ -305,6 +365,10 @@
     [
      "We made a reservation for six o'clock.",
      "我們訂了六點的位子。"
+    ],
+    [
+     "I made a dinner reservation for our international clients tonight.",
+     "我為我們今晚的國際客戶預訂了晚餐。"
     ]
    ]
   },
@@ -324,6 +388,10 @@
     [
      "The hotel has no vacancies this weekend.",
      "這家飯店這週末沒有空房。"
+    ],
+    [
+     "Our company currently has a vacancy in the marketing department.",
+     "我們公司目前行銷部門有一個職缺。"
     ]
    ]
   },
@@ -343,6 +411,10 @@
     [
      "All applicants will be notified by email.",
      "所有應徵者都會以電子郵件通知。"
+    ],
+    [
+     "Each applicant must submit a resume and a cover letter.",
+     "每位申請者都必須提交履歷與求職信。"
     ]
    ]
   },
@@ -362,6 +434,10 @@
     [
      "We need a qualified technician.",
      "我們需要一位合格的技術人員。"
+    ],
+    [
+     "She is highly qualified for the senior software engineer position.",
+     "她非常符合資深軟體工程師職位的條件。"
     ]
    ]
   },
@@ -381,6 +457,10 @@
     [
      "Both sides agreed to negotiate a new contract.",
      "雙方同意協商一份新合約。"
+    ],
+    [
+     "We need to negotiate the terms of the new contract.",
+     "我們需要協商新合約的條款內容。"
     ]
    ]
   }

@@ -4,8 +4,8 @@
   X-Frame-Options: SAMEORIGIN
 
 /assets/*
-  Cache-Control: public, max-age=86400
+  Cache-Control: no-cache, must-revalidate
 /data/*
-  Cache-Control: public, max-age=300
+  Cache-Control: no-cache, must-revalidate
 /
-  Cache-Control: public, max-age=60
+  Cache-Control: no-cache, must-revalidate
