@@ -47,16 +47,29 @@ Cloudflare 後台 → Workers & Pages → `toeic-boost` → Settings → Builds 
 
 之後每次 push 到 `main` 就會自動重新部署。
 
+## 帳號與雲端進度
+
+- 免費註冊（帳號 3–20 字、密碼 ≥ 6 字元），登入後進度（單字熟練度、遺忘曲線排程、已完成天數、各 Part 正確率、模考紀錄、錯題本）會同步到 Cloudflare D1。
+- 未登入也能用：資料留在瀏覽器 `localStorage`；登入時會和雲端合併（取較高熟練度、較早到期日），不會覆蓋掉既有進度。
+- 密碼用 PBKDF2-SHA256（100,000 次迭代 + 隨機 salt）儲存，登入後發 30 天 session token。
+- **錯題本**：按「不熟」或複習時選「忘記了」會自動記錄，越常錯排越前面；練對會遞減。
+- **留言板**：登入後可留言，管理員可回覆。
+- **管理介面**（`admin` / `admin1234`）：學習者總數、7 日活躍、平均已學字數、留言待回覆、全站最常錯的單字、學習者列表（已學／完成天數／錯題／正確率／最後上線）。
+
+> 上線前請把 `admin` 的預設密碼改掉：目前沒有改密碼的 UI，可改 `migrations/0002_admin.sql` 的雜湊後重新執行，或做一頁「修改密碼」。API：`worker/index.js`。
+
 ## 檔案結構
 
 ```
 public/
   index.html            版面
   assets/style.css      設計樣式（高對比印刷風）
-  assets/app.js         單字卡 / 練習 / 模考 / 進度邏輯
-  data/vocab.json       單字庫
-  data/drills_*.json    題庫
-wrangler.jsonc          Cloudflare Workers 設定
+  assets/app.js         單字卡 / 練習 / 模考 / 複習 / 帳號 / 錯題本 / 留言板
+  data/curriculum.json  100 天 × 20 字課程資料
+  data/drills_*.json    Part 2–7 題庫
+worker/index.js         API：註冊登入、進度同步、留言、管理
+migrations/             D1 資料表與 admin 種子
+wrangler.jsonc          Workers + D1 + 靜態資產設定
 ```
 
 ## 授權

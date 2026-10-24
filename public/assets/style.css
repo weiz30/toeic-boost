@@ -23,6 +23,9 @@
 }
 
 *{box-sizing:border-box}
+/* 重要：本站很多元素用 hidden 屬性控制顯示，但 class 內的 display:grid/flex 會蓋掉瀏覽器預設的 [hidden]{display:none}。
+   少了這一行，登入彈窗、複習卡、音檔列…都會「關不掉／一直顯示」。 */
+[hidden]{display:none !important}
 html{scroll-behavior:smooth}
 body{
   margin:0;
