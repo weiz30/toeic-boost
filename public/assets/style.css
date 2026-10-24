@@ -57,10 +57,10 @@ kbd{
   border-bottom:var(--line);font-size:13px;letter-spacing:.06em;
 }
 .ticker__track{
-  display:flex;gap:40px;white-space:nowrap;padding:6px 0;will-change:transform;
-  animation:slide var(--ticker-dur,180s) linear infinite;
+  display:flex;flex-wrap:wrap;justify-content:center;gap:6px 20px;
+  padding:7px 16px;white-space:nowrap;
+  /* 不滾動：固定一排，每次重新整理才換一批字（由 app.js 隨機挑） */
 }
-.ticker:hover .ticker__track,.ticker:focus-within .ticker__track{animation-play-state:paused}
 .ticker__track span{display:inline-flex;gap:8px;align-items:center}
 .ticker__track b{color:var(--lime)}
 .ticker__track i{color:var(--coral);font-style:normal}

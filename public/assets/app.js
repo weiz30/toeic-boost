@@ -202,19 +202,13 @@ function upcomingSchedule(n = 6) {
 
 /* ------------------------------------------------------------------ 跑馬燈 */
 function renderTicker() {
+  // 固定不滾動：每次重新整理隨機挑 9 個字顯示
   const pool = [];
-  CURR.days.slice(0, 20).forEach((d) => (d.items || []).slice(0, 3).forEach((it) => pool.push(it)));
-  const words = shuffle(pool).slice(0, 14);
-  const bits = words.map((w) => `<span><b>${esc(w.word)}</b> <i>${esc((w.zh || '').split('；')[0])}</i></span>`).join('<span aria-hidden="true">·</span>');
-  const track = $('#tickerTrack');
-  track.innerHTML = bits + '<span aria-hidden="true">·</span>' + bits;
-  const retime = () => {
-    const half = track.scrollWidth / 2;
-    if (half > 0) track.style.setProperty('--ticker-dur', (half / 22).toFixed(1) + 's');
-  };
-  requestAnimationFrame(retime);
-  setTimeout(retime, 600);
-  window.addEventListener('resize', retime, { passive: true });
+  CURR.days.forEach((d) => (d.items || []).forEach((it) => pool.push(it)));
+  const words = shuffle(pool).slice(0, 9);
+  $('#tickerTrack').innerHTML = words
+    .map((w) => `<span><b>${esc(w.word)}</b> <i>${esc((w.zh || '').split('；')[0])}</i></span>`)
+    .join('');
 }
 
 /* ------------------------------------------------------------------ 今日 */
