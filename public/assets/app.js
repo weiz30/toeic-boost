@@ -366,14 +366,23 @@ function finishDay(auto) {
 /* ------------------------------------------------------------------ 地圖 */
 // 階段直接由資料的 level 欄位分群（課程字表可能改版，不要寫死天數區間）
 function stageBands() {
+  const keyOf = (d) => (d.kind === 'phrase' ? '教材片語' : d.level || '其他');
   const bands = [];
   (CURR.days || []).forEach((d) => {
-    const lv = d.level || '其他';
+    const lv = keyOf(d);
     const last = bands[bands.length - 1];
     if (last && last.name === lv) { last.to = d.day; last.days.push(d.day); }
     else bands.push({ name: lv, from: d.day, to: d.day, days: [d.day] });
   });
-  return bands;
+  // 少於 4 天的零碎階段併進前一階段，避免地圖出現一堆碎片
+  const merged = [];
+  bands.forEach((b) => {
+    if (merged.length && b.days.length < 4) {
+      const prev = merged[merged.length - 1];
+      prev.to = b.to; prev.days.push(...b.days);
+    } else merged.push(b);
+  });
+  return merged;
 }
 function renderMap() {
   const bands = stageBands();
