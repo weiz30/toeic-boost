@@ -1,0 +1,1352 @@
+[
+  {
+    "w": "agenda",
+    "pos": "n.",
+    "zh": "議程",
+    "ph": "əˈdʒendə",
+    "ex": "The agenda for Monday's board meeting was sent out this morning.",
+    "ezh": "週一董事會會議的議程已於今天早上寄出。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "memo",
+    "pos": "n.",
+    "zh": "備忘錄；內部通知",
+    "ph": "ˈmemoʊ",
+    "ex": "A short memo reminded staff to submit expense reports by Friday.",
+    "ezh": "一份簡短備忘錄提醒員工在週五前提交費用報告。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "stationery",
+    "pos": "n.",
+    "zh": "文具",
+    "ph": "ˈsteɪʃəneri",
+    "ex": "We ordered new stationery for the front desk last week.",
+    "ezh": "我們上週幫櫃檯訂了新的文具。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "archive",
+    "pos": "v.",
+    "zh": "把……歸檔；n. 檔案庫",
+    "ph": "ˈɑːrkaɪv",
+    "ex": "Please archive these contracts before the auditors arrive next month.",
+    "ezh": "請在審計人員下個月來之前把這些合約歸檔。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "correspondence",
+    "pos": "n.",
+    "zh": "信件往來；往來公文",
+    "ph": "ˌkɔːrəˈspɑːndəns",
+    "ex": "All correspondence with overseas clients is stored in this folder.",
+    "ezh": "與海外客戶往來的所有信件都存放在這個資料夾裡。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "courier",
+    "pos": "n.",
+    "zh": "快遞員；快遞公司",
+    "ph": "ˈkʊriər",
+    "ex": "The courier will pick up the signed documents around three o'clock.",
+    "ezh": "快遞員大約三點會來收已簽署的文件。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "photocopy",
+    "pos": "n.",
+    "zh": "影本；v. 影印",
+    "ph": "ˈfoʊtoʊkɑːpi",
+    "ex": "Could you make two photocopies of this contract for our records?",
+    "ezh": "可以幫我影印兩份合約留存嗎？",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "envelope",
+    "pos": "n.",
+    "zh": "信封",
+    "ph": "ˈenvəloʊp",
+    "ex": "Seal the envelope and leave it at the reception desk, please.",
+    "ezh": "請把信封封好，放在櫃檯就好。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "deadline",
+    "pos": "n.",
+    "zh": "截止期限",
+    "ph": "ˈdedlaɪn",
+    "ex": "The filing deadline has been moved up to the fifteenth of June.",
+    "ezh": "申報截止期限已提前到六月十五日。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "schedule",
+    "pos": "n.",
+    "zh": "行程表；v. 安排",
+    "ph": "ˈskedʒuːl",
+    "ex": "Her schedule is packed, so book the room for Thursday morning.",
+    "ezh": "她的行程很滿，所以會議室訂週四上午。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "reschedule",
+    "pos": "v.",
+    "zh": "重新安排（時間）",
+    "ph": "ˌriːˈskedʒuːl",
+    "ex": "We had to reschedule the vendor meeting because of the storm.",
+    "ezh": "因為這場暴風雨，我們不得不重新安排供應商會議。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "venue",
+    "pos": "n.",
+    "zh": "（活動）場地",
+    "ph": "ˈvenjuː",
+    "ex": "The hotel confirmed the venue for our annual sales conference.",
+    "ezh": "飯店已確認我們年度業務大會的場地。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "attendee",
+    "pos": "n.",
+    "zh": "出席者",
+    "ph": "əˌtenˈdiː",
+    "ex": "Each attendee will receive a name badge at the registration table.",
+    "ezh": "每位出席者都會在報到桌領到名牌。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "minutes",
+    "pos": "n.",
+    "zh": "會議紀錄",
+    "ph": "ˈmɪnɪts",
+    "ex": "Could you circulate the minutes from Tuesday's meeting by noon?",
+    "ezh": "可以在中午前把週二會議的紀錄傳給大家嗎？",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "postage",
+    "pos": "n.",
+    "zh": "郵資",
+    "ph": "ˈpoʊstɪdʒ",
+    "ex": "Postage for international packages has gone up again this quarter.",
+    "ezh": "國際包裹的郵資本季又漲價了。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "forward",
+    "pos": "v.",
+    "zh": "轉寄；轉交",
+    "ph": "ˈfɔːrwərd",
+    "ex": "She asked me to forward the revised proposal to the Tokyo office.",
+    "ezh": "她要我把修改後的提案轉寄給東京辦公室。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "clerical",
+    "pos": "adj.",
+    "zh": "文書的；行政事務的",
+    "ph": "ˈklerɪkl",
+    "ex": "Most clerical tasks are now handled by the shared services team.",
+    "ezh": "大部分文書工作現在都由共享服務團隊處理。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "notify",
+    "pos": "v.",
+    "zh": "通知；告知",
+    "ph": "ˈnoʊtɪfaɪ",
+    "ex": "We will notify all departments as soon as the system is back.",
+    "ezh": "系統一恢復我們就會通知所有部門。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "confirm",
+    "pos": "v.",
+    "zh": "確認",
+    "ph": "kənˈfɜːrm",
+    "ex": "Please confirm your attendance by replying to this email before Thursday.",
+    "ezh": "請在週四前回覆這封信以確認是否出席。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "arrange",
+    "pos": "v.",
+    "zh": "安排；籌劃",
+    "ph": "əˈreɪndʒ",
+    "ex": "I've arranged for a technician to check the printer tomorrow morning.",
+    "ezh": "我已安排技師明天上午來檢查印表機。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "conference",
+    "pos": "n.",
+    "zh": "會議；研討會",
+    "ph": "ˈkɑːnfərəns",
+    "ex": "The annual conference will be held at the riverside convention center.",
+    "ezh": "年度研討會將在河畔會議中心舉行。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "handout",
+    "pos": "n.",
+    "zh": "講義；宣傳單",
+    "ph": "ˈhændaʊt",
+    "ex": "Extra handouts are stacked on the table near the entrance.",
+    "ezh": "多印的講義堆在入口旁的桌子上。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "approval",
+    "pos": "n.",
+    "zh": "核准；批准",
+    "ph": "əˈpruːvl",
+    "ex": "This purchase needs written approval from the department manager first.",
+    "ezh": "這筆採購必須先取得部門經理的書面核准。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "procedure",
+    "pos": "n.",
+    "zh": "程序；作業流程",
+    "ph": "prəˈsiːdʒər",
+    "ex": "New staff must follow the standard procedure for handling complaints.",
+    "ezh": "新進員工處理客訴時必須依照標準流程。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "signature",
+    "pos": "n.",
+    "zh": "簽名；簽署",
+    "ph": "ˈsɪɡnətʃər",
+    "ex": "The contract is not legally valid without the director's signature.",
+    "ezh": "這份合約沒有主任的簽名就無效。",
+    "cat": "辦公室行政"
+  },
+  {
+    "w": "invoice",
+    "pos": "n.",
+    "zh": "發票；請款單",
+    "ph": "ˈɪnvɔɪs",
+    "ex": "Send the invoice to accounting once the client signs the contract.",
+    "ezh": "客戶簽約後就請把請款單寄給會計部。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "receipt",
+    "pos": "n.",
+    "zh": "收據",
+    "ph": "rɪˈsiːt",
+    "ex": "Keep every receipt if you plan to claim travel expenses.",
+    "ezh": "如果你要申請差旅費，每一張收據都要留著。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "refund",
+    "pos": "n.",
+    "zh": "退款；v. 退還",
+    "ph": "ˈriːfʌnd",
+    "ex": "The customer demanded a full refund after the product failed twice.",
+    "ezh": "產品故障兩次後，客戶要求全額退款。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "reimbursement",
+    "pos": "n.",
+    "zh": "報帳；費用核銷",
+    "ph": "ˌriːɪmˈbɜːrsmənt",
+    "ex": "Submit your reimbursement form with original receipts within thirty days.",
+    "ezh": "請在三十天內連同收據正本送出報帳單。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "budget",
+    "pos": "n.",
+    "zh": "預算",
+    "ph": "ˈbʌdʒɪt",
+    "ex": "Marketing exceeded its budget by nearly twelve percent last quarter.",
+    "ezh": "行銷部上季的預算超支將近百分之十二。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "revenue",
+    "pos": "n.",
+    "zh": "營業收入；營收",
+    "ph": "ˈrevənuː",
+    "ex": "Online sales now generate half of the company's total revenue.",
+    "ezh": "線上銷售現在為公司帶來總營收的一半。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "expense",
+    "pos": "n.",
+    "zh": "費用；支出",
+    "ph": "ɪkˈspens",
+    "ex": "Travel expense reports are due at the end of each month.",
+    "ezh": "差旅費用報告在每個月底前繳交。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "audit",
+    "pos": "n.",
+    "zh": "審計；查帳",
+    "ph": "ˈɔːdɪt",
+    "ex": "External auditors will conduct the annual audit starting next Monday.",
+    "ezh": "外部審計人員將從下週一開始進行年度查帳。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "transaction",
+    "pos": "n.",
+    "zh": "交易",
+    "ph": "trænˈzækʃn",
+    "ex": "Every transaction over ten thousand dollars requires a second signature.",
+    "ezh": "每筆超過一萬美元的交易都需要第二個簽名。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "quarterly",
+    "pos": "adj.",
+    "zh": "每季的",
+    "ph": "ˈkwɔːrtərli",
+    "ex": "The quarterly report shows steady growth in the Asian market.",
+    "ezh": "這份季報顯示亞洲市場穩定成長。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "fiscal",
+    "pos": "adj.",
+    "zh": "財政的；會計年度的",
+    "ph": "ˈfɪskl",
+    "ex": "Our fiscal year ends on the last day of March.",
+    "ezh": "我們的會計年度在三月最後一天結束。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "deposit",
+    "pos": "n.",
+    "zh": "押金；訂金",
+    "ph": "dɪˈpɑːzɪt",
+    "ex": "We paid a deposit of two thousand dollars to reserve the hall.",
+    "ezh": "我們付了兩千美元訂金來預訂這個場地。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "withdraw",
+    "pos": "v.",
+    "zh": "提領；撤回",
+    "ph": "wɪðˈdrɔː",
+    "ex": "You can withdraw up to five hundred dollars from that account daily.",
+    "ezh": "那個帳戶每天最多可以提領五百美元。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "estimate",
+    "pos": "n.",
+    "zh": "估價單；v. 估計",
+    "ph": "ˈestɪmət",
+    "ex": "The contractor sent an estimate for the office renovation yesterday.",
+    "ezh": "承包商昨天送來辦公室裝修的估價單。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "quote",
+    "pos": "n.",
+    "zh": "報價；v. 報價",
+    "ph": "kwoʊt",
+    "ex": "Could you send a quote for fifty units including delivery?",
+    "ezh": "可以寄一份含運費的五十台報價給我嗎？",
+    "cat": "財務會計"
+  },
+  {
+    "w": "deficit",
+    "pos": "n.",
+    "zh": "赤字；虧損",
+    "ph": "ˈdefɪsɪt",
+    "ex": "The department ran a deficit after losing two major contracts.",
+    "ezh": "該部門在失去兩份大合約後出現虧損。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "turnover",
+    "pos": "n.",
+    "zh": "營業額",
+    "ph": "ˈtɜːrnoʊvər",
+    "ex": "The company's annual turnover rose despite the weak retail environment.",
+    "ezh": "儘管零售環境疲弱，公司年營業額仍然成長。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "payroll",
+    "pos": "n.",
+    "zh": "薪資名冊；薪資發放",
+    "ph": "ˈpeɪroʊl",
+    "ex": "Payroll for all staff is processed on the twenty-fifth of each month.",
+    "ezh": "全體員工的薪資在每月二十五日發放。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "installment",
+    "pos": "n.",
+    "zh": "分期付款",
+    "ph": "ɪnˈstɔːlmənt",
+    "ex": "The equipment can be paid for in twelve monthly installments.",
+    "ezh": "這批設備可以用十二期分期付款支付。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "currency",
+    "pos": "n.",
+    "zh": "貨幣",
+    "ph": "ˈkɜːrənsi",
+    "ex": "Sharp fluctuations in foreign currency raised our import costs this year.",
+    "ezh": "外幣劇烈波動使我們今年的進口成本上升。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "overhead",
+    "pos": "n.",
+    "zh": "經常開支；營運成本",
+    "ph": "ˈoʊvərhed",
+    "ex": "Moving to a smaller office helped us cut overhead significantly.",
+    "ezh": "搬到較小的辦公室幫我們大幅降低營運開支。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "statement",
+    "pos": "n.",
+    "zh": "對帳單；財務報表",
+    "ph": "ˈsteɪtmənt",
+    "ex": "The monthly bank statement lists every payment made in September.",
+    "ezh": "銀行對帳單列出九月所有的付款紀錄。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "overdue",
+    "pos": "adj.",
+    "zh": "逾期的",
+    "ph": "ˌoʊvərˈduː",
+    "ex": "Two invoices are now overdue and we have sent reminders.",
+    "ezh": "目前有兩張發票逾期，我們已寄出催款通知。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "surcharge",
+    "pos": "n.",
+    "zh": "附加費",
+    "ph": "ˈsɜːrtʃɑːrdʒ",
+    "ex": "A fuel surcharge of five percent applies to all deliveries.",
+    "ezh": "所有配送都加收百分之五的燃油附加費。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "exempt",
+    "pos": "adj.",
+    "zh": "免除的；v. 豁免",
+    "ph": "ɪɡˈzempt",
+    "ex": "Nonprofit organizations are exempt from paying the new sales tax.",
+    "ezh": "非營利組織免繳這項新的營業稅。",
+    "cat": "財務會計"
+  },
+  {
+    "w": "applicant",
+    "pos": "n.",
+    "zh": "應徵者；申請人",
+    "ph": "ˈæplɪkənt",
+    "ex": "Only three applicants met all the requirements for the position.",
+    "ezh": "只有三位應徵者符合這個職缺的所有條件。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "recruit",
+    "pos": "v.",
+    "zh": "招募；n. 新進人員",
+    "ph": "rɪˈkruːt",
+    "ex": "We plan to recruit two engineers before the end of summer.",
+    "ezh": "我們打算在夏天結束前招募兩名工程師。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "resume",
+    "pos": "n.",
+    "zh": "履歷",
+    "ph": "ˈrezəmeɪ",
+    "ex": "Her resume shows five years of solid experience in logistics.",
+    "ezh": "她的履歷顯示她在物流領域有五年紮實經驗。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "interview",
+    "pos": "n.",
+    "zh": "面試；v. 面談",
+    "ph": "ˈɪntərvjuː",
+    "ex": "The second interview will be held online with the regional director.",
+    "ezh": "第二階段面試將與區域總監線上進行。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "candidate",
+    "pos": "n.",
+    "zh": "候選人；應徵者",
+    "ph": "ˈkændɪdət",
+    "ex": "The strongest candidate withdrew after accepting an offer from a competitor.",
+    "ezh": "最有希望的應徵者接受了競爭對手的聘書後退出。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "vacancy",
+    "pos": "n.",
+    "zh": "職缺；空缺",
+    "ph": "ˈveɪkənsi",
+    "ex": "A vacancy in the accounting team was posted on Monday.",
+    "ezh": "會計團隊的職缺在週一公告上線。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "probation",
+    "pos": "n.",
+    "zh": "試用期",
+    "ph": "proʊˈbeɪʃn",
+    "ex": "New hires remain on probation for their first three months here.",
+    "ezh": "新進人員在這裡前三個月為試用期。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "orientation",
+    "pos": "n.",
+    "zh": "新人訓練；說明會",
+    "ph": "ˌɔːriənˈteɪʃn",
+    "ex": "Orientation for new employees begins at nine in the main hall.",
+    "ezh": "新進員工說明會九點在大廳開始。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "benefits",
+    "pos": "n.",
+    "zh": "福利",
+    "ph": "ˈbenɪfɪts",
+    "ex": "The benefits package includes health insurance and a retirement plan.",
+    "ezh": "福利方案包含健康保險與退休金規劃。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "compensation",
+    "pos": "n.",
+    "zh": "薪酬；報酬",
+    "ph": "ˌkɑːmpenˈseɪʃn",
+    "ex": "Our compensation is reviewed once a year based on individual performance.",
+    "ezh": "我們的薪酬每年依個人績效檢視一次。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "salary",
+    "pos": "n.",
+    "zh": "薪水；月薪",
+    "ph": "ˈsæləri",
+    "ex": "She negotiated a higher salary before signing the employment contract.",
+    "ezh": "她在簽僱傭合約前談到更高的薪水。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "bonus",
+    "pos": "n.",
+    "zh": "獎金",
+    "ph": "ˈboʊnəs",
+    "ex": "Staff received a year-end bonus equal to two months' pay.",
+    "ezh": "員工領到相當於兩個月薪水的年終獎金。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "appraisal",
+    "pos": "n.",
+    "zh": "績效考核；評估",
+    "ph": "əˈpreɪzl",
+    "ex": "Each manager conducts an annual appraisal with every team member.",
+    "ezh": "每位經理都會與團隊成員進行年度績效考核。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "promotion",
+    "pos": "n.",
+    "zh": "升遷；晉升",
+    "ph": "prəˈmoʊʃn",
+    "ex": "He earned a promotion after leading the regional project successfully.",
+    "ezh": "他成功帶領區域專案後獲得升遷。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "resign",
+    "pos": "v.",
+    "zh": "辭職",
+    "ph": "rɪˈzaɪn",
+    "ex": "The finance director decided to resign at the end of June.",
+    "ezh": "財務總監決定在六月底辭職。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "retire",
+    "pos": "v.",
+    "zh": "退休",
+    "ph": "rɪˈtaɪər",
+    "ex": "Two senior engineers will retire next spring after long careers.",
+    "ezh": "兩位資深工程師在漫長職涯後將於明年春天退休。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "terminate",
+    "pos": "v.",
+    "zh": "終止；解僱",
+    "ph": "ˈtɜːrmɪneɪt",
+    "ex": "The company may terminate the agreement if payments stop for two months.",
+    "ezh": "若付款停擺兩個月，公司可終止這份協議。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "personnel",
+    "pos": "n.",
+    "zh": "人事（部門）；員工",
+    "ph": "ˌpɜːrsəˈnel",
+    "ex": "All personnel files are kept in a locked cabinet on this floor.",
+    "ezh": "所有人事檔案都鎖在這層樓的櫃子裡。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "qualifications",
+    "pos": "n.",
+    "zh": "資格；條件",
+    "ph": "ˌkwɑːlɪfɪˈkeɪʃnz",
+    "ex": "The job posting lists the qualifications required for the role.",
+    "ezh": "徵才公告列出這個職位所需的資格條件。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "reference",
+    "pos": "n.",
+    "zh": "推薦人；推薦函",
+    "ph": "ˈrefrəns",
+    "ex": "Please provide two professional references from your previous employers before Friday.",
+    "ezh": "請在週五前提供兩位前主管的推薦人資訊。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "overtime",
+    "pos": "n.",
+    "zh": "加班；加班費",
+    "ph": "ˈoʊvərtaɪm",
+    "ex": "Overtime is paid at one and a half times the hourly rate.",
+    "ezh": "加班費以每小時時薪的一點五倍計算。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "onboard",
+    "pos": "v.",
+    "zh": "讓……到職；帶領上手",
+    "ph": "ˌɑːnˈbɔːrd",
+    "ex": "HR will onboard twelve new hires at the start of next month.",
+    "ezh": "人資將在下個月初帶領十二位新進人員到職。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "workforce",
+    "pos": "n.",
+    "zh": "勞動力；全體員工",
+    "ph": "ˈwɜːrkfɔːrs",
+    "ex": "Half of our workforce now works remotely at least two days weekly.",
+    "ezh": "我們現在有一半的員工每週至少兩天遠距工作。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "retention",
+    "pos": "n.",
+    "zh": "留任；留住人才",
+    "ph": "rɪˈtenʃn",
+    "ex": "Flexible hours have clearly improved staff retention across all departments.",
+    "ezh": "彈性工時明顯提升了各部門的員工留任率。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "supervisor",
+    "pos": "n.",
+    "zh": "主管；督導",
+    "ph": "ˈsuːpərvaɪzər",
+    "ex": "Please report any safety issue to your direct supervisor immediately.",
+    "ezh": "任何安全問題請立刻向你的直屬主管報告。",
+    "cat": "人事招募"
+  },
+  {
+    "w": "warranty",
+    "pos": "n.",
+    "zh": "保固；保證書",
+    "ph": "ˈwɔːrənti",
+    "ex": "The laptop comes with a two-year warranty on parts and labor.",
+    "ezh": "這台筆電提供兩年的零件與工資保固。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "negotiate",
+    "pos": "v.",
+    "zh": "談判；議價",
+    "ph": "nɪˈɡoʊʃieɪt",
+    "ex": "We are still negotiating the final price with the supplier.",
+    "ezh": "我們還在跟供應商談最後的價格。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "proposal",
+    "pos": "n.",
+    "zh": "提案；企劃書",
+    "ph": "prəˈpoʊzl",
+    "ex": "The marketing team submitted a proposal for the spring campaign.",
+    "ezh": "行銷團隊提交了春季活動的企劃書。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "client",
+    "pos": "n.",
+    "zh": "客戶；委託人",
+    "ph": "ˈklaɪənt",
+    "ex": "Our biggest client asked for a detailed report by Friday.",
+    "ezh": "我們最大的客戶要求在週五前拿到詳細報告。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "vendor",
+    "pos": "n.",
+    "zh": "供應商；參展攤商",
+    "ph": "ˈvendər",
+    "ex": "Each vendor must register online before setting up a booth.",
+    "ezh": "每個攤商都必須先線上報名才能布置攤位。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "wholesale",
+    "pos": "adj.",
+    "zh": "批發的；n. 批發",
+    "ph": "ˈhoʊlseɪl",
+    "ex": "They buy in wholesale quantities to keep retail prices competitive.",
+    "ezh": "他們以批發數量進貨，以維持零售價的競爭力。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "retail",
+    "pos": "n.",
+    "zh": "零售；adj. 零售的",
+    "ph": "ˈriːteɪl",
+    "ex": "Retail sales picked up sharply during the long holiday weekend.",
+    "ezh": "零售銷售在漫長的連假週末明顯回升。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "campaign",
+    "pos": "n.",
+    "zh": "（行銷）活動；廣告企劃",
+    "ph": "kæmˈpeɪn",
+    "ex": "The new ad campaign targets young commuters in major cities.",
+    "ezh": "新的廣告活動鎖定大城市的年輕通勤族。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "discount",
+    "pos": "n.",
+    "zh": "折扣；v. 打折",
+    "ph": "ˈdɪskaʊnt",
+    "ex": "We offer a ten percent discount on orders above fifty units.",
+    "ezh": "訂購五十台以上我們提供九折優惠。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "subscription",
+    "pos": "n.",
+    "zh": "訂閱；訂閱費",
+    "ph": "səbˈskrɪpʃn",
+    "ex": "Our annual software subscription renews automatically unless you cancel it.",
+    "ezh": "我們的軟體年費訂閱會自動續約，除非你取消。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "loyalty",
+    "pos": "n.",
+    "zh": "忠誠度；顧客黏著度",
+    "ph": "ˈlɔɪəlti",
+    "ex": "Our loyalty program rewards repeat customers with free express shipping.",
+    "ezh": "我們的會員忠誠方案用免費快速到貨回饋回流客。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "survey",
+    "pos": "n.",
+    "zh": "問卷調查；v. 調查",
+    "ph": "ˈsɜːrveɪ",
+    "ex": "A customer survey showed strong interest in the smaller model.",
+    "ezh": "一份客戶問卷顯示大家對較小機型興趣濃厚。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "launch",
+    "pos": "v.",
+    "zh": "推出；上市；n. 發表",
+    "ph": "lɔːntʃ",
+    "ex": "They will launch the new product line in early October.",
+    "ezh": "他們將在十月初推出新的產品線。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "brand",
+    "pos": "n.",
+    "zh": "品牌",
+    "ph": "brænd",
+    "ex": "The brand is known for reliable service rather than low prices.",
+    "ezh": "這個品牌以可靠服務聞名，而不是低價。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "competitor",
+    "pos": "n.",
+    "zh": "競爭對手",
+    "ph": "kəmˈpetɪtər",
+    "ex": "A rival competitor undercut our price by nearly eight percent.",
+    "ezh": "一個競爭對手把價格壓得比我們低將近百分之八。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "consumer",
+    "pos": "n.",
+    "zh": "消費者",
+    "ph": "kənˈsuːmər",
+    "ex": "Consumer demand for eco-friendly packaging has risen sharply among younger shoppers.",
+    "ezh": "年輕消費者對環保包裝的需求大幅上升。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "feedback",
+    "pos": "n.",
+    "zh": "意見回饋",
+    "ph": "ˈfiːdbæk",
+    "ex": "We collected detailed feedback from users before redesigning the website.",
+    "ezh": "我們在重新設計網站前先收集了使用者的回饋。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "brochure",
+    "pos": "n.",
+    "zh": "宣傳手冊；簡介",
+    "ph": "broʊˈʃʊr",
+    "ex": "The brochure describes all the services offered by our agency.",
+    "ezh": "這本手冊介紹我們公司提供的所有服務。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "advertisement",
+    "pos": "n.",
+    "zh": "廣告",
+    "ph": "ˌædvərˈtaɪzmənt",
+    "ex": "The advertisement ran in three national trade magazines last month.",
+    "ezh": "這則廣告上個月在三本全國性產業雜誌刊登。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "sponsorship",
+    "pos": "n.",
+    "zh": "贊助",
+    "ph": "ˈspɑːnsərʃɪp",
+    "ex": "The company secured a sponsorship deal with a local sports team.",
+    "ezh": "公司與在地運動球隊談成了贊助合作。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "merchandise",
+    "pos": "n.",
+    "zh": "商品；周邊商品",
+    "ph": "ˈmɜːrtʃəndaɪs",
+    "ex": "Unsold merchandise was returned to the supplier after the event.",
+    "ezh": "活動結束後，未售出的商品都退回給供應商。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "territory",
+    "pos": "n.",
+    "zh": "（業務）轄區",
+    "ph": "ˈterətɔːri",
+    "ex": "She manages the northern territory and reports to the sales director.",
+    "ezh": "她負責北部業務區，並向業務總監報告。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "quota",
+    "pos": "n.",
+    "zh": "配額；業績目標",
+    "ph": "ˈkwoʊtə",
+    "ex": "Every sales representative must meet a monthly quota to earn commission.",
+    "ezh": "每位業務代表都必須達到月度業績目標才能領佣金。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "referral",
+    "pos": "n.",
+    "zh": "推薦；轉介",
+    "ph": "rɪˈfɜːrəl",
+    "ex": "Most new clients arrive through referrals from satisfied long-term customers.",
+    "ezh": "大多數新客戶是靠滿意老客戶的推薦而來。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "endorse",
+    "pos": "v.",
+    "zh": "代言；背書",
+    "ph": "ɪnˈdɔːrs",
+    "ex": "A well-known athlete agreed to endorse our new running shoes.",
+    "ezh": "一位知名運動員同意為我們的新跑鞋代言。",
+    "cat": "業務行銷"
+  },
+  {
+    "w": "shipment",
+    "pos": "n.",
+    "zh": "出貨；運送的貨物",
+    "ph": "ˈʃɪpmənt",
+    "ex": "The shipment left our warehouse two full days behind schedule.",
+    "ezh": "這批貨比預定時間晚了整整兩天才離開倉庫。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "inventory",
+    "pos": "n.",
+    "zh": "庫存；存貨",
+    "ph": "ˈɪnvəntɔːri",
+    "ex": "We check inventory at the end of every business day.",
+    "ezh": "我們每個營業日結束時都會盤點庫存。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "warehouse",
+    "pos": "n.",
+    "zh": "倉庫",
+    "ph": "ˈwerhaʊs",
+    "ex": "The new warehouse can hold twice as much stock as before.",
+    "ezh": "新倉庫能容納的存貨是以前的兩倍。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "defective",
+    "pos": "adj.",
+    "zh": "有瑕疵的；故障的",
+    "ph": "dɪˈfektɪv",
+    "ex": "About two percent of the units were defective and sent back.",
+    "ezh": "大約百分之二的產品有瑕疵，已被退回。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "assembly",
+    "pos": "n.",
+    "zh": "組裝；裝配",
+    "ph": "əˈsembli",
+    "ex": "The entire assembly line stops for maintenance every Sunday night.",
+    "ezh": "整條組裝線每週日晚上停機保養。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "inspection",
+    "pos": "n.",
+    "zh": "檢查；檢驗",
+    "ph": "ɪnˈspekʃn",
+    "ex": "A final inspection takes place before each unit is packed.",
+    "ezh": "每一台在裝箱前都會做最後檢驗。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "maintenance",
+    "pos": "n.",
+    "zh": "維護；保養",
+    "ph": "ˈmeɪntənəns",
+    "ex": "Routine maintenance keeps these old machines running without costly breakdowns.",
+    "ezh": "定期保養讓這些機器運轉順暢，避免高額故障損失。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "machinery",
+    "pos": "n.",
+    "zh": "機械設備",
+    "ph": "məˈʃiːnəri",
+    "ex": "The heavy machinery must be operated by certified staff only.",
+    "ezh": "重型機械只能由合格人員操作。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "supplier",
+    "pos": "n.",
+    "zh": "供應商",
+    "ph": "səˈplaɪər",
+    "ex": "Our main supplier raised prices for the third time this year.",
+    "ezh": "我們的主要供應商今年第三度漲價。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "procurement",
+    "pos": "n.",
+    "zh": "採購",
+    "ph": "prəˈkjʊərmənt",
+    "ex": "The procurement team is comparing bids from four different vendors.",
+    "ezh": "採購團隊正在比較四家不同廠商的報價。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "batch",
+    "pos": "n.",
+    "zh": "一批（貨）；批次",
+    "ph": "bætʃ",
+    "ex": "This batch failed the strength test and cannot be shipped.",
+    "ezh": "這批貨沒通過強度測試，不能出貨。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "output",
+    "pos": "n.",
+    "zh": "產量；產出",
+    "ph": "ˈaʊtpʊt",
+    "ex": "Factory output increased sharply after the old press was replaced.",
+    "ezh": "舊壓機汰換後，工廠產量大幅提升。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "capacity",
+    "pos": "n.",
+    "zh": "產能；容量",
+    "ph": "kəˈpæsəti",
+    "ex": "The plant is running at full capacity to meet December orders.",
+    "ezh": "工廠正滿載運轉以趕上十二月的訂單。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "downtime",
+    "pos": "n.",
+    "zh": "停機時間",
+    "ph": "ˈdaʊntaɪm",
+    "ex": "Unexpected downtime cost the plant nearly forty thousand dollars last month.",
+    "ezh": "上個月非預期的停機讓工廠損失近四萬美元。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "specification",
+    "pos": "n.",
+    "zh": "規格；規格書",
+    "ph": "ˌspesɪfɪˈkeɪʃn",
+    "ex": "The parts were made to the exact specifications you provided.",
+    "ezh": "這些零件是依照你提供的確切規格製作的。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "component",
+    "pos": "n.",
+    "zh": "零件；組件",
+    "ph": "kəmˈpoʊnənt",
+    "ex": "One faulty component can shut down the entire production line.",
+    "ezh": "一個故障零件就可能讓整條生產線停擺。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "raw materials",
+    "pos": "phr.",
+    "zh": "原料",
+    "ph": "ˌrɔː məˈtɪriəlz",
+    "ex": "Rising raw materials costs forced us to adjust next year's pricing.",
+    "ezh": "原料成本上漲迫使我們調整明年的定價。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "packaging",
+    "pos": "n.",
+    "zh": "包裝；包裝材料",
+    "ph": "ˈpækɪdʒɪŋ",
+    "ex": "The new packaging reduced shipping damage by more than half.",
+    "ezh": "新包裝讓運送破損減少了超過一半。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "quality control",
+    "pos": "phr.",
+    "zh": "品質管制",
+    "ph": "ˈkwɑːləti kənˈtroʊl",
+    "ex": "Quality control caught the labeling error before the goods shipped.",
+    "ezh": "品管在貨物出貨前就發現了標示錯誤。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "recall",
+    "pos": "n.",
+    "zh": "召回；v. 召回",
+    "ph": "ˈriːkɔːl",
+    "ex": "The manufacturer issued a recall for three thousand coffee machines.",
+    "ezh": "製造商召回三千台咖啡機。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "shift",
+    "pos": "n.",
+    "zh": "班次；輪班",
+    "ph": "ʃɪft",
+    "ex": "The night shift starts at eleven and ends at seven.",
+    "ezh": "夜班從十一點開始，早上七點結束。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "hazard",
+    "pos": "n.",
+    "zh": "危險；危害",
+    "ph": "ˈhæzərd",
+    "ex": "Loose cables near the walkway are a serious safety hazard.",
+    "ezh": "走道旁鬆脫的電纜是嚴重的安全隱憂。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "durable",
+    "pos": "adj.",
+    "zh": "耐用的",
+    "ph": "ˈdʊrəbl",
+    "ex": "These durable parts last twice as long as cheaper alternatives.",
+    "ezh": "這些耐用零件的壽命是便宜替代品的兩倍。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "install",
+    "pos": "v.",
+    "zh": "安裝",
+    "ph": "ɪnˈstɔːl",
+    "ex": "Technicians will install the new conveyor belt over the weekend.",
+    "ezh": "技師會在週末安裝新的輸送帶。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "manual",
+    "pos": "n.",
+    "zh": "手冊；說明書",
+    "ph": "ˈmænjuəl",
+    "ex": "The operator's manual explains how to reset the machine safely.",
+    "ezh": "操作手冊說明如何安全地重新設定這台機器。",
+    "cat": "生產製造"
+  },
+  {
+    "w": "itinerary",
+    "pos": "n.",
+    "zh": "行程表",
+    "ph": "aɪˈtɪnəreri",
+    "ex": "Your itinerary includes two nights in Osaka and one in Kyoto.",
+    "ezh": "你的行程包括在大阪住兩晚、京都住一晚。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "reservation",
+    "pos": "n.",
+    "zh": "預訂；訂位",
+    "ph": "ˌrezərˈveɪʃn",
+    "ex": "I need to change our hotel reservation to a later date.",
+    "ezh": "我需要把飯店訂房改到更晚的日期。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "boarding pass",
+    "pos": "phr.",
+    "zh": "登機證",
+    "ph": "ˈbɔːrdɪŋ pæs",
+    "ex": "Have your boarding pass ready when you reach the gate.",
+    "ezh": "到登機門時請把登機證準備好。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "layover",
+    "pos": "n.",
+    "zh": "轉機停留",
+    "ph": "ˈleɪoʊvər",
+    "ex": "A five-hour layover in Seoul made the whole trip exhausting.",
+    "ezh": "在首爾轉機停留五小時，讓整趟旅程很累人。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "departure",
+    "pos": "n.",
+    "zh": "出發；離境",
+    "ph": "dɪˈpɑːrtʃər",
+    "ex": "Our departure is delayed by two hours because of heavy fog.",
+    "ezh": "因為濃霧，我們的班機延後兩小時起飛。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "arrival",
+    "pos": "n.",
+    "zh": "抵達；到達",
+    "ph": "əˈraɪvl",
+    "ex": "Please send your arrival time so we can arrange a pickup.",
+    "ezh": "請告知你抵達的時間，我們好安排接機。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "round-trip",
+    "pos": "adj.",
+    "zh": "來回的；n. 來回票",
+    "ph": "ˌraʊnd ˈtrɪp",
+    "ex": "A round-trip ticket to Singapore costs less than four hundred dollars.",
+    "ezh": "到新加坡的來回機票不到四百美元。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "accommodation",
+    "pos": "n.",
+    "zh": "住宿",
+    "ph": "əˌkɑːməˈdeɪʃn",
+    "ex": "The conference fee covers all meals but not hotel accommodation.",
+    "ezh": "會議費用包含所有餐點，但不含飯店住宿。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "complimentary",
+    "pos": "adj.",
+    "zh": "免費招待的",
+    "ph": "ˌkɑːmplɪˈmentri",
+    "ex": "All hotel guests enjoy complimentary breakfast and a free airport shuttle.",
+    "ezh": "所有房客都可享用免費早餐與免費機場接駁。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "convention",
+    "pos": "n.",
+    "zh": "大型會議；年會",
+    "ph": "kənˈvenʃn",
+    "ex": "The medical convention drew twelve thousand visitors to the center.",
+    "ezh": "這場醫學年會吸引一萬兩千名訪客到展覽中心。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "baggage claim",
+    "pos": "phr.",
+    "zh": "行李提領處",
+    "ph": "ˈbæɡɪdʒ kleɪm",
+    "ex": "Look for the airline desk near baggage claim on the lower level.",
+    "ezh": "請到樓下行李提領處附近的航空公司櫃檯。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "customs",
+    "pos": "n.",
+    "zh": "海關",
+    "ph": "ˈkʌstəmz",
+    "ex": "It took an hour to clear customs at the international terminal.",
+    "ezh": "在國際航廈通關花了一個小時。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "visa",
+    "pos": "n.",
+    "zh": "簽證",
+    "ph": "ˈviːzə",
+    "ex": "Apply for a business visa at least six weeks before travel.",
+    "ezh": "商務簽證至少要出發前六週申請。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "expire",
+    "pos": "v.",
+    "zh": "到期；失效",
+    "ph": "ɪkˈspaɪər",
+    "ex": "My passport will expire in March, so I must renew it.",
+    "ezh": "我的護照三月到期，所以必須換發。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "per diem",
+    "pos": "phr.",
+    "zh": "每日出差津貼",
+    "ph": "ˌpɜːr ˈdiːəm",
+    "ex": "The per diem covers meals, local transport, and small incidental costs.",
+    "ezh": "每日出差津貼包含餐費、當地交通與小額雜支。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "shuttle",
+    "pos": "n.",
+    "zh": "接駁車；v. 接駁",
+    "ph": "ˈʃʌtl",
+    "ex": "A free shuttle runs between the hotel and the airport.",
+    "ezh": "飯店與機場之間有免費接駁車往返。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "upgrade",
+    "pos": "n.",
+    "zh": "升級；升等",
+    "ph": "ˈʌpɡreɪd",
+    "ex": "She received a free upgrade to business class on the return flight.",
+    "ezh": "她回程班機免費升等商務艙。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "cancellation",
+    "pos": "n.",
+    "zh": "取消",
+    "ph": "ˌkænsəˈleɪʃn",
+    "ex": "The cancellation fee applies if you change the booking within 48 hours.",
+    "ezh": "若在48小時內更改訂位，就會收取取消費。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "check-in",
+    "pos": "n.",
+    "zh": "報到；辦理住房",
+    "ph": "ˈtʃek ɪn",
+    "ex": "Online check-in for the flight opens twenty-four hours in advance.",
+    "ezh": "航班線上報到於起飛前二十四小時開放。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "travel agency",
+    "pos": "phr.",
+    "zh": "旅行社",
+    "ph": "ˈtrævl ˈeɪdʒənsi",
+    "ex": "Our travel agency books all flights and hotels for staff trips.",
+    "ezh": "我們的旅行社負責預訂員工出差的所有機票與住宿。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "destination",
+    "pos": "n.",
+    "zh": "目的地",
+    "ph": "ˌdestɪˈneɪʃn",
+    "ex": "Chicago is the final destination for this week's sales tour.",
+    "ezh": "芝加哥是本週業務巡迴的最終目的地。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "connecting flight",
+    "pos": "phr.",
+    "zh": "轉接航班",
+    "ph": "kəˈnektɪŋ flaɪt",
+    "ex": "We missed the connecting flight and rebooked for the next morning.",
+    "ezh": "我們錯過轉接航班，改訂了隔天早上的班機。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "jet lag",
+    "pos": "phr.",
+    "zh": "時差；時差症候群",
+    "ph": "dʒet læɡ",
+    "ex": "Jet lag kept him awake through most of the first night.",
+    "ezh": "時差讓他第一晚大部分時間都醒著。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "rental",
+    "pos": "n.",
+    "zh": "租車；租金",
+    "ph": "ˈrentl",
+    "ex": "The car rental desk is on the ground floor of the terminal.",
+    "ezh": "租車櫃檯在航廈一樓。",
+    "cat": "旅遊出差"
+  },
+  {
+    "w": "fare",
+    "pos": "n.",
+    "zh": "票價；車資",
+    "ph": "fer",
+    "ex": "Air fares rise sharply during the busy summer holiday season.",
+    "ezh": "夏季旅遊旺季機票價格大幅上漲。",
+    "cat": "旅遊出差"
+  }
+]

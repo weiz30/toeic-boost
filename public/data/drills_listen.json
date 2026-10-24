@@ -1,0 +1,356 @@
+{
+  "questions": [
+    {
+      "id": "p2-01",
+      "part": 2,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "Where is the meeting being held?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "Yes, I'll be there.",
+        "In the Oak Room on the second floor.",
+        "For about an hour."
+      ],
+      "answer": 1,
+      "zh": "Where 問的是地點，答句必須給出場所。「In the Oak Room on the second floor」直接回答地點，是正解。「Yes, I'll be there.」是典型陷阱：原句用 Where 開頭，不能用 Yes／No 回答。「For about an hour.」回答的是時間長度，對應的是 How long，不是 Where。",
+      "tip": "where 問地點，答句要回地點，不要被 Yes 開頭騙走。"
+    },
+    {
+      "id": "p2-02",
+      "part": 2,
+      "kind": "listen",
+      "cat": "餐廳",
+      "audio": "Have you already placed your order?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "About twenty minutes ago.",
+        "Yes, the soup is excellent.",
+        "Not yet — could I see the menu again?"
+      ],
+      "answer": 2,
+      "zh": "問句是 Have you... 的完成式問句，問「是否已經點餐」，可用 Yes／No 或 Not yet 回答。「Not yet — could I see the menu again?」同時回答了沒點餐並提出下一步需求，是最自然的回應。「Yes, the soup is excellent.」雖以 Yes 開頭，但講的是湯好不好喝，沒有回答「有沒有點餐」。「About twenty minutes ago.」是時間副詞，回答的是 When，與問句重點不符。",
+      "tip": "Have you...? 要用 Yes／No／Not yet 回答，別選只講時間的選項。"
+    },
+    {
+      "id": "p2-03",
+      "part": 2,
+      "kind": "listen",
+      "cat": "機場",
+      "audio": "Which gate does the flight to Seattle leave from?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "Yes, I'm flying to Seattle.",
+        "They moved it to Gate 22.",
+        "At the check-in counter."
+      ],
+      "answer": 1,
+      "zh": "Which gate 問登機門編號，正解「They moved it to Gate 22.」用代名詞 it 承接 the flight，並給出新的登機門，屬於間接但完整的回答。「Yes, I'm flying to Seattle.」是陷阱：Wh- 問句不能用 Yes 回答，而且只重述了目的地。「At the check-in counter.」是地點，但報到櫃檯不是登機門，答非所問。",
+      "tip": "Wh- 問句不會用 Yes 開頭；注意 it 指代的間接答句。"
+    },
+    {
+      "id": "p2-04",
+      "part": 2,
+      "kind": "listen",
+      "cat": "飯店",
+      "audio": "Could you hold my luggage until this afternoon?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "It's a two-night stay.",
+        "No, I haven't checked out yet.",
+        "Certainly. Here's your claim ticket."
+      ],
+      "answer": 2,
+      "zh": "Could you...? 是請求句，正解先用 Certainly 答應，再用 claim ticket（寄物憑證）表示已完成寄放，回應最完整。「No, I haven't checked out yet.」雖然文法正確，但回答的是「退房了沒」，不是「能不能寄放行李」。「It's a two-night stay.」回答住宿天數，對應 How long are you staying，與請求無關。",
+      "tip": "Could you...? 是請求，正解會先答應再說明處理方式。"
+    },
+    {
+      "id": "p2-05",
+      "part": 2,
+      "kind": "listen",
+      "cat": "客服",
+      "audio": "Why wasn't my order delivered on Monday?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "The item was out of stock until yesterday.",
+        "Yes, Monday works for me.",
+        "I ordered the blue one."
+      ],
+      "answer": 0,
+      "zh": "Why 問原因，正解用 out of stock（缺貨）說明延遲理由，直接對應問句。「Yes, Monday works for me.」是經典陷阱：Wh- 問句不能用 Yes 回答，且內容在談約時間。「I ordered the blue one.」用了與 order 相近的字，但講的是顏色，屬相似字誘答，沒有交代延遲原因。",
+      "tip": "why 問原因，答案要給理由（because／out of stock／due to）。"
+    },
+    {
+      "id": "p2-06",
+      "part": 2,
+      "kind": "listen",
+      "cat": "展場",
+      "audio": "How many brochures should I bring to the booth?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "Yes, the booth is near the entrance.",
+        "About fifty should be enough.",
+        "I brought them yesterday."
+      ],
+      "answer": 1,
+      "zh": "How many 問數量，正解 About fifty 直接給數字，should be enough 順帶回應「該帶多少」的判斷。「Yes, the booth is near the entrance.」是陷阱：How many 問句不能用 Yes 回答，且講的是攤位位置。「I brought them yesterday.」是過去式陳述，回答的是有沒有帶、何時帶，不是數量。",
+      "tip": "how many 一定要聽到數字；Yes 開頭的一律先刪。"
+    },
+    {
+      "id": "p2-07",
+      "part": 2,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "Would you rather meet before or after lunch?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "Yes, let's have lunch together.",
+        "Either works — my morning is clear.",
+        "The meeting room is upstairs."
+      ],
+      "answer": 1,
+      "zh": "Would you rather A or B? 是二選一問句，正解 Either works 表示兩者皆可，並補充早上有空，等於同時回答了選擇。「Yes, let's have lunch together.」是陷阱：二選一問句不能用 Yes 回答，而且把 before or after 誤聽成一起吃飯。「The meeting room is upstairs.」回答地點，對應 Where，不是時間選擇。",
+      "tip": "A or B 的問句要選其中一個或說 either，不會用 Yes。"
+    },
+    {
+      "id": "p2-08",
+      "part": 2,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "Is the copier still under warranty?",
+      "question": "Choose the best response.",
+      "passage": "",
+      "options": [
+        "No, I copied it already.",
+        "Yes, for another six months.",
+        "The corridor is on the left."
+      ],
+      "answer": 1,
+      "zh": "問句是 Is the copier...? 的 Yes／No 問句，正解先答 Yes，再用 for another six months 說明保固還有多久，資訊完整。「No, I copied it already.」利用 copier 與 copied 的相似音設陷阱，動詞 copy（影印）和名詞 copier（影印機）意思不同，且答非所問。「The corridor is on the left.」用 corridor 與 copier 的相近音混淆，講的是走廊位置。",
+      "tip": "小心 copier／copied 這類同源相似音，先確認問句的主詞。"
+    },
+    {
+      "id": "p3-01",
+      "part": 3,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "W: Did you get the figures from the finance team?\nM: Not yet. They said they'd send them by noon, but nothing has come through.\nW: We need them before the two o'clock presentation.\nM: I'll call Dana and ask her to walk them over.",
+      "question": "What will the man probably do next?",
+      "passage": "W: Did you get the figures from the finance team?\nM: Not yet. They said they'd send them by noon, but nothing has come through.\nW: We need them before the two o'clock presentation.\nM: I'll call Dana and ask her to walk them over.",
+      "options": [
+        "Postpone the presentation",
+        "Prepare the slides himself",
+        "Call a colleague to bring the figures",
+        "E-mail the finance team"
+      ],
+      "answer": 2,
+      "zh": "男子最後一句說 I'll call Dana and ask her to walk them over，表示他接下來要打電話請同事把數據送過來，故選「Call a colleague to bring the figures」。「Postpone the presentation」錯誤：女方只說兩點簡報前需要數據，沒有提到延期。「Prepare the slides himself」錯誤：對話從頭到尾沒提投影片。「E-mail the finance team」錯誤：他選擇打電話給 Dana，而非寄信給財務部。",
+      "tip": "注意最後一句 I'll... 通常就是「下一步行動」的答案。"
+    },
+    {
+      "id": "p3-02",
+      "part": 3,
+      "kind": "listen",
+      "cat": "餐廳",
+      "audio": "M: Hi, I'd like to change my reservation for Friday. It's under Chen, party of four, at seven.\nW: Let me check. Seven is fully booked, but I can move you to eight o'clock.\nM: Eight is fine, thanks.\nW: Great, you're all set for Friday at eight.",
+      "question": "What time will the man's reservation be?",
+      "passage": "M: Hi, I'd like to change my reservation for Friday. It's under Chen, party of four, at seven.\nW: Let me check. Seven is fully booked, but I can move you to eight o'clock.\nM: Eight is fine, thanks.\nW: Great, you're all set for Friday at eight.",
+      "options": [
+        "Six o'clock",
+        "Seven o'clock",
+        "Eight o'clock",
+        "Nine o'clock"
+      ],
+      "answer": 2,
+      "zh": "男子原本訂七點（at seven），但服務生說七點已客滿、只能改到八點，男子回覆 Eight is fine，因此最終訂位時間是八點。「Seven o'clock」是原本的時間，是刻意放的干擾項。「Six o'clock」與「Nine o'clock」對話中完全沒出現。",
+      "tip": "聽到兩個時間時，要確認最後被答應的是哪一個。"
+    },
+    {
+      "id": "p3-03",
+      "part": 3,
+      "kind": "listen",
+      "cat": "機場",
+      "audio": "M: Is this the line for the shuttle to the downtown terminal?\nW: It is, but the next one doesn't leave until 3:15.\nM: That's cutting it close — my flight boards at 4:40.\nW: Then you might want to take a taxi. It's only about fifteen minutes from here.",
+      "question": "What does the woman suggest the man do?",
+      "passage": "M: Is this the line for the shuttle to the downtown terminal?\nW: It is, but the next one doesn't leave until 3:15.\nM: That's cutting it close — my flight boards at 4:40.\nW: Then you might want to take a taxi. It's only about fifteen minutes from here.",
+      "options": [
+        "Wait for the next shuttle",
+        "Change his flight",
+        "Ask at the information desk",
+        "Take a taxi"
+      ],
+      "answer": 3,
+      "zh": "女方最後說 you might want to take a taxi，並補充計程車只要十五分鐘，明確建議搭計程車。「Wait for the next shuttle」正好相反：是她先說下一班要等到 3:15，才顯得不保險。「Change his flight」錯誤：男方只是說登機時間緊，沒有要改票。「Ask at the information desk」對話中沒有出現服務台。",
+      "tip": "you might want to / I'd suggest 後面就是建議內容。"
+    },
+    {
+      "id": "p3-04",
+      "part": 3,
+      "kind": "listen",
+      "cat": "飯店",
+      "audio": "W: I'm calling about the conference room for Thursday.\nM: We have the Birch Room available, but it only seats thirty.\nW: We're expecting about forty-five people.\nM: Then I'd recommend the Cedar Room — same price, and it holds sixty.",
+      "question": "Why does the man recommend the Cedar Room?",
+      "passage": "W: I'm calling about the conference room for Thursday.\nM: We have the Birch Room available, but it only seats thirty.\nW: We're expecting about forty-five people.\nM: Then I'd recommend the Cedar Room — same price, and it holds sixty.",
+      "options": [
+        "It costs less",
+        "It is larger than the Birch Room",
+        "It is closer to the lobby",
+        "It has better equipment"
+      ],
+      "answer": 1,
+      "zh": "男方說 Cedar Room holds sixty（可容納六十人），而 Birch Room 只 seats thirty，且女方說預計四十五人，所以推荐理由是可容納人數更多。「It costs less」錯誤：他說 same price（價格相同），不是更便宜。「It is closer to the lobby」與「It has better equipment」對話完全沒提到。",
+      "tip": "比較兩間場地時，抓數字（30／45／60）就能推出理由。"
+    },
+    {
+      "id": "p3-05",
+      "part": 3,
+      "kind": "listen",
+      "cat": "客服",
+      "audio": "M: I received the wrong model of printer cartridge.\nW: I'm sorry about that. Could you read me the order number?\nM: Sure, it's 44-8192.\nW: Thank you. I'll ship the correct one today and e-mail you a return label.",
+      "question": "What does the woman offer to do?",
+      "passage": "M: I received the wrong model of printer cartridge.\nW: I'm sorry about that. Could you read me the order number?\nM: Sure, it's 44-8192.\nW: Thank you. I'll ship the correct one today and e-mail you a return label.",
+      "options": [
+        "Refund the full amount",
+        "Repair the printer",
+        "Cancel the order",
+        "Send the correct item and a return label"
+      ],
+      "answer": 3,
+      "zh": "女方最後說 I'll ship the correct one today and e-mail you a return label，也就是補寄正確型號並寄退貨標籤。「Refund the full amount」錯誤：她從頭到尾沒提退款。「Repair the printer」錯誤：壞的是訂錯的碳粉匣型號，不是印表機。「Cancel the order」錯誤：她要換貨，不是取消訂單。",
+      "tip": "ship the correct one + return label 是換貨題的標準答案。"
+    },
+    {
+      "id": "p3-06",
+      "part": 3,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "W: Have you looked at the applications for the marketing assistant position?\nM: I've narrowed it down to three. One of them has five years of experience.\nW: That might be more than we budgeted for.\nM: True, but she said salary is negotiable.",
+      "question": "What is the woman concerned about?",
+      "passage": "W: Have you looked at the applications for the marketing assistant position?\nM: I've narrowed it down to three. One of them has five years of experience.\nW: That might be more than we budgeted for.\nM: True, but she said salary is negotiable.",
+      "options": [
+        "The number of applicants",
+        "The candidate's salary expectations",
+        "The interview schedule",
+        "The job description"
+      ],
+      "answer": 1,
+      "zh": "女方說 That might be more than we budgeted for（可能超出預算），指的是那位有五年經驗的應徵者要求的薪水，因此她擔心的是薪資期待。「The number of applicants」錯誤：男方已篩到三位，她沒有對人數表達意見。「The interview schedule」與「The job description」對話中完全沒提。",
+      "tip": "budgeted for／salary 一起出現，答案多半跟薪資有關。"
+    },
+    {
+      "id": "p4-01",
+      "part": 4,
+      "kind": "listen",
+      "cat": "機場",
+      "audio": "Attention passengers on Flight 782 to Vancouver. Due to heavy fog at the departure airport, boarding has been delayed by approximately forty minutes. We now expect to begin boarding at Gate 12 at 4:20 p.m. Passengers traveling with small children may wait in the family area near the gate. If you are connecting to a domestic flight in Vancouver, please speak with a representative at the service desk so we can note your itinerary. We apologize for the inconvenience and will make another announcement as soon as the crew is ready.",
+      "question": "What is the reason for the delay?",
+      "passage": "Attention passengers on Flight 782 to Vancouver. Due to heavy fog at the departure airport, boarding has been delayed by approximately forty minutes. We now expect to begin boarding at Gate 12 at 4:20 p.m. Passengers traveling with small children may wait in the family area near the gate. If you are connecting to a domestic flight in Vancouver, please speak with a representative at the service desk so we can note your itinerary. We apologize for the inconvenience and will make another announcement as soon as the crew is ready.",
+      "options": [
+        "A mechanical problem",
+        "A crew shortage",
+        "A security check",
+        "Foggy weather"
+      ],
+      "answer": 3,
+      "zh": "第二句 Due to heavy fog at the departure airport 直接說明延誤原因是濃霧。「A mechanical problem」與「A security check」在廣播中都沒有出現。「A crew shortage」是陷阱：廣播最後只說 as soon as the crew is ready（等機組員準備好就再廣播），並沒有說人手不足。",
+      "tip": "Due to／because of 後面就是原因，聽到就畫線。"
+    },
+    {
+      "id": "p4-02",
+      "part": 4,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "This is a reminder from the facilities office. The air-conditioning system in Building C will be serviced this Saturday from 8 a.m. to 2 p.m. During that time the building will stay open, but temperatures on the upper floors may rise. Employees who plan to work that day should use the desks on the ground floor, where portable fans have been installed. Please move any sensitive equipment away from the vents before Friday evening. Restrooms on all floors will remain open throughout the day. If you have questions, contact facilities at extension 4702.",
+      "question": "What should employees do before Friday evening?",
+      "passage": "This is a reminder from the facilities office. The air-conditioning system in Building C will be serviced this Saturday from 8 a.m. to 2 p.m. During that time the building will stay open, but temperatures on the upper floors may rise. Employees who plan to work that day should use the desks on the ground floor, where portable fans have been installed. Please move any sensitive equipment away from the vents before Friday evening. Restrooms on all floors will remain open throughout the day. If you have questions, contact facilities at extension 4702.",
+      "options": [
+        "Take their laptops home",
+        "Move sensitive equipment away from the vents",
+        "Reserve a desk on the ground floor",
+        "Call extension 4702"
+      ],
+      "answer": 1,
+      "zh": "倒數第二句 Please move any sensitive equipment away from the vents before Friday evening 就是周五傍晚前該做的事。「Take their laptops home」沒提到。「Reserve a desk on the ground floor」錯誤：廣播只說可改用一樓座位，並沒有要求預約。「Call extension 4702」是回答「有問題時」才做的動作，不是期限前的規定。",
+      "tip": "before + 時間 出現時，前一句通常就是該完成的動作。"
+    },
+    {
+      "id": "p4-03",
+      "part": 4,
+      "kind": "listen",
+      "cat": "展場",
+      "audio": "Welcome to the Riverside Science Center. Before we begin, a few notes. Photography is allowed everywhere except the special exhibition on the second floor. Our tour lasts about ninety minutes, and we will finish at the cafe on the ground floor, where your ticket includes a free drink. If you need to leave early, please take the stairs rather than the elevator, since the elevator is reserved for visitors with limited mobility. Restrooms are located just behind the ticket counter. Now please stay together as we move into the first gallery, the Hall of Light.",
+      "question": "Where will the tour end?",
+      "passage": "Welcome to the Riverside Science Center. Before we begin, a few notes. Photography is allowed everywhere except the special exhibition on the second floor. Our tour lasts about ninety minutes, and we will finish at the cafe on the ground floor, where your ticket includes a free drink. If you need to leave early, please take the stairs rather than the elevator, since the elevator is reserved for visitors with limited mobility. Restrooms are located just behind the ticket counter. Now please stay together as we move into the first gallery, the Hall of Light.",
+      "options": [
+        "In the Hall of Light",
+        "On the second floor",
+        "At the cafe on the ground floor",
+        "At the main entrance"
+      ],
+      "answer": 2,
+      "zh": "導覽員說 we will finish at the cafe on the ground floor，finish 即導覽結束地點，門票還含一杯免費飲料。「In the Hall of Light」是接下來要去的『第一個展廳』，不是終點。「On the second floor」是特展所在樓層，與結束地點無關。「At the main entrance」整段沒提到。",
+      "tip": "finish／end at... 才是終點；first gallery 只是下一站。"
+    },
+    {
+      "id": "p4-04",
+      "part": 4,
+      "kind": "listen",
+      "cat": "飯店",
+      "audio": "Thank you for calling the Harbor View Hotel. Our front desk is currently assisting other guests, so please choose from the following options. For reservations, press one. For room service, press two. To reach the business center, press three. If you are calling about an item you left in your room, press four and leave your name and the date of your stay; our housekeeping team will return your call within one business day. Please note that our restaurant stops serving at ten o'clock. For all other inquiries, please hold and a receptionist will be with you shortly.",
+      "question": "What should a guest do to report a lost item?",
+      "passage": "Thank you for calling the Harbor View Hotel. Our front desk is currently assisting other guests, so please choose from the following options. For reservations, press one. For room service, press two. To reach the business center, press three. If you are calling about an item you left in your room, press four and leave your name and the date of your stay; our housekeeping team will return your call within one business day. Please note that our restaurant stops serving at ten o'clock. For all other inquiries, please hold and a receptionist will be with you shortly.",
+      "options": [
+        "Press two",
+        "Hold for a receptionist",
+        "Visit the business center",
+        "Press four and leave details"
+      ],
+      "answer": 3,
+      "zh": "語音說明：若想詢問留在房間裡的物品（an item you left in your room），請按四並留下姓名與住宿日期，房務部會在一個工作天內回電，故選按四。「Press two」是客房送餐。「Visit the business center」是按三的業務中心，與失物無關。「Hold for a receptionist」是『其他所有問題』才按的選項，不是失物的正確流程。",
+      "tip": "電話語音題先鎖定 if you are calling about... 的條件句。"
+    },
+    {
+      "id": "p4-05",
+      "part": 4,
+      "kind": "listen",
+      "cat": "辦公室",
+      "audio": "Good morning, everyone. This is Priya from human resources. As you know, we are switching to a new expense system next month. Starting March 3, all travel receipts must be uploaded within ten days of your return, not thirty as before. The finance team will run a training session this Thursday at 2 p.m. in the auditorium; attendance is optional but strongly recommended for anyone who travels for work. A recording will be posted on the staff intranet by Friday. Managers should remind their teams to complete the training. Please send questions to the expense help desk.",
+      "question": "What is the main change to the expense system?",
+      "passage": "Good morning, everyone. This is Priya from human resources. As you know, we are switching to a new expense system next month. Starting March 3, all travel receipts must be uploaded within ten days of your return, not thirty as before. The finance team will run a training session this Thursday at 2 p.m. in the auditorium; attendance is optional but strongly recommended for anyone who travels for work. A recording will be posted on the staff intranet by Friday. Managers should remind their teams to complete the training. Please send questions to the expense help desk.",
+      "options": [
+        "Receipts must be uploaded sooner",
+        "Travel must be approved in advance",
+        "The system will cost more",
+        "Paper forms are no longer accepted"
+      ],
+      "answer": 0,
+      "zh": "講者說 all travel receipts must be uploaded within ten days of your return, not thirty as before，上傳期限從三十天縮短為十天，所以主要改變是收據要更早交。「Travel must be approved in advance」沒提到核准流程。「The system will cost more」完全沒提費用。「Paper forms are no longer accepted」是過度推論：只說要上傳收據，沒說紙本停收。",
+      "tip": "not ... as before 這種對比句，就是考點所在。"
+    },
+    {
+      "id": "p4-06",
+      "part": 4,
+      "kind": "listen",
+      "cat": "展場",
+      "audio": "Good afternoon, and welcome to the Westside Home Show. The exhibition hall closes at six o'clock, and the last demonstration of the day, on energy-saving windows, begins in fifteen minutes at booth 214. Visitors who collect stamps from all twelve showrooms can exchange their card for a gift bag at the information desk near the main entrance. Parking is validated for the first two hours, so please bring your ticket to the desk before you leave. Restrooms and a coat check are located near the main entrance, and a map of the hall is available at every entrance. We hope you enjoy the show.",
+      "question": "What can visitors receive after collecting stamps from all twelve showrooms?",
+      "passage": "Good afternoon, and welcome to the Westside Home Show. The exhibition hall closes at six o'clock, and the last demonstration of the day, on energy-saving windows, begins in fifteen minutes at booth 214. Visitors who collect stamps from all twelve showrooms can exchange their card for a gift bag at the information desk near the main entrance. Parking is validated for the first two hours, so please bring your ticket to the desk before you leave. Restrooms and a coat check are located near the main entrance, and a map of the hall is available at every entrance. We hope you enjoy the show.",
+      "options": [
+        "A free lunch",
+        "A discount on windows",
+        "A parking space",
+        "A gift bag"
+      ],
+      "answer": 3,
+      "zh": "廣播說 Visitors who collect stamps from all twelve showrooms can exchange their card for a gift bag，集滿十二個展間印章就能換一個禮物袋。「A discount on windows」錯誤：節能窗只是最後一場示範的主題，沒有折扣。「A parking space」錯誤：前兩小時停車可折抵，但不是集章換來的。「A free lunch」整段沒提到。",
+      "tip": "who collect... can exchange... 這種條件句就是答案句。"
+    }
+  ]
+}
