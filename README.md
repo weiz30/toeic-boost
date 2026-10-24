@@ -11,6 +11,12 @@
 - 今日課表（五格）、單字卡熟練度分級、Part 分項正確率、5 分鐘 10 題計時模考與弱點分析。
 - 學習進度存在瀏覽器 `localStorage`，不上傳、不需登入。
 
+## 線上網址
+
+**https://toeic-boost.weiz30.workers.dev**
+
+Repo：https://github.com/weiz30/toeic-boost
+
 ## 本機預覽
 
 ```bash
@@ -28,8 +34,7 @@ npx wrangler login          # 只需一次
 npx wrangler deploy         # 讀 wrangler.jsonc，把 public/ 當靜態資產上傳
 ```
 
-Worker 名稱是 `toeic-boost`，部署後網址：
-`https://toeic-boost.<你的 workers.dev 子網域>.workers.dev`
+Worker 名稱是 `toeic-boost`，帳號 ID `2259832f71636dfcfad4aa9a1d61979d`（weiz30@gmail.com）。
 
 ## 自動部署（push 就上線）
 
