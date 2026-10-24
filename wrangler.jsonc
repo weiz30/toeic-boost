@@ -1,11 +1,19 @@
 {
   "$schema": "https://unpkg.com/wrangler/config-schema.json",
   "name": "toeic-boost",
+  "main": "worker/index.js",
   "compatibility_date": "2026-10-24",
   "assets": {
-    "directory": "./public"
+    "directory": "./public",
+    "binding": "ASSETS",
+    "run_worker_first": ["/api/*"]
   },
-  "observability": {
-    "enabled": true
-  }
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "toeic-boost-db",
+      "database_id": "b837198e-c28e-4005-b42a-47bfbebe07c2"
+    }
+  ],
+  "observability": { "enabled": true }
 }

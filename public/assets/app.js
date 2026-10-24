@@ -76,6 +76,7 @@ function loadState() {
 }
 function saveState() {
   try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { console.warn('儲存失敗', e); }
+  if (typeof schedulePush === 'function') schedulePush();
 }
 function touchDay() {
   const d = todayISO();
@@ -209,6 +210,8 @@ function gradeWord(word, grade) {
     r.box = clamp((r.box || 0) + 2, 0, 5);
     r.due = isoPlus(INTERVALS[r.box]);
   }
+  if (grade === 'again') wrongAdd(word);
+  else if (grade === 'good' || grade === 'easy') wrongSoften(word);
   saveState();
   return r;
 }
@@ -367,6 +370,7 @@ function markWord(known) {
     r.due = isoPlus(INTERVALS[r.box]);
   }
   r.last = todayISO();
+  if (!known) wrongAdd(it.word);
   touchDay();
   saveState();
   renderToday();
@@ -927,3 +931,298 @@ async function init() {
 }
 
 document.addEventListener('DOMContentLoaded', init);
+
+/* =========================================================================
+   帳號 / 雲端同步 / 錯題本 / 留言板 / 管理介面
+   ========================================================================= */
+const AUTH = { token: localStorage.getItem('tb_token') || '', user: null };
+const SYNC = { timer: null, paused: false };
+
+async function apiFetch(path, { method = 'GET', body, auth = true } = {}) {
+  const headers = { 'content-type': 'application/json' };
+  if (auth !== false && AUTH.token) headers.authorization = 'Bearer ' + AUTH.token;
+  const res = await fetch(path, { method, headers, body: body ? JSON.stringify(body) : undefined });
+  let data = {};
+  try { data = await res.json(); } catch (e) { data = {}; }
+  if (!res.ok) throw new Error(data.error || ('HTTP ' + res.status));
+  return data;
+}
+
+const progressPayload = () => ({
+  srs: state.srs || {}, dayDone: state.dayDone || {}, curDay: state.curDay || 1,
+  partStats: state.partStats || {}, exams: state.exams || [], wrong: state.wrong || {},
+  streak: state.streak || {},
+});
+
+function applyProgress(p) {
+  if (!p) return;
+  SYNC.paused = true;
+  if (p.srs) state.srs = p.srs;
+  if (p.dayDone) state.dayDone = p.dayDone;
+  if (p.curDay) state.curDay = p.curDay;
+  if (p.partStats) state.partStats = p.partStats;
+  if (p.exams) state.exams = p.exams;
+  state.wrong = p.wrong || state.wrong || {};
+  if (p.streak) state.streak = p.streak;
+  try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) {}
+  SYNC.paused = false;
+  renderToday(); renderStats(); renderMap(); renderPartTabs(); renderWrong();
+}
+
+function schedulePush() {
+  if (SYNC.paused || !AUTH.token) return;
+  clearTimeout(SYNC.timer);
+  SYNC.timer = setTimeout(() => { syncUp().catch(() => {}); }, 2500);
+}
+
+async function syncUp() {
+  if (!AUTH.token) return;
+  const r = await apiFetch('/api/progress', { method: 'PUT', body: progressPayload() });
+  if (r.progress) applyProgress(r.progress);
+}
+
+/* ---------------- 錯題本 ---------------- */
+function wrongAdd(word) {
+  state.wrong ||= {};
+  const k = String(word).toLowerCase();
+  const cur = state.wrong[k] || { n: 0, last: '' };
+  state.wrong[k] = { n: (cur.n || 0) + 1, last: todayISO() };
+  renderWrong();
+}
+function wrongSoften(word) {
+  state.wrong ||= {};
+  const k = String(word).toLowerCase();
+  const cur = state.wrong[k];
+  if (!cur) return;
+  cur.n = (cur.n || 0) - 1;
+  if (cur.n <= 0) delete state.wrong[k];
+  renderWrong();
+}
+function wrongSorted() {
+  state.wrong ||= {};
+  return Object.entries(state.wrong)
+    .map(([w, r]) => ({ w, n: r.n || 1, last: r.last || '', info: lookup(w) }))
+    .filter((x) => x.info)
+    .sort((a, b) => b.n - a.n || String(b.last).localeCompare(String(a.last)));
+}
+function renderWrong() {
+  const el = $('#wrongList');
+  if (!el) return;
+  const items = wrongSorted();
+  const c = $('#wrongCount');
+  if (c) c.textContent = items.length;
+  el.innerHTML = items.length
+    ? items.map((x) => `<div class="wrongitem">
+        <div>
+          <b>${esc(x.info.item.word)}</b> <span class="muted">${esc(x.info.item.zh || '')}</span>
+          <div class="muted small">第 ${x.info.day || '—'} 天 · 錯 ${x.n} 次${x.last ? ' · 最後 ' + esc(x.last) : ''}</div>
+        </div>
+        <div class="wrongitem__btns">
+          <button class="btn btn--line btn--sm" data-say="${esc(x.info.item.word)}" aria-label="發音">🔊</button>
+          <button class="btn btn--mint btn--sm" data-ok="${esc(x.info.item.word)}">已記住</button>
+        </div>
+      </div>`).join('')
+    : '<p class="empty">還沒有錯題。答錯或按「不熟」就會自動記錄在這裡。</p>';
+}
+function practiceWrong() {
+  const words = wrongSorted().map((x) => x.w);
+  if (!words.length) return toast('目前沒有錯題，先去練今天的課');
+  review.queue = words.slice(0, 60);
+  review.i = 0; review.shown = false; review.stats = { again: 0, hard: 0, good: 0, easy: 0 };
+  $('#reviewEmpty').hidden = true; $('#reviewDone').hidden = true; $('#reviewRun').hidden = false;
+  renderReview();
+  $('#review').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  toast(`開始練 ${review.queue.length} 個容易錯的字`);
+}
+
+/* ---------------- 帳號介面 ---------------- */
+function renderAuth() {
+  const box = $('#authBox');
+  if (!box) return;
+  if (AUTH.user) {
+    box.innerHTML = `<span class="pill pill--user">👤 ${esc(AUTH.user.username)}</span>
+      <button class="btn btn--ghost btn--sm" id="logoutBtn">登出</button>`;
+    $('#logoutBtn').addEventListener('click', doLogout);
+    const navA = $('#navAdmin'); if (navA) navA.hidden = !AUTH.user.isAdmin;
+    const sec = $('#admin'); if (sec) sec.hidden = !AUTH.user.isAdmin;
+    if (AUTH.user.isAdmin) renderAdmin().catch(() => {});
+  } else {
+    box.innerHTML = '<button class="btn btn--sm btn--line" id="openAuth">登入 / 註冊</button>';
+    $('#openAuth').addEventListener('click', () => openAuth('login'));
+    const navA = $('#navAdmin'); if (navA) navA.hidden = true;
+    const sec = $('#admin'); if (sec) sec.hidden = true;
+  }
+  const hint = $('#boardHint');
+  if (hint) hint.textContent = AUTH.user ? `以 ${AUTH.user.username} 的身分留言` : '登入後才能留言';
+}
+
+function openAuth(mode = 'login') {
+  const m = $('#authModal');
+  if (!m) return;
+  m.hidden = false;
+  AUTH.mode = mode;
+  $$('#authModal .chip').forEach((b) => b.setAttribute('aria-selected', String(b.dataset.auth === mode)));
+  $('#authSubmit').textContent = mode === 'login' ? '登入' : '建立帳號';
+  $('#authPass').setAttribute('autocomplete', mode === 'login' ? 'current-password' : 'new-password');
+  $('#authErr').hidden = true;
+  setTimeout(() => $('#authUser').focus(), 50);
+}
+function closeAuth() { const m = $('#authModal'); if (m) m.hidden = true; }
+
+async function doAuthSubmit(e) {
+  e.preventDefault();
+  const username = $('#authUser').value.trim();
+  const password = $('#authPass').value;
+  const err = $('#authErr');
+  const btn = $('#authSubmit');
+  err.hidden = true; btn.disabled = true;
+  try {
+    const r = await apiFetch('/api/' + (AUTH.mode === 'register' ? 'register' : 'login'),
+      { method: 'POST', body: { username, password }, auth: false });
+    AUTH.token = r.token; AUTH.user = r.user;
+    localStorage.setItem('tb_token', r.token);
+    // 把本機進度推上去（伺服器會合併），再用合併結果覆蓋
+    const merged = await apiFetch('/api/progress', { method: 'PUT', body: progressPayload() });
+    applyProgress(merged.progress);
+    closeAuth();
+    renderAuth();
+    renderBoard().catch(() => {});
+    toast(`歡迎，${AUTH.user.username}！進度已同步到雲端`);
+    $('#authPass').value = '';
+  } catch (ex) {
+    err.textContent = ex.message;
+    err.hidden = false;
+  } finally { btn.disabled = false; }
+}
+
+async function doLogout() {
+  try { await apiFetch('/api/logout', { method: 'POST' }); } catch (e) {}
+  AUTH.token = ''; AUTH.user = null;
+  localStorage.removeItem('tb_token');
+  renderAuth();
+  toast('已登出，進度仍保留在這台裝置');
+}
+
+async function bootstrapAuth() {
+  state.wrong ||= {};
+  if (!AUTH.token) { renderAuth(); renderWrong(); return; }
+  try {
+    const me = await apiFetch('/api/me');
+    AUTH.user = me.user;
+    const merged = await apiFetch('/api/progress', { method: 'PUT', body: progressPayload() });
+    applyProgress(merged.progress);
+  } catch (e) {
+    AUTH.token = ''; localStorage.removeItem('tb_token'); AUTH.user = null;
+  }
+  renderAuth(); renderWrong();
+}
+
+/* ---------------- 留言板 ---------------- */
+async function renderBoard() {
+  const list = $('#boardList');
+  if (!list) return;
+  let data = { messages: [] };
+  try { data = await apiFetch('/api/messages', { auth: false }); } catch (e) { return; }
+  const isAdmin = !!AUTH.user?.isAdmin;
+  list.innerHTML = (data.messages || []).length
+    ? data.messages.map((m) => `<article class="msg">
+        <header><b>${esc(m.username)}</b><time>${esc(m.created_at)}</time></header>
+        <p>${esc(m.body)}</p>
+        ${m.admin_reply ? `<div class="msg__reply"><b>管理者回覆</b><p>${esc(m.admin_reply)}</p><time>${esc(m.replied_at || '')}</time></div>` : ''}
+        ${isAdmin && !m.admin_reply ? `<button class="btn btn--line btn--sm" data-reply="${m.id}">回覆</button>` : ''}
+      </article>`).join('')
+    : '<p class="empty">還沒有人留言。有問題就問吧。</p>';
+  if (isAdmin) {
+    $$('#boardList [data-reply]').forEach((b) => b.addEventListener('click', async () => {
+      const text = prompt('回覆內容：');
+      if (!text) return;
+      try {
+        await apiFetch('/api/admin/reply', { method: 'POST', body: { id: +b.dataset.reply, reply: text } });
+        toast('已回覆'); renderBoard(); renderAdmin().catch(() => {});
+      } catch (e) { toast('回覆失敗：' + e.message); }
+    }));
+  }
+  const adminPending = $('#adminPending');
+  if (adminPending) {
+    const pend = (data.messages || []).filter((m) => !m.admin_reply);
+    adminPending.innerHTML = pend.length
+      ? pend.slice(0, 8).map((m) => `<div class="pend"><b>${esc(m.username)}</b>：${esc(m.body.slice(0, 60))}
+          <button class="btn btn--line btn--sm" data-reply="${m.id}">回覆</button></div>`).join('')
+      : '<p class="empty">沒有待回覆的留言。</p>';
+    $$('#adminPending [data-reply]').forEach((b) => b.addEventListener('click', async () => {
+      const text = prompt('回覆內容：');
+      if (!text) return;
+      try { await apiFetch('/api/admin/reply', { method: 'POST', body: { id: +b.dataset.reply, reply: text } }); toast('已回覆'); renderBoard(); renderAdmin(); } catch (e) { toast('回覆失敗'); }
+    }));
+  }
+}
+
+async function submitBoard(e) {
+  e.preventDefault();
+  const input = $('#boardInput');
+  const body = input.value.trim();
+  if (!AUTH.token) { openAuth('login'); return; }
+  if (body.length < 2) return toast('留言太短了');
+  try {
+    await apiFetch('/api/messages', { method: 'POST', body: { body } });
+    input.value = '';
+    toast('留言已送出');
+    renderBoard();
+  } catch (ex) { toast('留言失敗：' + ex.message); }
+}
+
+/* ---------------- 管理介面 ---------------- */
+async function renderAdmin() {
+  if (!AUTH.user?.isAdmin) return;
+  const sec = $('#admin');
+  if (!sec || sec.hidden) return;
+  try {
+    const s = await apiFetch('/api/admin/stats');
+    $('#adminStats').innerHTML = `
+      <div class="stat"><span>學習者總數</span><b>${s.users}</b><small>人</small></div>
+      <div class="stat"><span>近 7 日活躍</span><b>${s.active7d}</b><small>人</small></div>
+      <div class="stat"><span>平均已學單字</span><b>${s.avgLearned}</b><small>字</small></div>
+      <div class="stat"><span>留言 / 待回覆</span><b>${s.messages}/${s.pending}</b><small>則</small></div>
+      <div class="stat"><span>全站錯題</span><b>${s.wrongTotal}</b><small>筆</small></div>`;
+    $('#adminTopWrong').innerHTML = (s.topWrong || []).length
+      ? s.topWrong.map((x) => `<li><b>${esc(x.word)}</b> <span>${x.n} 次</span></li>`).join('')
+      : '<li class="empty">還沒有資料</li>';
+
+    const u = await apiFetch('/api/admin/users');
+    $('#adminUsers').innerHTML = `<thead><tr><th>帳號</th><th>已學</th><th>完成天數</th><th>錯題</th><th>正確率</th><th>最後上線</th><th>註冊</th></tr></thead>
+      <tbody>${(u.users || []).map((x) => `<tr>
+        <td><b>${esc(x.username)}</b>${x.id === AUTH.user.id ? ' <span class="tag tag--level">我</span>' : ''}</td>
+        <td>${x.learned}</td><td>${x.daysDone}</td><td>${x.wrong}</td>
+        <td>${x.accuracy == null ? '—' : x.accuracy + '%'}</td>
+        <td>${esc(x.lastSeen || '—')}</td><td>${esc(x.created || '')}</td></tr>`).join('')}</tbody>`;
+    renderBoard();
+  } catch (e) {
+    $('#adminStats').innerHTML = `<p class="empty">載入失敗：${esc(e.message)}</p>`;
+  }
+}
+
+/* ---------------- 綁事件 + 啟動 ---------------- */
+function bindAccountUI() {
+  $('#openAuth')?.addEventListener('click', () => openAuth('login'));
+  $('#authClose')?.addEventListener('click', closeAuth);
+  $('#authModal')?.addEventListener('click', (e) => { if (e.target.id === 'authModal') closeAuth(); });
+  $$('#authModal .chip').forEach((b) => b.addEventListener('click', () => openAuth(b.dataset.auth)));
+  $('#authForm')?.addEventListener('submit', doAuthSubmit);
+  $('#boardForm')?.addEventListener('submit', submitBoard);
+  $('#wrongPractice')?.addEventListener('click', practiceWrong);
+  $('#wrongClear')?.addEventListener('click', () => {
+    if (!confirm('清空錯題本？（不影響已學進度）')) return;
+    state.wrong = {}; saveState(); renderWrong(); toast('錯題本已清空');
+  });
+  $('#wrongList')?.addEventListener('click', (e) => {
+    const say = e.target.closest('[data-say]');
+    if (say) return sayExternal(say.dataset.say);
+    const ok = e.target.closest('[data-ok]');
+    if (ok) { wrongSoften(ok.dataset.ok); gradeWord(ok.dataset.ok, 'good'); toast('已記錄：記住了'); }
+  });
+  if (AUTH.token) renderBoard().catch(() => {});
+}
+
+document.addEventListener('DOMContentLoaded', () => {
+  setTimeout(() => { bindAccountUI(); bootstrapAuth(); }, 0);
+});

@@ -1,0 +1,2 @@
+INSERT INTO users (username, pass_hash, is_admin) VALUES ('admin', 'pbkdf2$100000$8ec7d5f3e1d00130a883cd906c891669$d953779f82adb31ca01b165943dbade075a04450f84da4ac38966a9b8c9c3778', 1) ON CONFLICT(username) DO UPDATE SET is_admin=1, pass_hash='pbkdf2$100000$8ec7d5f3e1d00130a883cd906c891669$d953779f82adb31ca01b165943dbade075a04450f84da4ac38966a9b8c9c3778';
+INSERT INTO progress (user_id) SELECT id FROM users WHERE username='admin' ON CONFLICT(user_id) DO NOTHING;
