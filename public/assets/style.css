@@ -56,7 +56,11 @@ kbd{
   background:var(--ink);color:var(--paper);overflow:hidden;
   border-bottom:var(--line);font-size:13px;letter-spacing:.06em;
 }
-.ticker__track{display:flex;gap:40px;white-space:nowrap;padding:6px 0;will-change:transform;animation:slide 120s linear infinite}
+.ticker__track{
+  display:flex;gap:40px;white-space:nowrap;padding:6px 0;will-change:transform;
+  animation:slide var(--ticker-dur,180s) linear infinite;
+}
+.ticker:hover .ticker__track,.ticker:focus-within .ticker__track{animation-play-state:paused}
 .ticker__track span{display:inline-flex;gap:8px;align-items:center}
 .ticker__track b{color:var(--lime)}
 .ticker__track i{color:var(--coral);font-style:normal}
@@ -444,5 +448,7 @@ kbd{
   .exam__facts b{font-size:26px}
 }
 @media (prefers-reduced-motion:reduce){
-  *{animation-duration:.001s !important;transition-duration:.001s !important}
+  /* 注意：不能用 animation-duration:.001s 全域覆蓋，跑馬燈會變成狂閃 */
+  .ticker__track,.wave i,.timer.is-low{animation:none !important}
+  *{transition-duration:.01s !important}
 }

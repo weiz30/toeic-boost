@@ -124,11 +124,14 @@ function renderTicker() {
   const bits = words.map((w) => `<span><b>${esc(w.w)}</b> <i>${esc(w.zh.split('；')[0])}</i></span>`).join('<span aria-hidden="true">·</span>');
   const track = $('#tickerTrack');
   track.innerHTML = bits + '<span aria-hidden="true">·</span>' + bits;
-  // 依實際寬度定速：固定每秒 38px，內容再長也不會變快
-  requestAnimationFrame(() => {
+  // 依實際寬度定速：一秒 22px（慢到可以看清楚），內容再長也不會變快
+  const retime = () => {
     const half = track.scrollWidth / 2;
-    if (half > 0) track.style.animationDuration = (half / 38).toFixed(1) + 's';
-  });
+    if (half > 0) track.style.setProperty('--ticker-dur', (half / 22).toFixed(1) + 's');
+  };
+  requestAnimationFrame(retime);
+  setTimeout(retime, 600);
+  window.addEventListener('resize', retime, { passive: true });
 }
 
 /* ------------------------------------------------------------------ 今日 */
