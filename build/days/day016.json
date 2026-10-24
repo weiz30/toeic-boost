@@ -1,0 +1,361 @@
+{
+ "day": 16,
+ "theme": "庫存與盤點",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "stockpile",
+   "ph": "/ˈstɑːkˌpaɪl/",
+   "pos": "n. 儲備 | v. 積存",
+   "zh": "儲備；囤積",
+   "colloc": "maintain a stockpile 維持儲備 | stockpile supplies 囤積物資",
+   "distinct": "inventory 庫存清單 | reserve 預備金",
+   "ex": [
+    [
+     "The company needs to stockpile raw materials.",
+     "公司需要囤積原材料。"
+    ],
+    [
+     "They built a large stockpile for emergencies.",
+     "他們為緊急狀況建立了大量儲備。"
+    ],
+    [
+     "We must not stockpile unnecessary office items.",
+     "我們絕不能囤積不必要的辦公用品。"
+    ]
+   ]
+  },
+  {
+   "word": "shortage",
+   "ph": "/ˈʃɔːrtɪdʒ/",
+   "pos": "n. 短缺",
+   "zh": "不足；短缺",
+   "colloc": "face a shortage 面臨短缺 | severe shortage 嚴重短缺",
+   "distinct": "deficit 赤字 | scarcity 匱乏",
+   "ex": [
+    [
+     "A sudden shortage delayed the production process.",
+     "突如其來的短缺延誤了生產流程。"
+    ],
+    [
+     "The warehouse reported a shortage of parts.",
+     "倉庫回報了零件短缺。"
+    ],
+    [
+     "There is a chronic shortage of supplies.",
+     "目前物資長期短缺。"
+    ]
+   ]
+  },
+  {
+   "word": "replenish",
+   "ph": "/rɪˈplenɪʃ/",
+   "pos": "v. 補充",
+   "zh": "補充；再裝滿",
+   "colloc": "replenish the stock 補充庫存 | replenish supplies 補充物資",
+   "distinct": "refill 再填滿 | supply 供應",
+   "ex": [
+    [
+     "We must replenish our stock before Monday.",
+     "我們必須在週一前補充庫存。"
+    ],
+    [
+     "The manager will replenish the office supplies.",
+     "經理將會補充辦公用品。"
+    ],
+    [
+     "They need to replenish their exhausted inventory.",
+     "他們需要補充耗盡的庫存。"
+    ]
+   ]
+  },
+  {
+   "word": "warehouse",
+   "ph": "/ˈwerˌhaʊs/",
+   "pos": "n. 倉庫",
+   "zh": "倉庫；貨棧",
+   "colloc": "warehouse manager 倉管經理 | store in a warehouse 儲存在倉庫",
+   "distinct": "storage 儲存空間 | depot 倉庫/站",
+   "ex": [
+    [
+     "The goods are arriving at the warehouse.",
+     "貨物即將抵達倉庫。"
+    ],
+    [
+     "Our warehouse is currently at full capacity.",
+     "我們的倉庫目前已滿載。"
+    ],
+    [
+     "He works as a warehouse supervisor today.",
+     "他今天擔任倉庫主管。"
+    ]
+   ]
+  },
+  {
+   "word": "pallet",
+   "ph": "/ˈpælət/",
+   "pos": "n. 棧板",
+   "zh": "貨物托盤；棧板",
+   "colloc": "load onto a pallet 裝上棧板 | wooden pallet 木製棧板",
+   "distinct": "shelf 架子 | platform 平台",
+   "ex": [
+    [
+     "The staff moved pallets to the loading area.",
+     "員工將棧板移至裝卸區。"
+    ],
+    [
+     "Please secure the boxes on the pallet.",
+     "請將箱子固定在棧板上。"
+    ],
+    [
+     "Twenty pallets were shipped this morning.",
+     "今天早上運送了二十個棧板。"
+    ]
+   ]
+  },
+  {
+   "word": "commodity",
+   "ph": "/kəˈmɑːdəti/",
+   "pos": "n. 商品",
+   "zh": "商品；貨物",
+   "colloc": "traded commodity 交易商品 | essential commodity 基本商品",
+   "distinct": "product 產品 | merchandise 貨物",
+   "ex": [
+    [
+     "The price of this commodity has increased.",
+     "這項商品的價格已經上漲。"
+    ],
+    [
+     "They export various commodities to overseas markets.",
+     "他們出口多種商品至海外市場。"
+    ],
+    [
+     "Market demand affects the commodity price index.",
+     "市場需求影響著商品價格指數。"
+    ]
+   ]
+  },
+  {
+   "word": "obsolete",
+   "ph": "/ˌɑːbsəˈliːt/",
+   "pos": "adj. 廢棄的 | 過時的",
+   "zh": "過時的；廢棄的",
+   "colloc": "become obsolete 變為過時 | obsolete equipment 過時設備",
+   "distinct": "outdated 老式的 | old 舊的",
+   "ex": [
+    [
+     "These parts have become completely obsolete.",
+     "這些零件已經完全過時了。"
+    ],
+    [
+     "The company replaces obsolete warehouse systems.",
+     "公司替換了過時的倉庫系統。"
+    ],
+    [
+     "New technology made the inventory manual obsolete.",
+     "新科技使得庫存手冊過時了。"
+    ]
+   ]
+  },
+  {
+   "word": "manual",
+   "ph": "/ˈmænjuəl/",
+   "pos": "n. 手冊 | adj. 手動的",
+   "zh": "手冊；手動的",
+   "colloc": "operations manual 操作手冊 | manual labor 人力勞動",
+   "distinct": "handbook 指南 | booklet 小冊子",
+   "ex": [
+    [
+     "Please read the inventory control manual carefully.",
+     "請仔細閱讀庫存控制手冊。"
+    ],
+    [
+     "The process is done by manual input.",
+     "此流程是透過手動輸入完成的。"
+    ],
+    [
+     "They updated the manual for new hires.",
+     "他們為新進人員更新了手冊。"
+    ]
+   ]
+  },
+  {
+   "word": "tracking",
+   "ph": "/ˈtrækɪŋ/",
+   "pos": "n. 追蹤",
+   "zh": "追蹤；跟蹤",
+   "colloc": "tracking number 追蹤編號 | keep tracking 持續追蹤",
+   "distinct": "trace 追溯 | monitor 監控",
+   "ex": [
+    [
+     "Use the tracking number for your shipment.",
+     "請使用您的貨運追蹤編號。"
+    ],
+    [
+     "Efficient tracking improves our inventory accuracy.",
+     "有效的追蹤提升了我們的庫存準確度。"
+    ],
+    [
+     "They implemented a new tracking software system.",
+     "他們實施了新的追蹤軟體系統。"
+    ]
+   ]
+  },
+  {
+   "word": "log",
+   "ph": "/lɔːɡ/",
+   "pos": "n. 日誌 | v. 紀錄",
+   "zh": "紀錄；日誌",
+   "colloc": "log the entry 紀錄入庫 | keep a log 保持紀錄",
+   "distinct": "record 紀錄 | register 登記",
+   "ex": [
+    [
+     "Staff must log every item entering stock.",
+     "員工必須紀錄每一件入庫的物品。"
+    ],
+    [
+     "We checked the digital log for errors.",
+     "我們檢查了數位日誌以找出錯誤。"
+    ],
+    [
+     "Every transaction is logged in the system.",
+     "每一筆交易都在系統中留有紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "disposal",
+   "ph": "/dɪˈspoʊzl/",
+   "pos": "n. 處理",
+   "zh": "處理；丟棄",
+   "colloc": "waste disposal 廢棄物處理 | safe disposal 安全處置",
+   "distinct": "removal 移除 | clearing 清理",
+   "ex": [
+    [
+     "The disposal of old items is scheduled.",
+     "舊物品的處理已排定時程。"
+    ],
+    [
+     "We follow guidelines for hazardous waste disposal.",
+     "我們遵循危險廢棄物處理準則。"
+    ],
+    [
+     "They need a plan for surplus disposal.",
+     "他們需要一個處理剩餘物品的計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "turnover",
+   "ph": "/ˈtɜːrnˌoʊvər/",
+   "pos": "n. 週轉率 | 人員流動率",
+   "zh": "週轉；流動率",
+   "colloc": "inventory turnover 庫存週轉率 | high turnover 高週轉率",
+   "distinct": "rotation 輪替 | flow 流動",
+   "ex": [
+    [
+     "Our high inventory turnover indicates strong sales.",
+     "我們的高庫存週轉率顯示銷售強勁。"
+    ],
+    [
+     "They are calculating the annual stock turnover.",
+     "他們正在計算年度庫存週轉率。"
+    ],
+    [
+     "Increasing turnover helps reduce storage costs.",
+     "提高週轉率有助於減少倉儲成本。"
+    ]
+   ]
+  },
+  {
+   "word": "scan",
+   "ph": "/skæn/",
+   "pos": "v. 掃描 | 瀏覽",
+   "zh": "掃描；瀏覽",
+   "colloc": "scan the barcode 掃描條碼 | scan through 瀏覽過",
+   "distinct": "read 閱讀 | copy 影印",
+   "ex": [
+    [
+     "Please scan all items before shipping out.",
+     "出貨前請掃描所有物品。"
+    ],
+    [
+     "The staff scanned the tags on crates.",
+     "員工掃描了貨箱上的標籤。"
+    ],
+    [
+     "He quickly scanned the report for figures.",
+     "他快速掃描了報告中的數字。"
+    ]
+   ]
+  },
+  {
+   "word": "reorder",
+   "ph": "/ˌriːˈɔːrdər/",
+   "pos": "v. 再訂購",
+   "zh": "再訂購；重新排序",
+   "colloc": "reorder point 再訂購點 | reorder items 再訂貨",
+   "distinct": "order 訂購 | purchase 購買",
+   "ex": [
+    [
+     "The system triggers an alert to reorder.",
+     "系統會觸發再訂購的警告。"
+    ],
+    [
+     "We need to reorder office paper supplies.",
+     "我們需要再訂購辦公室用紙。"
+    ],
+    [
+     "They reorder stock when levels are low.",
+     "當庫存量低時，他們會進行再訂購。"
+    ]
+   ]
+  },
+  {
+   "word": "allocation",
+   "ph": "/ˌæləˈkeɪʃn/",
+   "pos": "n. 配置",
+   "zh": "配置；分配",
+   "colloc": "resource allocation 資源配置 | budget allocation 預算分配",
+   "distinct": "distribution 分發 | portion 分配部分",
+   "ex": [
+    [
+     "Efficient allocation improves our warehouse capacity.",
+     "有效的配置改善了我們的倉儲容量。"
+    ],
+    [
+     "They adjusted the allocation of shipping costs.",
+     "他們調整了運費的配置。"
+    ],
+    [
+     "The manager reviewed the inventory allocation plan.",
+     "經理審閱了庫存配置計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "fragile",
+   "ph": "/ˈfrædʒl/",
+   "pos": "adj. 易碎的",
+   "zh": "易碎的；虛弱的",
+   "colloc": "fragile goods 易碎品 | handle with care 小心輕放",
+   "distinct": "breakable 可破裂的 | delicate 精緻的",
+   "ex": [
+    [
+     "Mark the packages containing fragile items.",
+     "標示那些含有易碎品的包裝。"
+    ],
+    [
+     "We use protective packaging for fragile goods.",
+     "我們為易碎品使用保護性包裝。"
+    ],
+    [
+     "Handle all fragile cargo with extra care.",
+     "請格外小心處理所有易碎貨物。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

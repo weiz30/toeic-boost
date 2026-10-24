@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>TOEIC BOOST｜多益衝刺站：每天 10 分鐘，把分數打上去</title>
-<meta name="description" content="免費多益教學網站：150 個職場高頻單字、Part 2–7 原創練習題、即時中文解析、5 分鐘計時模考與學習進度追蹤。" />
-<meta property="og:title" content="TOEIC BOOST｜多益衝刺站" />
-<meta property="og:description" content="每天 10 分鐘：單字卡、Part 2–7 練習、計時模考、弱點分析。" />
+<title>TOEIC BOOST｜多益 100 天 2000 單字：每天 20 字，遺忘曲線幫你記住</title>
+<meta name="description" content="免費多益教學網站：100 天 × 20 個多益單字（共 2000 字），每字 3 個中英對照例句、發音、搭配詞與辨析，內建遺忘曲線複習、Part 2–7 練習與計時模考。" />
+<meta property="og:title" content="TOEIC BOOST｜多益 100 天 2000 單字" />
+<meta property="og:description" content="每天 20 字 × 100 天，遺忘曲線自動排複習，附 Part 2–7 練習與計時模考。" />
 <meta property="og:type" content="website" />
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%2314140F'/><text x='50' y='72' font-size='62' font-weight='900' text-anchor='middle' fill='%23FFE14D' font-family='Arial'>T</text></svg>" />
 <link rel="stylesheet" href="assets/style.css" />
@@ -19,7 +19,6 @@
   </p>
 </noscript>
 
-<!-- 跑馬燈 -->
 <div class="ticker" aria-hidden="true">
   <div class="ticker__track" id="tickerTrack"></div>
 </div>
@@ -27,13 +26,14 @@
 <header class="topbar">
   <a class="brand" href="#top">
     <span class="brand__mark">T</span>
-    <span class="brand__txt">TOEIC <b>BOOST</b><small>多益衝刺站</small></span>
+    <span class="brand__txt">TOEIC <b>BOOST</b><small>100 天 · 2000 單字</small></span>
   </a>
   <nav class="nav" aria-label="主要導覽">
-    <a href="#today">今日課表</a>
-    <a href="#vocab">單字卡</a>
+    <a href="#today">今日課程</a>
+    <a href="#map">100 天地圖</a>
+    <a href="#review">遺忘曲線</a>
     <a href="#drills">Part 練習</a>
-    <a href="#exam">計時模考</a>
+    <a href="#exam">模考</a>
     <a href="#progress">我的進度</a>
   </nav>
   <div class="topbar__right">
@@ -49,20 +49,20 @@
   <!-- HERO -->
   <section class="hero">
     <div class="hero__copy">
-      <p class="eyebrow">多益聽力 ＋ 閱讀 · 每天 10 分鐘</p>
-      <h1>把多益分數<br /><span class="hl">打上去</span>。</h1>
+      <p class="eyebrow">多益聽力 ＋ 閱讀 · 每天 20 字 × 100 天</p>
+      <h1>每天 20 個字，<br /><span class="hl">100 天補齊</span>多益單字。</h1>
       <p class="lede">
-        150 個職場高頻單字、Part 2–7 原創練習題、每題都有中文解析。
-        不用報名、不用課本，打開就能練——你的進度自動存在這台裝置。
+        2000 個多益高頻字，每個字都有音標、詞性、3 組中英對照例句、常見搭配與易混淆字辨析。
+        學完不是結束——系統會按遺忘曲線（1、2、4、7、15、30 天）自動把字排回你面前。
       </p>
       <div class="hero__cta">
-        <button class="btn btn--primary" id="heroStart">開始今天的課 <span aria-hidden="true">→</span></button>
-        <a class="btn btn--line" href="#vocab">先翻單字卡</a>
+        <button class="btn btn--primary" id="heroStart">開始第 <span id="heroDay">1</span> 天 <span aria-hidden="true">→</span></button>
+        <button class="btn btn--coral" id="heroReview">複習 <span id="heroDue">0</span> 字</button>
       </div>
       <ul class="hero__meta">
-        <li><b>150</b> 職場單字</li>
-        <li><b>52</b> 題原創題</li>
-        <li><b>6</b> 個 Part 攻略</li>
+        <li><b>2000</b> 多益單字</li>
+        <li><b>100</b> 天課程</li>
+        <li><b>3</b> 例句／字</li>
         <li><b>0</b> 元</li>
       </ul>
     </div>
@@ -81,70 +81,164 @@
       </div>
       <ul class="scorecard__list" id="todayMini"></ul>
       <div class="scorecard__foot">
-        <div><span>題目正確率</span><b id="miniAcc">—</b></div>
-        <div><span>熟練單字</span><b id="miniVocab">0</b></div>
+        <div><span>已學單字</span><b id="miniLearned">0</b></div>
+        <div><span>待複習</span><b id="miniDue">0</b></div>
       </div>
     </aside>
   </section>
 
-  <!-- 今日課表 -->
+  <!-- 今日課程 -->
   <section class="section" id="today">
     <div class="section__head">
       <div>
-        <p class="kicker">DAILY PLAN</p>
-        <h2>今天的 10 分鐘課表</h2>
+        <p class="kicker">TODAY'S LESSON</p>
+        <h2 id="todayTitle">今天的 20 個字</h2>
       </div>
-      <p class="section__note">一天五格，全部做完就是完整一輪複習。進度每天自動歸零重算。</p>
-    </div>
-    <div class="plan" id="planGrid"></div>
-  </section>
-
-  <!-- 單字卡 -->
-  <section class="section" id="vocab">
-    <div class="section__head">
-      <div>
-        <p class="kicker">VOCABULARY</p>
-        <h2>職場單字卡</h2>
-      </div>
-      <p class="section__note">先聽發音、猜意思，再翻卡對答案。按「記得住」會把單字推進熟練池。</p>
+      <p class="section__note">一天 20 個字，先看字與例句，再按「記得住／不熟」把字送進複習排程。</p>
     </div>
 
-    <div class="toolbar">
-      <div class="chips" id="vocabCats" role="tablist" aria-label="單字分類"></div>
-      <div class="toolbar__right">
-        <span class="muted" id="vocabCount">—</span>
-        <button class="btn btn--sm btn--line" id="vocabReviewBtn">只練複習池</button>
-      </div>
-    </div>
-
-    <div class="flashzone">
-      <article class="flash" id="flashCard" tabindex="0" aria-live="polite">
-        <div class="flash__front">
-          <span class="flash__cat" id="flashCat">—</span>
-          <h3 class="flash__word" id="flashWord">—</h3>
-          <p class="flash__ph" id="flashPh"></p>
-          <button class="speak" id="flashSpeak" title="播放發音" aria-label="播放發音">🔊</button>
-          <p class="flash__hint">點卡片或按 <kbd>空白鍵</kbd> 看中文意思</p>
+    <div class="todaysplit">
+      <article class="todaycard">
+        <div class="todaycard__top">
+          <span class="todaycard__day">DAY <b id="todayNum">1</b></span>
+          <span class="tag tag--level" id="todayLevel">基礎 600–750</span>
         </div>
-        <div class="flash__back">
-          <span class="flash__cat" id="flashCatBack">—</span>
-          <p class="flash__zh" id="flashZh">—</p>
-          <p class="flash__ex" id="flashEx"></p>
-          <p class="flash__ezh" id="flashEzh"></p>
+        <h3 id="todayTheme">—</h3>
+        <ul class="wordchips" id="todayWords"></ul>
+        <div class="meter">
+          <div class="meter__bar"><i id="todayBar"></i></div>
+          <p class="muted">已學 <b id="todayDone">0</b> / 20　<span id="todayState">尚未開始</span></p>
+        </div>
+        <div class="todaycard__btns">
+          <button class="btn btn--primary" id="todayStart">開始今天的課</button>
+          <button class="btn btn--line" id="todayNext">跳到下一天 →</button>
         </div>
       </article>
 
-      <div class="flashside">
-        <div class="meter">
-          <div class="meter__bar"><i id="vocabBar"></i></div>
-          <p class="muted"><b id="vocabIdx">0</b> / <span id="vocabTotal">0</span>　熟練 <b id="vocabMastered">0</b></p>
-        </div>
-        <div class="flashside__btns">
-          <button class="btn btn--mint" id="vocabKnow">記得住 ✓</button>
-          <button class="btn btn--coral" id="vocabForget">再練一次 ↺</button>
-        </div>
-        <div class="miniStats" id="vocabStats"></div>
+      <aside class="reviewpeek">
+        <h3>遺忘曲線複習</h3>
+        <p class="reviewpeek__num"><b id="peekDue">0</b> 個字今天到期</p>
+        <ul class="schedlist" id="schedList"></ul>
+        <button class="btn btn--mint" id="peekStart">開始複習</button>
+      </aside>
+    </div>
+  </section>
+
+  <!-- 每日課程 -->
+  <section class="section" id="day" hidden>
+    <div class="section__head">
+      <div>
+        <p class="kicker" id="dayKicker">DAY 1</p>
+        <h2 id="dayTheme">—</h2>
       </div>
+      <p class="section__note" id="dayNote">—</p>
+    </div>
+
+    <div class="wordstage">
+      <article class="wordcard" id="wordCard">
+        <div class="wordcard__head">
+          <span class="wordcard__idx" id="wordIdx">1 / 20</span>
+          <span class="wordcard__cat" id="wordCat">—</span>
+        </div>
+        <h3 class="wordcard__word" id="wordText">—</h3>
+        <p class="wordcard__ph" id="wordPh"></p>
+        <div class="wordcard__pos" id="wordPos">—</div>
+        <button class="speak speak--inline" id="wordSpeak" aria-label="播放單字發音">🔊 聽發音</button>
+
+        <ol class="exlist" id="exList"></ol>
+
+        <div class="wordcard__meta">
+          <div><span>常見搭配</span><p id="wordColloc">—</p></div>
+          <div><span>辨析</span><p id="wordDistinct">—</p></div>
+          <div id="wordRootWrap" hidden><span>字根／字源</span><p id="wordRoot">—</p></div>
+        </div>
+      </article>
+
+      <aside class="wordside">
+        <div class="meter">
+          <div class="meter__bar"><i id="dayBar"></i></div>
+          <p class="muted">本日進度 <b id="dayPos">1</b> / 20</p>
+        </div>
+        <div class="wordside__btns">
+          <button class="btn btn--mint" id="wordKnow">記得住 ✓</button>
+          <button class="btn btn--coral" id="wordHazy">不熟 ↺</button>
+        </div>
+        <div class="wordside__nav">
+          <button class="btn btn--line btn--sm" id="wordPrev">← 上一個</button>
+          <button class="btn btn--line btn--sm" id="wordNext">下一個 →</button>
+        </div>
+        <div class="dots" id="wordDots"></div>
+        <button class="btn btn--primary" id="dayFinish">完成第 <span id="dayFinishNum">1</span> 天</button>
+        <p class="muted" id="dayDoneNote"></p>
+      </aside>
+    </div>
+  </section>
+
+  <!-- 100 天地圖 -->
+  <section class="section" id="map">
+    <div class="section__head">
+      <div>
+        <p class="kicker">100-DAY MAP</p>
+        <h2>100 天地圖</h2>
+      </div>
+      <p class="section__note">四階段：基礎 600–750 → 進階 750–850 → 高分 850–900 → 片語與總複習。點任一格跳到那一天的 20 個字。</p>
+    </div>
+
+    <div class="stagelegend" id="stageLegend"></div>
+    <div class="daygrid" id="dayGrid"></div>
+
+    <div class="searchwrap">
+      <label for="wordSearch">查單字在第幾天</label>
+      <input id="wordSearch" type="search" placeholder="輸入英文，例如 invoice、postpone…" autocomplete="off" />
+      <div class="searchresults" id="searchResults"></div>
+    </div>
+  </section>
+
+  <!-- 複習 -->
+  <section class="section section--ink" id="review">
+    <div class="section__head">
+      <div>
+        <p class="kicker kicker--light">SPACED REPETITION</p>
+        <h2>遺忘曲線複習</h2>
+      </div>
+      <p class="section__note">每答一次就往後推一個間隔（1 → 2 → 4 → 7 → 15 → 30 天）。忘記就回到 1 天。</p>
+    </div>
+
+    <div class="reviewbox" id="reviewBox">
+      <div class="review__empty" id="reviewEmpty">
+        <p class="review__icon" aria-hidden="true">✅</p>
+        <h3>今天沒有到期的字</h3>
+        <p class="muted" id="reviewEmptyNote">先去學新的 20 個字，明天它們就會回來找你。</p>
+        <button class="btn btn--accent btn--sm" id="reviewToToday">去今日課程</button>
+      </div>
+
+      <div class="review__run" id="reviewRun" hidden>
+        <div class="review__hud">
+          <span class="review__count"><b id="reviewPos">1</b>/<b id="reviewLen">0</b></span>
+          <span class="muted" id="reviewFrom">—</span>
+        </div>
+        <div class="review__card">
+          <h3 id="reviewWord">—</h3>
+          <p id="reviewPh" class="wordcard__ph"></p>
+          <button class="speak speak--inline" id="reviewSpeak" aria-label="播放發音">🔊 聽發音</button>
+          <div id="reviewAnswer" hidden>
+            <p class="review__pos" id="reviewPosText">—</p>
+            <ol class="exlist exlist--compact" id="reviewEx"></ol>
+            <p class="review__meta" id="reviewMeta"></p>
+          </div>
+        </div>
+        <div class="review__btns" id="reviewBtns">
+          <button class="btn btn--primary" id="reviewShow">看答案</button>
+        </div>
+        <div class="review__grade" id="reviewGrade" hidden>
+          <button class="btn btn--coral" data-grade="again">忘記了 <small>1 天</small></button>
+          <button class="btn btn--line" data-grade="hard">有點難 <small>延長</small></button>
+          <button class="btn btn--mint" data-grade="good">記得住 <small>進一階</small></button>
+          <button class="btn btn--accent" data-grade="easy">太簡單 <small>跳兩階</small></button>
+        </div>
+      </div>
+
+      <div class="review__done" id="reviewDone" hidden></div>
     </div>
   </section>
 
@@ -155,7 +249,7 @@
         <p class="kicker">PRACTICE</p>
         <h2>Part 2–7 分項練習</h2>
       </div>
-      <p class="section__note">選一個 Part 開始，作答後立刻看中文解析跟考點提示。</p>
+      <p class="section__note">單字之外，52 題原創題庫練題感：作答後立刻看中文解析與考點提示。</p>
     </div>
 
     <div class="parttabs" id="partTabs" role="tablist" aria-label="Part 選擇"></div>
@@ -262,19 +356,23 @@
         <ul class="examlist" id="examList"></ul>
       </div>
     </div>
+    <div class="panel" style="margin-top:20px">
+      <h3>單字學習曲線（各階段字數）</h3>
+      <div class="bars" id="srsBars"></div>
+    </div>
   </section>
 
 </main>
 
 <footer class="foot">
   <div>
-    <b>TOEIC BOOST</b> · 多益衝刺站
-    <p class="muted">單字與題目皆為原創教學內容，非官方試題。進度只存在你的瀏覽器，不會上傳。</p>
+    <b>TOEIC BOOST</b> · 多益 100 天 2000 單字
+    <p class="muted">單字、例句與題目為原創教學內容，非官方試題。進度只存在你的瀏覽器，不會上傳。</p>
   </div>
   <div class="foot__links">
-    <a href="#today">今日課表</a>
-    <a href="#drills">Part 練習</a>
-    <a href="#exam">模考</a>
+    <a href="#today">今日課程</a>
+    <a href="#map">100 天地圖</a>
+    <a href="#review">複習</a>
   </div>
 </footer>
 

@@ -1,0 +1,273 @@
+{
+ "day": 14,
+ "theme": "銀行往來",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "withdrawal",
+   "ph": "/wɪðˈdrɔːəl/",
+   "pos": "n. 提款；撤回",
+   "zh": "提款；撤回",
+   "colloc": "make a withdrawal 提款 | cash withdrawal 現金提款",
+   "distinct": "deposit 存款 | transfer 轉帳",
+   "ex": [
+    [
+     "Please complete a withdrawal slip at the counter.",
+     "請在櫃檯填寫一張提款單。"
+    ],
+    [
+     "The customer requested a large cash withdrawal today.",
+     "該客戶今天申請了一筆大額現金提款。"
+    ],
+    [
+     "Automatic withdrawal is available for your monthly bills.",
+     "您的每月帳單可透過自動扣款支付。"
+    ]
+   ]
+  },
+  {
+   "word": "deposit",
+   "ph": "/dɪˈpɒzɪt/",
+   "pos": "n. 存款；保證金 v. 存入",
+   "zh": "存款；保證金；存入",
+   "colloc": "direct deposit 直接存款 | security deposit 押金",
+   "distinct": "withdrawal 提款 | balance 餘額",
+   "ex": [
+    [
+     "You must deposit the check into your account.",
+     "您必須將支票存入您的帳戶。"
+    ],
+    [
+     "The bank requires a minimum deposit for savings.",
+     "銀行要求儲蓄帳戶有最低存款額。"
+    ],
+    [
+     "We received your security deposit for the lease.",
+     "我們已收到您的租約保證金。"
+    ]
+   ]
+  },
+  {
+   "word": "balance",
+   "ph": "/ˈbæləns/",
+   "pos": "n. 餘額；平衡 v. 使平衡",
+   "zh": "餘額；平衡",
+   "colloc": "account balance 帳戶餘額 | outstanding balance 未付餘額",
+   "distinct": "statement 結單 | interest 利息",
+   "ex": [
+    [
+     "Check your current account balance through our app.",
+     "透過我們的應用程式查詢帳戶餘額。"
+    ],
+    [
+     "The outstanding balance is due by next Friday.",
+     "未付餘額必須在下週五前繳清。"
+    ],
+    [
+     "She tried to balance her monthly personal expenses.",
+     "她試著平衡她每月的個人支出。"
+    ]
+   ]
+  },
+  {
+   "word": "interest",
+   "ph": "/ˈɪntrəst/",
+   "pos": "n. 利息；興趣",
+   "zh": "利息；興趣",
+   "colloc": "interest rate 利率 | compound interest 複利",
+   "distinct": "dividend 股息 | profit 利潤",
+   "ex": [
+    [
+     "The bank offers a competitive annual interest rate.",
+     "該銀行提供具競爭力的年利率。"
+    ],
+    [
+     "Interest is calculated based on your daily balance.",
+     "利息是根據您的每日餘額計算的。"
+    ],
+    [
+     "Higher savings rates attract more customer interest.",
+     "較高的儲蓄利率吸引更多客戶的興趣。"
+    ]
+   ]
+  },
+  {
+   "word": "loan",
+   "ph": "/ləʊn/",
+   "pos": "n. 貸款 v. 借出",
+   "zh": "貸款；借出",
+   "colloc": "apply for a loan 申請貸款 | mortgage loan 房屋貸款",
+   "distinct": "credit 信用 | debt 債務",
+   "ex": [
+    [
+     "He applied for a business loan last month.",
+     "他上個月申請了一筆商業貸款。"
+    ],
+    [
+     "The bank approved our application for a mortgage.",
+     "銀行核准了我們的房屋貸款申請。"
+    ],
+    [
+     "Interest rates on personal loans are rising steadily.",
+     "個人貸款的利率正在穩步上升。"
+    ]
+   ]
+  },
+  {
+   "word": "mortgage",
+   "ph": "/ˈmɔːɡɪdʒ/",
+   "pos": "n. 抵押貸款 v. 抵押",
+   "zh": "抵押貸款；抵押",
+   "colloc": "mortgage payment 房貸還款 | take out a mortgage 辦理房貸",
+   "distinct": "loan 一般貸款 | collateral 擔保品",
+   "ex": [
+    [
+     "Their monthly mortgage payment is quite high.",
+     "他們的每月房貸還款額相當高。"
+    ],
+    [
+     "She decided to take out a mortgage for the house.",
+     "她決定為這棟房子辦理抵押貸款。"
+    ],
+    [
+     "The bank will review your credit before approving.",
+     "銀行在核准前會審查您的信用狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "teller",
+   "ph": "/ˈtelər/",
+   "pos": "n. 銀行櫃員",
+   "zh": "銀行櫃員",
+   "colloc": "bank teller 銀行櫃員 | head teller 首席櫃員",
+   "distinct": "clerk 文員 | operator 接線生",
+   "ex": [
+    [
+     "The teller processed my deposit very quickly.",
+     "櫃員處理我的存款速度非常快。"
+    ],
+    [
+     "Ask the teller if you need a receipt.",
+     "如果你需要收據就詢問櫃員。"
+    ],
+    [
+     "A friendly teller assisted me with the form.",
+     "一位親切的櫃員協助我填寫表格。"
+    ]
+   ]
+  },
+  {
+   "word": "currency",
+   "ph": "/ˈkʌrənsi/",
+   "pos": "n. 貨幣；流通",
+   "zh": "貨幣；流通",
+   "colloc": "foreign currency 外幣 | exchange rate 匯率",
+   "distinct": "cash 現金 | fund 資金",
+   "ex": [
+    [
+     "You can exchange foreign currency at the counter.",
+     "您可以在櫃檯兌換外幣。"
+    ],
+    [
+     "The exchange rate depends on the global market.",
+     "匯率取決於全球市場的狀況。"
+    ],
+    [
+     "Always check the currency symbol before the transaction.",
+     "交易前請確認貨幣符號。"
+    ]
+   ]
+  },
+  {
+   "word": "check",
+   "ph": "/tʃek/",
+   "pos": "n. 支票；檢查 v. 核對",
+   "zh": "支票；檢查；核對",
+   "colloc": "personal check 個人支票 | traveler's check 旅行支票",
+   "distinct": "cheque 支票(英式拼法) | cash 現金",
+   "ex": [
+    [
+     "You must sign the check before cashing it.",
+     "您必須在兌現支票前簽名。"
+    ],
+    [
+     "We do not accept personal checks for payment.",
+     "我們不接受以個人支票付款。"
+    ],
+    [
+     "The manager needs to check the bank records.",
+     "經理需要核對銀行紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "collateral",
+   "ph": "/kəˈlætərəl/",
+   "pos": "n. 擔保品；抵押品",
+   "zh": "擔保品；抵押品",
+   "colloc": "require collateral 要求擔保 | offer collateral 提供抵押",
+   "distinct": "mortgage 房貸 | security 保證",
+   "ex": [
+    [
+     "The bank requires collateral for this large loan.",
+     "銀行要求這筆大額貸款需有擔保品。"
+    ],
+    [
+     "Property is commonly used as collateral for loans.",
+     "房地產常被用作貸款的抵押品。"
+    ],
+    [
+     "Do you have any collateral to support the application?",
+     "您有任何擔保品來支持這項申請嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "invest",
+   "ph": "/ɪnˈvest/",
+   "pos": "v. 投資",
+   "zh": "投資",
+   "colloc": "invest in stocks 投資股票 | long-term investment 長期投資",
+   "distinct": "save 儲蓄 | spend 花費",
+   "ex": [
+    [
+     "They decided to invest their capital in bonds.",
+     "他們決定將資金投資於債券。"
+    ],
+    [
+     "It is wise to invest in a diverse portfolio.",
+     "投資多元化的投資組合是很明智的。"
+    ],
+    [
+     "The firm will invest heavily in new technology.",
+     "該公司將大量投資於新技術。"
+    ]
+   ]
+  },
+  {
+   "word": "accountant",
+   "ph": "/əˈkaʊntənt/",
+   "pos": "n. 會計師",
+   "zh": "會計師",
+   "colloc": "certified accountant 認證會計師 | hire an accountant 聘請會計師",
+   "distinct": "auditor 審計員 | bookkeeper 記帳員",
+   "ex": [
+    [
+     "Our accountant prepared the quarterly financial reports.",
+     "我們的會計師準備了季度財務報告。"
+    ],
+    [
+     "Consult an accountant regarding your tax returns.",
+     "關於報稅事宜請諮詢會計師。"
+    ],
+    [
+     "The accountant reviewed all the ledger entries.",
+     "會計師檢視了所有的帳簿登錄。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

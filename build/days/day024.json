@@ -1,0 +1,383 @@
+{
+ "day": 24,
+ "theme": "飯店與住宿",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "accommodation",
+   "ph": "/əˌkɒməˈdeɪʃn/",
+   "pos": "n. 住宿；住所",
+   "zh": "住宿；住所",
+   "colloc": "temporary accommodation 臨時住所 | provide accommodation 提供住宿",
+   "distinct": "lodging 寄宿 | housing 房屋",
+   "ex": [
+    [
+     "The company provides temporary accommodation for staff.",
+     "公司為員工提供臨時住宿。"
+    ],
+    [
+     "Is your accommodation near the conference center?",
+     "您的住宿地點靠近會議中心嗎？"
+    ],
+    [
+     "We need to confirm the accommodation details.",
+     "我們需要確認住宿細節。"
+    ]
+   ]
+  },
+  {
+   "word": "amenity",
+   "ph": "/əˈmiːnəti/",
+   "pos": "n. 便利設施；生活設施",
+   "zh": "便利設施",
+   "colloc": "modern amenities 現代化設施 | hotel amenities 飯店設施",
+   "distinct": "facility 設備 | convenience 便利",
+   "ex": [
+    [
+     "The hotel offers various luxury amenities.",
+     "這家飯店提供多種豪華設施。"
+    ],
+    [
+     "Modern amenities make the stay comfortable.",
+     "現代化設施讓住宿更舒適。"
+    ],
+    [
+     "Please check the list of room amenities.",
+     "請查看客房設施清單。"
+    ]
+   ]
+  },
+  {
+   "word": "check-in",
+   "ph": "/ˈtʃek ɪn/",
+   "pos": "n. 辦理入住；登記",
+   "zh": "辦理入住",
+   "colloc": "check-in time 入住時間 | complete check-in 完成登記",
+   "distinct": "check-out 退房 | registration 註冊",
+   "ex": [
+    [
+     "Guests must complete check-in by noon.",
+     "房客必須在中午前辦理入住。"
+    ],
+    [
+     "Our check-in procedure is very efficient.",
+     "我們的入住流程非常有效率。"
+    ],
+    [
+     "Please visit the counter for check-in.",
+     "請到櫃檯辦理入住手續。"
+    ]
+   ]
+  },
+  {
+   "word": "concierge",
+   "ph": "/ˌkɒnsiˈeəʒ/",
+   "pos": "n. 禮賓員；服務台人員",
+   "zh": "禮賓服務員",
+   "colloc": "hotel concierge 飯店禮賓員 | ask the concierge 詢問禮賓員",
+   "distinct": "receptionist 接待員 | clerk 櫃檯人員",
+   "ex": [
+    [
+     "Ask the concierge for local restaurant tips.",
+     "詢問禮賓員當地的餐廳建議。"
+    ],
+    [
+     "The concierge booked a taxi for me.",
+     "禮賓員幫我預訂了計程車。"
+    ],
+    [
+     "Contact the concierge for city tours.",
+     "聯繫禮賓部安排城市導覽。"
+    ]
+   ]
+  },
+  {
+   "word": "suite",
+   "ph": "/swiːt/",
+   "pos": "n. 套房",
+   "zh": "套房",
+   "colloc": "deluxe suite 豪華套房 | book a suite 預訂套房",
+   "distinct": "room 客房 | apartment 公寓",
+   "ex": [
+    [
+     "They upgraded us to a deluxe suite.",
+     "他們將我們升級到豪華套房。"
+    ],
+    [
+     "This suite features a private balcony.",
+     "這間套房設有私人陽台。"
+    ],
+    [
+     "We reserved a large suite online.",
+     "我們在網路上預訂了大型套房。"
+    ]
+   ]
+  },
+  {
+   "word": "housekeeping",
+   "ph": "/ˈhaʊskiːpɪŋ/",
+   "pos": "n. 房務部；客房清潔服務",
+   "zh": "房務清潔",
+   "colloc": "call housekeeping 呼叫房務 | housekeeping staff 房務人員",
+   "distinct": "cleaning 清潔 | maintenance 維護",
+   "ex": [
+    [
+     "Please call housekeeping for extra towels.",
+     "請致電房務部索取額外毛巾。"
+    ],
+    [
+     "The housekeeping staff cleans rooms daily.",
+     "房務人員每天清潔客房。"
+    ],
+    [
+     "I requested housekeeping service this morning.",
+     "我今天早上要求了房務清潔。"
+    ]
+   ]
+  },
+  {
+   "word": "occupancy",
+   "ph": "/ˈɒkjəpənsi/",
+   "pos": "n. 佔用；居住；住房率",
+   "zh": "住房率；佔用",
+   "colloc": "high occupancy 高住房率 | double occupancy 雙人入住",
+   "distinct": "capacity 容量 | residence 居住",
+   "ex": [
+    [
+     "The hotel maintains a high occupancy rate.",
+     "這家飯店維持著高住房率。"
+    ],
+    [
+     "Rates are based on double occupancy.",
+     "房價是以雙人入住為基準。"
+    ],
+    [
+     "We expect full occupancy this summer.",
+     "我們預計今年夏天會客滿。"
+    ]
+   ]
+  },
+  {
+   "word": "adjoining",
+   "ph": "/əˈdʒɔɪnɪŋ/",
+   "pos": "adj. 相連的；鄰近的",
+   "zh": "相連的",
+   "colloc": "adjoining rooms 連通房 | adjoining building 鄰近建築",
+   "distinct": "adjacent 鄰接的 | neighboring 鄰近的",
+   "ex": [
+    [
+     "We requested two adjoining rooms together.",
+     "我們要求了兩間連通房。"
+    ],
+    [
+     "The meeting room is in the adjoining wing.",
+     "會議室在相鄰的廂房。"
+    ],
+    [
+     "They occupy the adjoining office space.",
+     "他們佔用了相鄰的辦公空間。"
+    ]
+   ]
+  },
+  {
+   "word": "check-out",
+   "ph": "/ˈtʃek aʊt/",
+   "pos": "n. 退房；結帳",
+   "zh": "退房",
+   "colloc": "check-out time 退房時間 | express check-out 快速退房",
+   "distinct": "check-in 入住 | departure 出發",
+   "ex": [
+    [
+     "The standard check-out time is eleven.",
+     "標準退房時間是十一點。"
+    ],
+    [
+     "Please settle your bill before check-out.",
+     "請在退房前結清帳單。"
+    ],
+    [
+     "We provide an express check-out option.",
+     "我們提供快速退房選項。"
+    ]
+   ]
+  },
+  {
+   "word": "tariff",
+   "ph": "/ˈtærɪf/",
+   "pos": "n. 關稅；價目表；收費標準",
+   "zh": "收費標準；價目表",
+   "colloc": "room tariff 客房價目 | hotel tariff 飯店收費",
+   "distinct": "rate 費率 | price 價格",
+   "ex": [
+    [
+     "The hotel tariff includes all taxes.",
+     "飯店收費標準已包含所有稅額。"
+    ],
+    [
+     "Please review our seasonal room tariff.",
+     "請查看我們的季節性房價表。"
+    ],
+    [
+     "The new tariff takes effect today.",
+     "新的收費標準今天生效。"
+    ]
+   ]
+  },
+  {
+   "word": "lodging",
+   "ph": "/ˈlɒdʒɪŋ/",
+   "pos": "n. 住宿；寄宿",
+   "zh": "住宿",
+   "colloc": "overnight lodging 過夜住宿 | provide lodging 提供住宿",
+   "distinct": "accommodation 住宿設施 | shelter 庇護所",
+   "ex": [
+    [
+     "We need affordable lodging for the trip.",
+     "我們需要旅途中的平價住宿。"
+    ],
+    [
+     "Lodging expenses are covered by the company.",
+     "住宿費用由公司支付。"
+    ],
+    [
+     "They found convenient lodging near the station.",
+     "他們在車站附近找到方便的住宿。"
+    ]
+   ]
+  },
+  {
+   "word": "in-house",
+   "ph": "/ˈɪn haʊs/",
+   "pos": "adj. 內部的；飯店內的",
+   "zh": "飯店內的；內部的",
+   "colloc": "in-house restaurant 飯店內餐廳 | in-house guest 住店房客",
+   "distinct": "internal 內部的 | on-site 現場的",
+   "ex": [
+    [
+     "Try the delicious food at our in-house restaurant.",
+     "試試我們飯店內餐廳的美味料理。"
+    ],
+    [
+     "In-house guests enjoy free gym access.",
+     "住店房客可免費使用健身房。"
+    ],
+    [
+     "We offer in-house printing services here.",
+     "我們這裡提供飯店內的列印服務。"
+    ]
+   ]
+  },
+  {
+   "word": "checkout",
+   "ph": "/ˈtʃekaʊt/",
+   "pos": "n. 結帳櫃檯；退房",
+   "zh": "結帳櫃檯",
+   "colloc": "at the checkout 在結帳處 | express checkout 快速退房",
+   "distinct": "counter 櫃檯 | reception 接待處",
+   "ex": [
+    [
+     "Please return your key card at checkout.",
+     "請在退房時歸還房卡。"
+    ],
+    [
+     "The line at the checkout is long.",
+     "結帳櫃檯的隊伍很長。"
+    ],
+    [
+     "We offer a convenient express checkout service.",
+     "我們提供便利的快速退房服務。"
+    ]
+   ]
+  },
+  {
+   "word": "hospitality",
+   "ph": "/ˌhɒspɪˈtæləti/",
+   "pos": "n. 款待；殷勤；餐旅業",
+   "zh": "款待；餐旅業",
+   "colloc": "hospitality industry 餐旅業 | warm hospitality 親切款待",
+   "distinct": "reception 接待 | service 服務",
+   "ex": [
+    [
+     "He works in the global hospitality industry.",
+     "他在全球餐旅業工作。"
+    ],
+    [
+     "They are famous for their warm hospitality.",
+     "他們以親切的款待聞名。"
+    ],
+    [
+     "The hospitality shown to guests is excellent.",
+     "對客人的款待非常優秀。"
+    ]
+   ]
+  },
+  {
+   "word": "rate",
+   "ph": "/reɪt/",
+   "pos": "n. 費率；價格",
+   "zh": "費率；價格",
+   "colloc": "corporate rate 公司優惠價 | special rate 特惠價格",
+   "distinct": "tariff 收費標準 | fee 費用",
+   "ex": [
+    [
+     "Do you offer a special corporate rate?",
+     "你們有提供公司特惠價嗎？"
+    ],
+    [
+     "The weekend rate is higher than usual.",
+     "週末費率比平常高。"
+    ],
+    [
+     "This rate includes breakfast and taxes.",
+     "此費率包含早餐與稅金。"
+    ]
+   ]
+  },
+  {
+   "word": "front-desk",
+   "ph": "/frʌnt desk/",
+   "pos": "n. 接待櫃檯",
+   "zh": "接待櫃檯",
+   "colloc": "front-desk staff 櫃檯人員 | call the front-desk 致電櫃檯",
+   "distinct": "reception 接待處 | lobby 大廳",
+   "ex": [
+    [
+     "Please leave your keys at the front-desk.",
+     "請將鑰匙留在接待櫃檯。"
+    ],
+    [
+     "The front-desk staff is very helpful.",
+     "櫃檯人員非常有幫助。"
+    ],
+    [
+     "Call the front-desk for extra pillows.",
+     "致電櫃檯索取額外枕頭。"
+    ]
+   ]
+  },
+  {
+   "word": "bellhop",
+   "ph": "/ˈbelhɒp/",
+   "pos": "n. 飯店行李員",
+   "zh": "行李員",
+   "colloc": "call a bellhop 叫行李員 | bellhop service 行李服務",
+   "distinct": "concierge 禮賓員 | porter 搬運工",
+   "ex": [
+    [
+     "The bellhop will assist with your luggage.",
+     "行李員會協助處理您的行李。"
+    ],
+    [
+     "Please tip the bellhop for his help.",
+     "請給行李員小費以示感謝。"
+    ],
+    [
+     "A bellhop will show you the room.",
+     "行李員會帶您去房間。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

@@ -1,0 +1,449 @@
+{
+ "day": 12,
+ "theme": "發票、收據與付款",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "payment",
+   "ph": "/ˈpeɪmənt/",
+   "pos": "n. 付款；款項",
+   "zh": "付款；款項",
+   "colloc": "make a payment 付款 | defer payment 延期付款",
+   "distinct": "pay 薪資 | price 價格",
+   "ex": [
+    [
+     "We require full payment prior to shipment.",
+     "我們要求在發貨前付清全款。"
+    ],
+    [
+     "She received confirmation of her online payment.",
+     "她收到了線上付款的確認通知。"
+    ],
+    [
+     "Clients can choose from several payment methods.",
+     "客戶可以從幾種付款方式中做選擇。"
+    ]
+   ]
+  },
+  {
+   "word": "voucher",
+   "ph": "/ˈvaʊtʃər/",
+   "pos": "n. 代金券；憑證",
+   "zh": "代金券；收據憑證",
+   "colloc": "gift voucher 禮券 | redeem a voucher 兌換代金券",
+   "distinct": "coupon 折價券 | ticket 票卷",
+   "ex": [
+    [
+     "The company issued a travel voucher to employees.",
+     "公司向員工發放了旅遊抵用券。"
+    ],
+    [
+     "You can redeem this voucher at any branch.",
+     "您可以在任何分店兌換此代金券。"
+    ],
+    [
+     "Keep the expense voucher for tax auditing purposes.",
+     "保留費用憑證以便做稅務審計。"
+    ]
+   ]
+  },
+  {
+   "word": "billing",
+   "ph": "/ˈbɪlɪŋ/",
+   "pos": "n. 請款；帳單開立",
+   "zh": "請款；帳單作業",
+   "colloc": "billing cycle 帳單週期 | billing address 帳單地址",
+   "distinct": "charging 收費 | pricing 定價",
+   "ex": [
+    [
+     "Please update your current billing address online.",
+     "請在網路上更新您目前的帳單地址。"
+    ],
+    [
+     "The accounting department is responsible for monthly billing.",
+     "會計部門負責每月的開立帳單作業。"
+    ],
+    [
+     "An error occurred during the automatic billing process.",
+     "自動請款過程中發生了錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "statement",
+   "ph": "/ˈsteɪtmənt/",
+   "pos": "n. 對帳單；結算單",
+   "zh": "對帳單；財務報告",
+   "colloc": "bank statement 銀行對帳單 | financial statement 財務報表",
+   "distinct": "declaration 申報書 | summary 摘要",
+   "ex": [
+    [
+     "Check your monthly bank statement for unauthorized fees.",
+     "檢查您的每月銀行對帳單有無未授權費用。"
+    ],
+    [
+     "The supplier sends a statement of account every month.",
+     "供應商每個月都會寄送對帳單。"
+    ],
+    [
+     "Review the financial statement before making investments.",
+     "在進行投資之前，請先審閱財務報表。"
+    ]
+   ]
+  },
+  {
+   "word": "due",
+   "ph": "/djuː/",
+   "pos": "adj. 到期的；預計的",
+   "zh": "應付的；到期的",
+   "colloc": "due date 到期日 | balance due 應付餘額",
+   "distinct": "expired 過期的 | pending 待處理的",
+   "ex": [
+    [
+     "The total payment is due within thirty days.",
+     "全額款項須於三十天內付清。"
+    ],
+    [
+     "Please settle the balance due by next Friday.",
+     "請在下週五前結清應付餘額。"
+    ],
+    [
+     "Our electricity bill is due at the end.",
+     "我們的電費帳單會在月底到期。"
+    ]
+   ]
+  },
+  {
+   "word": "instalment",
+   "ph": "/ɪnˈstɔːlmənt/",
+   "pos": "n. 分期付款",
+   "zh": "分期付款；一期",
+   "colloc": "monthly instalment 每期付款 | pay in instalments 分期付款",
+   "distinct": "down payment 頭期款 | lump sum 一次付清",
+   "ex": [
+    [
+     "Customers may pay for goods in monthly instalments.",
+     "顧客可以分期付款購買商品。"
+    ],
+    [
+     "The final instalment must be paid next month.",
+     "最後一期款項必須在下個月付清。"
+    ],
+    [
+     "They offers zero-interest instalments for new members.",
+     "他們為新會員提供零利率分期付款。"
+    ]
+   ]
+  },
+  {
+   "word": "settle",
+   "ph": "/ˈsetl/",
+   "pos": "v. 結算；支付",
+   "zh": "結算；清償",
+   "colloc": "settle an account 結帳 | settle a bill 支付帳單",
+   "distinct": "clear 結算 cleared | adjust 調整",
+   "ex": [
+    [
+     "He promised to settle the debt very soon.",
+     "他承諾會很快清償這筆債務。"
+    ],
+    [
+     "We should settle the outstanding account today.",
+     "我們今天應該結清這筆未付帳款。"
+    ],
+    [
+     "The buyer agreed to settle the bill immediately.",
+     "買方同意立即支付該帳單。"
+    ]
+   ]
+  },
+  {
+   "word": "arrears",
+   "ph": "/əˈrɪəz/",
+   "pos": "n. 欠款；積欠",
+   "zh": "積欠款項；拖欠",
+   "colloc": "in arrears 拖欠中 | mortgage arrears 房貸欠款",
+   "distinct": "debt 債務 | default 違約",
+   "ex": [
+    [
+     "The tenant was three months in arrears with rent.",
+     "該房客已積欠了三個月的租金。"
+    ],
+    [
+     "We must collect all unpaid arrears this week.",
+     "我們本週必須收回所有未付的欠款。"
+    ],
+    [
+     "The company cleared its arrears before launching products.",
+     "該公司在推出新產品前清償了欠款。"
+    ]
+   ]
+  },
+  {
+   "word": "wire",
+   "ph": "/ˈwaɪər/",
+   "pos": "v. 電匯 | n. 電線",
+   "zh": "電匯；發電報",
+   "colloc": "wire transfer 電匯 | wire money 匯款",
+   "distinct": "cable 纜線 | transfer 轉帳",
+   "ex": [
+    [
+     "Please wire the funds directly to our account.",
+     "請直接將資金電匯至我們的帳戶。"
+    ],
+    [
+     "They wired the payment to the supplier yesterday.",
+     "他們昨天已經把貨款電匯給供應商了。"
+    ],
+    [
+     "A small transaction fee applies when you wire.",
+     "當您電匯時會收取少許的手續費。"
+    ]
+   ]
+  },
+  {
+   "word": "credit",
+   "ph": "/ˈkredɪt/",
+   "pos": "n. 信用；賒帳 | v. 存入",
+   "zh": "信用；額度；入帳",
+   "colloc": "credit limit 信用額度 | credit note 折讓單",
+   "distinct": "debit 扣款 | balance 餘額",
+   "ex": [
+    [
+     "The bank extended her credit limit significantly today.",
+     "銀行今天大幅大幅提高了她的信用額度。"
+    ],
+    [
+     "We will credit the refund to your account.",
+     "我們將把退款存入您的帳戶中。"
+    ],
+    [
+     "Purchases can be made on credit upon approval.",
+     "經核准後，採購可以採取賒帳方式。"
+    ]
+   ]
+  },
+  {
+   "word": "debit",
+   "ph": "/ˈdebɪt/",
+   "pos": "n. 扣款；借記 | v. 扣帳",
+   "zh": "扣款；帳戶扣項",
+   "colloc": "debit card 簽帳卡 | direct debit 自動扣繳",
+   "distinct": "credit 貸項 | deposit 存款",
+   "ex": [
+    [
+     "The payment was debited from my checking account.",
+     "這筆付款已從我的支票帳戶中扣除。"
+    ],
+    [
+     "Set up a direct debit to pay bills.",
+     "設定自動扣繳來支付每月的帳單。"
+    ],
+    [
+     "Check the debit column on your balance sheet.",
+     "請檢查您資產負債表上的借方欄位。"
+    ]
+   ]
+  },
+  {
+   "word": "reconcile",
+   "ph": "/ˈrekənsaɪl/",
+   "pos": "v. 調和；對帳",
+   "zh": "對帳；核對帳目",
+   "colloc": "reconcile accounts 核對帳目 | reconcile figures 比對數據",
+   "distinct": "match 符合 | balance 平衡",
+   "ex": [
+    [
+     "The accountant must reconcile the bank statements monthly.",
+     "會計師每月必須核對銀行對帳單。"
+    ],
+    [
+     "It took hours to reconcile the discrepancy between accounts.",
+     "花了數小時才調和帳戶間的不符之處。"
+    ],
+    [
+     "Please reconcile these invoices with our purchase orders.",
+     "請將這些發票與我們的採購單進行對帳。"
+    ]
+   ]
+  },
+  {
+   "word": "itemized",
+   "ph": "/ˈaɪtəmaɪzd/",
+   "pos": "adj. 列出明細的",
+   "zh": "分項列出的；明細的",
+   "colloc": "itemized bill 明細帳單 | itemized receipt 費用明細表",
+   "distinct": "detailed 詳細的 | listed 列出的",
+   "ex": [
+    [
+     "Request an itemized receipt for tax deduction claims.",
+     "索取一份明細收據以用於申報報稅扣除。"
+    ],
+    [
+     "The vendor provided an itemized list of expenses.",
+     "廠商提供了一份分項列出費用的清單。"
+    ],
+    [
+     "Please review the itemized invoice for any errors.",
+     "請審閱這份明細發票看是否有誤。"
+    ]
+   ]
+  },
+  {
+   "word": "surcharge",
+   "ph": "/ˈsɜːtʃɑːdʒ/",
+   "pos": "n. 附加費 | v. 加收費用",
+   "zh": "附加費；額外費用",
+   "colloc": "fuel surcharge 燃油附加費 | service surcharge 服務附加費",
+   "distinct": "fee 費用 | tax 稅金",
+   "ex": [
+    [
+     "A credit card surcharge will be added total.",
+     "總金額將會加收信用卡附加手續費。"
+    ],
+    [
+     "Airlines increased their fuel surcharge this month significantly.",
+     "航空公司本月大幅調高了燃油附加費。"
+    ],
+    [
+     "Avoid extra surcharges by paying the bill early.",
+     "提早支付帳單以避免額外的附加費用。"
+    ]
+   ]
+  },
+  {
+   "word": "discrepancy",
+   "ph": "/dɪˈskrepənsi/",
+   "pos": "n. 不符；差距",
+   "zh": "差異；不一致",
+   "colloc": "discrepancy in figures 數據不符 | resolve a discrepancy 解決差異",
+   "distinct": "error 錯誤 | difference 差別",
+   "ex": [
+    [
+     "We noticed a discrepancy between invoice and shipment.",
+     "我們注意到發票與出貨數量之間有不符。"
+    ],
+    [
+     "The audit revealed a minor discrepancy in records.",
+     "審計顯示記錄中有微小的數據出入。"
+    ],
+    [
+     "Please clarify the discrepancy before approving the payment.",
+     "在核准付款前請先澄清此不符之處。"
+    ]
+   ]
+  },
+  {
+   "word": "proof",
+   "ph": "/pruːf/",
+   "pos": "n. 證明；證據",
+   "zh": "證明；憑證",
+   "colloc": "proof of payment 付款證明 | proof of purchase 購買證明",
+   "distinct": "evidence 證據 | certificate 證書",
+   "ex": [
+    [
+     "Keep this receipt as proof of purchase always.",
+     "請始終保留這張收據作為購買證明。"
+    ],
+    [
+     "The customer provided proof of electronic transfer today.",
+     "客戶今天提供了電子轉帳的證明。"
+    ],
+    [
+     "We need valid proof of identity for refund.",
+     "辦理退款時我們需要有效的身分證明。"
+    ]
+   ]
+  },
+  {
+   "word": "prepayment",
+   "ph": "/ˌpriːˈpeɪmənt/",
+   "pos": "n. 預付；預付貨款",
+   "zh": "預付款；預先支付",
+   "colloc": "prepayment penalty 提前還款罰金 | require prepayment 要求預付",
+   "distinct": "deposit 訂金 | advance 預支",
+   "ex": [
+    [
+     "The vendor requires a thirty percent prepayment upfront.",
+     "廠商要求預先支付百分之三十的預付款。"
+    ],
+    [
+     "There is no penalty for early prepayment option.",
+     "選擇提前還款並不會產生任何罰金。"
+    ],
+    [
+     "Confirm whether prepayment is refundable under these conditions.",
+     "請確認在這些條件下預付款是否可退。"
+    ]
+   ]
+  },
+  {
+   "word": "gratuity",
+   "ph": "/ɡrəˈtjuːəti/",
+   "pos": "n. 小費；服務費",
+   "zh": "小費；賞錢",
+   "colloc": "include gratuity 包含小費 | discretionary gratuity 隨意給的小費",
+   "distinct": "tip 小費 | bonus 紅利",
+   "ex": [
+    [
+     "A ten percent gratuity is included bill.",
+     "帳單中已包含百分之十的服務費。"
+    ],
+    [
+     "Gratuity is optional for exceptional customer service.",
+     "對於優良的客戶服務，小費是隨意的。"
+    ],
+    [
+     "The total price includes tax and customary gratuity.",
+     "總價已包含稅金以及慣例的服務費。"
+    ]
+   ]
+  },
+  {
+   "word": "taxable",
+   "ph": "/ˈtæksəbl/",
+   "pos": "adj. 可徵稅的；應納稅的",
+   "zh": "應納稅的；可徵稅的",
+   "colloc": "taxable income 應稅所得 | taxable goods 應稅商品",
+   "distinct": "taxing 繁重的；徵稅的 | tax-exempt 免稅的",
+   "ex": [
+    [
+     "Most of your income is considered taxable.",
+     "你大部分的收入都被視為應稅所得。"
+    ],
+    [
+     "The company calculated all taxable transactions.",
+     "公司計算了所有應納稅的交易。"
+    ],
+    [
+     "Identify which items are taxable for the report.",
+     "請確認報表中哪些項目需要課稅。"
+    ]
+   ]
+  },
+  {
+   "word": "nonpayment",
+   "ph": "/ˌnɒnˈpeɪmənt/",
+   "pos": "n. 未付款；不支付",
+   "zh": "未付款；不支付",
+   "colloc": "result in nonpayment 導致未付款 | penalty for nonpayment 未付款罰則",
+   "distinct": "underpayment 付款不足 | default 違約",
+   "ex": [
+    [
+     "Legal action was taken due to nonpayment.",
+     "由於未付款，公司採取了法律行動。"
+    ],
+    [
+     "The service will be suspended after nonpayment.",
+     "若未付款，該服務將被暫停。"
+    ],
+    [
+     "They sent a warning regarding late nonpayment.",
+     "他們發出了一份關於逾期未付款的警告。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

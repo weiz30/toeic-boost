@@ -1,0 +1,477 @@
+{
+ "file": "1-1 basic_Day01-30\\basic_Day25.mp3",
+ "dur": 245.19,
+ "segments": [
+  {
+   "s": 0.0,
+   "e": 2.0,
+   "t": "Hacker stoic vocabulary."
+  },
+  {
+   "s": 2.0,
+   "e": 4.0,
+   "t": "Day 25"
+  },
+  {
+   "s": 4.0,
+   "e": 8.25,
+   "t": "congestion"
+  },
+  {
+   "s": 8.25,
+   "e": 12.25,
+   "t": "congestion"
+  },
+  {
+   "s": 12.25,
+   "e": 15.25,
+   "t": "alleviate"
+  },
+  {
+   "s": 15.25,
+   "e": 19.25,
+   "t": "diverte"
+  },
+  {
+   "s": 19.25,
+   "e": 21.25,
+   "t": "diverte"
+  },
+  {
+   "s": 21.25,
+   "e": 27.25,
+   "t": "detour"
+  },
+  {
+   "s": 27.25,
+   "e": 30.25,
+   "t": "fuel"
+  },
+  {
+   "s": 30.25,
+   "e": 32.25,
+   "t": "fuel"
+  },
+  {
+   "s": 32.25,
+   "e": 34.25,
+   "t": "fuel"
+  },
+  {
+   "s": 34.25,
+   "e": 36.25,
+   "t": "malfunction"
+  },
+  {
+   "s": 36.25,
+   "e": 38.25,
+   "t": "malfunction"
+  },
+  {
+   "s": 38.25,
+   "e": 40.25,
+   "t": "permit"
+  },
+  {
+   "s": 40.25,
+   "e": 42.25,
+   "t": "permit"
+  },
+  {
+   "s": 42.25,
+   "e": 44.25,
+   "t": "permit"
+  },
+  {
+   "s": 44.25,
+   "e": 46.25,
+   "t": "permit"
+  },
+  {
+   "s": 46.25,
+   "e": 48.25,
+   "t": "permit"
+  },
+  {
+   "s": 48.25,
+   "e": 50.25,
+   "t": "permit"
+  },
+  {
+   "s": 50.25,
+   "e": 54.25,
+   "t": "transportation"
+  },
+  {
+   "s": 54.25,
+   "e": 56.25,
+   "t": "transportation"
+  },
+  {
+   "s": 56.25,
+   "e": 62.25,
+   "t": "opportunity"
+  },
+  {
+   "s": 62.25,
+   "e": 64.25,
+   "t": "opportunity"
+  },
+  {
+   "s": 64.25,
+   "e": 66.25,
+   "t": "clearly"
+  },
+  {
+   "s": 66.25,
+   "e": 68.25,
+   "t": "clearly"
+  },
+  {
+   "s": 68.25,
+   "e": 71.25,
+   "t": "ongoing"
+  },
+  {
+   "s": 71.25,
+   "e": 74.25,
+   "t": "ongoing"
+  },
+  {
+   "s": 74.25,
+   "e": 78.25,
+   "t": "detailed"
+  },
+  {
+   "s": 78.25,
+   "e": 82.25,
+   "t": "alternative"
+  },
+  {
+   "s": 82.25,
+   "e": 84.25,
+   "t": "Alternative"
+  },
+  {
+   "s": 84.25,
+   "e": 86.25,
+   "t": "T-dye fang an"
+  },
+  {
+   "s": 86.25,
+   "e": 87.25,
+   "t": "T-dye de"
+  },
+  {
+   "s": 87.25,
+   "e": 89.25,
+   "t": "Uptane"
+  },
+  {
+   "s": 89.25,
+   "e": 91.25,
+   "t": "Uptane"
+  },
+  {
+   "s": 91.25,
+   "e": 93.25,
+   "t": "De d'àu hô de"
+  },
+  {
+   "s": 93.25,
+   "e": 95.25,
+   "t": "Designated"
+  },
+  {
+   "s": 95.25,
+   "e": 97.25,
+   "t": "Designated"
+  },
+  {
+   "s": 97.25,
+   "e": 98.25,
+   "t": "Chô Ding de"
+  },
+  {
+   "s": 98.25,
+   "e": 100.25,
+   "t": "Intersection"
+  },
+  {
+   "s": 100.25,
+   "e": 102.25,
+   "t": "Intersection"
+  },
+  {
+   "s": 102.25,
+   "e": 104.25,
+   "t": "Jô cha rô co"
+  },
+  {
+   "s": 104.25,
+   "e": 106.25,
+   "t": "Equip"
+  },
+  {
+   "s": 106.25,
+   "e": 108.25,
+   "t": "Equip"
+  },
+  {
+   "s": 108.25,
+   "e": 109.25,
+   "t": "Xu Pei Bei"
+  },
+  {
+   "s": 109.25,
+   "e": 110.25,
+   "t": "Xu Ju Bei"
+  },
+  {
+   "s": 110.25,
+   "e": 111.25,
+   "t": "Commute"
+  },
+  {
+   "s": 111.25,
+   "e": 113.25,
+   "t": "Commute."
+  },
+  {
+   "s": 113.25,
+   "e": 115.25,
+   "t": "Commute."
+  },
+  {
+   "s": 115.25,
+   "e": 117.25,
+   "t": "Tung Qin."
+  },
+  {
+   "s": 117.25,
+   "e": 119.25,
+   "t": "Downtown."
+  },
+  {
+   "s": 119.25,
+   "e": 121.25,
+   "t": "Downtown."
+  },
+  {
+   "s": 121.25,
+   "e": 123.25,
+   "t": "Automotive."
+  },
+  {
+   "s": 123.25,
+   "e": 125.25,
+   "t": "Automotive."
+  },
+  {
+   "s": 125.25,
+   "e": 129.25,
+   "t": "Closure."
+  },
+  {
+   "s": 129.25,
+   "e": 133.25,
+   "t": "Vehicle."
+  },
+  {
+   "s": 133.25,
+   "e": 137.25,
+   "t": "Vehicle."
+  },
+  {
+   "s": 137.25,
+   "e": 139.25,
+   "t": "Platform."
+  },
+  {
+   "s": 139.25,
+   "e": 141.25,
+   "t": "platform"
+  },
+  {
+   "s": 141.25,
+   "e": 144.25,
+   "t": "official"
+  },
+  {
+   "s": 144.25,
+   "e": 146.25,
+   "t": "official"
+  },
+  {
+   "s": 146.25,
+   "e": 149.25,
+   "t": "official"
+  },
+  {
+   "s": 149.25,
+   "e": 152.25,
+   "t": "transit"
+  },
+  {
+   "s": 152.25,
+   "e": 154.25,
+   "t": "transit"
+  },
+  {
+   "s": 154.25,
+   "e": 156.25,
+   "t": "運修系統"
+  },
+  {
+   "s": 156.25,
+   "e": 158.25,
+   "t": "fair"
+  },
+  {
+   "s": 158.25,
+   "e": 162.25,
+   "t": "fair"
+  },
+  {
+   "s": 162.25,
+   "e": 166.25,
+   "t": "expense"
+  },
+  {
+   "s": 166.25,
+   "e": 169.33,
+   "t": "Fayeong jichu, trust"
+  },
+  {
+   "s": 169.33,
+   "e": 170.49,
+   "t": "Trust"
+  },
+  {
+   "s": 170.49,
+   "e": 171.49,
+   "t": "Trust"
+  },
+  {
+   "s": 171.49,
+   "e": 174.45,
+   "t": "Xingyuan, Xinglei, Xiangxin"
+  },
+  {
+   "s": 174.45,
+   "e": 175.49,
+   "t": "Head"
+  },
+  {
+   "s": 175.49,
+   "e": 176.49,
+   "t": "Head"
+  },
+  {
+   "s": 176.49,
+   "e": 177.49,
+   "t": "Head"
+  },
+  {
+   "s": 177.49,
+   "e": 179.53,
+   "t": "Chufa, Qianjin"
+  },
+  {
+   "s": 179.53,
+   "e": 181.01,
+   "t": "Drive"
+  },
+  {
+   "s": 181.01,
+   "e": 182.09,
+   "t": "Drive"
+  },
+  {
+   "s": 182.09,
+   "e": 183.21,
+   "t": "Drive"
+  },
+  {
+   "s": 183.21,
+   "e": 186.89,
+   "t": "Kaiqhe, Jiaxu, Chuidong, Jiqi, Dong"
+  },
+  {
+   "s": 186.89,
+   "e": 188.29,
+   "t": "Fine"
+  },
+  {
+   "s": 188.29,
+   "e": 189.41,
+   "t": "Fine"
+  },
+  {
+   "s": 189.41,
+   "e": 190.57,
+   "t": "Fine"
+  },
+  {
+   "s": 190.57,
+   "e": 191.77,
+   "t": "Fanquan"
+  },
+  {
+   "s": 191.77,
+   "e": 193.05,
+   "t": "Pass"
+  },
+  {
+   "s": 193.05,
+   "e": 194.05,
+   "t": "Pass"
+  },
+  {
+   "s": 194.05,
+   "e": 195.05,
+   "t": "Pass"
+  },
+  {
+   "s": 195.05,
+   "e": 201.31,
+   "t": "經過通過 securely"
+  },
+  {
+   "s": 201.31,
+   "e": 207.75,
+   "t": "老故地穩故地 prominently"
+  },
+  {
+   "s": 207.75,
+   "e": 213.91,
+   "t": "顯著地顯眼地 reserved"
+  },
+  {
+   "s": 213.91,
+   "e": 221.25,
+   "t": "預約地預定地留作專用的 average"
+  },
+  {
+   "s": 221.25,
+   "e": 227.49,
+   "t": "Png-jun-jae, Png-jun, Collision."
+  },
+  {
+   "s": 227.49,
+   "e": 231.65,
+   "t": "Png-jjang, Thou, Thou, Thou."
+  },
+  {
+   "s": 231.65,
+   "e": 237.15,
+   "t": "To-de-ha, Reverse, Reverse, Rivers,"
+  },
+  {
+   "s": 237.15,
+   "e": 246.05,
+   "t": "相反的背面的 Upstruct."
+  }
+ ],
+ "text": "Hacker stoic vocabulary. Day 25 congestion congestion alleviate diverte diverte detour fuel fuel fuel malfunction malfunction permit permit permit permit permit permit transportation transportation opportunity opportunity clearly clearly ongoing ongoing detailed alternative Alternative T-dye fang an T-dye de Uptane Uptane De d'àu hô de Designated Designated Chô Ding de Intersection Intersection Jô cha rô co Equip Equip Xu Pei Bei Xu Ju Bei Commute Commute. Commute. Tung Qin. Downtown. Downtown. Automotive. Automotive. Closure. Vehicle. Vehicle. Platform. platform official official official transit transit 運修系統 fair fair expense Fayeong jichu, trust Trust Trust Xingyuan, Xinglei, Xiangxin Head Head Head Chufa, Qianjin Drive Drive Drive Kaiqhe, Jiaxu, Chuidong, Jiqi, Dong Fine Fine Fine Fanquan Pass Pass Pass 經過通過 securely 老故地穩故地 prominently 顯著地顯眼地 reserved 預約地預定地留作專用的 average Png-jun-jae, Png-jun, Collision. Png-jjang, Thou, Thou, Thou. To-de-ha, Reverse, Reverse, Rivers, 相反的背面的 Upstruct."
+}

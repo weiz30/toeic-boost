@@ -1,0 +1,762 @@
+{
+ "file": "4 score 800_Day01-30\\score 800_Day03.mp3",
+ "dur": 346.08,
+ "segments": [
+  {
+   "s": 0.0,
+   "e": 4.48,
+   "t": "Day 3"
+  },
+  {
+   "s": 4.48,
+   "e": 6.24,
+   "t": "Elsie"
+  },
+  {
+   "s": 6.24,
+   "e": 11.04,
+   "t": "Adjust the mirror"
+  },
+  {
+   "s": 11.04,
+   "e": 16.48,
+   "t": "Advanced reservation"
+  },
+  {
+   "s": 16.48,
+   "e": 21.68,
+   "t": "Arrange an appointment"
+  },
+  {
+   "s": 21.68,
+   "e": 25.72,
+   "t": "Bulletin board"
+  },
+  {
+   "s": 25.72,
+   "e": 29.72,
+   "t": "Call back"
+  },
+  {
+   "s": 29.72,
+   "e": 32.72,
+   "t": "confused"
+  },
+  {
+   "s": 32.72,
+   "e": 35.72,
+   "t": "混混乱的"
+  },
+  {
+   "s": 35.72,
+   "e": 37.22,
+   "t": "errand"
+  },
+  {
+   "s": 37.22,
+   "e": 39.22,
+   "t": "才是任務"
+  },
+  {
+   "s": 39.22,
+   "e": 44.22,
+   "t": "extend an invitation"
+  },
+  {
+   "s": 44.22,
+   "e": 45.72,
+   "t": "邀請"
+  },
+  {
+   "s": 45.72,
+   "e": 49.72,
+   "t": "get a permit"
+  },
+  {
+   "s": 49.72,
+   "e": 53.72,
+   "t": "hand in"
+  },
+  {
+   "s": 53.72,
+   "e": 56.72,
+   "t": "have a day off"
+  },
+  {
+   "s": 56.72,
+   "e": 63.72,
+   "t": "Have a long day."
+  },
+  {
+   "s": 63.72,
+   "e": 66.72,
+   "t": "Head up."
+  },
+  {
+   "s": 66.72,
+   "e": 72.72,
+   "t": "In a hurry."
+  },
+  {
+   "s": 72.72,
+   "e": 78.72,
+   "t": "In alphabetical order."
+  },
+  {
+   "s": 78.72,
+   "e": 81.72,
+   "t": "In luck."
+  },
+  {
+   "s": 81.72,
+   "e": 88.72,
+   "t": "Leave A up to B."
+  },
+  {
+   "s": 88.72,
+   "e": 95.22,
+   "t": "Leave A with B."
+  },
+  {
+   "s": 95.22,
+   "e": 100.22,
+   "t": "Listing."
+  },
+  {
+   "s": 100.22,
+   "e": 104.22,
+   "t": "Make a call."
+  },
+  {
+   "s": 104.22,
+   "e": 108.72,
+   "t": "Make a correction."
+  },
+  {
+   "s": 108.72,
+   "e": 110.72,
+   "t": "Make a final change."
+  },
+  {
+   "s": 110.72,
+   "e": 112.72,
+   "t": "Make a final change."
+  },
+  {
+   "s": 112.72,
+   "e": 117.72,
+   "t": "Make a note of."
+  },
+  {
+   "s": 117.72,
+   "e": 124.72,
+   "t": "Make an impression."
+  },
+  {
+   "s": 124.72,
+   "e": 129.72,
+   "t": "Move ahead with."
+  },
+  {
+   "s": 129.72,
+   "e": 134.72,
+   "t": "On a business trip."
+  },
+  {
+   "s": 134.72,
+   "e": 138.72,
+   "t": "On a weekly basis."
+  },
+  {
+   "s": 138.72,
+   "e": 140.56,
+   "t": "以美周围單位"
+  },
+  {
+   "s": 140.56,
+   "e": 142.0,
+   "t": "On business"
+  },
+  {
+   "s": 142.0,
+   "e": 143.4,
+   "t": "On business"
+  },
+  {
+   "s": 143.4,
+   "e": 145.88,
+   "t": "為了公視, 因為工作"
+  },
+  {
+   "s": 145.88,
+   "e": 147.2,
+   "t": "On duty"
+  },
+  {
+   "s": 147.2,
+   "e": 148.44,
+   "t": "On duty"
+  },
+  {
+   "s": 148.44,
+   "e": 149.8,
+   "t": "直班的"
+  },
+  {
+   "s": 149.8,
+   "e": 151.44,
+   "t": "Pick up the phone"
+  },
+  {
+   "s": 151.44,
+   "e": 153.12,
+   "t": "Pick up the phone"
+  },
+  {
+   "s": 153.12,
+   "e": 154.4,
+   "t": "接電話"
+  },
+  {
+   "s": 154.4,
+   "e": 155.44,
+   "t": "Scrub"
+  },
+  {
+   "s": 155.44,
+   "e": 156.52,
+   "t": "Scrub"
+  },
+  {
+   "s": 156.52,
+   "e": 159.0,
+   "t": "用立插系,刷系"
+  },
+  {
+   "s": 159.0,
+   "e": 160.08,
+   "t": "Seal"
+  },
+  {
+   "s": 160.08,
+   "e": 161.12,
+   "t": "Seal"
+  },
+  {
+   "s": 161.12,
+   "e": 163.88,
+   "t": "印章,封條,密封"
+  },
+  {
+   "s": 163.88,
+   "e": 166.12,
+   "t": "Speak into the microphone"
+  },
+  {
+   "s": 166.12,
+   "e": 168.44,
+   "t": "Speak into the microphone"
+  },
+  {
+   "s": 168.44,
+   "e": 175.24,
+   "t": "speak on the phone"
+  },
+  {
+   "s": 175.24,
+   "e": 179.88,
+   "t": "stand in a line"
+  },
+  {
+   "s": 179.88,
+   "e": 184.68,
+   "t": "take a message"
+  },
+  {
+   "s": 184.68,
+   "e": 187.88,
+   "t": "take apart"
+  },
+  {
+   "s": 187.88,
+   "e": 192.52,
+   "t": "check out"
+  },
+  {
+   "s": 192.52,
+   "e": 196.36,
+   "t": "utility provider"
+  },
+  {
+   "s": 196.36,
+   "e": 198.36,
+   "t": "Gong Gong服務公應業者"
+  },
+  {
+   "s": 198.36,
+   "e": 201.36,
+   "t": "Part 5 and 6"
+  },
+  {
+   "s": 201.36,
+   "e": 202.36,
+   "t": "Acquired"
+  },
+  {
+   "s": 202.36,
+   "e": 203.86,
+   "t": "Acquired"
+  },
+  {
+   "s": 203.86,
+   "e": 205.36,
+   "t": "習得的"
+  },
+  {
+   "s": 205.36,
+   "e": 206.36,
+   "t": "Adapt"
+  },
+  {
+   "s": 206.36,
+   "e": 207.36,
+   "t": "Adapt"
+  },
+  {
+   "s": 207.36,
+   "e": 208.86,
+   "t": "適應"
+  },
+  {
+   "s": 208.86,
+   "e": 210.36,
+   "t": "Administer"
+  },
+  {
+   "s": 210.36,
+   "e": 211.36,
+   "t": "Administer"
+  },
+  {
+   "s": 211.36,
+   "e": 212.86,
+   "t": "管理"
+  },
+  {
+   "s": 212.86,
+   "e": 214.36,
+   "t": "Plarical"
+  },
+  {
+   "s": 214.36,
+   "e": 215.36,
+   "t": "Plarical"
+  },
+  {
+   "s": 215.36,
+   "e": 218.36,
+   "t": "辦事員的事務性的"
+  },
+  {
+   "s": 218.36,
+   "e": 220.36,
+   "t": "Conclusive"
+  },
+  {
+   "s": 220.36,
+   "e": 221.36,
+   "t": "Conclusive"
+  },
+  {
+   "s": 221.36,
+   "e": 223.86,
+   "t": "決定性的確實的"
+  },
+  {
+   "s": 223.86,
+   "e": 224.86,
+   "t": "Delete"
+  },
+  {
+   "s": 224.86,
+   "e": 225.86,
+   "t": "Delete"
+  },
+  {
+   "s": 225.86,
+   "e": 227.14,
+   "t": "Shanchu"
+  },
+  {
+   "s": 227.14,
+   "e": 228.54,
+   "t": "Editorial"
+  },
+  {
+   "s": 228.54,
+   "e": 229.94,
+   "t": "Editorial"
+  },
+  {
+   "s": 229.94,
+   "e": 230.86,
+   "t": "Bienji's"
+  },
+  {
+   "s": 230.86,
+   "e": 232.18,
+   "t": "Shedun's"
+  },
+  {
+   "s": 232.18,
+   "e": 233.58,
+   "t": "Endless"
+  },
+  {
+   "s": 233.58,
+   "e": 234.9,
+   "t": "Endless"
+  },
+  {
+   "s": 234.9,
+   "e": 236.06,
+   "t": "Wu Jing's"
+  },
+  {
+   "s": 236.06,
+   "e": 237.54,
+   "t": "Wu Xiu Zhi's"
+  },
+  {
+   "s": 237.54,
+   "e": 238.7,
+   "t": "Furthermore"
+  },
+  {
+   "s": 238.7,
+   "e": 240.14,
+   "t": "Furthermore"
+  },
+  {
+   "s": 240.14,
+   "e": 241.02,
+   "t": "Tsui's"
+  },
+  {
+   "s": 241.02,
+   "e": 242.38,
+   "t": "Zai Zhhe"
+  },
+  {
+   "s": 242.38,
+   "e": 244.02,
+   "t": "In one's absence"
+  },
+  {
+   "s": 244.02,
+   "e": 245.94,
+   "t": "In one's absence"
+  },
+  {
+   "s": 245.94,
+   "e": 246.86,
+   "t": "Zai Mo Yuan's"
+  },
+  {
+   "s": 246.86,
+   "e": 247.34,
+   "t": "Buzai's"
+  },
+  {
+   "s": 247.34,
+   "e": 248.54,
+   "t": "Qin Kwang Xia"
+  },
+  {
+   "s": 248.54,
+   "e": 250.34,
+   "t": "On purpose"
+  },
+  {
+   "s": 250.34,
+   "e": 251.94,
+   "t": "On purpose"
+  },
+  {
+   "s": 251.94,
+   "e": 253.38,
+   "t": "Yomu Didi"
+  },
+  {
+   "s": 253.38,
+   "e": 254.66,
+   "t": "Gu Yi Di"
+  },
+  {
+   "s": 254.66,
+   "e": 256.66,
+   "t": "overseas"
+  },
+  {
+   "s": 256.66,
+   "e": 258.66,
+   "t": "overseas"
+  },
+  {
+   "s": 258.66,
+   "e": 260.66,
+   "t": "overseas"
+  },
+  {
+   "s": 260.66,
+   "e": 262.66,
+   "t": "perceive"
+  },
+  {
+   "s": 262.66,
+   "e": 264.66,
+   "t": "察覺感知"
+  },
+  {
+   "s": 264.66,
+   "e": 266.66,
+   "t": "Reminder"
+  },
+  {
+   "s": 266.66,
+   "e": 268.66,
+   "t": "Reminder"
+  },
+  {
+   "s": 268.66,
+   "e": 270.66,
+   "t": "提醒著作為提醒的事物"
+  },
+  {
+   "s": 270.66,
+   "e": 272.66,
+   "t": "roughly"
+  },
+  {
+   "s": 272.66,
+   "e": 274.66,
+   "t": "大致上出略底"
+  },
+  {
+   "s": 274.66,
+   "e": 276.66,
+   "t": "strive"
+  },
+  {
+   "s": 276.66,
+   "e": 278.66,
+   "t": "努力奮鬥"
+  },
+  {
+   "s": 278.66,
+   "e": 280.66,
+   "t": "translate"
+  },
+  {
+   "s": 280.66,
+   "e": 282.66,
+   "t": "翻譯"
+  },
+  {
+   "s": 282.66,
+   "e": 283.66,
+   "t": "Part 7"
+  },
+  {
+   "s": 283.66,
+   "e": 284.66,
+   "t": "Board room"
+  },
+  {
+   "s": 284.66,
+   "e": 285.66,
+   "t": "Board room"
+  },
+  {
+   "s": 285.66,
+   "e": 287.66,
+   "t": "会意识"
+  },
+  {
+   "s": 287.66,
+   "e": 289.66,
+   "t": "in person"
+  },
+  {
+   "s": 289.66,
+   "e": 290.66,
+   "t": "in person"
+  },
+  {
+   "s": 290.66,
+   "e": 292.66,
+   "t": "当面亲身"
+  },
+  {
+   "s": 292.66,
+   "e": 293.66,
+   "t": "including"
+  },
+  {
+   "s": 293.66,
+   "e": 294.66,
+   "t": "including"
+  },
+  {
+   "s": 294.66,
+   "e": 296.66,
+   "t": "包括"
+  },
+  {
+   "s": 296.66,
+   "e": 297.66,
+   "t": "on time"
+  },
+  {
+   "s": 297.66,
+   "e": 298.66,
+   "t": "on time"
+  },
+  {
+   "s": 298.66,
+   "e": 299.66,
+   "t": "准时"
+  },
+  {
+   "s": 299.66,
+   "e": 300.66,
+   "t": "panic"
+  },
+  {
+   "s": 300.66,
+   "e": 301.66,
+   "t": "panic"
+  },
+  {
+   "s": 301.66,
+   "e": 302.66,
+   "t": "金荒"
+  },
+  {
+   "s": 302.66,
+   "e": 303.66,
+   "t": "恐慌"
+  },
+  {
+   "s": 303.66,
+   "e": 304.66,
+   "t": "past due"
+  },
+  {
+   "s": 304.66,
+   "e": 306.66,
+   "t": "past due"
+  },
+  {
+   "s": 306.66,
+   "e": 307.66,
+   "t": "过期的"
+  },
+  {
+   "s": 307.66,
+   "e": 308.66,
+   "t": "put forward"
+  },
+  {
+   "s": 308.66,
+   "e": 310.66,
+   "t": "put forward"
+  },
+  {
+   "s": 310.66,
+   "e": 312.66,
+   "t": "What is the answer?"
+  },
+  {
+   "s": 312.66,
+   "e": 314.66,
+   "t": "Regarding A as B"
+  },
+  {
+   "s": 314.66,
+   "e": 316.66,
+   "t": "Regarding A as B"
+  },
+  {
+   "s": 316.66,
+   "e": 318.66,
+   "t": "Is it B?"
+  },
+  {
+   "s": 318.66,
+   "e": 320.66,
+   "t": "Return one's call"
+  },
+  {
+   "s": 320.66,
+   "e": 322.66,
+   "t": "Return one's call"
+  },
+  {
+   "s": 322.66,
+   "e": 324.66,
+   "t": "Return one's call"
+  },
+  {
+   "s": 324.66,
+   "e": 326.66,
+   "t": "Secretarial"
+  },
+  {
+   "s": 326.66,
+   "e": 328.66,
+   "t": "Secretarial"
+  },
+  {
+   "s": 328.66,
+   "e": 330.66,
+   "t": "Take charge of"
+  },
+  {
+   "s": 330.66,
+   "e": 332.66,
+   "t": "Take charge of"
+  },
+  {
+   "s": 332.66,
+   "e": 335.66,
+   "t": "Take responsibility"
+  },
+  {
+   "s": 335.66,
+   "e": 337.66,
+   "t": "Take responsibility"
+  },
+  {
+   "s": 337.66,
+   "e": 339.26,
+   "t": "夫妻子院"
+  },
+  {
+   "s": 339.26,
+   "e": 341.5,
+   "t": "Throw one's effort into"
+  },
+  {
+   "s": 341.5,
+   "e": 343.7,
+   "t": "Throw one's effort into"
+  },
+  {
+   "s": 343.7,
+   "e": 345.9,
+   "t": "為什麼盡力"
+  }
+ ],
+ "text": "Day 3 Elsie Adjust the mirror Advanced reservation Arrange an appointment Bulletin board Call back confused 混混乱的 errand 才是任務 extend an invitation 邀請 get a permit hand in have a day off Have a long day. Head up. In a hurry. In alphabetical order. In luck. Leave A up to B. Leave A with B. Listing. Make a call. Make a correction. Make a final change. Make a final change. Make a note of. Make an impression. Move ahead with. On a business trip. On a weekly basis. 以美周围單位 On business On business 為了公視, 因為工作 On duty On duty 直班的 Pick up the phone Pick up the phone 接電話 Scrub Scrub 用立插系,刷系 Seal Seal 印章,封條,密封 Speak into the microphone Speak into the microphone speak on the phone stand in a line take a message take apart check out utility provider Gong Gong服務公應業者 Part 5 and 6 Acquired Acquired 習得的 Adapt Adapt 適應 Administer Administer 管理 Plarical Plarical 辦事員的事務性的 Conclusive Conclusive 決定性的確實的 Delete Delete Shanchu Editorial Editorial Bienji's Shedun's Endless Endless Wu Jing's Wu Xiu Zhi's Furthermore Furthermore Tsui's Zai Zhhe In one's absence In one's absence Zai Mo Yuan's Buzai's Qin Kwang Xia On purpose On purpose Yomu Didi Gu Yi Di overseas overseas overseas perceive 察覺感知 Reminder Reminder 提醒著作為提醒的事物 roughly 大致上出略底 strive 努力奮鬥 translate 翻譯 Part 7 Board room Board room 会意识 in person in person 当面亲身 including including 包括 on time on time 准时 panic panic 金荒 恐慌 past due past due 过期的 put forward put forward What is the answer? Regarding A as B Regarding A as B Is it B? Return one's call Return one's call Return one's call Secretarial Secretarial Take charge of Take charge of Take responsibility Take responsibility 夫妻子院 Throw one's effort into Throw one's effort into 為什麼盡力"
+}

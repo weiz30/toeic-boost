@@ -1,0 +1,449 @@
+{
+ "day": 4,
+ "theme": "排程、期限與進度",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "timeline",
+   "ph": "/ˈtaɪmlaɪn/",
+   "pos": "n. 時間表；時程",
+   "zh": "時間表；時程",
+   "colloc": "project timeline 專案時程 | strict timeline 嚴格的時程",
+   "distinct": "deadline 截止期限 | milestone 里程碑",
+   "ex": [
+    [
+     "The project timeline must be updated before Monday.",
+     "專案時程必須在週一之前更新。"
+    ],
+    [
+     "We need to establish a realistic production timeline.",
+     "我們需要建立一個切合實際的生產時程。"
+    ],
+    [
+     "Management approved the proposed timeline yesterday afternoon.",
+     "管理階層昨天下午批准了提議的時程。"
+    ]
+   ]
+  },
+  {
+   "word": "extension",
+   "ph": "/ɪkˈstenʃn/",
+   "pos": "n. 延期；分機",
+   "zh": "延期；展延",
+   "colloc": "request an extension 申請展延 | grant an extension 核准延期",
+   "distinct": "expansion 擴充 | delay 耽擱",
+   "ex": [
+    [
+     "The team requested an extension on the project.",
+     "團隊針對該專案申請了展延。"
+    ],
+    [
+     "Her supervisor granted an extension for the final report.",
+     "她的主管核准了期末報告的展期。"
+    ],
+    [
+     "Clients rarely ask for an extension on payments.",
+     "客戶很少要求延後付款期限。"
+    ]
+   ]
+  },
+  {
+   "word": "milestone",
+   "ph": "/ˈmaɪlstoʊn/",
+   "pos": "n. 里程碑；重大事件",
+   "zh": "里程碑；重大進展",
+   "colloc": "reach a milestone 達成里程碑 | key milestone 關鍵里程碑",
+   "distinct": "objective 目標 | corner 轉角",
+   "ex": [
+    [
+     "Reaching this sales milestone boosted team morale significantly.",
+     "達成這項銷售里程碑顯著提升了團隊士氣。"
+    ],
+    [
+     "The software launch represents a major corporate milestone.",
+     "軟體發布代表公司的一大重要里程碑。"
+    ],
+    [
+     "Engineers will celebrate their latest development milestone today.",
+     "工程師們今天將慶祝最新的開發里程碑。"
+    ]
+   ]
+  },
+  {
+   "word": "reschedule",
+   "ph": "/ˌriːˈskedʒuːl/",
+   "pos": "v. 重新排程；改期",
+   "zh": "重新排程；改期",
+   "colloc": "reschedule a meeting 重新安排會議 | reschedule for 改期至",
+   "distinct": "cancel 取消 | delay 延遲",
+   "ex": [
+    [
+     "Could we please reschedule the interview for next Friday?",
+     "請問我們可以將面試改期至下週五嗎？"
+    ],
+    [
+     "Bad weather forced organizers to reschedule the conference.",
+     "惡劣的天氣迫使主辦單位重新安排會議時間。"
+    ],
+    [
+     "The director rescheduled our weekly briefing without notice.",
+     "主任未事先通知就重新排定了每週簡報。"
+    ]
+   ]
+  },
+  {
+   "word": "overdue",
+   "ph": "/ˌoʊvərˈduː/",
+   "pos": "adj. 逾期的；拖欠的",
+   "zh": "逾期的；拖欠的",
+   "colloc": "overdue payment 逾期款項 | long overdue 延誤已久的",
+   "distinct": "expired 過期的（失效） | late 遲到的",
+   "ex": [
+    [
+     "The accounting department sent an overdue payment notice.",
+     "會計部門寄出了一份逾期款項催繳通知。"
+    ],
+    [
+     "This comprehensive system upgrade is already long overdue.",
+     "這項全面的系統升級早就該進行了。"
+    ],
+    [
+     "Borrowers must return overdue books to the library.",
+     "借閱者必須將逾期的書籍歸還圖書館。"
+    ]
+   ]
+  },
+  {
+   "word": "duration",
+   "ph": "/duˈreɪʃn/",
+   "pos": "n. 持續時間；期間",
+   "zh": "持續時間；期間",
+   "colloc": "for the duration of 在…期間 | short duration 短暫時間",
+   "distinct": "period 時期 | term 任期",
+   "ex": [
+    [
+     "Guests must wear badges for the duration of the visit.",
+     "訪客在造訪期間必須配戴識別證。"
+    ],
+    [
+     "The training program will have a duration of two weeks.",
+     "該培訓計畫的持續時間將為期兩週。"
+    ],
+    [
+     "Parking fees vary depending on the duration of stay.",
+     "停車費用取決於停留的時間長短。"
+    ]
+   ]
+  },
+  {
+   "word": "progress",
+   "ph": "/ˈprɑːɡres/",
+   "pos": "n. 進展；進步 | v. 推進",
+   "zh": "進展；進步",
+   "colloc": "make progress 取得進展 | track progress 追蹤進度",
+   "distinct": "process 流程 | proceed 繼續進行",
+   "ex": [
+    [
+     "The construction crew is making steady progress this month.",
+     "施工團隊這個月正取得穩定的進展。"
+    ],
+    [
+     "Managers meet weekly to track progress on new initiatives.",
+     "經理們每週開會以追蹤新計畫的進度。"
+    ],
+    [
+     "Technological progress has greatly accelerated our daily workflow.",
+     "科技的進步大幅加速了我們的日常工作流程。"
+    ]
+   ]
+  },
+  {
+   "word": "delay",
+   "ph": "/dɪˈleɪ/",
+   "pos": "n. 延誤；耽擱 | v. 延遲",
+   "zh": "延誤；延遲",
+   "colloc": "delay in delivery 交貨延誤 | without delay 毫不延遲",
+   "distinct": "defer 推遲 | cancel 取消",
+   "ex": [
+    [
+     "Flight delays caused several executives to miss the keynote.",
+     "航班延誤導致幾位主管錯過了主題演講。"
+    ],
+    [
+     "Please process these urgent shipping forms without delay.",
+     "請毫不延誤地處理這些緊急貨運表格。"
+    ],
+    [
+     "Supply shortages will definitely delay the product rollout.",
+     "供應短缺肯定會延誤這項產品的推出。"
+    ]
+   ]
+  },
+  {
+   "word": "completion",
+   "ph": "/kəmˈpliːʃn/",
+   "pos": "n. 完成；結束",
+   "zh": "完成；結束",
+   "colloc": "upon completion 在完成時 | target completion date 目標完工日",
+   "distinct": "conclusion 結論 | termination 終止",
+   "ex": [
+    [
+     "Full payment is due upon completion of the building work.",
+     "建築工程全部完工時須付清全額款項。"
+    ],
+    [
+     "The target completion date remains the fifteenth of November.",
+     "目標完成日期依然維持在十一月十五日。"
+    ],
+    [
+     "Workers received bonuses following the successful completion of tasks.",
+     "任務順利完成後，員工們獲得了獎金。"
+    ]
+   ]
+  },
+  {
+   "word": "urgent",
+   "ph": "/ˈɜːrdʒənt/",
+   "pos": "adj. 緊急的；急迫的",
+   "zh": "緊急的；急迫的",
+   "colloc": "urgent matter 緊急事項 | urgent request 緊急請求",
+   "distinct": "critical 關鍵的 | emergent 新興的",
+   "ex": [
+    [
+     "The branch manager called an urgent meeting this morning.",
+     "分行經理今天早上召開了一次緊急會議。"
+    ],
+    [
+     "Please treat this email response as an urgent matter.",
+     "請將這封電子郵件的回覆視為緊急事項。"
+    ],
+    [
+     "We received an urgent request for additional medical supplies.",
+     "我們收到了增援醫療物資的緊急請求。"
+    ]
+   ]
+  },
+  {
+   "word": "overlap",
+   "ph": "/ˌoʊvərˈlæp/",
+   "pos": "v. 重疊；部分重合 | n. 重疊",
+   "zh": "重疊；部分重合",
+   "colloc": "schedule overlap 行程重疊 | overlap with 與…重疊",
+   "distinct": "coincide 同時發生 | repeat 重複",
+   "ex": [
+    [
+     "Unfortunately, the two seminars overlap by thirty minutes.",
+     "不幸的是，這兩場研討會時間重疊了三十分鐘。"
+    ],
+    [
+     "Make sure duties do not overlap among department staff.",
+     "請確保部門同仁之間的職責沒有相互重疊。"
+    ],
+    [
+     "A scheduling overlap prevented her from attending both sessions.",
+     "時程重疊使她無法同時參加這兩場會議。"
+    ]
+   ]
+  },
+  {
+   "word": "phase",
+   "ph": "/feɪz/",
+   "pos": "n. 階段；時期 | v. 分階段進行",
+   "zh": "階段；時期",
+   "colloc": "initial phase 初期階段 | phase out 逐步淘汰",
+   "distinct": "stage 階段 | period 時期",
+   "ex": [
+    [
+     "The renovation is currently entering its final construction phase.",
+     "整修工程目前正邁入最後的施工階段。"
+    ],
+    [
+     "We plan to phase out obsolete office equipment soon.",
+     "我們計劃很快逐步淘汰過時的辦公設備。"
+    ],
+    [
+     "Testing began during the initial phase of software design.",
+     "測試工作在軟體設計的初期階段即已展開。"
+    ]
+   ]
+  },
+  {
+   "word": "pending",
+   "ph": "/ˈpendɪŋ/",
+   "pos": "adj. 待定的；未決的 | prep. 直到…為止",
+   "zh": "待決定的；未決的",
+   "colloc": "pending approval 等待批准 | patent pending 專利申請中",
+   "distinct": "suspended 暫停的 | uncertain 不確定的",
+   "ex": [
+    [
+     "Your travel reimbursement request remains pending online approval.",
+     "您的差旅報銷申請在線上仍處於待核准狀態。"
+    ],
+    [
+     "The merger was put on hold pending regulatory review.",
+     "在監管機構審查前，該合併案暫時擱置。"
+    ],
+    [
+     "Several transactions are still pending verification by the bank.",
+     "仍有數筆交易正等待銀行的查核確認。"
+    ]
+   ]
+  },
+  {
+   "word": "interval",
+   "ph": "/ˈɪntərvl/",
+   "pos": "n. 間隔；間歇",
+   "zh": "間隔；間歇",
+   "colloc": "regular intervals 定期；規則間隔 | time interval 時間間隔",
+   "distinct": "gap 間隙 | pause 暫停",
+   "ex": [
+    [
+     "Technicians inspect factory machinery at regular monthly intervals.",
+     "技術人員每個月定期檢查工廠的機器設備。"
+    ],
+    [
+     "The train leaves the terminal station at twenty-minute intervals.",
+     "火車每隔二十分鐘從終點站發車一次。"
+    ],
+    [
+     "There will be a brief interval between speaker presentations.",
+     "演講者的簡報之間將會有短暫的中場休息。"
+    ]
+   ]
+  },
+  {
+   "word": "punctual",
+   "ph": "/ˈpʌŋktʃuəl/",
+   "pos": "adj. 準時的；守時的",
+   "zh": "準時的；守時的",
+   "colloc": "punctual arrival 準時抵達 | remain punctual 保持準時",
+   "distinct": "prompt 即時的 | timely 及時的",
+   "ex": [
+    [
+     "Employees are strongly expected to be punctual for work.",
+     "公司強烈要求員工上班必須保持準時。"
+    ],
+    [
+     "The express shuttle bus is known for punctual service.",
+     "該快捷接駁公車以服務準時而聞名。"
+    ],
+    [
+     "Being punctual shows professional respect toward your business partners.",
+     "守時展現了對商業合作夥伴的專業尊重。"
+    ]
+   ]
+  },
+  {
+   "word": "prioritize",
+   "ph": "/praɪˈɔːrətaɪz/",
+   "pos": "v. 確定優先順序；優先處理",
+   "zh": "優先處理；劃分優先順序",
+   "colloc": "prioritize tasks 依優先順序排列任務 | prioritize customer needs 優先考慮客戶需求",
+   "distinct": "organize 組織 | prefer 偏好",
+   "ex": [
+    [
+     "Effective managers know how to prioritize their daily workloads.",
+     "有效率的經理人懂得如何將日常工作劃分優先順序。"
+    ],
+    [
+     "Our company will always prioritize product safety over profits.",
+     "我們公司將始終優先考慮產品安全而非利潤。"
+    ],
+    [
+     "Staff must prioritize resolving urgent client inquiries promptly.",
+     "員工必須優先迅速解決客戶的緊急諮詢問題。"
+    ]
+   ]
+  },
+  {
+   "word": "timeframe",
+   "ph": "/ˈtaɪmfreɪm/",
+   "pos": "n. 時間範圍；時限",
+   "zh": "時間範圍；預定時限",
+   "colloc": "within the timeframe 在時間範圍內 | realistic timeframe 合理的時限",
+   "distinct": "deadline 截止日 | timespan 時間跨度",
+   "ex": [
+    [
+     "The contractor promised to finish within the agreed timeframe.",
+     "承包商承諾在約定的時間範圍之內完工。"
+    ],
+    [
+     "Setting a realistic timeframe helps prevent widespread team burnout.",
+     "設定合理的時限有助於防止團隊普遍倦怠。"
+    ],
+    [
+     "Can we deliver the order within such a short timeframe?",
+     "我們能在這麼短的時間範圍內交貨嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "suspend",
+   "ph": "/səˈspend/",
+   "pos": "v. 暫停；中止",
+   "zh": "暫停；中止",
+   "colloc": "suspend operations 暫停營運 | temporarily suspend 暫時中斷",
+   "distinct": "terminate 終止 | pause 暫停",
+   "ex": [
+    [
+     "The airline had to suspend flights due to severe blizzards.",
+     "航空公司因強烈暴風雪不得不暫停航班。"
+    ],
+    [
+     "Management decided to temporarily suspend trading this morning.",
+     "管理階層今天早上決定暫時中止交易。"
+    ],
+    [
+     "Factory managers suspended assembly line operations for maintenance checks.",
+     "工廠經理暫停了裝配線的作業以進行維護檢查。"
+    ]
+   ]
+  },
+  {
+   "word": "expedite",
+   "ph": "/ˈekspədaɪt/",
+   "pos": "v. 加快；加速完成",
+   "zh": "加快；促進",
+   "colloc": "expedite the process 加速流程 | expedite delivery 加快配送",
+   "distinct": "accelerate 加速 | quicken 變快",
+   "ex": [
+    [
+     "Please pay an extra fee to expedite the shipping process.",
+     "請支付額外費用以加快貨物配送的流程。"
+    ],
+    [
+     "Automation helped expedite order fulfillment in our warehouse.",
+     "自動化有助於加速我們倉庫中訂單的履行。"
+    ],
+    [
+     "The agency took steps to expedite the visa application review.",
+     "該機構採取措施以加快簽證申請的審查。"
+    ]
+   ]
+  },
+  {
+   "word": "quarterly",
+   "ph": "/ˈkwɔːrtərli/",
+   "pos": "adj. 每季的 | adv. 按季地",
+   "zh": "每季的；季度性地",
+   "colloc": "quarterly report 季度報告 | quarterly review 季度檢視",
+   "distinct": "annual 年度的 | monthly 每月的",
+   "ex": [
+    [
+     "The finance team publishes the quarterly earnings report today.",
+     "財務團隊今天發布了季度的財報收益結果。"
+    ],
+    [
+     "Board members gather quarterly to discuss major corporate investments.",
+     "董事會成員每季集會一次以討論重大企業投資。"
+    ],
+    [
+     "Our division achieved its highest quarterly revenue this year.",
+     "我們部門創下了今年度最高的單季營業收入。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:53"
+}

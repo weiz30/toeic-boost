@@ -1,0 +1,405 @@
+{
+ "day": 23,
+ "theme": "機場與通關",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "departure",
+   "ph": "/dɪˈpɑːrtʃər/",
+   "pos": "n. 出發；離開",
+   "zh": "出發；啟程",
+   "colloc": "departure gate 出境登機門 | scheduled departure 預定出發",
+   "distinct": "arrival 到達 | exit 出口",
+   "ex": [
+    [
+     "Check the departure time on the screen.",
+     "確認螢幕上的出發時間。"
+    ],
+    [
+     "The flight departure was delayed by rain.",
+     "班機因雨延後起飛。"
+    ],
+    [
+     "Proceed to the departure gate immediately.",
+     "請立即前往登機門。"
+    ]
+   ]
+  },
+  {
+   "word": "terminal",
+   "ph": "/ˈtɜːrmɪnl/",
+   "pos": "n. 航廈；終點站",
+   "zh": "航廈；終站",
+   "colloc": "airport terminal 機場航廈 | international terminal 國際航廈",
+   "distinct": "station 車站 | concourse 大廳",
+   "ex": [
+    [
+     "Your flight leaves from Terminal Two.",
+     "您的班機在第二航廈起飛。"
+    ],
+    [
+     "The shuttle bus stops at every terminal.",
+     "接駁巴士停靠每個航廈。"
+    ],
+    [
+     "We met at the main terminal building.",
+     "我們在主航廈大樓會合。"
+    ]
+   ]
+  },
+  {
+   "word": "immigration",
+   "ph": "/ˌɪmɪˈɡreɪʃn/",
+   "pos": "n. 入境管理；移民",
+   "zh": "移民局；入境檢查",
+   "colloc": "immigration officer 入境官員 | pass through immigration 通過入境檢查",
+   "distinct": "customs 海關 | emigration 遷出",
+   "ex": [
+    [
+     "Present your passport to immigration officers.",
+     "將護照出示給入境官員。"
+    ],
+    [
+     "The immigration line was very long.",
+     "入境檢查的排隊人潮很長。"
+    ],
+    [
+     "Complete the form before reaching immigration.",
+     "抵達入境處前填妥表格。"
+    ]
+   ]
+  },
+  {
+   "word": "customs",
+   "ph": "/ˈkʌstəmz/",
+   "pos": "n. 海關",
+   "zh": "海關；關稅",
+   "colloc": "customs declaration 海關申報 | clear customs 通關",
+   "distinct": "immigration 入境檢查 | duty 稅務",
+   "ex": [
+    [
+     "Do you have anything to declare to customs?",
+     "有任何物品要向海關申報嗎？"
+    ],
+    [
+     "She was stopped at customs for questioning.",
+     "她在海關被攔下問話。"
+    ],
+    [
+     "Clear customs after collecting your baggage.",
+     "領取行李後辦理通關。"
+    ]
+   ]
+  },
+  {
+   "word": "boarding",
+   "ph": "/ˈbɔːrdɪŋ/",
+   "pos": "n. 登機",
+   "zh": "登機",
+   "colloc": "boarding pass 登機證 | boarding gate 登機門",
+   "distinct": "landing 降落 | takeoff 起飛",
+   "ex": [
+    [
+     "The boarding process will begin shortly.",
+     "登機程序即將開始。"
+    ],
+    [
+     "Keep your boarding pass ready for inspection.",
+     "請備妥登機證以供檢查。"
+    ],
+    [
+     "Final boarding call for flight BR50.",
+     "飛往BR50班機最後登機廣播。"
+    ]
+   ]
+  },
+  {
+   "word": "baggage",
+   "ph": "/ˈbæɡɪdʒ/",
+   "pos": "n. 行李",
+   "zh": "行李",
+   "colloc": "baggage claim 行李領取處 | excess baggage 超重行李",
+   "distinct": "luggage 行李 | suitcase 手提箱",
+   "ex": [
+    [
+     "Collect your baggage at carousel five.",
+     "請在五號轉盤領取行李。"
+    ],
+    [
+     "The baggage allowance is twenty kilograms.",
+     "行李限重為二十公斤。"
+    ],
+    [
+     "Report any missing baggage to staff.",
+     "向員工報告遺失的行李。"
+    ]
+   ]
+  },
+  {
+   "word": "layover",
+   "ph": "/ˈleɪoʊvər/",
+   "pos": "n. 中途停留",
+   "zh": "轉機停留；短暫停留",
+   "colloc": "short layover 短暫停留 | long layover 長時間轉機",
+   "distinct": "stopover 中途下機 | transit 過境",
+   "ex": [
+    [
+     "We had a six-hour layover in Tokyo.",
+     "我們在東京有六小時轉機時間。"
+    ],
+    [
+     "The flight includes a brief layover.",
+     "該班機包含一次短暫停留。"
+    ],
+    [
+     "I prefer a direct flight without layovers.",
+     "我偏好沒有轉機的直飛航班。"
+    ]
+   ]
+  },
+  {
+   "word": "passport",
+   "ph": "/ˈpæspɔːrt/",
+   "pos": "n. 護照",
+   "zh": "護照",
+   "colloc": "valid passport 有效護照 | renew a passport 換發護照",
+   "distinct": "visa 簽證 | identity 身分",
+   "ex": [
+    [
+     "Ensure your passport is valid for travel.",
+     "確保您的護照在旅行期間有效。"
+    ],
+    [
+     "The officer stamped my passport carefully.",
+     "官員小心地在護照上蓋章。"
+    ],
+    [
+     "Keep your passport in a secure place.",
+     "將護照放在安全的地方。"
+    ]
+   ]
+  },
+  {
+   "word": "visa",
+   "ph": "/ˈviːzə/",
+   "pos": "n. 簽證",
+   "zh": "簽證",
+   "colloc": "apply for a visa 申請簽證 | tourist visa 觀光簽證",
+   "distinct": "passport 護照 | permit 許可證",
+   "ex": [
+    [
+     "Do you require a visa for entry?",
+     "您入境需要申請簽證嗎？"
+    ],
+    [
+     "The visa application was processed quickly.",
+     "簽證申請處理得很迅速。"
+    ],
+    [
+     "Check the visa requirements before departure.",
+     "出發前查詢簽證要求。"
+    ]
+   ]
+  },
+  {
+   "word": "excess",
+   "ph": "/ɪkˈses/",
+   "pos": "adj. 超額的 | n. 超過",
+   "zh": "過量的；超額的",
+   "colloc": "excess baggage 超重行李 | excess weight 超出重量",
+   "distinct": "surplus 剩餘 | extra 額外的",
+   "ex": [
+    [
+     "Pay the fee for your excess baggage.",
+     "繳交您的超重行李費用。"
+    ],
+    [
+     "There is an excess of cargo today.",
+     "今天的貨物量超額了。"
+    ],
+    [
+     "Avoid carrying excess items during travel.",
+     "旅行中避免攜帶過多物品。"
+    ]
+   ]
+  },
+  {
+   "word": "declare",
+   "ph": "/dɪˈkler/",
+   "pos": "v. 申報；聲明",
+   "zh": "申報；宣告",
+   "colloc": "declare items 申報物品 | customs declaration 海關申報",
+   "distinct": "state 陳述 | announce 公布",
+   "ex": [
+    [
+     "You must declare any taxable goods.",
+     "您必須申報任何應稅物品。"
+    ],
+    [
+     "Nothing to declare for this trip.",
+     "這趟旅行沒有要申報的物品。"
+    ],
+    [
+     "The passenger declared the expensive camera.",
+     "該旅客申報了昂貴的相機。"
+    ]
+   ]
+  },
+  {
+   "word": "verify",
+   "ph": "/ˈverɪfaɪ/",
+   "pos": "v. 核實；驗證",
+   "zh": "核對；證明",
+   "colloc": "verify identity 確認身分 | verify information 核實資訊",
+   "distinct": "confirm 確認 | check 檢查",
+   "ex": [
+    [
+     "Verify your flight details online today.",
+     "今天在線上核對您的班機資訊。"
+    ],
+    [
+     "The agent verified his booking status.",
+     "地勤人員核實了他的訂位狀態。"
+    ],
+    [
+     "Staff verify passports at the gate.",
+     "員工在登機門核對護照。"
+    ]
+   ]
+  },
+  {
+   "word": "prohibited",
+   "ph": "/prəˈhɪbɪtɪd/",
+   "pos": "adj. 被禁止的",
+   "zh": "禁止的；違禁的",
+   "colloc": "prohibited items 禁止攜帶物品 | strictly prohibited 嚴格禁止",
+   "distinct": "forbidden 禁止的 | restricted 受限的",
+   "ex": [
+    [
+     "Sharp objects are strictly prohibited onboard.",
+     "尖銳物品嚴格禁止攜帶上機。"
+    ],
+    [
+     "Check the list of prohibited substances.",
+     "查看違禁品清單。"
+    ],
+    [
+     "Prohibited goods will be confiscated immediately.",
+     "違禁品將會立即被沒收。"
+    ]
+   ]
+  },
+  {
+   "word": "concourse",
+   "ph": "/ˈkɑːnkɔːrs/",
+   "pos": "n. 大廳；中央廣場",
+   "zh": "中央大廳；候機區",
+   "colloc": "airport concourse 機場大廳 | main concourse 主大廳",
+   "distinct": "terminal 航廈 | lounge 休息室",
+   "ex": [
+    [
+     "Meet me in the main airport concourse.",
+     "在機場主大廳與我會合。"
+    ],
+    [
+     "The concourse is crowded with travelers.",
+     "大廳擠滿了旅客。"
+    ],
+    [
+     "Follow signs to the departure concourse.",
+     "跟隨指示牌前往出境大廳。"
+    ]
+   ]
+  },
+  {
+   "word": "announcement",
+   "ph": "/əˈnaʊnsmənt/",
+   "pos": "n. 公告；廣播",
+   "zh": "廣播；通知",
+   "colloc": "make an announcement 發布廣播 | listen for announcements 注意聽廣播",
+   "distinct": "notification 通知 | declaration 宣告",
+   "ex": [
+    [
+     "Listen for the final boarding announcement.",
+     "注意聽最後登機廣播。"
+    ],
+    [
+     "An announcement regarding flight delays happened.",
+     "關於班機延誤的廣播響起。"
+    ],
+    [
+     "Check the board for important announcements.",
+     "查看告示板的重要公告。"
+    ]
+   ]
+  },
+  {
+   "word": "transfer",
+   "ph": "/ˈtrænsfər/",
+   "pos": "n. 轉機；轉移 | v. 轉換",
+   "zh": "轉機；轉乘",
+   "colloc": "transfer desk 轉機櫃檯 | airport transfer 機場接送",
+   "distinct": "transit 過境 | connection 接駁",
+   "ex": [
+    [
+     "Follow signs to the transfer area.",
+     "跟隨指示前往轉機區。"
+    ],
+    [
+     "Proceed to the transfer desk immediately.",
+     "請立即前往轉機櫃檯。"
+    ],
+    [
+     "My flight transfer was quite smooth.",
+     "我的轉機過程相當順利。"
+    ]
+   ]
+  },
+  {
+   "word": "escort",
+   "ph": "/ˈeskɔːrt/",
+   "pos": "v. 護送；陪同 | n. 護衛",
+   "zh": "陪同；護送",
+   "colloc": "security escort 安全護送 | escort to the gate 護送至登機門",
+   "distinct": "guide 引導 | accompany 陪伴",
+   "ex": [
+    [
+     "Staff will escort you to the gate.",
+     "員工將陪同您前往登機門。"
+    ],
+    [
+     "He was escorted by security personnel.",
+     "他由安全人員陪同離開。"
+    ],
+    [
+     "Please escort the guests to the lounge.",
+     "請帶領賓客前往貴賓室。"
+    ]
+   ]
+  },
+  {
+   "word": "confiscate",
+   "ph": "/ˈkɑːnfɪskeɪt/",
+   "pos": "v. 沒收；充公",
+   "zh": "沒收",
+   "colloc": "confiscate items 沒收物品 | be confiscated 被沒收",
+   "distinct": "seize 查扣 | remove 移除",
+   "ex": [
+    [
+     "The security officer confiscated his liquid.",
+     "安檢人員沒收了他的液體。"
+    ],
+    [
+     "Sharp tools will be confiscated promptly.",
+     "尖銳工具將會被立即沒收。"
+    ],
+    [
+     "Any prohibited items will be confiscated.",
+     "任何違禁品都將被沒收。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

@@ -1,0 +1,383 @@
+{
+ "day": 41,
+ "theme": "預算編列",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "apportion",
+   "ph": "/əˈpɔːrʃn/",
+   "pos": "v. 分配；分派",
+   "zh": "分配；撥給",
+   "colloc": "apportion funds 撥款 | apportion blame 分擔責任",
+   "distinct": "distribute 散佈 | allot 指派工作",
+   "ex": [
+    [
+     "The finance committee must apportion the funds fairly among departments.",
+     "財務委員會必須在各部門之間公平地分配資金。"
+    ],
+    [
+     "We need to apportion the remaining budget for the next quarter.",
+     "我們需要為下一季分配剩餘的預算。"
+    ],
+    [
+     "The costs were apportioned based on the usage of each team.",
+     "費用是根據每個團隊的使用情況進行分攤的。"
+    ]
+   ]
+  },
+  {
+   "word": "appropriation",
+   "ph": "/əˌproʊpriˈeɪʃn/",
+   "pos": "n. 撥款；專款",
+   "zh": "撥款；挪用",
+   "colloc": "budget appropriation 預算撥款 | annual appropriation 年度撥款",
+   "distinct": "grant 補助金 | subsidy 津貼",
+   "ex": [
+    [
+     "The legislative body approved a massive appropriation for infrastructure projects.",
+     "立法機關批准了一項用於基礎設施建設的巨額撥款。"
+    ],
+    [
+     "Management requested an emergency appropriation to cover the repair costs.",
+     "管理層要求緊急撥款以支付維修費用。"
+    ],
+    [
+     "The total appropriation for research and development has been increased.",
+     "研發的總撥款金額已經有所增加。"
+    ]
+   ]
+  },
+  {
+   "word": "contingency",
+   "ph": "/kənˈtɪndʒənsi/",
+   "pos": "n. 意外事故；應急準備",
+   "zh": "應急費用；偶然性",
+   "colloc": "contingency plan 應變計畫 | contingency fund 準備金",
+   "distinct": "emergency 緊急狀況 | provision 條款",
+   "ex": [
+    [
+     "We have set aside ten percent of the budget for contingency.",
+     "我們已經預留了預算的百分之十作為應急準備金。"
+    ],
+    [
+     "A contingency plan is essential for any large-scale financial project.",
+     "對於任何大型財務專案，應變計畫都是必不可少的。"
+    ],
+    [
+     "The project costs increased due to an unforeseen contingency last month.",
+     "由於上個月發生不可預見的意外，專案成本增加了。"
+    ]
+   ]
+  },
+  {
+   "word": "curtail",
+   "ph": "/kɜːrˈteɪl/",
+   "pos": "v. 縮減；限制",
+   "zh": "縮減；削減",
+   "colloc": "curtail spending 縮減開支 | curtail production 減產",
+   "distinct": "reduce 減少 | terminate 終止",
+   "ex": [
+    [
+     "The company had to curtail its travel expenses this fiscal year.",
+     "公司在本財政年度不得不縮減差旅支出。"
+    ],
+    [
+     "Rising operational costs forced the firm to curtail some non-essential services.",
+     "營運成本上升迫使公司縮減了一些非必要的服務。"
+    ],
+    [
+     "We must curtail our marketing budget until our revenue stabilizes.",
+     "在營收穩定之前，我們必須削減行銷預算。"
+    ]
+   ]
+  },
+  {
+   "word": "discretionary",
+   "ph": "/dɪˈskreʃəneri/",
+   "pos": "adj. 自由裁量的；自主支配的",
+   "zh": "自由支配的；任意的",
+   "colloc": "discretionary income 可支配所得 | discretionary spending 自主性支出",
+   "distinct": "mandatory 強制性的 | arbitrary 隨意的",
+   "ex": [
+    [
+     "The manager has a small discretionary fund for office improvements.",
+     "經理擁有一小筆可用於辦公室改善的自由支配資金。"
+    ],
+    [
+     "Families often cut back on discretionary spending during an economic downturn.",
+     "經濟低迷時期，家庭通常會削減自主性支出。"
+    ],
+    [
+     "Discretionary bonuses will be awarded based on individual performance reviews.",
+     "自主性獎金將根據個人績效評估結果發放。"
+    ]
+   ]
+  },
+  {
+   "word": "earmark",
+   "ph": "/ˈɪrmɑːrk/",
+   "pos": "v. 指定用途；預留 | n. 特徵",
+   "zh": "撥出；指定",
+   "colloc": "earmark for 被指定用於 | earmark funds 撥專款",
+   "distinct": "reserve 保留 | designate 指定職位",
+   "ex": [
+    [
+     "The government decided to earmark more money for renewable energy.",
+     "政府決定撥出更多資金用於再生能源。"
+    ],
+    [
+     "These profits are earmarked for the construction of a new factory.",
+     "這些利潤已被指定用於建設新工廠。"
+    ],
+    [
+     "They will earmark a portion of the grant for staff training.",
+     "他們將撥出一部分補助金用於員工培訓。"
+    ]
+   ]
+  },
+  {
+   "word": "frugal",
+   "ph": "/ˈfruːɡl/",
+   "pos": "adj. 節儉的；簡樸的",
+   "zh": "節省的；簡約的",
+   "colloc": "frugal lifestyle 節儉的生活 | frugal management 節約管理",
+   "distinct": "economical 經濟實惠的 | stingy 吝嗇的",
+   "ex": [
+    [
+     "The startup maintained a frugal approach to survive the first year.",
+     "這家新創公司保持節儉的方式以度過第一年。"
+    ],
+    [
+     "Our CEO is known for being frugal with the company resources.",
+     "我們的執行長以對公司資源的節省而聞名。"
+    ],
+    [
+     "A frugal budget allowed the small business to remain debt-free.",
+     "節約的預算使這家小企業能夠保持無債務狀態。"
+    ]
+   ]
+  },
+  {
+   "word": "increment",
+   "ph": "/ˈɪŋkrəmənt/",
+   "pos": "n. 增加；增值",
+   "zh": "增量；加薪",
+   "colloc": "annual increment 年度加薪 | salary increment 調薪",
+   "distinct": "increase 增加 | expansion 擴張",
+   "ex": [
+    [
+     "Employees can expect a five percent salary increment every January.",
+     "員工可以預期每年一月有百分之五的薪資調升。"
+    ],
+    [
+     "The budget will be released in small increments over six months.",
+     "預算將在六個月內以小額增量的形式分批發放。"
+    ],
+    [
+     "The system automatically calculates the tax increment based on your earnings.",
+     "系統會根據你的收入自動計算稅收增額。"
+    ]
+   ]
+  },
+  {
+   "word": "justification",
+   "ph": "/ˌdʒʌstɪfɪˈkeɪʃn/",
+   "pos": "n. 正當理由；辯解",
+   "zh": "理由；證明",
+   "colloc": "budget justification 預算說明 | provide justification 提供理由",
+   "distinct": "reason 理由 | validation 驗證",
+   "ex": [
+    [
+     "The department head provided a detailed justification for the additional staff.",
+     "部門主管為增聘員工提供了詳細的正當理由。"
+    ],
+    [
+     "Without proper justification, the board will not approve the expensive equipment.",
+     "若無適當理由，董事會將不會批准購買昂貴設備。"
+    ],
+    [
+     "The memo serves as a justification for the recent price increase.",
+     "這份備忘錄是作為最近價格調漲的說明文件。"
+    ]
+   ]
+  },
+  {
+   "word": "oversight",
+   "ph": "/ˈoʊvərsaɪt/",
+   "pos": "n. 監督；疏忽",
+   "zh": "監督；失察",
+   "colloc": "budgetary oversight 預算監督 | through an oversight 由於疏忽",
+   "distinct": "supervision 監理 | negligence 怠忽職守",
+   "ex": [
+    [
+     "The committee is responsible for the financial oversight of the project.",
+     "該委員會負責該專案的財務監督。"
+    ],
+    [
+     "The payment was missed due to a clerical oversight in accounting.",
+     "由於會計部門的文書疏忽，導致漏掉了該筆付款。"
+    ],
+    [
+     "Strict oversight is required to ensure the funds are used correctly.",
+     "需要嚴格監督以確保資金被正確使用。"
+    ]
+   ]
+  },
+  {
+   "word": "prudent",
+   "ph": "/ˈpruːdnt/",
+   "pos": "adj. 謹慎的；精明的",
+   "zh": "審慎的；穩健的",
+   "colloc": "prudent investment 審慎投資 | prudent financial management 穩健理財",
+   "distinct": "cautious 小心的 | wise 聰明的",
+   "ex": [
+    [
+     "A prudent investor always considers the potential risks before committing capital.",
+     "審慎的投資者在投入資金前總是會考慮潛在風險。"
+    ],
+    [
+     "The board made a prudent decision to postpone the expansion project.",
+     "董事會做出了延後擴張計畫的明智決定。"
+    ],
+    [
+     "Maintaining a cash reserve is a prudent practice for small businesses.",
+     "保持現金儲備對小企業來說是穩健的做法。"
+    ]
+   ]
+  },
+  {
+   "word": "redundancy",
+   "ph": "/rɪˈdʌndənsi/",
+   "pos": "n. 多餘；裁員",
+   "zh": "冗餘；裁減人員",
+   "colloc": "compulsory redundancy 強制裁員 | redundancy pay 遣散費",
+   "distinct": "surplus 過剩 | dismissal 解雇",
+   "ex": [
+    [
+     "The merger led to several redundancies in the administrative department.",
+     "此次合併導致行政部門出現了數個裁員名額。"
+    ],
+    [
+     "Automating the process has eliminated the need for data entry redundancy.",
+     "流程自動化消除了解決數據輸入冗餘的需求。"
+    ],
+    [
+     "The company offered voluntary redundancy packages to senior staff members.",
+     "公司向資深員工提供了自願遣散方案。"
+    ]
+   ]
+  },
+  {
+   "word": "shortfall",
+   "ph": "/ˈʃɔːrtfɔːl/",
+   "pos": "n. 差額；缺少",
+   "zh": "短缺；不足之量",
+   "colloc": "budget shortfall 預算短缺 | revenue shortfall 收入不足",
+   "distinct": "deficit 赤字 | shortage 短缺",
+   "ex": [
+    [
+     "The unexpected legal fees caused a significant shortfall in our annual budget.",
+     "意外的法律費用導致我們的年度預算出現重大短缺。"
+    ],
+    [
+     "We need to find alternative funding to cover the budget shortfall.",
+     "我們需要尋找替代資金來彌補預算缺口。"
+    ],
+    [
+     "A shortfall in production led to a decrease in quarterly sales.",
+     "生產不足導致了季度銷售額的下降。"
+    ]
+   ]
+  },
+  {
+   "word": "stipulate",
+   "ph": "/ˈstɪpjuleɪt/",
+   "pos": "v. 規定；約定",
+   "zh": "規定；明確要求",
+   "colloc": "stipulate conditions 規定條件 | as stipulated in the contract 如合同規定",
+   "distinct": "specify 詳述 | require 要求",
+   "ex": [
+    [
+     "The agreement stipulates that all expenses must be approved in advance.",
+     "協議規定所有支出都必須事先獲得批准。"
+    ],
+    [
+     "The contract stipulates a penalty for any delays in the delivery.",
+     "合約中規定了任何交貨延遲的罰則。"
+    ],
+    [
+     "International laws stipulate how these specific funds should be managed.",
+     "國際法律規定了這些特定資金應如何管理。"
+    ]
+   ]
+  },
+  {
+   "word": "stringent",
+   "ph": "/ˈstrɪndʒənt/",
+   "pos": "adj. 嚴格的；嚴厲的",
+   "zh": "嚴格的；銀根緊的",
+   "colloc": "stringent requirements 嚴格要求 | stringent budget 嚴格的預算",
+   "distinct": "strict 嚴厲的 | rigorous 嚴密的",
+   "ex": [
+    [
+     "The project must comply with stringent safety regulations set by the city.",
+     "該專案必須遵守城市設定的嚴格安全法規。"
+    ],
+    [
+     "A stringent budget policy was implemented to control the company expenses.",
+     "為了控制公司開支，執行了嚴格的預算政策。"
+    ],
+    [
+     "Candidates must meet the stringent criteria to qualify for the scholarship.",
+     "候選人必須符合嚴格的標準才有資格獲得獎學金。"
+    ]
+   ]
+  },
+  {
+   "word": "variance",
+   "ph": "/ˈværiəns/",
+   "pos": "n. 差異；不一致",
+   "zh": "變動；變異額",
+   "colloc": "budget variance 預算差異 | at variance with 與...不符",
+   "distinct": "difference 不同 | deviation 偏差",
+   "ex": [
+    [
+     "The manager explained the reasons for the variance between actual and estimated costs.",
+     "經理說明了實際成本與預估成本之間產生差異的原因。"
+    ],
+    [
+     "We need to analyze the monthly variance in our utility expenses.",
+     "我們需要分析每月水電費支出的變動情況。"
+    ],
+    [
+     "Any significant variance in the financial report must be investigated immediately.",
+     "財務報告中的任何重大差異都必須立即調查。"
+    ]
+   ]
+  },
+  {
+   "word": "viability",
+   "ph": "/ˌvaɪəˈbɪləti/",
+   "pos": "n. 可行性；生存能力",
+   "zh": "可行性；發展能力",
+   "colloc": "economic viability 經濟可行性 | long-term viability 長期生存能力",
+   "distinct": "feasibility 可行性 | capability 能力",
+   "ex": [
+    [
+     "The investors are questioning the long-term viability of the current business model.",
+     "投資者正在質疑目前商業模式的長期可行性。"
+    ],
+    [
+     "A thorough market study is required to assess the commercial viability.",
+     "需要進行深入的市場研究以評估其商業可行性。"
+    ],
+    [
+     "The government is concerned about the financial viability of the public project.",
+     "政府擔心該公共工程在財務上的可行性。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:03"
+}

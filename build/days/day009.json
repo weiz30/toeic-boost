@@ -1,0 +1,449 @@
+{
+ "day": 9,
+ "theme": "薪資與福利",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "compensation",
+   "ph": "/ˌkɑːmpənˈseɪʃn/",
+   "pos": "n. 薪資；賠償",
+   "zh": "薪資；補償；賠償",
+   "colloc": "financial compensation 金錢補償 | seek compensation 要求賠償",
+   "distinct": "salary 固定薪水 | wage 時薪或週薪",
+   "ex": [
+    [
+     "The company offers a competitive compensation package.",
+     "公司提供具競爭力的薪酬福利組合。"
+    ],
+    [
+     "Employees deserve fair compensation for their hard work.",
+     "員工辛勤工作應獲得公平的薪資報酬。"
+    ],
+    [
+     "She received compensation after the project was cancelled.",
+     "專案取消後她獲得了相關的賠償。"
+    ]
+   ]
+  },
+  {
+   "word": "remuneration",
+   "ph": "/rɪˌmjuːnəˈreɪʃn/",
+   "pos": "n. 報酬；薪酬",
+   "zh": "報酬；酬勞",
+   "colloc": "total remuneration 總報酬 | offer remuneration 提供薪酬",
+   "distinct": "pay 一般性薪資 | income 總收入",
+   "ex": [
+    [
+     "His remuneration includes health insurance and bonuses.",
+     "他的報酬包含醫療保險與各類獎金。"
+    ],
+    [
+     "The executive discussed his remuneration package today.",
+     "高階主管今天討論了他的薪酬合約。"
+    ],
+    [
+     "Adequate remuneration is essential to attract top talent.",
+     "充足的報酬對於吸引頂尖人才至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "bonus",
+   "ph": "/ˈboʊnəs/",
+   "pos": "n. 獎金；紅利",
+   "zh": "獎金；紅利；額外報酬",
+   "colloc": "annual bonus 年終獎金 | performance bonus 績效獎金",
+   "distinct": "commission 佣金 | incentive 誘因",
+   "ex": [
+    [
+     "The staff received a bonus for their efficiency.",
+     "員工因為高效率的工作表現領取獎金。"
+    ],
+    [
+     "Our performance bonus depends on quarterly sales figures.",
+     "我們的績效獎金取決於季度銷售數字。"
+    ],
+    [
+     "He used his annual bonus to invest in stocks.",
+     "他將年終獎金用於投資股票。"
+    ]
+   ]
+  },
+  {
+   "word": "allowance",
+   "ph": "/əˈlaʊəns/",
+   "pos": "n. 津貼；零用錢",
+   "zh": "津貼；補貼",
+   "colloc": "travel allowance 差旅津貼 | housing allowance 房屋津貼",
+   "distinct": "stipend 固定生活費 | subsidy 政府補助",
+   "ex": [
+    [
+     "The company provides a monthly travel allowance.",
+     "公司每月提供一筆差旅津貼。"
+    ],
+    [
+     "Check your contract for the housing allowance details.",
+     "請確認合約中關於房屋津貼的細節。"
+    ],
+    [
+     "She requested an allowance for her relocation expenses.",
+     "她申請了一筆搬遷費用津貼。"
+    ]
+   ]
+  },
+  {
+   "word": "deduction",
+   "ph": "/dɪˈdʌkʃn/",
+   "pos": "n. 扣除；扣除額",
+   "zh": "扣除；減除額",
+   "colloc": "tax deduction 稅務扣除 | payroll deduction 薪資扣款",
+   "distinct": "reduction 減少 | subtraction 減法",
+   "ex": [
+    [
+     "Look at the tax deduction on your pay stub.",
+     "看看薪資單上的稅務扣除額。"
+    ],
+    [
+     "The total salary is calculated before any deductions.",
+     "總薪資是在扣除項目之前計算的。"
+    ],
+    [
+     "Automatic payroll deduction is a common payment method.",
+     "自動薪資扣款是一種常見的支付方式。"
+    ]
+   ]
+  },
+  {
+   "word": "incentive",
+   "ph": "/ɪnˈsentɪv/",
+   "pos": "n. 誘因；獎勵",
+   "zh": "誘因；動機；獎勵",
+   "colloc": "provide an incentive 提供誘因 | financial incentive 財務獎勵",
+   "distinct": "motivation 動機 | bonus 具體獎金",
+   "ex": [
+    [
+     "Management needs a better incentive to improve productivity.",
+     "管理層需要更好的激勵措施來提升生產力。"
+    ],
+    [
+     "Tax breaks are an incentive for small businesses.",
+     "稅收優惠對小型企業而言是一種誘因。"
+    ],
+    [
+     "They offer incentives for employees who finish early.",
+     "他們為提早完成工作的員工提供獎勵。"
+    ]
+   ]
+  },
+  {
+   "word": "pension",
+   "ph": "/ˈpenʃn/",
+   "pos": "n. 退休金；撫卹金",
+   "zh": "退休金；年金",
+   "colloc": "pension plan 退休金計畫 | receive a pension 領取退休金",
+   "distinct": "retirement 退休狀態 | severance 資遣費",
+   "ex": [
+    [
+     "Our company offers a solid pension plan for everyone.",
+     "我們公司為每個人提供完善的退休金計畫。"
+    ],
+    [
+     "He started contributing to his pension fund early.",
+     "他很早就開始向退休基金繳款。"
+    ],
+    [
+     "The pension age is changing due to government policies.",
+     "由於政府政策，退休年齡正在改變。"
+    ]
+   ]
+  },
+  {
+   "word": "benefit",
+   "ph": "/ˈbenɪfɪt/",
+   "pos": "n. 福利；利益 | v. 受益",
+   "zh": "福利；利益；益處",
+   "colloc": "fringe benefits 額外福利 | health benefits 醫療福利",
+   "distinct": "profit 利潤 | advantage 優勢",
+   "ex": [
+    [
+     "Does the job offer comprehensive medical benefits?",
+     "這份工作提供完善的醫療福利嗎？"
+    ],
+    [
+     "The new policy will benefit all current employees.",
+     "這項新政策將使所有現任員工受益。"
+    ],
+    [
+     "Employee benefits are listed clearly in the handbook.",
+     "員工福利清楚地列在員工手冊中。"
+    ]
+   ]
+  },
+  {
+   "word": "severance",
+   "ph": "/ˈsevərəns/",
+   "pos": "n. 資遣費；斷絕",
+   "zh": "資遣費；離職補償",
+   "colloc": "severance pay 資遣費 | severance package 資遣方案",
+   "distinct": "resignation 自動離職 | layoff 解僱",
+   "ex": [
+    [
+     "The company offered a generous severance package.",
+     "公司提供了一份優渥的資遣方案。"
+    ],
+    [
+     "She received three months of salary as severance.",
+     "她領到了三個月薪資作為資遣費。"
+    ],
+    [
+     "Legal advisors reviewed the terms of his severance.",
+     "法律顧問審閱了他資遣條款的細節。"
+    ]
+   ]
+  },
+  {
+   "word": "appraisal",
+   "ph": "/əˈpreɪzl/",
+   "pos": "n. 評估；績效考核",
+   "zh": "考核；評定；估價",
+   "colloc": "performance appraisal 績效考核 | annual appraisal 年度評估",
+   "distinct": "assessment 評量 | evaluation 評價",
+   "ex": [
+    [
+     "My annual performance appraisal is scheduled for Friday.",
+     "我的年度績效考核排在週五進行。"
+    ],
+    [
+     "Prepare for your appraisal by documenting your achievements.",
+     "記錄你的成就以準備好績效考核。"
+    ],
+    [
+     "The manager will discuss salary after the appraisal.",
+     "經理將在績效考核後討論薪資問題。"
+    ]
+   ]
+  },
+  {
+   "word": "commute",
+   "ph": "/kəˈmjuːt/",
+   "pos": "v. 通勤 | n. 通勤",
+   "zh": "通勤；上下班",
+   "colloc": "daily commute 每日通勤 | commute to work 通勤上班",
+   "distinct": "travel 旅遊 | transfer 轉職",
+   "ex": [
+    [
+     "He has a long commute to the downtown office.",
+     "他每天通勤到市中心的辦公室很遠。"
+    ],
+    [
+     "Does the company subsidize the cost of your commute?",
+     "公司有補助你的通勤費用嗎？"
+    ],
+    [
+     "Many staff members commute by train every day.",
+     "許多員工每天搭火車通勤。"
+    ]
+   ]
+  },
+  {
+   "word": "remittance",
+   "ph": "/rɪˈmɪtns/",
+   "pos": "n. 匯款；支付款",
+   "zh": "匯款；寄出的錢",
+   "colloc": "process a remittance 處理匯款 | monthly remittance 每月匯款",
+   "distinct": "transaction 交易 | payment 付款",
+   "ex": [
+    [
+     "Please confirm the remittance of the final payment.",
+     "請確認尾款的匯款事宜。"
+    ],
+    [
+     "The bank sent a notification about the remittance.",
+     "銀行寄送了關於該筆匯款的通知。"
+    ],
+    [
+     "International remittance fees are quite high these days.",
+     "現在國際匯款的手續費相當高。"
+    ]
+   ]
+  },
+  {
+   "word": "reimbursement",
+   "ph": "/ˌriːɪmˈbɜːrsmənt/",
+   "pos": "n. 核銷；報銷",
+   "zh": "報銷；償還；補償",
+   "colloc": "travel reimbursement 差旅報銷 | request reimbursement 申請報銷",
+   "distinct": "refund 退款 | compensation 賠償",
+   "ex": [
+    [
+     "Submit your receipts to claim travel reimbursement.",
+     "提交收據以申請差旅報銷。"
+    ],
+    [
+     "They processed the reimbursement within three business days.",
+     "他們在三個工作天內完成了報銷。"
+    ],
+    [
+     "She needs a reimbursement for the client dinner.",
+     "她需要為那場客戶晚餐進行報銷。"
+    ]
+   ]
+  },
+  {
+   "word": "overtime",
+   "ph": "/ˈoʊvərtaɪm/",
+   "pos": "n. 加班 | adv. 加班地",
+   "zh": "加班；超時工作",
+   "colloc": "work overtime 加班 | overtime pay 加班費",
+   "distinct": "extra hours 額外工時 | shift 輪班",
+   "ex": [
+    [
+     "Working overtime is necessary to meet the deadline.",
+     "為了趕上截止日期，加班是必要的。"
+    ],
+    [
+     "He requested overtime pay for the weekend work.",
+     "他為週末的工作申請了加班費。"
+    ],
+    [
+     "The team worked overtime to finish the report.",
+     "團隊為了完成報告而加班。"
+    ]
+   ]
+  },
+  {
+   "word": "stipend",
+   "ph": "/ˈstaɪpend/",
+   "pos": "n. 定期生活費；薪俸",
+   "zh": "生活津貼；固定報酬",
+   "colloc": "monthly stipend 每月津貼 | research stipend 研究津貼",
+   "distinct": "salary 固定薪水 | allowance 零用錢",
+   "ex": [
+    [
+     "Interns receive a small stipend during the summer.",
+     "實習生在夏季期間會領取少量津貼。"
+    ],
+    [
+     "The research grant includes a stipend for living costs.",
+     "這項研究補助金包含了一筆生活津貼。"
+    ],
+    [
+     "He used the stipend to cover his travel expenses.",
+     "他用那筆津貼支付了他的差旅費。"
+    ]
+   ]
+  },
+  {
+   "word": "withholding",
+   "ph": "/wɪðˈhoʊldɪŋ/",
+   "pos": "n. 預扣（稅款）",
+   "zh": "扣繳；預扣",
+   "colloc": "tax withholding 預扣稅款 | withholding tax 扣繳稅額",
+   "distinct": "deduction 扣除 | exemption 免稅",
+   "ex": [
+    [
+     "Check your pay slip for the tax withholding amount.",
+     "查看薪資單上的預扣稅額。"
+    ],
+    [
+     "The company handles all the necessary tax withholding.",
+     "公司處理所有必要的稅務預扣。"
+    ],
+    [
+     "He adjusted his withholding to increase his monthly pay.",
+     "他調整了預扣稅額以增加每月實領薪資。"
+    ]
+   ]
+  },
+  {
+   "word": "surplus",
+   "ph": "/ˈsɜːrpləs/",
+   "pos": "n. 盈餘；過剩",
+   "zh": "盈餘；剩餘",
+   "colloc": "budget surplus 預算盈餘 | trade surplus 貿易順差",
+   "distinct": "deficit 赤字 | profit 利潤",
+   "ex": [
+    [
+     "The company recorded a budget surplus this year.",
+     "公司今年紀錄到一筆預算盈餘。"
+    ],
+    [
+     "They distributed the surplus to all loyal employees.",
+     "他們將剩餘款項分配給所有忠誠的員工。"
+    ],
+    [
+     "Managing the financial surplus requires careful planning.",
+     "管理財務盈餘需要謹慎規劃。"
+    ]
+   ]
+  },
+  {
+   "word": "equity",
+   "ph": "/ˈekwəti/",
+   "pos": "n. 股權；公平",
+   "zh": "股權；權益；資產淨值",
+   "colloc": "private equity 私募股權 | employee equity 員工持股",
+   "distinct": "stock 股票 | share 股份",
+   "ex": [
+    [
+     "The startup offers equity to its early employees.",
+     "這家新創公司提供股權給早期員工。"
+    ],
+    [
+     "She decided to increase her equity in the corporation.",
+     "她決定增加她在該公司的持股比例。"
+    ],
+    [
+     "The firm focused on building long-term brand equity.",
+     "該公司致力於建立長期的品牌資產。"
+    ]
+   ]
+  },
+  {
+   "word": "nominate",
+   "ph": "/ˈnɑːmɪneɪt/",
+   "pos": "v. 提名；推薦",
+   "zh": "提名；推薦",
+   "colloc": "nominate someone for... 提名某人擔任... | be nominated 被提名",
+   "distinct": "recommend 推薦 | appoint 任命",
+   "ex": [
+    [
+     "They will nominate a candidate for the manager role.",
+     "他們將提名一位經理職位的候選人。"
+    ],
+    [
+     "I would like to nominate him for the award.",
+     "我想提名他獲得該獎項。"
+    ],
+    [
+     "She was nominated by her colleagues for the position.",
+     "她被同事們提名擔任該職位。"
+    ]
+   ]
+  },
+  {
+   "word": "pay-scale",
+   "ph": "/ˈpeɪˌskeɪl/",
+   "pos": "n. 薪資結構",
+   "zh": "薪資等級；薪資結構",
+   "colloc": "adjust the pay-scale 調整薪資結構 | review the pay-scale 審核薪資等級",
+   "distinct": "salary 薪資 | wage 工資",
+   "ex": [
+    [
+     "The company revised its pay-scale this year.",
+     "公司今年修訂了薪資結構。"
+    ],
+    [
+     "Employees are placed on different pay-scales.",
+     "員工被安排在不同的薪資等級。"
+    ],
+    [
+     "This new pay-scale attracts more talent.",
+     "這套新的薪資結構吸引更多人才。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

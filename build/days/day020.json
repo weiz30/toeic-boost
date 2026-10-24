@@ -1,0 +1,339 @@
+{
+ "day": 20,
+ "theme": "產品介紹與規格",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "specification",
+   "ph": "/ˌspesɪfɪˈkeɪʃn/",
+   "pos": "n. 規格說明書；細節",
+   "zh": "規格；說明書",
+   "colloc": "technical specification 技術規格 | meet the specification 符合規格",
+   "distinct": "requirement 必要條件 | feature 特色",
+   "ex": [
+    [
+     "Please check the product specification carefully.",
+     "請仔細檢查產品規格。"
+    ],
+    [
+     "The item does not meet our specifications.",
+     "此項目不符合我們的規格。"
+    ],
+    [
+     "We need detailed specifications for this device.",
+     "我們需要此裝置的詳細規格。"
+    ]
+   ]
+  },
+  {
+   "word": "durable",
+   "ph": "/ˈdjʊərəbl/",
+   "pos": "adj. 耐用的；持久的",
+   "zh": "耐用的；持久的",
+   "colloc": "durable goods 耐久財 | highly durable 高度耐用",
+   "distinct": "lasting 持續的 | tough 強韌的",
+   "ex": [
+    [
+     "These materials are known for being durable.",
+     "這些材料以耐用著稱。"
+    ],
+    [
+     "Our new laptop case is extremely durable.",
+     "我們的新筆電保護殼極為耐用。"
+    ],
+    [
+     "They prioritize durable parts for production.",
+     "他們優先選用耐用的生產零件。"
+    ]
+   ]
+  },
+  {
+   "word": "component",
+   "ph": "/kəmˈpəʊnənt/",
+   "pos": "n. 組件；成分",
+   "zh": "組件；成分",
+   "colloc": "essential component 重要組件 | key component 關鍵零件",
+   "distinct": "part 部分 | element 要素",
+   "ex": [
+    [
+     "We source every component from local suppliers.",
+     "我們從在地供應商採購每個組件。"
+    ],
+    [
+     "The engine has many complex components.",
+     "這個引擎有許多複雜的組件。"
+    ],
+    [
+     "Identify the faulty component immediately.",
+     "請立即找出故障的組件。"
+    ]
+   ]
+  },
+  {
+   "word": "innovative",
+   "ph": "/ˈɪnəveɪtɪv/",
+   "pos": "adj. 創新的；革新的",
+   "zh": "創新的；革新的",
+   "colloc": "innovative design 創新設計 | innovative approach 創新方法",
+   "distinct": "creative 有創意的 | advanced 先進的",
+   "ex": [
+    [
+     "Their innovative product changed the entire market.",
+     "他們的創新產品改變了整個市場。"
+    ],
+    [
+     "We need an innovative solution for packaging.",
+     "我們需要一個創新的包裝方案。"
+    ],
+    [
+     "The company is famous for innovative technology.",
+     "該公司以創新技術聞名。"
+    ]
+   ]
+  },
+  {
+   "word": "dimension",
+   "ph": "/daɪˈmenʃn/",
+   "pos": "n. 尺寸；維度",
+   "zh": "尺寸；維度",
+   "colloc": "exact dimension 精確尺寸 | adjust the dimension 調整尺寸",
+   "distinct": "size 大小 | volume 體積",
+   "ex": [
+    [
+     "Please provide the dimension of the container.",
+     "請提供該容器的尺寸。"
+    ],
+    [
+     "Check if the dimension fits our storage.",
+     "檢查尺寸是否符合我們的倉庫。"
+    ],
+    [
+     "They measured every dimension of the prototype.",
+     "他們測量了原型的每個維度。"
+    ]
+   ]
+  },
+  {
+   "word": "versatile",
+   "ph": "/ˈvɜːsətaɪl/",
+   "pos": "adj. 多功能的；多才多藝的",
+   "zh": "多功能的；多才多藝的",
+   "colloc": "versatile tool 多功能工具 | highly versatile 高度多功能",
+   "distinct": "flexible 彈性的 | multipurpose 多用途的",
+   "ex": [
+    [
+     "This versatile machine handles several tasks.",
+     "這台多功能機器能處理多項任務。"
+    ],
+    [
+     "It is a versatile device for professionals.",
+     "這是一款適合專業人士的多功能裝置。"
+    ],
+    [
+     "They designed a versatile software platform.",
+     "他們設計了一個多功能的軟體平台。"
+    ]
+   ]
+  },
+  {
+   "word": "prototype",
+   "ph": "/ˈprəʊtətaɪp/",
+   "pos": "n. 原型；樣品",
+   "zh": "原型；樣品",
+   "colloc": "develop a prototype 開發原型 | testing the prototype 測試原型",
+   "distinct": "sample 樣本 | model 模型",
+   "ex": [
+    [
+     "Engineers are testing the latest product prototype.",
+     "工程師正在測試最新的產品原型。"
+    ],
+    [
+     "The prototype performed well during trials.",
+     "原型在試驗期間表現良好。"
+    ],
+    [
+     "We must finalize the prototype by Monday.",
+     "我們必須在週一前完成原型。"
+    ]
+   ]
+  },
+  {
+   "word": "compatible",
+   "ph": "/kəmˈpætəbl/",
+   "pos": "adj. 相容的；適合的",
+   "zh": "相容的；適合的",
+   "colloc": "fully compatible 完全相容 | compatible with 相容於",
+   "distinct": "consistent 一致的 | adaptable 可適應的",
+   "ex": [
+    [
+     "Is this software compatible with your system?",
+     "這套軟體跟你的系統相容嗎？"
+    ],
+    [
+     "The accessories are compatible with all models.",
+     "這些配件與所有機型都相容。"
+    ],
+    [
+     "Ensure the hardware remains fully compatible.",
+     "確保硬體維持完全相容。"
+    ]
+   ]
+  },
+  {
+   "word": "customized",
+   "ph": "/ˈkʌstəmaɪzd/",
+   "pos": "adj. 客製化的；訂製的",
+   "zh": "客製化的",
+   "colloc": "customized service 客製化服務 | customized solution 客製化方案",
+   "distinct": "personalized 個性化的 | tailored 專門剪裁的",
+   "ex": [
+    [
+     "They offer customized products for corporate clients.",
+     "他們為企業客戶提供客製化產品。"
+    ],
+    [
+     "We require a customized report for management.",
+     "我們需要一份給管理層的客製化報告。"
+    ],
+    [
+     "Every order includes a customized label.",
+     "每份訂單都包含客製化的標籤。"
+    ]
+   ]
+  },
+  {
+   "word": "functionality",
+   "ph": "/ˌfʌŋkʃəˈnæləti/",
+   "pos": "n. 功能性；功能",
+   "zh": "功能性",
+   "colloc": "enhance functionality 提升功能 | check functionality 檢查功能",
+   "distinct": "function 功能 | utility 效用",
+   "ex": [
+    [
+     "The basic functionality is easy to use.",
+     "其基本功能性很容易上手。"
+    ],
+    [
+     "We are improving the core functionality.",
+     "我們正在改進核心功能性。"
+    ],
+    [
+     "Test the functionality before the launch.",
+     "在發表前測試其功能性。"
+    ]
+   ]
+  },
+  {
+   "word": "assembly",
+   "ph": "/əˈsembli/",
+   "pos": "n. 組裝；裝配",
+   "zh": "組裝；裝配",
+   "colloc": "assembly line 生產線 | easy assembly 簡易組裝",
+   "distinct": "installation 安裝 | construction 建造",
+   "ex": [
+    [
+     "The assembly of this desk takes time.",
+     "這張桌子的組裝很花時間。"
+    ],
+    [
+     "They automated the entire assembly process.",
+     "他們自動化了整個組裝流程。"
+    ],
+    [
+     "Read the assembly instructions before starting.",
+     "開始前請閱讀組裝說明。"
+    ]
+   ]
+  },
+  {
+   "word": "capacity",
+   "ph": "/kəˈpæsəti/",
+   "pos": "n. 容量；產能；職位",
+   "zh": "容量；產能",
+   "colloc": "full capacity 全產能 | storage capacity 儲存容量",
+   "distinct": "volume 體積 | potential 潛力",
+   "ex": [
+    [
+     "The factory is operating at full capacity.",
+     "工廠正以全產能運作。"
+    ],
+    [
+     "This battery has a large storage capacity.",
+     "這顆電池有很大的儲存容量。"
+    ],
+    [
+     "We need to increase our production capacity.",
+     "我們需要增加生產產能。"
+    ]
+   ]
+  },
+  {
+   "word": "standardize",
+   "ph": "/ˈstændədaɪz/",
+   "pos": "v. 標準化；使符合標準",
+   "zh": "標準化",
+   "colloc": "standardize procedures 標準化流程 | standardize output 標準化產出",
+   "distinct": "normalize 常態化 | regulate 規範",
+   "ex": [
+    [
+     "They decided to standardize the reporting format.",
+     "他們決定將報告格式標準化。"
+    ],
+    [
+     "We must standardize our quality control tests.",
+     "我們必須標準化品質控管測試。"
+    ],
+    [
+     "Standardizing the parts reduces manufacturing costs.",
+     "將零件標準化可降低製造成本。"
+    ]
+   ]
+  },
+  {
+   "word": "ergonomic",
+   "ph": "/ˌɜːɡəˈnɒmɪk/",
+   "pos": "adj. 人體工學的",
+   "zh": "人體工學的",
+   "colloc": "ergonomic chair 人體工學椅 | ergonomic design 人體工學設計",
+   "distinct": "comfortable 舒適的 | efficient 高效的",
+   "ex": [
+    [
+     "The new keyboard has an ergonomic design.",
+     "這款新鍵盤具有人體工學設計。"
+    ],
+    [
+     "We invested in ergonomic office furniture.",
+     "我們投資了人體工學辦公家具。"
+    ],
+    [
+     "Ergonomic tools help prevent workplace injuries.",
+     "人體工學工具能防止職場傷害。"
+    ]
+   ]
+  },
+  {
+   "word": "upgrade",
+   "ph": "/ˈʌpɡreɪd/",
+   "pos": "n.|v. 升級；提升",
+   "zh": "升級",
+   "colloc": "software upgrade 軟體升級 | upgrade plan 升級計畫",
+   "distinct": "update 更新 | improve 改善",
+   "ex": [
+    [
+     "The system requires a major security upgrade.",
+     "系統需要重大的安全升級。"
+    ],
+    [
+     "We will upgrade the servers next week.",
+     "我們下週將升級伺服器。"
+    ],
+    [
+     "Would you like to upgrade your plan?",
+     "您想要升級您的計畫嗎？"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

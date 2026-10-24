@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>TOEIC BOOST｜多益衝刺站：每天 10 分鐘，把分數打上去</title>
+<meta name="description" content="免費多益教學網站：150 個職場高頻單字、Part 2–7 原創練習題、即時中文解析、5 分鐘計時模考與學習進度追蹤。" />
+<meta property="og:title" content="TOEIC BOOST｜多益衝刺站" />
+<meta property="og:description" content="每天 10 分鐘：單字卡、Part 2–7 練習、計時模考、弱點分析。" />
+<meta property="og:type" content="website" />
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='22' fill='%2314140F'/><text x='50' y='72' font-size='62' font-weight='900' text-anchor='middle' fill='%23FFE14D' font-family='Arial'>T</text></svg>" />
+<link rel="stylesheet" href="assets/style.css" />
+</head>
+<body>
+<a class="skip" href="#today">跳到主要內容</a>
+<noscript>
+  <p style="margin:0;padding:12px 20px;background:#FFE14D;border-bottom:2.5px solid #14140F;font-weight:800">
+    這個網站需要 JavaScript 才能顯示單字卡、練習題與進度。請開啟 JavaScript 後重新整理。
+  </p>
+</noscript>
+
+<!-- 跑馬燈 -->
+<div class="ticker" aria-hidden="true">
+  <div class="ticker__track" id="tickerTrack"></div>
+</div>
+
+<header class="topbar">
+  <a class="brand" href="#top">
+    <span class="brand__mark">T</span>
+    <span class="brand__txt">TOEIC <b>BOOST</b><small>多益衝刺站</small></span>
+  </a>
+  <nav class="nav" aria-label="主要導覽">
+    <a href="#today">今日課表</a>
+    <a href="#vocab">單字卡</a>
+    <a href="#drills">Part 練習</a>
+    <a href="#exam">計時模考</a>
+    <a href="#progress">我的進度</a>
+  </nav>
+  <div class="topbar__right">
+    <div class="pill pill--streak" title="連續學習天數">
+      <span aria-hidden="true">🔥</span><b id="streakNum">0</b><span>天</span>
+    </div>
+    <button class="btn btn--ghost btn--sm" id="soundToggle" aria-pressed="true" title="開關英文發音">🔊 發音</button>
+  </div>
+</header>
+
+<main id="top">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero__copy">
+      <p class="eyebrow">多益聽力 ＋ 閱讀 · 每天 10 分鐘</p>
+      <h1>把多益分數<br /><span class="hl">打上去</span>。</h1>
+      <p class="lede">
+        150 個職場高頻單字、Part 2–7 原創練習題、每題都有中文解析。
+        不用報名、不用課本，打開就能練——你的進度自動存在這台裝置。
+      </p>
+      <div class="hero__cta">
+        <button class="btn btn--primary" id="heroStart">開始今天的課 <span aria-hidden="true">→</span></button>
+        <a class="btn btn--line" href="#vocab">先翻單字卡</a>
+      </div>
+      <ul class="hero__meta">
+        <li><b>150</b> 職場單字</li>
+        <li><b>52</b> 題原創題</li>
+        <li><b>6</b> 個 Part 攻略</li>
+        <li><b>0</b> 元</li>
+      </ul>
+    </div>
+
+    <aside class="scorecard" aria-label="今日進度">
+      <div class="scorecard__top">
+        <span>今日進度</span>
+        <span class="dot" id="todayDate">—</span>
+      </div>
+      <div class="ring" id="todayRing">
+        <svg viewBox="0 0 120 120" aria-hidden="true">
+          <circle class="ring__bg" cx="60" cy="60" r="52"></circle>
+          <circle class="ring__fg" cx="60" cy="60" r="52" id="ringFg"></circle>
+        </svg>
+        <div class="ring__label"><b id="ringPct">0%</b><small>完成</small></div>
+      </div>
+      <ul class="scorecard__list" id="todayMini"></ul>
+      <div class="scorecard__foot">
+        <div><span>題目正確率</span><b id="miniAcc">—</b></div>
+        <div><span>熟練單字</span><b id="miniVocab">0</b></div>
+      </div>
+    </aside>
+  </section>
+
+  <!-- 今日課表 -->
+  <section class="section" id="today">
+    <div class="section__head">
+      <div>
+        <p class="kicker">DAILY PLAN</p>
+        <h2>今天的 10 分鐘課表</h2>
+      </div>
+      <p class="section__note">一天五格，全部做完就是完整一輪複習。進度每天自動歸零重算。</p>
+    </div>
+    <div class="plan" id="planGrid"></div>
+  </section>
+
+  <!-- 單字卡 -->
+  <section class="section" id="vocab">
+    <div class="section__head">
+      <div>
+        <p class="kicker">VOCABULARY</p>
+        <h2>職場單字卡</h2>
+      </div>
+      <p class="section__note">先聽發音、猜意思，再翻卡對答案。按「記得住」會把單字推進熟練池。</p>
+    </div>
+
+    <div class="toolbar">
+      <div class="chips" id="vocabCats" role="tablist" aria-label="單字分類"></div>
+      <div class="toolbar__right">
+        <span class="muted" id="vocabCount">—</span>
+        <button class="btn btn--sm btn--line" id="vocabReviewBtn">只練複習池</button>
+      </div>
+    </div>
+
+    <div class="flashzone">
+      <article class="flash" id="flashCard" tabindex="0" aria-live="polite">
+        <div class="flash__front">
+          <span class="flash__cat" id="flashCat">—</span>
+          <h3 class="flash__word" id="flashWord">—</h3>
+          <p class="flash__ph" id="flashPh"></p>
+          <button class="speak" id="flashSpeak" title="播放發音" aria-label="播放發音">🔊</button>
+          <p class="flash__hint">點卡片或按 <kbd>空白鍵</kbd> 看中文意思</p>
+        </div>
+        <div class="flash__back">
+          <span class="flash__cat" id="flashCatBack">—</span>
+          <p class="flash__zh" id="flashZh">—</p>
+          <p class="flash__ex" id="flashEx"></p>
+          <p class="flash__ezh" id="flashEzh"></p>
+        </div>
+      </article>
+
+      <div class="flashside">
+        <div class="meter">
+          <div class="meter__bar"><i id="vocabBar"></i></div>
+          <p class="muted"><b id="vocabIdx">0</b> / <span id="vocabTotal">0</span>　熟練 <b id="vocabMastered">0</b></p>
+        </div>
+        <div class="flashside__btns">
+          <button class="btn btn--mint" id="vocabKnow">記得住 ✓</button>
+          <button class="btn btn--coral" id="vocabForget">再練一次 ↺</button>
+        </div>
+        <div class="miniStats" id="vocabStats"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Part 練習 -->
+  <section class="section" id="drills">
+    <div class="section__head">
+      <div>
+        <p class="kicker">PRACTICE</p>
+        <h2>Part 2–7 分項練習</h2>
+      </div>
+      <p class="section__note">選一個 Part 開始，作答後立刻看中文解析跟考點提示。</p>
+    </div>
+
+    <div class="parttabs" id="partTabs" role="tablist" aria-label="Part 選擇"></div>
+
+    <div class="practice" id="practiceBox">
+      <div class="practice__empty" id="practiceEmpty">
+        <p class="practice__emptyIcon" aria-hidden="true">☝️</p>
+        <h3>先選一個 Part</h3>
+        <p class="muted">上方選單點下去就開始。每題都能暫停，進度會留在這一輪。</p>
+      </div>
+
+      <div class="qbox" id="qbox" hidden>
+        <div class="qbox__top">
+          <span class="qbox__part" id="qPart">Part 2</span>
+          <span class="qbox__cat" id="qCat">—</span>
+          <span class="qbox__tally" id="qTally">1 / 8</span>
+        </div>
+
+        <div class="qbox__audio" id="qAudioWrap" hidden>
+          <button class="play" id="qPlay" aria-label="播放題目音檔">▶</button>
+          <div class="wave" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+          <span class="muted" id="qAudioNote">聽一次，再選答案</span>
+        </div>
+
+        <p class="qbox__question" id="qQuestion">—</p>
+        <div class="passage" id="qPassage" hidden></div>
+        <div class="options" id="qOptions"></div>
+
+        <div class="feedback" id="qFeedback" hidden>
+          <p class="feedback__verdict" id="fbVerdict">—</p>
+          <p class="feedback__zh" id="fbZh"></p>
+          <p class="feedback__tip" id="fbTip"></p>
+          <details class="transcript" id="qTranscript" hidden>
+            <summary>看逐字稿</summary>
+            <pre id="qTranscriptBody"></pre>
+          </details>
+        </div>
+
+        <div class="qbox__foot">
+          <button class="btn btn--line btn--sm" id="qSkip">跳過</button>
+          <button class="btn btn--primary" id="qCheck" disabled>檢查答案</button>
+          <button class="btn btn--primary" id="qNext" hidden>下一題 →</button>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 模考 -->
+  <section class="section section--ink" id="exam">
+    <div class="section__head">
+      <div>
+        <p class="kicker kicker--light">TIMED TEST</p>
+        <h2>5 分鐘迷你模考</h2>
+      </div>
+      <p class="section__note">10 題混合 Part 2–7，計時 5 分鐘。考完會告訴你最弱的是哪一個 Part。</p>
+    </div>
+    <div class="exam" id="examBox">
+      <div class="exam__start" id="examStart">
+        <div class="exam__facts">
+          <div><b>10</b><span>題</span></div>
+          <div><b>5</b><span>分鐘</span></div>
+          <div><b>100</b><span>分制</span></div>
+        </div>
+        <button class="btn btn--accent btn--lg" id="examGo">開始計時模考 ⏱</button>
+        <p class="muted">建議戴耳機：聽力題會自動播放一次，可重播。</p>
+      </div>
+      <div class="exam__run" id="examRun" hidden>
+        <div class="exam__hud">
+          <span class="timer" id="examTimer">05:00</span>
+          <span class="exam__prog"><b id="examIdx">1</b>/<b id="examLen">10</b></span>
+          <button class="btn btn--ghost btn--sm" id="examQuit">結束</button>
+        </div>
+        <p class="qbox__question" id="examQuestion">—</p>
+        <div class="qbox__audio" id="examAudioWrap" hidden>
+          <button class="play" id="examPlay" aria-label="重播題目音檔">▶</button>
+          <span class="muted">重播題目音檔</span>
+        </div>
+        <div class="options" id="examOptions"></div>
+        <div class="qbox__foot"><button class="btn btn--primary" id="examNext">下一題 →</button></div>
+      </div>
+      <div class="exam__result" id="examResult" hidden></div>
+    </div>
+  </section>
+
+  <!-- 進度 -->
+  <section class="section" id="progress">
+    <div class="section__head">
+      <div>
+        <p class="kicker">MY PROGRESS</p>
+        <h2>我的進度</h2>
+      </div>
+      <button class="btn btn--line btn--sm" id="resetBtn">重設全部進度</button>
+    </div>
+
+    <div class="statgrid" id="statGrid"></div>
+
+    <div class="twocol">
+      <div class="panel">
+        <h3>各 Part 正確率</h3>
+        <div class="bars" id="partBars"></div>
+      </div>
+      <div class="panel">
+        <h3>最近模考</h3>
+        <ul class="examlist" id="examList"></ul>
+      </div>
+    </div>
+  </section>
+
+</main>
+
+<footer class="foot">
+  <div>
+    <b>TOEIC BOOST</b> · 多益衝刺站
+    <p class="muted">單字與題目皆為原創教學內容，非官方試題。進度只存在你的瀏覽器，不會上傳。</p>
+  </div>
+  <div class="foot__links">
+    <a href="#today">今日課表</a>
+    <a href="#drills">Part 練習</a>
+    <a href="#exam">模考</a>
+  </div>
+</footer>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

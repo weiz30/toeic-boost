@@ -1,0 +1,427 @@
+{
+ "day": 34,
+ "theme": "廣告與媒體採購",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "advertisement",
+   "ph": "/ˈædvərtɪzmənt/",
+   "pos": "n. 廣告",
+   "zh": "廣告；宣傳",
+   "colloc": "place an advertisement 刊登廣告 | run an advertisement 投放廣告",
+   "distinct": "commercial 電視廣播廣告 | publicity 宣傳活動",
+   "ex": [
+    [
+     "The company placed an advertisement in the newspaper.",
+     "公司在報紙上刊登了廣告。"
+    ],
+    [
+     "This advertisement targets a younger demographic effectively.",
+     "這則廣告有效地針對了年輕族群。"
+    ],
+    [
+     "We decided to run an advertisement during the event.",
+     "我們決定在活動期間投放廣告。"
+    ]
+   ]
+  },
+  {
+   "word": "campaign",
+   "ph": "/kæmˈpeɪn/",
+   "pos": "n. 宣傳活動",
+   "zh": "活動；運動",
+   "colloc": "launch a campaign 發起活動 | marketing campaign 行銷活動",
+   "distinct": "project 專案 | event 活動",
+   "ex": [
+    [
+     "They launched a new advertising campaign yesterday.",
+     "他們昨天發起了一項新的廣告活動。"
+    ],
+    [
+     "The marketing campaign boosted our sales significantly.",
+     "這項行銷活動大幅提升了我們的業績。"
+    ],
+    [
+     "All departments supported the global branding campaign.",
+     "所有部門都支持這項全球品牌宣傳活動。"
+    ]
+   ]
+  },
+  {
+   "word": "demographic",
+   "ph": "/ˌdeməˈɡræfɪk/",
+   "pos": "n. 人口統計數據",
+   "zh": "人口統計；客群",
+   "colloc": "target demographic 目標客群 | reach a demographic 接觸特定客群",
+   "distinct": "population 全體人口 | statistics 統計數據",
+   "ex": [
+    [
+     "Our product appeals to a specific demographic.",
+     "我們的產品吸引了特定的客群。"
+    ],
+    [
+     "They analyzed the demographic data before planning.",
+     "計畫前他們分析了人口統計數據。"
+    ],
+    [
+     "The advertisement failed to reach the intended demographic.",
+     "這則廣告未能觸及預期的目標客群。"
+    ]
+   ]
+  },
+  {
+   "word": "broadcast",
+   "ph": "/ˈbrɔːdkæst/",
+   "pos": "v. 廣播；播放",
+   "zh": "廣播；播放",
+   "colloc": "broadcast live 即時轉播 | broadcast a message 發布訊息",
+   "distinct": "transmit 傳送 | circulate 流通",
+   "ex": [
+    [
+     "The news will be broadcasted across the nation.",
+     "新聞將在全國進行播放。"
+    ],
+    [
+     "They broadcast the advertisement during prime time.",
+     "他們在黃金時段播放了廣告。"
+    ],
+    [
+     "We need to broadcast the update to all staff.",
+     "我們需要將更新資訊發布給全體員工。"
+    ]
+   ]
+  },
+  {
+   "word": "circulation",
+   "ph": "/ˌsɜːrkjəˈleɪʃn/",
+   "pos": "n. 發行量；流通",
+   "zh": "發行量；流通",
+   "colloc": "daily circulation 日發行量 | print circulation 紙本發行量",
+   "distinct": "distribution 分發 | volume 總量",
+   "ex": [
+    [
+     "This magazine has a high weekly circulation.",
+     "這本雜誌每週的發行量很高。"
+    ],
+    [
+     "The newspaper circulation dropped last year.",
+     "該報紙去年的發行量下滑了。"
+    ],
+    [
+     "They aim to increase the publication circulation.",
+     "他們的目標是增加出版物的發行量。"
+    ]
+   ]
+  },
+  {
+   "word": "sponsor",
+   "ph": "/ˈspɑːnsər/",
+   "pos": "v. 贊助 n. 贊助者",
+   "zh": "贊助；主辦",
+   "colloc": "sponsor an event 贊助活動 | corporate sponsor 企業贊助商",
+   "distinct": "patron 贊助人 | donor 捐贈者",
+   "ex": [
+    [
+     "The firm will sponsor the upcoming industry conference.",
+     "該公司將贊助即將到來的產業會議。"
+    ],
+    [
+     "Many companies want to sponsor this media project.",
+     "許多公司想贊助這個媒體專案。"
+    ],
+    [
+     "A major bank is the primary event sponsor.",
+     "一家大型銀行是主要的活動贊助商。"
+    ]
+   ]
+  },
+  {
+   "word": "prime-time",
+   "ph": "/ˈpraɪm taɪm/",
+   "pos": "adj. 黃金時段的",
+   "zh": "黃金時段",
+   "colloc": "prime-time slot 黃金時段時段 | prime-time audience 黃金時段觀眾",
+   "distinct": "peak hour 尖峰時間 | rush hour 交通尖峰時刻",
+   "ex": [
+    [
+     "Advertising during prime-time is very expensive.",
+     "在黃金時段刊登廣告非常昂貴。"
+    ],
+    [
+     "They secured a prime-time slot for the commercial.",
+     "他們為廣告爭取到了黃金時段。"
+    ],
+    [
+     "The show attracts a large prime-time audience.",
+     "該節目吸引了龐大的黃金時段觀眾。"
+    ]
+   ]
+  },
+  {
+   "word": "placement",
+   "ph": "/ˈpleɪsmənt/",
+   "pos": "n. 放置；定位",
+   "zh": "放置；安插",
+   "colloc": "product placement 產品置入 | ad placement 廣告投放",
+   "distinct": "position 位置 | allocation 配置",
+   "ex": [
+    [
+     "Effective ad placement increases user engagement.",
+     "有效的廣告投放能增加使用者參與度。"
+    ],
+    [
+     "They discussed the strategy for product placement.",
+     "他們討論了產品置入的策略。"
+    ],
+    [
+     "The placement of the banner is critical.",
+     "橫幅廣告的位置至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "coverage",
+   "ph": "/ˈkʌvərɪdʒ/",
+   "pos": "n. 報導；覆蓋範圍",
+   "zh": "新聞報導；覆蓋範圍",
+   "colloc": "press coverage 新聞報導 | media coverage 媒體報導",
+   "distinct": "report 報告 | broadcast 廣播",
+   "ex": [
+    [
+     "The media coverage of the event was positive.",
+     "該活動的媒體報導相當正面。"
+    ],
+    [
+     "They received extensive coverage in the local press.",
+     "他們在當地報刊獲得了廣泛報導。"
+    ],
+    [
+     "Our campaign gained significant coverage this month.",
+     "我們的活動本月獲得了顯著的報導。"
+    ]
+   ]
+  },
+  {
+   "word": "exposure",
+   "ph": "/ɪkˈspoʊʒər/",
+   "pos": "n. 曝光；接觸",
+   "zh": "曝光；暴露",
+   "colloc": "gain exposure 獲得曝光 | maximum exposure 最大曝光",
+   "distinct": "appearance 出現 | disclosure 揭露",
+   "ex": [
+    [
+     "The brand gained significant exposure on social media.",
+     "該品牌在社群媒體上獲得了顯著的曝光。"
+    ],
+    [
+     "We need more exposure to reach potential clients.",
+     "我們需要更多曝光以觸及潛在客戶。"
+    ],
+    [
+     "The campaign provided maximum exposure for the product.",
+     "該活動為產品提供了最大的曝光度。"
+    ]
+   ]
+  },
+  {
+   "word": "agency",
+   "ph": "/ˈeɪdʒənsi/",
+   "pos": "n. 代理機構",
+   "zh": "代理；代辦處",
+   "colloc": "advertising agency 廣告代理商 | hire an agency 聘請代辦機構",
+   "distinct": "branch 分公司 | department 部門",
+   "ex": [
+    [
+     "They hired a creative advertising agency recently.",
+     "他們最近聘請了一家創意廣告代理商。"
+    ],
+    [
+     "Our firm works with a top media agency.",
+     "我們公司與一家頂尖媒體代理商合作。"
+    ],
+    [
+     "The agency manages all our marketing accounts.",
+     "該代理商管理我們所有的行銷帳戶。"
+    ]
+   ]
+  },
+  {
+   "word": "subscription",
+   "ph": "/səbˈskrɪpʃn/",
+   "pos": "n. 訂閱；會費",
+   "zh": "訂閱；捐款",
+   "colloc": "annual subscription 年度訂閱 | cancel a subscription 取消訂閱",
+   "distinct": "membership 會員資格 | registration 註冊",
+   "ex": [
+    [
+     "The magazine offers a discount for annual subscriptions.",
+     "該雜誌提供年度訂閱優惠。"
+    ],
+    [
+     "Many users chose to cancel their digital subscription.",
+     "許多使用者選擇取消他們的數位訂閱。"
+    ],
+    [
+     "We are looking to increase the subscriber base.",
+     "我們正設法增加訂閱用戶群。"
+    ]
+   ]
+  },
+  {
+   "word": "outreach",
+   "ph": "/ˈaʊtriːtʃ/",
+   "pos": "n. 外展服務；擴大接觸",
+   "zh": "擴大影響；服務推廣",
+   "colloc": "community outreach 社區推廣 | outreach program 推廣計畫",
+   "distinct": "expansion 擴張 | connection 聯繫",
+   "ex": [
+    [
+     "They launched an effective outreach program for students.",
+     "他們為學生發起了一項有效的推廣計畫。"
+    ],
+    [
+     "The outreach team visited several local businesses.",
+     "推廣團隊造訪了幾家當地企業。"
+    ],
+    [
+     "Our outreach strategy focuses on digital channels.",
+     "我們的推廣策略著重於數位管道。"
+    ]
+   ]
+  },
+  {
+   "word": "endorsement",
+   "ph": "/ɪnˈdɔːrsmənt/",
+   "pos": "n. 代言；背書",
+   "zh": "代言；認可",
+   "colloc": "celebrity endorsement 名人代言 | provide endorsement 提供背書",
+   "distinct": "recommendation 建議 | approval 批准",
+   "ex": [
+    [
+     "The product gained popularity through celebrity endorsements.",
+     "該產品因名人代言而廣受歡迎。"
+    ],
+    [
+     "He gave his full endorsement to the proposal.",
+     "他對該提案給予了完全的背書。"
+    ],
+    [
+     "They are seeking a new endorsement for the brand.",
+     "他們正在為品牌尋求新的代言。"
+    ]
+   ]
+  },
+  {
+   "word": "medium",
+   "ph": "/ˈmiːdiəm/",
+   "pos": "n. 媒體；媒介",
+   "zh": "媒體；手段",
+   "colloc": "advertising medium 廣告媒體 | social media 社群媒體",
+   "distinct": "channel 管道 | method 方法",
+   "ex": [
+    [
+     "Television is still a powerful advertising medium.",
+     "電視仍是一種強而有力的廣告媒體。"
+    ],
+    [
+     "They chose the right medium for their message.",
+     "他們選擇了正確的媒介來傳達訊息。"
+    ],
+    [
+     "We use social media as our primary channel.",
+     "我們將社群媒體作為主要的傳播管道。"
+    ]
+   ]
+  },
+  {
+   "word": "multimedia",
+   "ph": "/ˌmʌltiˈmiːdiə/",
+   "pos": "adj. 多媒體的",
+   "zh": "多媒體",
+   "colloc": "multimedia presentation 多媒體簡報 | multimedia campaign 多媒體活動",
+   "distinct": "digital 數位的 | interactive 互動的",
+   "ex": [
+    [
+     "The team prepared a professional multimedia presentation.",
+     "團隊準備了一份專業的多媒體簡報。"
+    ],
+    [
+     "They integrated multimedia content into the website.",
+     "他們將多媒體內容整合進網站中。"
+    ],
+    [
+     "This multimedia approach engages the audience well.",
+     "這種多媒體方式能有效吸引觀眾。"
+    ]
+   ]
+  },
+  {
+   "word": "analytics",
+   "ph": "/ˌænəˈlɪtɪks/",
+   "pos": "n. 分析；解析學",
+   "zh": "分析",
+   "colloc": "data analytics 數據分析 | web analytics 網站分析",
+   "distinct": "analysis 分析報告 | statistic 統計數據",
+   "ex": [
+    [
+     "The marketing team uses analytics to track performance.",
+     "行銷團隊使用分析數據來追蹤成效。"
+    ],
+    [
+     "We reviewed the web analytics for the campaign.",
+     "我們檢視了該活動的網站分析數據。"
+    ],
+    [
+     "Advanced analytics help us understand customer behavior.",
+     "進階分析有助於我們了解客戶行為。"
+    ]
+   ]
+  },
+  {
+   "word": "branding",
+   "ph": "/ˈbrændɪŋ/",
+   "pos": "n. 品牌建立",
+   "zh": "品牌經營；標誌",
+   "colloc": "brand identity 品牌識別 | consistent branding 一致的品牌形象",
+   "distinct": "marketing 行銷 | trademark 商標",
+   "ex": [
+    [
+     "Consistent branding is essential for our reputation.",
+     "一致的品牌形象對我們的商譽至關重要。"
+    ],
+    [
+     "They are working on a new brand identity.",
+     "他們正在進行新的品牌識別設計。"
+    ],
+    [
+     "The company invested heavily in global branding.",
+     "公司在品牌經營上投入了大量資金。"
+    ]
+   ]
+  },
+  {
+   "word": "launch",
+   "ph": "/lɔːntʃ/",
+   "pos": "v. 發布；啟動",
+   "zh": "推出；發射",
+   "colloc": "launch a product 推出產品 | launch a campaign 發起活動",
+   "distinct": "release 發行 | initiate 發起",
+   "ex": [
+    [
+     "We plan to launch the new campaign next week.",
+     "我們計畫下週發起新的宣傳活動。"
+    ],
+    [
+     "The company will launch a new product line.",
+     "公司即將推出一條新的產品線。"
+    ],
+    [
+     "They launched the website after a long testing phase.",
+     "經歷長期的測試階段後，他們發布了網站。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:00"
+}

@@ -1,0 +1,427 @@
+{
+ "day": 27,
+ "theme": "團隊協作",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "cooperate",
+   "ph": "/koʊˈɑːpəreɪt/",
+   "pos": "v. 合作",
+   "zh": "合作；配合",
+   "colloc": "cooperate on 合作進行 | cooperate with 與…合作",
+   "distinct": "collaborate 共同參與創作 | coordinate 協調",
+   "ex": [
+    [
+     "Our teams will cooperate on this project.",
+     "我們的團隊將會在這個專案上合作。"
+    ],
+    [
+     "Please cooperate with the department head.",
+     "請配合部門主管的工作。"
+    ],
+    [
+     "Both sides agreed to cooperate fully.",
+     "雙方同意全面進行合作。"
+    ]
+   ]
+  },
+  {
+   "word": "synergy",
+   "ph": "/ˈsɪnərdʒi/",
+   "pos": "n. 綜效",
+   "zh": "協同作用；綜效",
+   "colloc": "create synergy 創造綜效 | team synergy 團隊綜效",
+   "distinct": "cooperation 合作 | coordination 協調",
+   "ex": [
+    [
+     "This merger aims to create operational synergy.",
+     "這次合併旨在創造營運上的綜效。"
+    ],
+    [
+     "We rely on the synergy of our group.",
+     "我們依賴團隊之間的協同作用。"
+    ],
+    [
+     "The new strategy promotes cross-departmental synergy.",
+     "新策略推動了跨部門的綜效。"
+    ]
+   ]
+  },
+  {
+   "word": "unify",
+   "ph": "/ˈjuːnɪfaɪ/",
+   "pos": "v. 統一",
+   "zh": "統一；整合",
+   "colloc": "unify efforts 整合努力 | unify standards 統一標準",
+   "distinct": "integrate 整合 | consolidate 合併",
+   "ex": [
+    [
+     "We must unify our efforts to succeed.",
+     "我們必須整合努力才能成功。"
+    ],
+    [
+     "The goal is to unify global operations.",
+     "目標是統一全球的營運作業。"
+    ],
+    [
+     "They seek to unify the company vision.",
+     "他們設法統一公司願景。"
+    ]
+   ]
+  },
+  {
+   "word": "liaison",
+   "ph": "/liˈeɪzɑːn/",
+   "pos": "n. 聯絡人",
+   "zh": "聯絡；聯絡人",
+   "colloc": "act as a liaison 擔任聯絡人 | maintain liaison 保持聯繫",
+   "distinct": "intermediary 中介者 | agent 代理人",
+   "ex": [
+    [
+     "She serves as the liaison for marketing.",
+     "她擔任行銷部門的聯絡人。"
+    ],
+    [
+     "The liaison will coordinate the meetings.",
+     "聯絡人將會協調會議事宜。"
+    ],
+    [
+     "Keep close liaison with the client.",
+     "與客戶保持密切的聯繫。"
+    ]
+   ]
+  },
+  {
+   "word": "alignment",
+   "ph": "/əˈlaɪnmənt/",
+   "pos": "n. 對齊",
+   "zh": "一致；結盟",
+   "colloc": "strategic alignment 策略一致 | ensure alignment 確保一致",
+   "distinct": "agreement 同意 | arrangement 安排",
+   "ex": [
+    [
+     "Ensure alignment across all team members.",
+     "確保所有團隊成員意見一致。"
+    ],
+    [
+     "Their goals are in perfect alignment.",
+     "他們的目標完全一致。"
+    ],
+    [
+     "We seek strategic alignment with partners.",
+     "我們尋求與合作夥伴達成策略一致。"
+    ]
+   ]
+  },
+  {
+   "word": "interact",
+   "ph": "/ˌɪntərˈækt/",
+   "pos": "v. 互動",
+   "zh": "互動；相互作用",
+   "colloc": "interact with 與…互動 | frequent interaction 頻繁互動",
+   "distinct": "communicate 溝通 | socialize 社交",
+   "ex": [
+    [
+     "Staff members interact daily on tasks.",
+     "員工們每天在任務上進行互動。"
+    ],
+    [
+     "How do you interact with clients?",
+     "你平時如何與客戶互動？"
+    ],
+    [
+     "The systems interact seamlessly in production.",
+     "這些系統在生產中無縫互動。"
+    ]
+   ]
+  },
+  {
+   "word": "cohesive",
+   "ph": "/koʊˈhiːsɪv/",
+   "pos": "adj. 有凝聚力的",
+   "zh": "團結的；緊湊的",
+   "colloc": "cohesive team 有凝聚力的團隊 | cohesive unit 團結單位",
+   "distinct": "consistent 一致的 | coherent 有條理的",
+   "ex": [
+    [
+     "The manager built a highly cohesive team.",
+     "經理建立了一支高凝聚力的團隊。"
+    ],
+    [
+     "We need a more cohesive strategy.",
+     "我們需要更具凝聚力的策略。"
+    ],
+    [
+     "They formed a cohesive working group.",
+     "他們組成了一個團結的工作小組。"
+    ]
+   ]
+  },
+  {
+   "word": "synchronize",
+   "ph": "/ˈsɪŋkrənaɪz/",
+   "pos": "v. 同步",
+   "zh": "同步；同時發生",
+   "colloc": "synchronize schedules 同步行程 | data synchronization 資料同步",
+   "distinct": "coordinate 協調 | adjust 調整",
+   "ex": [
+    [
+     "Please synchronize your calendars for updates.",
+     "請同步你們的行事曆以更新進度。"
+    ],
+    [
+     "We must synchronize all project tasks.",
+     "我們必須同步所有專案任務。"
+    ],
+    [
+     "Systems will synchronize at midnight daily.",
+     "系統將於每日午夜進行同步。"
+    ]
+   ]
+  },
+  {
+   "word": "convene",
+   "ph": "/kənˈviːn/",
+   "pos": "v. 召開",
+   "zh": "召集；集合",
+   "colloc": "convene a meeting 召開會議 | convene a session 召開會期",
+   "distinct": "assemble 聚集 | gather 收集",
+   "ex": [
+    [
+     "The board will convene next Monday.",
+     "董事會將於下週一召開會議。"
+    ],
+    [
+     "She will convene the research committee.",
+     "她將召集研究委員會。"
+    ],
+    [
+     "We convene to discuss the proposal.",
+     "我們集合起來討論這項提案。"
+    ]
+   ]
+  },
+  {
+   "word": "interdependence",
+   "ph": "/ˌɪntərdɪˈpendəns/",
+   "pos": "n. 相互依賴",
+   "zh": "相互依賴；共生",
+   "colloc": "mutual interdependence 相互依賴 | rely on interdependence 依賴共生",
+   "distinct": "independence 獨立 | reliance 依賴",
+   "ex": [
+    [
+     "Our workflow shows deep interdependence.",
+     "我們的工作流程顯示出深度的相互依賴。"
+    ],
+    [
+     "Recognize the interdependence of departments.",
+     "體認到各部門之間的相互依賴。"
+    ],
+    [
+     "The system relies on functional interdependence.",
+     "該系統依賴於功能上的相互依賴。"
+    ]
+   ]
+  },
+  {
+   "word": "co-worker",
+   "ph": "/ˈkoʊwɜːrkər/",
+   "pos": "n. 同事",
+   "zh": "同事；工作夥伴",
+   "colloc": "helpful co-worker 樂於助人的同事 | respect co-workers 尊重同事",
+   "distinct": "colleague 同僚 | associate 夥伴",
+   "ex": [
+    [
+     "Ask a co-worker for technical support.",
+     "向同事詢問技術支援。"
+    ],
+    [
+     "He is a respected co-worker here.",
+     "他是這裡受人敬重的同事。"
+    ],
+    [
+     "Support your co-workers during crunch time.",
+     "在緊要關頭支持你的同事。"
+    ]
+   ]
+  },
+  {
+   "word": "collaboration",
+   "ph": "/kəˌlæbəˈreɪʃn/",
+   "pos": "n. 合作",
+   "zh": "合作；協力",
+   "colloc": "promote collaboration 促進合作 | close collaboration 緊密合作",
+   "distinct": "cooperation 配合 | partnership 合夥",
+   "ex": [
+    [
+     "The project requires close collaboration.",
+     "此專案需要緊密的合作。"
+    ],
+    [
+     "We foster a culture of collaboration.",
+     "我們培養合作的文化。"
+    ],
+    [
+     "Successful collaboration depends on trust.",
+     "成功的合作取決於信任。"
+    ]
+   ]
+  },
+  {
+   "word": "unanimous",
+   "ph": "/juˈnænɪməs/",
+   "pos": "adj. 全體一致的",
+   "zh": "一致同意的",
+   "colloc": "unanimous decision 一致的決定 | unanimous vote 全票通過",
+   "distinct": "consensual 共識的 | collective 集體的",
+   "ex": [
+    [
+     "The board reached a unanimous decision.",
+     "董事會達成了一致的決定。"
+    ],
+    [
+     "It was a unanimous vote today.",
+     "今天進行了全票通過的投票。"
+    ],
+    [
+     "We seek a unanimous agreement soon.",
+     "我們很快會尋求一致的協議。"
+    ]
+   ]
+  },
+  {
+   "word": "complement",
+   "ph": "/ˈkɑːmplɪment/",
+   "pos": "v. 互補",
+   "zh": "補充；使完美",
+   "colloc": "complement each other 互補 | perfectly complement 完美互補",
+   "distinct": "compliment 讚美 | supplement 增補",
+   "ex": [
+    [
+     "Their skills complement each other well.",
+     "他們的技能非常互補。"
+    ],
+    [
+     "This design complements our brand image.",
+     "這個設計完善了我們的品牌形象。"
+    ],
+    [
+     "Marketing should complement sales efforts.",
+     "行銷應與業務努力相輔相成。"
+    ]
+   ]
+  },
+  {
+   "word": "facilitator",
+   "ph": "/fəˈsɪlɪteɪtər/",
+   "pos": "n. 協調者",
+   "zh": "促進者；引導者",
+   "colloc": "meeting facilitator 會議引導者 | act as facilitator 擔任引導者",
+   "distinct": "manager 經理 | mediator 調解者",
+   "ex": [
+    [
+     "He acted as a facilitator today.",
+     "他今天擔任了會議引導者。"
+    ],
+    [
+     "A good facilitator keeps discussions focused.",
+     "一位好的引導者會讓討論聚焦。"
+    ],
+    [
+     "She is a skilled group facilitator.",
+     "她是位熟練的團體引導者。"
+    ]
+   ]
+  },
+  {
+   "word": "coordination",
+   "ph": "/koʊˌɔːrdɪˈneɪʃn/",
+   "pos": "n. 協調",
+   "zh": "協調；整合",
+   "colloc": "proper coordination 適當的協調 | lack of coordination 缺乏協調",
+   "distinct": "cooperation 合作 | organization 組織",
+   "ex": [
+    [
+     "Better coordination is needed for this.",
+     "這項任務需要更好的協調。"
+    ],
+    [
+     "The coordination between departments was poor.",
+     "部門之間的協調很差。"
+    ],
+    [
+     "We prioritize coordination in large teams.",
+     "我們在大團隊中優先考慮協調。"
+    ]
+   ]
+  },
+  {
+   "word": "synergize",
+   "ph": "/ˈsɪnərdʒaɪz/",
+   "pos": "v. 產生綜效",
+   "zh": "產生協同作用；共同運作",
+   "colloc": "synergize resources 整合資源 | synergize ideas 結合想法",
+   "distinct": "cooperate 合作 | integrate 整合",
+   "ex": [
+    [
+     "Departments must synergize to achieve goals.",
+     "部門必須協同運作以達成目標。"
+    ],
+    [
+     "We look for ways to synergize.",
+     "我們尋找產生綜效的方法。"
+    ],
+    [
+     "The aim is to synergize efforts.",
+     "目標是讓努力產生協同效應。"
+    ]
+   ]
+  },
+  {
+   "word": "joint",
+   "ph": "/dʒɔɪnt/",
+   "pos": "adj. 聯合的",
+   "zh": "共同的；聯合的",
+   "colloc": "joint venture 合資企業 | joint effort 共同努力",
+   "distinct": "shared 共享的 | combined 結合的",
+   "ex": [
+    [
+     "This was a joint effort by staff.",
+     "這是全體員工的共同努力。"
+    ],
+    [
+     "We signed a joint agreement today.",
+     "我們今天簽署了一份聯合協議。"
+    ],
+    [
+     "The two companies launched a joint project.",
+     "兩家公司發起了一項聯合專案。"
+    ]
+   ]
+  },
+  {
+   "word": "rapport",
+   "ph": "/ræˈpɔːr/",
+   "pos": "n. 融洽關係",
+   "zh": "融洽；和諧關係",
+   "colloc": "build rapport 建立融洽關係 | establish rapport 建立關係",
+   "distinct": "relationship 關係 | connection 連結",
+   "ex": [
+    [
+     "Good rapport is essential for teamwork.",
+     "良好的融洽關係對團隊合作至關重要。"
+    ],
+    [
+     "She quickly built rapport with colleagues.",
+     "她很快與同事建立了融洽關係。"
+    ],
+    [
+     "Maintaining rapport helps resolve issues.",
+     "保持融洽關係有助於解決問題。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

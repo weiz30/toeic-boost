@@ -1,0 +1,383 @@
+{
+ "day": 15,
+ "theme": "採購與下單",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "procure",
+   "ph": "/prəˈkjʊər/",
+   "pos": "v. 採購；獲得",
+   "zh": "採購；取得",
+   "colloc": "procure materials 採購材料 | procure supplies 取得供應品",
+   "distinct": "purchase 購買（一般用語） | acquire 獲得（較正式）",
+   "ex": [
+    [
+     "The department needs to procure new software.",
+     "該部門需要採購新軟體。"
+    ],
+    [
+     "We plan to procure raw materials locally.",
+     "我們計畫在地採購原料。"
+    ],
+    [
+     "They procured the necessary items for production.",
+     "他們取得了生產所需的項目。"
+    ]
+   ]
+  },
+  {
+   "word": "vendor",
+   "ph": "/ˈvendər/",
+   "pos": "n. 供應商；小販",
+   "zh": "供應商；小販",
+   "colloc": "approved vendor 核准供應商 | vendor list 供應商清單",
+   "distinct": "supplier 供應商 | dealer 經銷商",
+   "ex": [
+    [
+     "We must select a reliable office vendor.",
+     "我們必須選擇一家可靠的辦公用品供應商。"
+    ],
+    [
+     "The vendor delivered the order on time.",
+     "供應商準時送達了訂單。"
+    ],
+    [
+     "Please add this firm to the vendor list.",
+     "請將這家公司加入供應商清單。"
+    ]
+   ]
+  },
+  {
+   "word": "requisition",
+   "ph": "/ˌrekwɪˈzɪʃn/",
+   "pos": "n. 採購申請書 | v. 徵用",
+   "zh": "採購申請書；請求",
+   "colloc": "submit a requisition 提交採購申請 | purchase requisition 採購單",
+   "distinct": "application 申請 | request 要求",
+   "ex": [
+    [
+     "Please submit your requisition by Friday afternoon.",
+     "請在週五下午前提交你的採購申請。"
+    ],
+    [
+     "The manager signed the supply requisition form.",
+     "經理簽署了用品申請單。"
+    ],
+    [
+     "All requisitions require formal approval from management.",
+     "所有申請都需要管理層正式核准。"
+    ]
+   ]
+  },
+  {
+   "word": "quotation",
+   "ph": "/kwəʊˈteɪʃn/",
+   "pos": "n. 報價單；引述",
+   "zh": "報價單；報價",
+   "colloc": "request a quotation 要求報價 | obtain a quotation 取得報價",
+   "distinct": "estimate 估價 | invoice 發票",
+   "ex": [
+    [
+     "We received a competitive quotation from them.",
+     "我們收到了他們極具競爭力的報價單。"
+    ],
+    [
+     "Please compare the quotations from three vendors.",
+     "請比較來自三家供應商的報價單。"
+    ],
+    [
+     "The final quotation includes all shipping costs.",
+     "最終報價單包含了所有運費。"
+    ]
+   ]
+  },
+  {
+   "word": "bulk",
+   "ph": "/bʌlk/",
+   "pos": "adj. 大量的 | n. 容積；大量",
+   "zh": "大量；散裝",
+   "colloc": "bulk order 大量訂單 | buy in bulk 大量購買",
+   "distinct": "mass 大眾的 | volume 總量",
+   "ex": [
+    [
+     "We decided to buy office supplies in bulk.",
+     "我們決定大量購買辦公用品。"
+    ],
+    [
+     "Bulk orders are eligible for a discount.",
+     "大量訂單有資格享有折扣。"
+    ],
+    [
+     "The company saved money by purchasing in bulk.",
+     "公司透過大量採購節省了成本。"
+    ]
+   ]
+  },
+  {
+   "word": "specifications",
+   "ph": "/ˌspesɪfɪˈkeɪʃnz/",
+   "pos": "n. 規格；說明書",
+   "zh": "規格；詳情",
+   "colloc": "technical specifications 技術規格 | meet specifications 符合規格",
+   "distinct": "description 描述 | criteria 標準",
+   "ex": [
+    [
+     "The product failed to meet our specifications.",
+     "該產品未能達到我們的規格要求。"
+    ],
+    [
+     "Please check the technical specifications for details.",
+     "請查閱技術規格以了解詳情。"
+    ],
+    [
+     "These items strictly adhere to the project specifications.",
+     "這些項目嚴格遵守專案規格。"
+    ]
+   ]
+  },
+  {
+   "word": "procurement",
+   "ph": "/prəˈkjʊərmənt/",
+   "pos": "n. 採購；取得",
+   "zh": "採購；獲得",
+   "colloc": "procurement department 採購部門 | procurement process 採購流程",
+   "distinct": "purchase 購買行為 | acquisition 收購",
+   "ex": [
+    [
+     "The procurement process takes about two weeks.",
+     "採購流程大約需要兩週時間。"
+    ],
+    [
+     "She works in the corporate procurement office.",
+     "她在公司採購部門工作。"
+    ],
+    [
+     "Better procurement policies can reduce operational costs.",
+     "更好的採購政策能降低營運成本。"
+    ]
+   ]
+  },
+  {
+   "word": "contractor",
+   "ph": "/kənˈtræktər/",
+   "pos": "n. 承包商；立約人",
+   "zh": "承包商；契約商",
+   "colloc": "independent contractor 獨立承包商 | general contractor 總承包商",
+   "distinct": "employee 員工 | supplier 供應商",
+   "ex": [
+    [
+     "The contractor finished the project ahead of schedule.",
+     "承包商提前完成了專案。"
+    ],
+    [
+     "We hired an external contractor for the repairs.",
+     "我們雇用了一名外部承包商來進行維修。"
+    ],
+    [
+     "Every contractor must sign the confidentiality agreement.",
+     "每位承包商都必須簽署保密協議。"
+    ]
+   ]
+  },
+  {
+   "word": "discount",
+   "ph": "/ˈdɪskaʊnt/",
+   "pos": "n. 折扣 | v. 打折",
+   "zh": "折扣；打折",
+   "colloc": "offer a discount 提供折扣 | volume discount 數量折扣",
+   "distinct": "rebate 回扣 | deduction 扣除額",
+   "ex": [
+    [
+     "They offered us a discount for early payment.",
+     "他們為提早付款提供我們折扣。"
+    ],
+    [
+     "Can we get a discount on this bulk purchase?",
+     "這筆大量採購我們可以獲得折扣嗎？"
+    ],
+    [
+     "The discount applies only to specific items.",
+     "折扣僅適用於特定品項。"
+    ]
+   ]
+  },
+  {
+   "word": "outsource",
+   "ph": "/ˈaʊtsɔːrs/",
+   "pos": "v. 外包",
+   "zh": "外包",
+   "colloc": "outsource services 外包服務 | outsource production 外包生產",
+   "distinct": "contract 訂約 | delegate 分派",
+   "ex": [
+    [
+     "The company decided to outsource its marketing tasks.",
+     "公司決定將行銷工作外包。"
+    ],
+    [
+     "They outsource all manufacturing to overseas firms.",
+     "他們將所有製造業務外包給海外公司。"
+    ],
+    [
+     "Outsourcing helped us reduce labor costs significantly.",
+     "外包幫助我們顯著降低了勞工成本。"
+    ]
+   ]
+  },
+  {
+   "word": "purchase",
+   "ph": "/ˈpɜːrtʃəs/",
+   "pos": "v. 購買 | n. 購買；採購品",
+   "zh": "購買；採購",
+   "colloc": "purchase order 採購單 | make a purchase 進行購買",
+   "distinct": "procure 採購（正式） | shop 逛街",
+   "ex": [
+    [
+     "We need to purchase new equipment this quarter.",
+     "我們這季需要購買新設備。"
+    ],
+    [
+     "Please issue a purchase order for these items.",
+     "請針對這些品項開立採購單。"
+    ],
+    [
+     "The purchase was authorized by the director.",
+     "這筆採購已獲得董事授權。"
+    ]
+   ]
+  },
+  {
+   "word": "availability",
+   "ph": "/əˌveɪləˈbɪləti/",
+   "pos": "n. 可獲得性；現貨",
+   "zh": "可獲得性；現貨",
+   "colloc": "check availability 確認是否有貨 | stock availability 庫存狀況",
+   "distinct": "access 使用權 | affordability 負擔能力",
+   "ex": [
+    [
+     "Please check the availability of these spare parts.",
+     "請確認這些備用零件是否有貨。"
+    ],
+    [
+     "The availability of the material is quite limited.",
+     "該材料的取得相當受限。"
+    ],
+    [
+     "We will inform you about the product availability.",
+     "我們會通知您關於產品的庫存狀況。"
+    ]
+   ]
+  },
+  {
+   "word": "deliverable",
+   "ph": "/dɪˈlɪvərəbl/",
+   "pos": "n. 可交付成果 | adj. 可遞送的",
+   "zh": "可交付成果；產出物",
+   "colloc": "key deliverables 主要產出 | project deliverables 專案成果",
+   "distinct": "product 產品 | outcome 結果",
+   "ex": [
+    [
+     "The team defined the project deliverables clearly.",
+     "團隊清楚地定義了專案的可交付成果。"
+    ],
+    [
+     "All deliverables must be submitted by Monday.",
+     "所有產出物必須在週一前提交。"
+    ],
+    [
+     "He is responsible for the monthly deliverables.",
+     "他負責每個月的產出成果。"
+    ]
+   ]
+  },
+  {
+   "word": "guarantee",
+   "ph": "/ˌɡærənˈtiː/",
+   "pos": "v. 保證 | n. 保證；保固",
+   "zh": "保證；保固",
+   "colloc": "money-back guarantee 退款保證 | provide a guarantee 提供保證",
+   "distinct": "warranty 保固（書） | promise 承諾",
+   "ex": [
+    [
+     "We guarantee that the goods will arrive tomorrow.",
+     "我們保證貨物明天會抵達。"
+    ],
+    [
+     "The product comes with a two-year guarantee.",
+     "該產品附帶兩年保固。"
+    ],
+    [
+     "They offer a full money-back guarantee policy.",
+     "他們提供完善的退款保證政策。"
+    ]
+   ]
+  },
+  {
+   "word": "terms",
+   "ph": "/tɜːrmz/",
+   "pos": "n. 條款；條件",
+   "zh": "條款；條件",
+   "colloc": "payment terms 付款條件 | contract terms 合約條款",
+   "distinct": "conditions 狀況 | clauses 條款條項",
+   "ex": [
+    [
+     "The payment terms are strictly thirty days net.",
+     "付款條件嚴格規定為三十天內付清。"
+    ],
+    [
+     "I do not agree with the contract terms.",
+     "我不同意合約裡的條款。"
+    ],
+    [
+     "They discussed the terms of the new agreement.",
+     "他們討論了新協議的條款。"
+    ]
+   ]
+  },
+  {
+   "word": "overcharge",
+   "ph": "/ˌəʊvərˈtʃɑːrdʒ/",
+   "pos": "v. 超收費用 | n. 超收的費用",
+   "zh": "超收；索價過高",
+   "colloc": "refund an overcharge 退還超收款 | avoid overcharge 避免超收",
+   "distinct": "undercharge 少收 | surcharge 額外收費",
+   "ex": [
+    [
+     "The company apologized for the accidental overcharge.",
+     "公司為意外超收費用表示歉意。"
+    ],
+    [
+     "Check the bill to ensure they didn't overcharge.",
+     "檢查帳單以確保他們沒有多收費用。"
+    ],
+    [
+     "The customer requested a refund for the overcharge.",
+     "顧客要求退還超收的款項。"
+    ]
+   ]
+  },
+  {
+   "word": "batch",
+   "ph": "/bætʃ/",
+   "pos": "n. 一批；一組",
+   "zh": "一批；批次",
+   "colloc": "batch of goods 一批貨物 | process in batches 分批處理",
+   "distinct": "group 群組 | series 系列",
+   "ex": [
+    [
+     "The first batch of products passed the inspection.",
+     "第一批產品通過了檢查。"
+    ],
+    [
+     "We process the orders in daily batches.",
+     "我們每日分批處理這些訂單。"
+    ],
+    [
+     "This new batch is of much better quality.",
+     "這批新產品的品質好多了。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

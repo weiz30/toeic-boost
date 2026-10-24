@@ -1,0 +1,405 @@
+{
+ "day": 11,
+ "theme": "財務基礎",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "budget",
+   "ph": "/ˈbʌdʒɪt/",
+   "pos": "n. 預算 | v. 編列預算",
+   "zh": "預算；經費",
+   "colloc": "annual budget 年度預算 | balance the budget 平衡預算",
+   "distinct": "fund 資金 | capital 資本",
+   "ex": [
+    [
+     "The company adjusted the annual budget.",
+     "公司調整了年度預算。"
+    ],
+    [
+     "We need to budget for equipment.",
+     "我們需要為設備編列預算。"
+    ],
+    [
+     "Their marketing budget was increased.",
+     "他們的行銷預算增加了。"
+    ]
+   ]
+  },
+  {
+   "word": "expenditure",
+   "ph": "/ɪkˈspendɪtʃər/",
+   "pos": "n. 支出",
+   "zh": "支出；開銷",
+   "colloc": "reduce expenditure 減少支出 | capital expenditure 資本支出",
+   "distinct": "expense 費用 | cost 成本",
+   "ex": [
+    [
+     "Public expenditure rose significantly this year.",
+     "今年的公共支出顯著上升。"
+    ],
+    [
+     "Strict control of expenditure is necessary.",
+     "嚴格控制支出是有必要的。"
+    ],
+    [
+     "They analyzed the company's expenditure.",
+     "他們分析了公司的支出。"
+    ]
+   ]
+  },
+  {
+   "word": "revenue",
+   "ph": "/ˈrevənjuː/",
+   "pos": "n. 收入",
+   "zh": "營收；稅收",
+   "colloc": "generate revenue 產生收入 | total revenue 總收入",
+   "distinct": "profit 利潤 | income 所得",
+   "ex": [
+    [
+     "The firm reported a record revenue.",
+     "該公司報告了創紀錄的營收。"
+    ],
+    [
+     "Advertising provides most of our revenue.",
+     "廣告提供了我們大部分的營收。"
+    ],
+    [
+     "The government aims to increase revenue.",
+     "政府目標是增加稅收。"
+    ]
+   ]
+  },
+  {
+   "word": "dividend",
+   "ph": "/ˈdɪvɪdend/",
+   "pos": "n. 股利",
+   "zh": "股息；紅利",
+   "colloc": "pay a dividend 發放股利 | annual dividend 年度股利",
+   "distinct": "bonus 獎金 | interest 利息",
+   "ex": [
+    [
+     "Shareholders expect a higher dividend.",
+     "股東們期待更高的股利。"
+    ],
+    [
+     "The board approved the dividend payment.",
+     "董事會核准了股利發放。"
+    ],
+    [
+     "Earnings are distributed as dividends.",
+     "盈餘以股利形式分配。"
+    ]
+   ]
+  },
+  {
+   "word": "bankruptcy",
+   "ph": "/ˈbæŋkrʌptsi/",
+   "pos": "n. 破產",
+   "zh": "破產；倒閉",
+   "colloc": "declare bankruptcy 宣告破產 | face bankruptcy 面臨破產",
+   "distinct": "insolvency 無力償還 | liquidation 清算",
+   "ex": [
+    [
+     "The retailer filed for bankruptcy protection.",
+     "這家零售商申請了破產保護。"
+    ],
+    [
+     "Poor management led to their bankruptcy.",
+     "管理不善導致了他們的倒閉。"
+    ],
+    [
+     "Many small businesses face bankruptcy.",
+     "許多小型企業面臨破產。"
+    ]
+   ]
+  },
+  {
+   "word": "profitability",
+   "ph": "/ˌprɒfɪtəˈbɪləti/",
+   "pos": "n. 獲利能力",
+   "zh": "盈利性；獲利能力",
+   "colloc": "assess profitability 評估獲利能力 | improve profitability 提升獲利能力",
+   "distinct": "profit 利潤 | gain 收益",
+   "ex": [
+    [
+     "The new strategy focuses on profitability.",
+     "新策略聚焦於獲利能力。"
+    ],
+    [
+     "Low demand impacted the company's profitability.",
+     "需求疲軟影響了公司的獲利能力。"
+    ],
+    [
+     "Investors monitor the quarterly profitability.",
+     "投資者監控每季的獲利能力。"
+    ]
+   ]
+  },
+  {
+   "word": "asset",
+   "ph": "/ˈæset/",
+   "pos": "n. 資產",
+   "zh": "資產；優點",
+   "colloc": "fixed asset 固定資產 | liquid asset 流動資產",
+   "distinct": "liability 負債 | property 財產",
+   "ex": [
+    [
+     "The company has valuable overseas assets.",
+     "該公司擁有珍貴的海外資產。"
+    ],
+    [
+     "Efficient staff are a company's asset.",
+     "高效的員工是公司的資產。"
+    ],
+    [
+     "They sold off several non-core assets.",
+     "他們變賣了幾個非核心資產。"
+    ]
+   ]
+  },
+  {
+   "word": "liability",
+   "ph": "/ˌlaɪəˈbɪləti/",
+   "pos": "n. 負債",
+   "zh": "負債；責任",
+   "colloc": "current liability 流動負債 | limit one's liability 限制責任",
+   "distinct": "debt 債務 | asset 資產",
+   "ex": [
+    [
+     "The firm has substantial long-term liabilities.",
+     "該公司有大量的長期負債。"
+    ],
+    [
+     "The contract clarifies the total liability.",
+     "合約釐清了總負債額度。"
+    ],
+    [
+     "His experience is a great liability here.",
+     "他的經驗在此處反而是負擔。"
+    ]
+   ]
+  },
+  {
+   "word": "fiscal",
+   "ph": "/ˈfɪskl/",
+   "pos": "adj. 會計的",
+   "zh": "財政的；會計年度的",
+   "colloc": "fiscal year 會計年度 | fiscal policy 財政政策",
+   "distinct": "financial 金融的 | monetary 貨幣的",
+   "ex": [
+    [
+     "The new fiscal year starts in April.",
+     "新會計年度從四月開始。"
+    ],
+    [
+     "They presented the fiscal report today.",
+     "他們今天提出了財政報告。"
+    ],
+    [
+     "Government adjustments affected fiscal stability.",
+     "政府的調整影響了財政穩定。"
+    ]
+   ]
+  },
+  {
+   "word": "deduct",
+   "ph": "/dɪˈdʌkt/",
+   "pos": "v. 扣除",
+   "zh": "扣除；減去",
+   "colloc": "deduct tax 扣稅 | deduct from the total 從總額扣除",
+   "distinct": "subtract 減去 | reduce 減少",
+   "ex": [
+    [
+     "The company will deduct the expenses.",
+     "公司將會扣除相關費用。"
+    ],
+    [
+     "We deduct taxes from your salary.",
+     "我們從你的薪水中扣除稅款。"
+    ],
+    [
+     "Can you deduct the service charge?",
+     "你可以扣除服務費嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "transaction",
+   "ph": "/trænˈzækʃn/",
+   "pos": "n. 交易",
+   "zh": "交易；業務",
+   "colloc": "bank transaction 銀行交易 | process a transaction 處理交易",
+   "distinct": "deal 協議 | operation 營運",
+   "ex": [
+    [
+     "Every transaction is recorded electronically.",
+     "每筆交易都有電子記錄。"
+    ],
+    [
+     "Please confirm your recent bank transaction.",
+     "請確認您最近的銀行交易。"
+    ],
+    [
+     "Online transactions are very secure now.",
+     "線上交易現在非常安全。"
+    ]
+   ]
+  },
+  {
+   "word": "benchmark",
+   "ph": "/ˈbentʃmɑːrk/",
+   "pos": "n. 基準 | v. 設定基準",
+   "zh": "基準；水準",
+   "colloc": "set a benchmark 設定基準 | performance benchmark 績效基準",
+   "distinct": "standard 標準 | criterion 準則",
+   "ex": [
+    [
+     "The results serve as a benchmark.",
+     "這些結果適合作為基準。"
+    ],
+    [
+     "We benchmark our prices against competitors.",
+     "我們以競爭對手為基準來訂價。"
+    ],
+    [
+     "The company exceeded the industry benchmark.",
+     "該公司超過了產業平均水準。"
+    ]
+   ]
+  },
+  {
+   "word": "liquidity",
+   "ph": "/lɪˈkwɪdəti/",
+   "pos": "n. 流動性",
+   "zh": "流動資金；資產流動性",
+   "colloc": "maintain liquidity 維持流動性 | market liquidity 市場流動性",
+   "distinct": "cash 現金 | capital 資本",
+   "ex": [
+    [
+     "The firm has excellent market liquidity.",
+     "該公司具備極佳的市場流動性。"
+    ],
+    [
+     "They struggle with short-term liquidity.",
+     "他們在短期資金流動性上有困難。"
+    ],
+    [
+     "Strong liquidity allows for faster growth.",
+     "良好的流動性有助於快速成長。"
+    ]
+   ]
+  },
+  {
+   "word": "audit",
+   "ph": "/ˈɔːdɪt/",
+   "pos": "n. 審計 | v. 稽核",
+   "zh": "查帳；審計",
+   "colloc": "external audit 外部審計 | internal audit 內部稽核",
+   "distinct": "inspection 檢查 | review 審查",
+   "ex": [
+    [
+     "The firm undergoes an annual audit.",
+     "公司每年都會進行審計。"
+    ],
+    [
+     "The accountant will audit the records.",
+     "會計師將會稽核這些記錄。"
+    ],
+    [
+     "We passed the recent tax audit.",
+     "我們通過了最近的稅務審計。"
+    ]
+   ]
+  },
+  {
+   "word": "forecast",
+   "ph": "/ˈfɔːrkæst/",
+   "pos": "n. 預測 | v. 預報",
+   "zh": "預測；預估",
+   "colloc": "sales forecast 銷售預測 | economic forecast 經濟預測",
+   "distinct": "prediction 預言 | projection 規劃",
+   "ex": [
+    [
+     "The sales forecast looks quite optimistic.",
+     "銷售預測看起來相當樂觀。"
+    ],
+    [
+     "Analysts forecast a steady growth rate.",
+     "分析師預測會有穩定成長率。"
+    ],
+    [
+     "They revised the revenue forecast today.",
+     "他們今天修改了營收預測。"
+    ]
+   ]
+  },
+  {
+   "word": "capital",
+   "ph": "/ˈkæpɪtl/",
+   "pos": "n. 資本",
+   "zh": "資本；資金",
+   "colloc": "working capital 營運資金 | raise capital 募集資金",
+   "distinct": "asset 資產 | wealth 財富",
+   "ex": [
+    [
+     "The startup needs more initial capital.",
+     "這家新創公司需要更多初始資本。"
+    ],
+    [
+     "They are seeking to raise capital.",
+     "他們正尋求募集資金。"
+    ],
+    [
+     "He invested all his capital here.",
+     "他把所有資本都投資在這裡。"
+    ]
+   ]
+  },
+  {
+   "word": "deficit",
+   "ph": "/ˈdefɪsɪt/",
+   "pos": "n. 赤字",
+   "zh": "赤字；虧損",
+   "colloc": "budget deficit 預算赤字 | trade deficit 貿易赤字",
+   "distinct": "loss 損失 | shortage 短缺",
+   "ex": [
+    [
+     "The company aims to reduce the deficit.",
+     "公司目標是減少赤字。"
+    ],
+    [
+     "They face a significant budget deficit.",
+     "他們面臨巨大的預算赤字。"
+    ],
+    [
+     "Export growth will help the deficit.",
+     "出口成長將有助於改善赤字。"
+    ]
+   ]
+  },
+  {
+   "word": "valuation",
+   "ph": "/ˌvæljuˈeɪʃn/",
+   "pos": "n. 估值",
+   "zh": "估價；估值",
+   "colloc": "market valuation 市場估值 | property valuation 資產估價",
+   "distinct": "estimate 估計 | price 價格",
+   "ex": [
+    [
+     "The company has a high market valuation.",
+     "該公司擁有很高的市場估值。"
+    ],
+    [
+     "They conducted a thorough property valuation.",
+     "他們進行了徹底的資產估價。"
+    ],
+    [
+     "Investors questioned the firm's valuation.",
+     "投資者質疑該公司的估值。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

@@ -1,0 +1,449 @@
+{
+ "day": 18,
+ "theme": "客戶服務",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "complaint",
+   "ph": "/kəmˈpleɪnt/",
+   "pos": "n. 投訴；抱怨",
+   "zh": "投訴；抱怨",
+   "colloc": "file a complaint 提出投訴 | resolve a complaint 解決投訴",
+   "distinct": "grievance 不滿；申訴 | criticism 批評",
+   "ex": [
+    [
+     "The customer filed a formal complaint yesterday.",
+     "該客戶昨天正式提出投訴。"
+    ],
+    [
+     "We received a complaint about the service.",
+     "我們收到關於服務的投訴。"
+    ],
+    [
+     "Management will address every customer complaint.",
+     "管理層將處理每一項客戶投訴。"
+    ]
+   ]
+  },
+  {
+   "word": "courteous",
+   "ph": "/ˈkɜːrtiəs/",
+   "pos": "adj. 有禮貌的；客氣的",
+   "zh": "有禮貌的；客氣的",
+   "colloc": "remain courteous 保持禮貌 | courteous staff 有禮的員工",
+   "distinct": "polite 有禮貌的 | considerate 體貼的",
+   "ex": [
+    [
+     "Our staff always remains courteous to clients.",
+     "我們的員工對客戶始終保持禮貌。"
+    ],
+    [
+     "Please be courteous during the phone call.",
+     "請在通話期間保持禮貌。"
+    ],
+    [
+     "He provided courteous service to all visitors.",
+     "他為所有訪客提供了客氣的服務。"
+    ]
+   ]
+  },
+  {
+   "word": "enquiry",
+   "ph": "/ɪnˈkwaɪəri/",
+   "pos": "n. 詢問；查詢",
+   "zh": "詢問；查詢",
+   "colloc": "make an enquiry 進行查詢 | handle an enquiry 處理詢問",
+   "distinct": "question 問題 | request 要求",
+   "ex": [
+    [
+     "The clerk handles every enquiry with patience.",
+     "店員耐心處理每一項查詢。"
+    ],
+    [
+     "Please direct your enquiry to the desk.",
+     "請將您的詢問導向服務櫃台。"
+    ],
+    [
+     "We received an enquiry about product pricing.",
+     "我們收到關於產品定價的詢問。"
+    ]
+   ]
+  },
+  {
+   "word": "satisfaction",
+   "ph": "/ˌsætɪsˈfækʃn/",
+   "pos": "n. 滿意；滿足",
+   "zh": "滿意；滿足",
+   "colloc": "ensure satisfaction 確保滿意 | guarantee satisfaction 保證滿意",
+   "distinct": "contentment 滿足感 | fulfillment 成就感",
+   "ex": [
+    [
+     "Customer satisfaction is our top priority now.",
+     "客戶滿意度是我們現在的首要目標。"
+    ],
+    [
+     "We guarantee your satisfaction with the purchase.",
+     "我們保證您對此次購買感到滿意。"
+    ],
+    [
+     "The team aims for complete customer satisfaction.",
+     "團隊致力於達成完全的客戶滿意。"
+    ]
+   ]
+  },
+  {
+   "word": "responsive",
+   "ph": "/rɪˈspɒnsɪv/",
+   "pos": "adj. 反應迅速的；熱情的",
+   "zh": "反應迅速的；熱情的",
+   "colloc": "highly responsive 反應極快的 | remain responsive 保持回應",
+   "distinct": "responsible 負責任的 | reactive 反應性的",
+   "ex": [
+    [
+     "The support team is very responsive today.",
+     "支援團隊今天反應非常迅速。"
+    ],
+    [
+     "We need a more responsive service department.",
+     "我們需要反應更迅速的服務部門。"
+    ],
+    [
+     "They are responsive to all user feedback.",
+     "他們對所有用戶回饋都反應迅速。"
+    ]
+   ]
+  },
+  {
+   "word": "polite",
+   "ph": "/pəˈlaɪt/",
+   "pos": "adj. 有禮貌的；客氣的",
+   "zh": "有禮貌的；客氣的",
+   "colloc": "polite request 禮貌的請求 | polite manner 禮貌的態度",
+   "distinct": "courteous 彬彬有禮的 | respectful 尊敬的",
+   "ex": [
+    [
+     "It is polite to greet the visitor.",
+     "向訪客打招呼是有禮貌的。"
+    ],
+    [
+     "She gave a polite response to him.",
+     "她給了他一個有禮貌的回應。"
+    ],
+    [
+     "Always maintain a polite tone when speaking.",
+     "說話時務必保持有禮的語氣。"
+    ]
+   ]
+  },
+  {
+   "word": "resolve",
+   "ph": "/rɪˈzɒlv/",
+   "pos": "v. 解決；消除",
+   "zh": "解決；消除",
+   "colloc": "resolve an issue 解決問題 | resolve a dispute 解決爭議",
+   "distinct": "solve 處理數學或具體問題 | settle 協議解決",
+   "ex": [
+    [
+     "We need to resolve this issue immediately.",
+     "我們需要立即解決這個問題。"
+    ],
+    [
+     "The technician helped resolve the technical glitch.",
+     "技師協助解決了技術故障。"
+    ],
+    [
+     "They managed to resolve the customer dispute.",
+     "他們設法解決了客戶爭議。"
+    ]
+   ]
+  },
+  {
+   "word": "patience",
+   "ph": "/ˈpeɪʃns/",
+   "pos": "n. 耐心；忍耐",
+   "zh": "耐心；忍耐",
+   "colloc": "have patience 具備耐心 | test one's patience 考驗某人的耐心",
+   "distinct": "endurance 忍耐力 | tolerance 寬容",
+   "ex": [
+    [
+     "Dealing with clients requires great patience.",
+     "處理客戶問題需要極大的耐心。"
+    ],
+    [
+     "Thank you for your patience during delays.",
+     "感謝您在延遲期間的耐心等待。"
+    ],
+    [
+     "She showed patience when explaining the policy.",
+     "她在解釋政策時展現了耐心。"
+    ]
+   ]
+  },
+  {
+   "word": "solution",
+   "ph": "/səˈluːʃn/",
+   "pos": "n. 解決方案；解答",
+   "zh": "解決方案；解答",
+   "colloc": "offer a solution 提供方案 | seek a solution 尋求解答",
+   "distinct": "answer 答案 | method 方法",
+   "ex": [
+    [
+     "We are looking for a permanent solution.",
+     "我們正在尋找永久的解決方案。"
+    ],
+    [
+     "The manager proposed an effective solution today.",
+     "經理今天提出了一個有效的方案。"
+    ],
+    [
+     "This software provides the best solution available.",
+     "這款軟體提供了目前最好的解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "representative",
+   "ph": "/ˌreprɪˈzentətɪv/",
+   "pos": "n. 代表；代理人",
+   "zh": "代表；代理人",
+   "colloc": "sales representative 銷售代表 | customer representative 客服代表",
+   "distinct": "delegate 代表（授權參加會議者） | agent 代理商",
+   "ex": [
+    [
+     "A representative will contact you very soon.",
+     "代表很快會與您聯繫。"
+    ],
+    [
+     "The company sent a representative to help.",
+     "公司派了一位代表來幫忙。"
+    ],
+    [
+     "Ask to speak with a customer representative.",
+     "請求與客服代表通話。"
+    ]
+   ]
+  },
+  {
+   "word": "assistance",
+   "ph": "/əˈsɪstəns/",
+   "pos": "n. 協助；援助",
+   "zh": "協助；援助",
+   "colloc": "provide assistance 提供協助 | seek assistance 尋求協助",
+   "distinct": "aid 幫助；救助 | support 支援",
+   "ex": [
+    [
+     "Please contact us if you need assistance.",
+     "如果您需要協助請聯繫我們。"
+    ],
+    [
+     "The team provides technical assistance for users.",
+     "團隊為用戶提供技術協助。"
+    ],
+    [
+     "We require additional assistance for this task.",
+     "這項任務我們需要額外的協助。"
+    ]
+   ]
+  },
+  {
+   "word": "inconvenience",
+   "ph": "/ˌɪnkənˈviːniəns/",
+   "pos": "n. 不便；麻煩",
+   "zh": "不便；麻煩",
+   "colloc": "cause an inconvenience 造成不便 | regret the inconvenience 對造成的不便感到抱歉",
+   "distinct": "trouble 麻煩 | annoyance 惱怒",
+   "ex": [
+    [
+     "We apologize for any inconvenience caused here.",
+     "我們對此處造成的不便深感抱歉。"
+    ],
+    [
+     "The construction caused some inconvenience to guests.",
+     "施工對房客造成了一些不便。"
+    ],
+    [
+     "We try to minimize any potential inconvenience.",
+     "我們嘗試將潛在的不便減到最低。"
+    ]
+   ]
+  },
+  {
+   "word": "promptly",
+   "ph": "/ˈprɒmptli/",
+   "pos": "adv. 立即地；準時地",
+   "zh": "立即地；準時地",
+   "colloc": "act promptly 立即採取行動 | respond promptly 即刻回應",
+   "distinct": "immediately 立即 | punctually 準時地",
+   "ex": [
+    [
+     "The team will respond to emails promptly.",
+     "團隊將會立即回應電子郵件。"
+    ],
+    [
+     "Please complete the forms and return promptly.",
+     "請填寫表格並立即歸還。"
+    ],
+    [
+     "Staff members arrived at the meeting promptly.",
+     "員工們準時到達了會議。"
+    ]
+   ]
+  },
+  {
+   "word": "troubleshoot",
+   "ph": "/ˈtrʌblʃuːt/",
+   "pos": "v. 檢修；排除故障",
+   "zh": "檢修；排除故障",
+   "colloc": "troubleshoot a problem 排除問題 | troubleshoot an error 解決錯誤",
+   "distinct": "repair 修理 | fix 修復",
+   "ex": [
+    [
+     "The technician tried to troubleshoot the device.",
+     "技師嘗試對該設備進行故障排除。"
+    ],
+    [
+     "He knows how to troubleshoot common issues.",
+     "他知道如何排除常見的問題。"
+    ],
+    [
+     "We need time to troubleshoot the system.",
+     "我們需要時間來對系統進行檢修。"
+    ]
+   ]
+  },
+  {
+   "word": "exceed",
+   "ph": "/ɪkˈsiːd/",
+   "pos": "v. 超過；超出",
+   "zh": "超過；超出",
+   "colloc": "exceed expectations 超出預期 | exceed the budget 超出預算",
+   "distinct": "surpass 勝過 | excel 優於",
+   "ex": [
+    [
+     "The service will exceed your expectations today.",
+     "這項服務今天將超出您的預期。"
+    ],
+    [
+     "Do not let the expenses exceed the budget.",
+     "不要讓費用超出預算。"
+    ],
+    [
+     "They often exceed their monthly sales targets.",
+     "他們經常超出每月的銷售目標。"
+    ]
+   ]
+  },
+  {
+   "word": "policy",
+   "ph": "/ˈpɒləsi/",
+   "pos": "n. 政策；方針",
+   "zh": "政策；方針",
+   "colloc": "company policy 公司政策 | refund policy 退款政策",
+   "distinct": "strategy 策略 | procedure 程序",
+   "ex": [
+    [
+     "The company changed its return policy recently.",
+     "公司最近更改了退貨政策。"
+    ],
+    [
+     "Please review our privacy policy carefully today.",
+     "請今天仔細閱讀我們的隱私政策。"
+    ],
+    [
+     "Strict policy prevents unauthorized system access.",
+     "嚴格的政策防止未經授權的系統存取。"
+    ]
+   ]
+  },
+  {
+   "word": "diligently",
+   "ph": "/ˈdɪlɪdʒəntli/",
+   "pos": "adv. 勤奮地；用心地",
+   "zh": "勤奮地；用心地",
+   "colloc": "work diligently 勤奮工作 | study diligently 認真學習",
+   "distinct": "carefully 小心地 | actively 主動地",
+   "ex": [
+    [
+     "The staff worked diligently on the project.",
+     "員工們為該專案勤奮工作。"
+    ],
+    [
+     "She prepared the report quite diligently today.",
+     "她今天非常用心地準備報告。"
+    ],
+    [
+     "We searched diligently for the missing files.",
+     "我們勤奮地尋找遺失的檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "inquiry",
+   "ph": "/ɪnˈkwaɪəri/",
+   "pos": "n. 詢問；調查",
+   "zh": "詢問；調查",
+   "colloc": "formal inquiry 正式調查 | handle an inquiry 處理詢問",
+   "distinct": "query 疑問 | research 研究",
+   "ex": [
+    [
+     "The company launched an inquiry into complaints.",
+     "公司針對投訴展開了一項調查。"
+    ],
+    [
+     "Please forward the inquiry to the manager.",
+     "請將這項詢問轉寄給經理。"
+    ],
+    [
+     "We are processing every inquiry in order.",
+     "我們正按順序處理每一項詢問。"
+    ]
+   ]
+  },
+  {
+   "word": "dedication",
+   "ph": "/ˌdedɪˈkeɪʃn/",
+   "pos": "n. 奉獻；專注",
+   "zh": "奉獻；專注",
+   "colloc": "show dedication 展現奉獻 | full dedication 全力投入",
+   "distinct": "commitment 承諾 | devotion 熱愛",
+   "ex": [
+    [
+     "Her dedication to customers is truly impressive.",
+     "她對客戶的奉獻令人印象深刻。"
+    ],
+    [
+     "The project requires total dedication from staff.",
+     "該專案需要員工們的全心投入。"
+    ],
+    [
+     "He shows great dedication to his daily work.",
+     "他對日常工作展現了極大的專注。"
+    ]
+   ]
+  },
+  {
+   "word": "complimentary",
+   "ph": "/ˌkɒmplɪˈmentri/",
+   "pos": "adj. 免費的；贈送的",
+   "zh": "免費的；贈送的",
+   "colloc": "complimentary breakfast 免費早餐 | complimentary drink 免費飲料",
+   "distinct": "free 免費的 | optional 選配的",
+   "ex": [
+    [
+     "The hotel offers a complimentary breakfast daily.",
+     "飯店每天提供免費早餐。"
+    ],
+    [
+     "Guests receive a complimentary drink upon arrival.",
+     "客人在抵達時會收到一杯免費飲料。"
+    ],
+    [
+     "The service includes a complimentary shuttle bus.",
+     "這項服務包含免費接駁車。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

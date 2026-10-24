@@ -1,0 +1,449 @@
+{
+ "day": 7,
+ "theme": "招募與徵才",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "recruit",
+   "ph": "/rɪˈkruːt/",
+   "pos": "v. 招募 | n. 新進人員",
+   "zh": "招募；聘請",
+   "colloc": "recruit staff 招募員工 | actively recruit 積極招募",
+   "distinct": "hire 僱用 | employ 聘僱",
+   "ex": [
+    [
+     "The firm plans to recruit more engineers next month.",
+     "公司計畫下個月招募更多工程師。"
+    ],
+    [
+     "They are actively recruiting for the marketing team.",
+     "他們正在積極為行銷團隊招募人員。"
+    ],
+    [
+     "Recruiting top talent remains our highest priority.",
+     "招募頂尖人才仍是我們最高優先事項。"
+    ]
+   ]
+  },
+  {
+   "word": "screening",
+   "ph": "/ˈskriːnɪŋ/",
+   "pos": "n. 篩選 | 審查",
+   "zh": "篩選；審查",
+   "colloc": "resume screening 履歷篩選 | initial screening 初步審查",
+   "distinct": "selection 挑選 | assessment 評估",
+   "ex": [
+    [
+     "The screening process takes at least two weeks.",
+     "篩選過程至少需要兩個星期。"
+    ],
+    [
+     "Applicants must pass the initial screening phase.",
+     "申請人必須通過初步篩選階段。"
+    ],
+    [
+     "Our HR team is currently screening new resumes.",
+     "我們人資團隊目前正在篩選新履歷。"
+    ]
+   ]
+  },
+  {
+   "word": "qualify",
+   "ph": "/ˈkwɒlɪfaɪ/",
+   "pos": "v. 取得資格 | 使具有資格",
+   "zh": "使具有資格；合格",
+   "colloc": "qualify for 具備...資格 | fully qualify 完全符合資格",
+   "distinct": "eligible 合適的 | competent 有能力的",
+   "ex": [
+    [
+     "Only those who qualify will be contacted by email.",
+     "只有符合資格的人才會收到電子郵件通知。"
+    ],
+    [
+     "Does your background qualify you for this role?",
+     "你的背景讓你具備擔任此職位的資格嗎？"
+    ],
+    [
+     "She qualified for the position after the exam.",
+     "她在考試後取得了該職位的資格。"
+    ]
+   ]
+  },
+  {
+   "word": "headhunt",
+   "ph": "/ˈhedhʌnt/",
+   "pos": "v. 獵才 | 挖角",
+   "zh": "獵才；挖角",
+   "colloc": "headhunt talent 獵取人才 | actively headhunt 積極挖角",
+   "distinct": "recruit 一般招募 | hire 僱用",
+   "ex": [
+    [
+     "The agency was hired to headhunt a new director.",
+     "該機構受聘去獵取一位新總監。"
+    ],
+    [
+     "They often headhunt managers from rival companies.",
+     "他們經常從競爭對手公司挖角經理。"
+    ],
+    [
+     "It is common to headhunt experts in this industry.",
+     "在這個產業獵取專家是很常見的。"
+    ]
+   ]
+  },
+  {
+   "word": "onboard",
+   "ph": "/ˈɒnbɔːrd/",
+   "pos": "v. 使熟悉環境 | 入職引導",
+   "zh": "引導新進員工；導入",
+   "colloc": "onboard employees 引導員工 | onboarding process 新進引導流程",
+   "distinct": "orient 適應 | train 培訓",
+   "ex": [
+    [
+     "We need to onboard new hires by next Monday.",
+     "我們需要在下週一前完成新人的入職引導。"
+    ],
+    [
+     "The onboarding process helps them adjust quickly.",
+     "入職引導流程能幫助他們快速適應。"
+    ],
+    [
+     "She helped onboard the interns during the summer.",
+     "她在暑假期間協助引導實習生。"
+    ]
+   ]
+  },
+  {
+   "word": "shortlist",
+   "ph": "/ˈʃɔːrtˌlɪst/",
+   "pos": "v. 將...列入決選名單 | n. 決選名單",
+   "zh": "列入決選名單",
+   "colloc": "shortlist candidates 列入決選名單 | on the shortlist 在決選名單上",
+   "distinct": "candidate 候選人 | finalist 決賽入圍者",
+   "ex": [
+    [
+     "We will shortlist five candidates for the interview.",
+     "我們會將五位候選人列入面試決選名單。"
+    ],
+    [
+     "His resume was moved to the final shortlist.",
+     "他的履歷被放進了最後決選名單。"
+    ],
+    [
+     "It is difficult to shortlist the best applicants.",
+     "要將最好的申請人列入決選名單很困難。"
+    ]
+   ]
+  },
+  {
+   "word": "internship",
+   "ph": "/ˈɪntɜːrnʃɪp/",
+   "pos": "n. 實習 | 實習期",
+   "zh": "實習；實習職位",
+   "colloc": "apply for an internship 申請實習 | summer internship 暑期實習",
+   "distinct": "training 訓練 | apprenticeship 學徒制",
+   "ex": [
+    [
+     "She completed a three-month internship at the firm.",
+     "她在該公司完成了三個月的實習。"
+    ],
+    [
+     "Many students apply for this internship every year.",
+     "每年都有許多學生申請這份實習。"
+    ],
+    [
+     "This internship offers a chance for permanent employment.",
+     "這份實習提供了轉正職的機會。"
+    ]
+   ]
+  },
+  {
+   "word": "competency",
+   "ph": "/ˈkɒmpɪtənsi/",
+   "pos": "n. 能力 | 技能",
+   "zh": "能力；職能",
+   "colloc": "core competency 核心能力 | demonstrate competency 展示能力",
+   "distinct": "ability 才能 | skill 技能",
+   "ex": [
+    [
+     "The job requires a high level of technical competency.",
+     "這份工作需要高水準的技術能力。"
+    ],
+    [
+     "We evaluate every candidate based on key competencies.",
+     "我們根據關鍵職能來評估每位候選人。"
+    ],
+    [
+     "Strong communication is a core competency for sales.",
+     "良好的溝通能力是業務的核心職能。"
+    ]
+   ]
+  },
+  {
+   "word": "probation",
+   "ph": "/prəˈbeɪʃn/",
+   "pos": "n. 試用期 | 察看",
+   "zh": "試用期；見習",
+   "colloc": "probation period 試用期 | on probation 在試用期內",
+   "distinct": "trial 審判 | assessment 評估",
+   "ex": [
+    [
+     "All new employees are subject to a three-month probation.",
+     "所有新進員工都有三個月的試用期。"
+    ],
+    [
+     "He passed his probation and became a full-time member.",
+     "他通過試用期並成為正式成員。"
+    ],
+    [
+     "Management will review her performance after the probation.",
+     "管理層將在試用期後評估她的表現。"
+    ]
+   ]
+  },
+  {
+   "word": "headcount",
+   "ph": "/ˈhedkaʊnt/",
+   "pos": "n. 總人數 | 人力編制",
+   "zh": "員工人數；人力編制",
+   "colloc": "reduce headcount 裁員 | increase headcount 增加人力",
+   "distinct": "personnel 人事 | staff 員工",
+   "ex": [
+    [
+     "The department needs to increase its headcount this year.",
+     "該部門今年需要增加人力編制。"
+    ],
+    [
+     "Management decided to reduce the total headcount.",
+     "管理層決定減少總員工人數。"
+    ],
+    [
+     "We have reached our maximum headcount for the project.",
+     "我們已經達到了該專案的人力上限。"
+    ]
+   ]
+  },
+  {
+   "word": "background",
+   "ph": "/ˈbækɡraʊnd/",
+   "pos": "n. 背景 | 經歷",
+   "zh": "學經歷；背景",
+   "colloc": "educational background 教育背景 | professional background 專業背景",
+   "distinct": "history 歷史 | experience 經驗",
+   "ex": [
+    [
+     "They are looking for someone with a design background.",
+     "他們在尋找具備設計背景的人。"
+    ],
+    [
+     "Please provide details about your professional background.",
+     "請提供關於你專業背景的細節。"
+    ],
+    [
+     "Her diverse background makes her a strong candidate.",
+     "她多元的背景使她成為強有力的候選人。"
+    ]
+   ]
+  },
+  {
+   "word": "resume",
+   "ph": "/ˈrezjuːmeɪ/",
+   "pos": "n. 履歷表",
+   "zh": "履歷；簡歷",
+   "colloc": "submit a resume 提交履歷 | update a resume 更新履歷",
+   "distinct": "CV 學術履歷 | portfolio 作品集",
+   "ex": [
+    [
+     "Please attach your resume to the email application.",
+     "請將你的履歷附加在電子郵件申請中。"
+    ],
+    [
+     "The recruiter spent time reading through her resume.",
+     "招募人員花時間詳讀了她的履歷。"
+    ],
+    [
+     "You should update your resume with recent achievements.",
+     "你應該用近期的成就來更新履歷。"
+    ]
+   ]
+  },
+  {
+   "word": "interview",
+   "ph": "/ˈɪntərvjuː/",
+   "pos": "v. 面試 | n. 面試",
+   "zh": "面試；訪談",
+   "colloc": "job interview 面試 | conduct an interview 進行面試",
+   "distinct": "assessment 評估 | screening 篩選",
+   "ex": [
+    [
+     "The manager will interview three candidates this morning.",
+     "經理今天早上將面試三位候選人。"
+    ],
+    [
+     "Be prepared for a tough interview process.",
+     "做好面對嚴格面試過程的準備。"
+    ],
+    [
+     "She did very well in her final interview.",
+     "她在最後一輪面試表現得很好。"
+    ]
+   ]
+  },
+  {
+   "word": "candidate",
+   "ph": "/ˈkændɪdeɪt/",
+   "pos": "n. 候選人 | 求職者",
+   "zh": "候選人；求職者",
+   "colloc": "ideal candidate 理想人選 | qualified candidate 合格候選人",
+   "distinct": "applicant 申請人 | nominee 被提名人",
+   "ex": [
+    [
+     "We need to select the best candidate by Friday.",
+     "我們需要在週五前選出最佳人選。"
+    ],
+    [
+     "Every candidate must answer these questions clearly.",
+     "每位候選人都必須清楚回答這些問題。"
+    ],
+    [
+     "The candidate demonstrated great problem-solving skills.",
+     "該候選人展現了優秀的問題解決能力。"
+    ]
+   ]
+  },
+  {
+   "word": "credential",
+   "ph": "/krəˈdenʃl/",
+   "pos": "n. 證書 | 資格證明",
+   "zh": "證書；資歷",
+   "colloc": "academic credentials 學歷證明 | verify credentials 核實資格",
+   "distinct": "qualification 資格 | certificate 證書",
+   "ex": [
+    [
+     "You must present your credentials during the interview.",
+     "面試時你必須出示你的資歷證明。"
+    ],
+    [
+     "Her professional credentials are very impressive.",
+     "她的專業資歷證明令人印象深刻。"
+    ],
+    [
+     "We need to verify all the candidates' credentials.",
+     "我們需要核實所有候選人的資格證明。"
+    ]
+   ]
+  },
+  {
+   "word": "reference",
+   "ph": "/ˈrefrəns/",
+   "pos": "n. 推薦信 | 參考",
+   "zh": "推薦信；證明人",
+   "colloc": "provide a reference 提供推薦 | check references 核對推薦人",
+   "distinct": "recommendation 推薦 | contact 聯繫人",
+   "ex": [
+    [
+     "Could you provide a reference from your previous employer?",
+     "你能提供前雇主的推薦信嗎？"
+    ],
+    [
+     "The company will call your references tomorrow.",
+     "公司明天會打電話詢問你的證明人。"
+    ],
+    [
+     "She included two professional references in her file.",
+     "她在檔案中附上了兩份專業推薦人資料。"
+    ]
+   ]
+  },
+  {
+   "word": "portfolio",
+   "ph": "/pɔːrtˈfoʊlioʊ/",
+   "pos": "n. 作品集 | 投資組合",
+   "zh": "作品集；代表作",
+   "colloc": "design portfolio 設計作品集 | show a portfolio 展示作品集",
+   "distinct": "resume 履歷 | profile 個人簡介",
+   "ex": [
+    [
+     "The applicant brought a portfolio of his best work.",
+     "該申請人帶來了他的最佳作品集。"
+    ],
+    [
+     "Please email your portfolio for us to review.",
+     "請將你的作品集寄給我們審閱。"
+    ],
+    [
+     "A creative portfolio is essential for this position.",
+     "這份職位必須要有創意作品集。"
+    ]
+   ]
+  },
+  {
+   "word": "salary",
+   "ph": "/ˈsæləri/",
+   "pos": "n. 薪水",
+   "zh": "薪資；薪水",
+   "colloc": "annual salary 年薪 | negotiate a salary 協商薪資",
+   "distinct": "wage 時薪 | income 收入",
+   "ex": [
+    [
+     "The company offers a competitive starting salary.",
+     "公司提供具競爭力的起薪。"
+    ],
+    [
+     "We can discuss the salary after the interview.",
+     "我們面試後可以討論薪資。"
+    ],
+    [
+     "Her expected salary is within our budget.",
+     "她的期望薪資在我們的預算內。"
+    ]
+   ]
+  },
+  {
+   "word": "recruitment",
+   "ph": "/rɪˈkruːtmənt/",
+   "pos": "n. 招募，徵才",
+   "zh": "招募；徵才",
+   "colloc": "recruitment agency 招募顧問公司 | recruitment drive 徵才活動",
+   "distinct": "recruiter 招募人員 | candidate 應徵者",
+   "ex": [
+    [
+     "Our company launched a new recruitment drive this month.",
+     "我們公司這個月啟動了一項新的徵才活動。"
+    ],
+    [
+     "The recruitment process usually takes about three weeks.",
+     "招募流程通常需要大約三個星期。"
+    ],
+    [
+     "She works for a top recruitment agency in Taipei.",
+     "她任職於台北一家頂尖的招募顧問公司。"
+    ]
+   ]
+  },
+  {
+   "word": "headhunter",
+   "ph": "/ˈhedhʌntər/",
+   "pos": "n. 獵霸，獵頭公司",
+   "zh": "獵霸；獵頭顧問",
+   "colloc": "hire a headhunter 聘請獵頭 | executive headhunter 高階獵頭",
+   "distinct": "recruiter 招募專員 | employer 雇主",
+   "ex": [
+    [
+     "A headhunter contacted him regarding a senior executive role.",
+     "一位獵頭就高階主管職位與他聯繫。"
+    ],
+    [
+     "The firm hired a headhunter to find a new CEO.",
+     "該公司聘請了獵頭公司來尋找新任執行長。"
+    ],
+    [
+     "Experienced headhunters know how to source top talent effectively.",
+     "有經驗的獵頭知道如何有效地尋找頂尖人才。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

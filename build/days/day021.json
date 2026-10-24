@@ -1,0 +1,75 @@
+{
+ "day": 21,
+ "theme": "訂單與交期",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "backorder",
+   "ph": "/ˈbækˌɔːrdər/",
+   "pos": "n. 延遲交貨訂單",
+   "zh": "延遲交貨訂單",
+   "colloc": "place a backorder 下預訂單 | clear a backorder 處理延遲訂單",
+   "distinct": "shortage 庫存短缺 | out-of-stock 缺貨",
+   "ex": [
+    [
+     "The popular item is currently on backorder.",
+     "這項熱門商品目前處於延遲交貨狀態。"
+    ],
+    [
+     "We will ship your backorder as soon as possible.",
+     "我們將盡快出貨您的延遲訂單。"
+    ],
+    [
+     "Please wait for the backorder to be fulfilled.",
+     "請耐心等待延遲訂單完成配送。"
+    ]
+   ]
+  },
+  {
+   "word": "cancellation",
+   "ph": "/ˌkænsəˈleɪʃn/",
+   "pos": "n. 取消",
+   "zh": "取消；廢止",
+   "colloc": "order cancellation 取消訂單 | subject to cancellation 可能被取消",
+   "distinct": "postponement 延期 | termination 終止",
+   "ex": [
+    [
+     "Notice of cancellation must be sent in writing.",
+     "取消通知必須以書面形式發送。"
+    ],
+    [
+     "The sudden cancellation caused a delivery delay.",
+     "突如其來的取消導致了交期延遲。"
+    ],
+    [
+     "We regret the cancellation of your recent order.",
+     "對於您近期訂單的取消我們深感遺憾。"
+    ]
+   ]
+  },
+  {
+   "word": "lead-time",
+   "ph": "/ˈliːd taɪm/",
+   "pos": "n. 前置時間；交貨準備期",
+   "zh": "前置時間；交貨準備期",
+   "colloc": "shorten lead-time 縮短交期 | average lead-time 平均前置時間",
+   "distinct": "duration 持續時間 | deadline 截止日期",
+   "ex": [
+    [
+     "The lead-time for this component is two weeks.",
+     "該零件的前置時間為兩週。"
+    ],
+    [
+     "Long lead-times are expected during peak seasons.",
+     "旺季期間預期會有較長的前置時間。"
+    ],
+    [
+     "We need to reduce lead-time to improve efficiency.",
+     "我們需要縮短前置時間以提升效率。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

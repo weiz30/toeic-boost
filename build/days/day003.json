@@ -1,0 +1,449 @@
+{
+ "day": 3,
+ "theme": "會議與討論",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "participate",
+   "ph": "/pɑːrˈtɪsɪpeɪt/",
+   "pos": "v. 參與",
+   "zh": "參加；參與",
+   "colloc": "participate in 參與 | actively participate 積極參與",
+   "distinct": "attend 出席 | join 加入",
+   "ex": [
+    [
+     "Employees should participate in the meeting.",
+     "員工應該參加這次會議。"
+    ],
+    [
+     "She will participate in the discussion.",
+     "她將參與這次討論。"
+    ],
+    [
+     "Everyone can participate in the project.",
+     "每個人都能參與這項計畫。"
+    ]
+   ]
+  },
+  {
+   "word": "consensus",
+   "ph": "/kənˈsensəs/",
+   "pos": "n. 共識",
+   "zh": "共識；一致同意",
+   "colloc": "reach a consensus 達成共識 | broad consensus 廣泛共識",
+   "distinct": "agreement 同意 | opinion 意見",
+   "ex": [
+    [
+     "The team reached a consensus quickly.",
+     "團隊很快達成了共識。"
+    ],
+    [
+     "We need a consensus on the plan.",
+     "我們需要對此計畫達成共識。"
+    ],
+    [
+     "No consensus was reached during the talk.",
+     "談話過程中未達成共識。"
+    ]
+   ]
+  },
+  {
+   "word": "briefing",
+   "ph": "/ˈbriːfɪŋ/",
+   "pos": "n. 簡報；情況說明",
+   "zh": "簡報；說明會",
+   "colloc": "give a briefing 進行簡報 | daily briefing 每日例會",
+   "distinct": "presentation 簡報 | meeting 會議",
+   "ex": [
+    [
+     "The manager gave a brief briefing.",
+     "經理進行了簡短的說明。"
+    ],
+    [
+     "Attend the morning briefing at nine.",
+     "九點參加早晨的說明會。"
+    ],
+    [
+     "This briefing covers all project updates.",
+     "這份簡報涵蓋了所有計畫更新。"
+    ]
+   ]
+  },
+  {
+   "word": "collaborate",
+   "ph": "/kəˈlæbəreɪt/",
+   "pos": "v. 合作",
+   "zh": "合作；協作",
+   "colloc": "collaborate on 合作進行 | collaborate with 與...合作",
+   "distinct": "cooperate 配合 | work 工作",
+   "ex": [
+    [
+     "Departments must collaborate on this task.",
+     "部門之間必須合作完成此任務。"
+    ],
+    [
+     "They collaborate to improve the design.",
+     "他們合作以改進設計。"
+    ],
+    [
+     "We enjoy collaborating with new partners.",
+     "我們樂於與新夥伴合作。"
+    ]
+   ]
+  },
+  {
+   "word": "facilitate",
+   "ph": "/fəˈsɪlɪteɪt/",
+   "pos": "v. 促進；推動",
+   "zh": "使便利；促進",
+   "colloc": "facilitate a meeting 主持會議 | facilitate communication 促進溝通",
+   "distinct": "help 幫助 | assist 協助",
+   "ex": [
+    [
+     "Technology can facilitate our daily work.",
+     "科技能使我們的日常工作更便利。"
+    ],
+    [
+     "He will facilitate the group discussion.",
+     "他將主持這場小組討論。"
+    ],
+    [
+     "This software facilitates project management.",
+     "這套軟體有助於管理專案。"
+    ]
+   ]
+  },
+  {
+   "word": "brainstorm",
+   "ph": "/ˈbreɪnstɔːrm/",
+   "pos": "v. 腦力激盪",
+   "zh": "腦力激盪；集思廣益",
+   "colloc": "brainstorm ideas 腦力激盪點子 | brainstorming session 腦力激盪會議",
+   "distinct": "discuss 討論 | debate 辯論",
+   "ex": [
+    [
+     "Let us brainstorm some creative solutions.",
+     "讓我們為創意解決方案腦力激盪。"
+    ],
+    [
+     "The team brainstormed for two hours.",
+     "團隊進行了兩小時的腦力激盪。"
+    ],
+    [
+     "We need to brainstorm future strategies.",
+     "我們需要針對未來策略集思廣益。"
+    ]
+   ]
+  },
+  {
+   "word": "feedback",
+   "ph": "/ˈfiːdbæk/",
+   "pos": "n. 回饋；反應",
+   "zh": "意見；回饋",
+   "colloc": "provide feedback 提供意見 | positive feedback 正面回饋",
+   "distinct": "comment 評論 | review 審查",
+   "ex": [
+    [
+     "Please provide feedback on the proposal.",
+     "請對該提案提供回饋意見。"
+    ],
+    [
+     "Client feedback is very important here.",
+     "客戶的意見在這裡非常重要。"
+    ],
+    [
+     "We appreciate your honest feedback today.",
+     "我們感謝您今天提供的誠實建議。"
+    ]
+   ]
+  },
+  {
+   "word": "minutes",
+   "ph": "/ˈmɪnɪts/",
+   "pos": "n. 會議記錄",
+   "zh": "會議記錄",
+   "colloc": "take minutes 做會議記錄 | review the minutes 審閱會議記錄",
+   "distinct": "note 筆記 | record 紀錄",
+   "ex": [
+    [
+     "The secretary took the meeting minutes.",
+     "秘書記錄了會議內容。"
+    ],
+    [
+     "Please read the minutes from yesterday.",
+     "請閱讀昨天的會議記錄。"
+    ],
+    [
+     "The minutes are available online now.",
+     "會議記錄現在可以在線上查看。"
+    ]
+   ]
+  },
+  {
+   "word": "propose",
+   "ph": "/prəˈpoʊz/",
+   "pos": "v. 提議；建議",
+   "zh": "提出；提議",
+   "colloc": "propose a plan 提出計畫 | formally propose 正式提議",
+   "distinct": "suggest 建議 | recommend 推薦",
+   "ex": [
+    [
+     "He proposes a new marketing strategy.",
+     "他提出了一項新的行銷策略。"
+    ],
+    [
+     "They proposed to delay the meeting.",
+     "他們提議推遲會議。"
+    ],
+    [
+     "The board proposed several key changes.",
+     "董事會提議了幾項重大變革。"
+    ]
+   ]
+  },
+  {
+   "word": "clarify",
+   "ph": "/ˈklærəfaɪ/",
+   "pos": "v. 釐清；闡明",
+   "zh": "澄清；使清楚",
+   "colloc": "clarify the issue 釐清問題 | clarify instructions 說明指示",
+   "distinct": "explain 解釋 | define 定義",
+   "ex": [
+    [
+     "Can you clarify this point again?",
+     "你可以再釐清這點嗎？"
+    ],
+    [
+     "The manager clarified the team's roles.",
+     "經理釐清了團隊成員的角色。"
+    ],
+    [
+     "We must clarify the project goals.",
+     "我們必須釐清專案目標。"
+    ]
+   ]
+  },
+  {
+   "word": "summary",
+   "ph": "/ˈsʌməri/",
+   "pos": "n. 摘要；總結",
+   "zh": "摘要；總結",
+   "colloc": "brief summary 簡要摘要 | executive summary 執行摘要",
+   "distinct": "outline 大綱 | abstract 概要",
+   "ex": [
+    [
+     "Read the summary before the meeting.",
+     "會議前請閱讀摘要。"
+    ],
+    [
+     "The report includes a short summary.",
+     "報告中包含了一份簡短摘要。"
+    ],
+    [
+     "Provide a summary of the discussion.",
+     "提供一份討論內容的總結。"
+    ]
+   ]
+  },
+  {
+   "word": "negotiable",
+   "ph": "/nɪˈɡoʊʃiəbl/",
+   "pos": "adj. 可協商的",
+   "zh": "可議的；可協商的",
+   "colloc": "highly negotiable 高度可協商 | price is negotiable 價格可議",
+   "distinct": "flexible 彈性的 | adjustable 可調整的",
+   "ex": [
+    [
+     "Our meeting time is still negotiable.",
+     "我們的會議時間仍然可以協商。"
+    ],
+    [
+     "The terms are negotiable for us.",
+     "這些條款對我們來說是可以協商的。"
+    ],
+    [
+     "Most aspects of the deal are negotiable.",
+     "交易的大多數面向都是可議的。"
+    ]
+   ]
+  },
+  {
+   "word": "prospect",
+   "ph": "/ˈprɑːspekt/",
+   "pos": "n. 前景；預期",
+   "zh": "前景；潛在客戶",
+   "colloc": "business prospect 商業前景 | sales prospect 潛在客戶",
+   "distinct": "future 未來 | expectation 期望",
+   "ex": [
+    [
+     "The prospect for growth looks good.",
+     "成長前景看起來不錯。"
+    ],
+    [
+     "We met with a new sales prospect.",
+     "我們見了一位新的潛在客戶。"
+    ],
+    [
+     "Are there any prospects for expansion?",
+     "有擴展業務的前景嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "compromise",
+   "ph": "/ˈkɑːmprəmaɪz/",
+   "pos": "n.|v. 折衷；妥協",
+   "zh": "妥協；折衷方案",
+   "colloc": "reach a compromise 達成妥協 | work out a compromise 擬定折衷方案",
+   "distinct": "concession 讓步 | settlement 解決方案",
+   "ex": [
+    [
+     "We need to reach a compromise.",
+     "我們需要達成妥協。"
+    ],
+    [
+     "A compromise is better than disagreement.",
+     "妥協總比意見不合好。"
+    ],
+    [
+     "Both sides compromised on the budget.",
+     "雙方在預算上都做了妥協。"
+    ]
+   ]
+  },
+  {
+   "word": "adjourn",
+   "ph": "/əˈdʒɜːrn/",
+   "pos": "v. 休會；中斷",
+   "zh": "宣布散會；休會",
+   "colloc": "adjourn the meeting 宣布散會 | adjourn until tomorrow 推遲至明天",
+   "distinct": "end 結束 | postpone 延期",
+   "ex": [
+    [
+     "The chairperson decided to adjourn early.",
+     "主席決定提早宣布散會。"
+    ],
+    [
+     "We will adjourn the meeting until noon.",
+     "我們將休會至中午。"
+    ],
+    [
+     "The session adjourned without a decision.",
+     "會議在沒有結論的情況下休會。"
+    ]
+   ]
+  },
+  {
+   "word": "mandatory",
+   "ph": "/ˈmændətɔːri/",
+   "pos": "adj. 強制的；義務的",
+   "zh": "必須的；法定的",
+   "colloc": "mandatory meeting 強制參加的會議 | mandatory training 強制訓練",
+   "distinct": "compulsory 義務的 | required 必要的",
+   "ex": [
+    [
+     "Attendance is mandatory for all staff.",
+     "所有員工必須出席。"
+    ],
+    [
+     "This is a mandatory safety briefing.",
+     "這是一場強制性的安全說明會。"
+    ],
+    [
+     "Is the orientation meeting mandatory?",
+     "迎新會議是強制參加的嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "allocate",
+   "ph": "/ˈæləkeɪt/",
+   "pos": "v. 分配；撥出",
+   "zh": "撥款；分配",
+   "colloc": "allocate time 分配時間 | allocate resources 分配資源",
+   "distinct": "distribute 分發 | assign 指派",
+   "ex": [
+    [
+     "We must allocate resources to projects.",
+     "我們必須為專案分配資源。"
+    ],
+    [
+     "He allocated two hours for discussion.",
+     "他為討論撥出了兩小時。"
+    ],
+    [
+     "The budget was allocated last month.",
+     "預算在上個月已經分配好了。"
+    ]
+   ]
+  },
+  {
+   "word": "irrelevant",
+   "ph": "/ɪˈreləvənt/",
+   "pos": "adj. 不相關的",
+   "zh": "不切題的；無關的",
+   "colloc": "irrelevant topic 不相關的話題 | totally irrelevant 完全無關",
+   "distinct": "unimportant 不重要的 | trivial 瑣碎的",
+   "ex": [
+    [
+     "His comment was irrelevant to us.",
+     "他的評論對我們來說不相關。"
+    ],
+    [
+     "Avoid bringing up irrelevant issues.",
+     "避免提出不相關的問題。"
+    ],
+    [
+     "The data provided is largely irrelevant.",
+     "所提供的數據很大程度上不相關。"
+    ]
+   ]
+  },
+  {
+   "word": "involve",
+   "ph": "/ɪnˈvɑːlv/",
+   "pos": "v. 包含；涉及",
+   "zh": "參與；涉及",
+   "colloc": "involve in 參與 | directly involve 直接涉及",
+   "distinct": "include 包含 | contain 裝有",
+   "ex": [
+    [
+     "The project involves many different departments.",
+     "該專案涉及許多不同部門。"
+    ],
+    [
+     "He is involved in the planning.",
+     "他參與了這項規劃。"
+    ],
+    [
+     "These changes involve more costs.",
+     "這些變動涉及更多成本。"
+    ]
+   ]
+  },
+  {
+   "word": "adjournment",
+   "ph": "/əˈdʒɜːrnmənt/",
+   "pos": "n. 休會",
+   "zh": "休會；延期",
+   "colloc": "formal adjournment 正式休會 | move for adjournment 提議休會",
+   "distinct": "postponement 延期 | suspension 中止",
+   "ex": [
+    [
+     "The chairman announced the adjournment of the meeting.",
+     "主席宣布了會議休會。"
+    ],
+    [
+     "We will discuss this after the formal adjournment.",
+     "我們將在正式休會後討論。"
+    ],
+    [
+     "A brief adjournment was requested by the staff.",
+     "員工請求進行短暫休會。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

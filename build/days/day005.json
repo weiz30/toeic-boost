@@ -1,0 +1,449 @@
+{
+ "day": 5,
+ "theme": "電話與訊息往來",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "voicemail",
+   "ph": "/ˈvɔɪsmeɪl/",
+   "pos": "n. 語音信箱",
+   "zh": "語音信箱",
+   "colloc": "leave a voicemail 留下語音訊息 | check voicemail 查詢語音訊息",
+   "distinct": "message 訊息 | memo 備忘錄",
+   "ex": [
+    [
+     "Please leave your message after the tone.",
+     "請在提示音後留下語音訊息。"
+    ],
+    [
+     "I sent him a voicemail this morning.",
+     "我今天早上傳了語音訊息給他。"
+    ],
+    [
+     "He checked his voicemail during the break.",
+     "他在休息時間查看了語音信箱。"
+    ]
+   ]
+  },
+  {
+   "word": "operator",
+   "ph": "/ˈɑːpəreɪtər/",
+   "pos": "n. 接線生；操作員",
+   "zh": "接線生；操作員",
+   "colloc": "switchboard operator 總機接線生 | talk to the operator 與接線生通話",
+   "distinct": "receptionist 接待員 | agent 代理人",
+   "ex": [
+    [
+     "The operator will connect your call shortly.",
+     "接線生稍後會為您轉接電話。"
+    ],
+    [
+     "I asked the operator for a directory.",
+     "我向接線生索取電話號碼簿。"
+    ],
+    [
+     "She works as an operator at headquarters.",
+     "她在總部擔任接線生。"
+    ]
+   ]
+  },
+  {
+   "word": "inquire",
+   "ph": "/ɪnˈkwaɪər/",
+   "pos": "v. 詢問；查詢",
+   "zh": "詢問；查詢",
+   "colloc": "inquire about the status 詢問狀況 | formally inquire 正式詢問",
+   "distinct": "require 需要 | acquire 獲得",
+   "ex": [
+    [
+     "We wish to inquire about your services.",
+     "我們希望能詢問關於貴方的服務。"
+    ],
+    [
+     "She inquired about the meeting location.",
+     "她詢問了關於會議的地點。"
+    ],
+    [
+     "Clients often inquire about shipping costs.",
+     "客戶常詢問關於運費的事宜。"
+    ]
+   ]
+  },
+  {
+   "word": "forward",
+   "ph": "/ˈfɔːrwərd/",
+   "pos": "v. 轉寄；轉接",
+   "zh": "轉寄；轉接",
+   "colloc": "forward an email 轉寄郵件 | forward a call 轉接電話",
+   "distinct": "postpone 延後 | send 發送",
+   "ex": [
+    [
+     "Please forward the report to my assistant.",
+     "請將報告轉寄給我的助理。"
+    ],
+    [
+     "The system will forward all your calls.",
+     "系統將會自動轉接您所有的電話。"
+    ],
+    [
+     "I have forwarded the inquiry to HR.",
+     "我已經將該詢問轉發給人資部。"
+    ]
+   ]
+  },
+  {
+   "word": "notify",
+   "ph": "/ˈnoʊtɪfaɪ/",
+   "pos": "v. 通知；告知",
+   "zh": "通知；告知",
+   "colloc": "notify someone of something 通知某人某事 | promptly notify 立即通知",
+   "distinct": "inform 告知 | announce 宣佈",
+   "ex": [
+    [
+     "The manager will notify us by email.",
+     "經理將會透過電子郵件通知我們。"
+    ],
+    [
+     "Please notify the staff about the change.",
+     "請告知員工關於此項變動。"
+    ],
+    [
+     "We were notified of the sudden delay.",
+     "我們被通知了關於突然的延誤。"
+    ]
+   ]
+  },
+  {
+   "word": "correspondence",
+   "ph": "/ˌkɔːrəˈspɑːndəns/",
+   "pos": "n. 通訊；信件",
+   "zh": "通訊；信件",
+   "colloc": "business correspondence 商務通信 | handle correspondence 處理信件",
+   "distinct": "communication 溝通 | document 文件",
+   "ex": [
+    [
+     "Please file all the business correspondence.",
+     "請將所有的商務信件歸檔。"
+    ],
+    [
+     "She handles all the company correspondence.",
+     "她處理所有的公司往來信件。"
+    ],
+    [
+     "The correspondence was lost in transit.",
+     "那封信件在運送過程中遺失了。"
+    ]
+   ]
+  },
+  {
+   "word": "brief",
+   "ph": "/briːf/",
+   "pos": "adj. 簡短的 | v. 向...簡報",
+   "zh": "簡短的；向...簡報",
+   "colloc": "a brief meeting 簡短會議 | brief the team 向團隊簡報",
+   "distinct": "short 短的 | quick 快速的",
+   "ex": [
+    [
+     "The director briefed us on the plan.",
+     "總監向我們簡報了該計畫。"
+    ],
+    [
+     "They held a brief meeting this morning.",
+     "他們今天早上舉行了簡短會議。"
+    ],
+    [
+     "I will brief you after the call.",
+     "電話結束後我會向你說明。"
+    ]
+   ]
+  },
+  {
+   "word": "interrupt",
+   "ph": "/ˌɪntəˈrʌpt/",
+   "pos": "v. 中斷；打斷",
+   "zh": "中斷；打斷",
+   "colloc": "interrupt the conversation 中斷對話 | sorry to interrupt 抱歉打斷",
+   "distinct": "interfere 干擾 | disrupt 擾亂",
+   "ex": [
+    [
+     "I am sorry to interrupt your call.",
+     "抱歉打斷了你的通話。"
+    ],
+    [
+     "The bad connection interrupted the meeting.",
+     "糟糕的通訊中斷了會議。"
+    ],
+    [
+     "Please do not interrupt during the presentation.",
+     "簡報期間請勿打斷發言。"
+    ]
+   ]
+  },
+  {
+   "word": "convey",
+   "ph": "/kənˈveɪ/",
+   "pos": "v. 傳達；表達",
+   "zh": "傳達；表達",
+   "colloc": "convey a message 傳達訊息 | convey information 傳達資訊",
+   "distinct": "deliver 遞送 | connect 連接",
+   "ex": [
+    [
+     "Please convey my apologies to the team.",
+     "請代我向團隊致歉。"
+    ],
+    [
+     "The note conveys a very clear message.",
+     "那張紙條傳達了很明確的訊息。"
+    ],
+    [
+     "He failed to convey his ideas clearly.",
+     "他沒能清楚傳達他的想法。"
+    ]
+   ]
+  },
+  {
+   "word": "unavailable",
+   "ph": "/ˌʌnəˈveɪləbl/",
+   "pos": "adj. 無法取得的；沒空的",
+   "zh": "無法取得的；沒空的",
+   "colloc": "currently unavailable 目前無法接聽 | unavailable for comment 無法評論",
+   "distinct": "available 可用的 | accessible 可進入的",
+   "ex": [
+    [
+     "The manager is unavailable at the moment.",
+     "經理目前不方便接聽。"
+    ],
+    [
+     "This product is unavailable in our branch.",
+     "這項產品在我們分店沒貨。"
+    ],
+    [
+     "He is unavailable for a meeting today.",
+     "他今天無法參加會議。"
+    ]
+   ]
+  },
+  {
+   "word": "directory",
+   "ph": "/dəˈrektəri/",
+   "pos": "n. 電話簿；目錄",
+   "zh": "電話簿；目錄",
+   "colloc": "company directory 公司通訊錄 | look up the directory 查詢目錄",
+   "distinct": "dictionary 字典 | diary 日記",
+   "ex": [
+    [
+     "I checked the company directory for his name.",
+     "我查閱公司通訊錄找他的名字。"
+    ],
+    [
+     "Please add your number to the directory.",
+     "請將你的號碼加入通訊錄。"
+    ],
+    [
+     "You can find the extension in the directory.",
+     "你可以在目錄中找到分機。"
+    ]
+   ]
+  },
+  {
+   "word": "attachment",
+   "ph": "/əˈtætʃmənt/",
+   "pos": "n. 附件",
+   "zh": "附件",
+   "colloc": "email attachment 電子郵件附件 | open the attachment 開啟附件",
+   "distinct": "attraction 吸引力 | achievement 成就",
+   "ex": [
+    [
+     "Did you receive the file attachment?",
+     "你有收到那個檔案附件嗎？"
+    ],
+    [
+     "The attachment contains the project details.",
+     "附件中包含專案的細節。"
+    ],
+    [
+     "Please check the attachment for more info.",
+     "請查看附件以獲取更多資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "post",
+   "ph": "/poʊst/",
+   "pos": "v. 張貼；郵寄 | n. 職位",
+   "zh": "張貼；郵寄；職位",
+   "colloc": "post an announcement 張貼公告 | post the letter 郵寄信件",
+   "distinct": "past 過去的 | host 主辦",
+   "ex": [
+    [
+     "I will post the new schedule online.",
+     "我會將新行程表貼在網路上。"
+    ],
+    [
+     "Please post the invoice by tomorrow.",
+     "請在明天之前寄出那張發票。"
+    ],
+    [
+     "They posted the vacancy on the website.",
+     "他們在網站上張貼了職缺資訊。"
+    ]
+   ]
+  },
+  {
+   "word": "verbal",
+   "ph": "/ˈvɜːrbl/",
+   "pos": "adj. 口頭的；言語的",
+   "zh": "口頭的",
+   "colloc": "verbal agreement 口頭協議 | verbal confirmation 口頭確認",
+   "distinct": "vocal 嗓音的 | written 書面的",
+   "ex": [
+    [
+     "We reached a verbal agreement yesterday.",
+     "我們昨天達成了口頭協議。"
+    ],
+    [
+     "Please provide a written, not verbal, notice.",
+     "請提供書面而非口頭的通知。"
+    ],
+    [
+     "She gave a verbal report to the director.",
+     "她對總監做了口頭報告。"
+    ]
+   ]
+  },
+  {
+   "word": "regarding",
+   "ph": "/rɪˈɡɑːrdɪŋ/",
+   "pos": "prep. 關於",
+   "zh": "關於",
+   "colloc": "regarding the matter 關於此事 | regarding your inquiry 關於您的詢問",
+   "distinct": "regardless 不管 | recording 紀錄",
+   "ex": [
+    [
+     "I am calling regarding the order status.",
+     "我致電是為了詢問訂單狀況。"
+    ],
+    [
+     "They have questions regarding the new policy.",
+     "他們對於新政策有一些問題。"
+    ],
+    [
+     "Regarding your email, we need more time.",
+     "關於您的郵件，我們需要更多時間。"
+    ]
+   ]
+  },
+  {
+   "word": "format",
+   "ph": "/ˈfɔːrmæt/",
+   "pos": "n. 格式 | v. 格式化",
+   "zh": "格式",
+   "colloc": "file format 檔案格式 | follow the format 遵循格式",
+   "distinct": "form 表格 | formula 公式",
+   "ex": [
+    [
+     "Please use the standard report format.",
+     "請使用標準的報告格式。"
+    ],
+    [
+     "The file format is not compatible here.",
+     "這檔案格式在此不相容。"
+    ],
+    [
+     "He changed the format of the document.",
+     "他更改了文件的格式。"
+    ]
+   ]
+  },
+  {
+   "word": "hangup",
+   "ph": "/ˈhæŋ.ʌp/",
+   "pos": "n. 掛斷；障礙",
+   "zh": "掛斷；心理障礙",
+   "colloc": "sudden hangup 突然掛斷 | avoid a hangup 避免故障",
+   "distinct": "hiccup 小問題 | breakdown 故障",
+   "ex": [
+    [
+     "The call ended with a sudden hangup.",
+     "這通電話在突然掛斷中結束。"
+    ],
+    [
+     "He experienced a hangup during the call.",
+     "他在通話過程中遇到障礙。"
+    ],
+    [
+     "There was a hangup in our communication.",
+     "我們的溝通出現了障礙。"
+    ]
+   ]
+  },
+  {
+   "word": "teleconference",
+   "ph": "/ˈtelikɒnfərəns/",
+   "pos": "n. 遠端會議",
+   "zh": "遠端會議；電話會議",
+   "colloc": "host a teleconference 舉辦遠端會議 | join the teleconference 參加遠端會議",
+   "distinct": "videoconference 視訊會議 | seminar 研討會",
+   "ex": [
+    [
+     "We will hold a teleconference tomorrow morning.",
+     "我們明天早上將召開遠端會議。"
+    ],
+    [
+     "Please prepare for the upcoming teleconference.",
+     "請為即將到來的遠端會議做準備。"
+    ],
+    [
+     "All managers should join the teleconference.",
+     "所有經理都應該參加遠端會議。"
+    ]
+   ]
+  },
+  {
+   "word": "intercept",
+   "ph": "/ˌɪntəˈsept/",
+   "pos": "v. 攔截；接聽",
+   "zh": "攔截；中途攔截",
+   "colloc": "intercept a call 接聽來電 | intercept information 截獲資訊",
+   "distinct": "interrupt 中斷 | interfere 干擾",
+   "ex": [
+    [
+     "I will intercept the call for you.",
+     "我會幫你接聽這通電話。"
+    ],
+    [
+     "Did you intercept the urgent message?",
+     "你有攔截到那則緊急訊息嗎？"
+    ],
+    [
+     "The secretary had to intercept his calls.",
+     "秘書必須協助攔截他的來電。"
+    ]
+   ]
+  },
+  {
+   "word": "inaccessible",
+   "ph": "/ˌɪnəkˈsesəbl/",
+   "pos": "adj. 無法到達的；難以聯繫的",
+   "zh": "無法到達的；難以聯繫的",
+   "colloc": "remain inaccessible 保持無法聯繫 | inaccessible area 難以進入區域",
+   "distinct": "inadmissible 不可採納的 | unreachable 達不到的",
+   "ex": [
+    [
+     "The manager is currently inaccessible by phone.",
+     "經理目前電話無法聯繫上。"
+    ],
+    [
+     "That file is inaccessible to most employees.",
+     "大多數員工無法存取該檔案。"
+    ],
+    [
+     "He remained inaccessible throughout the busy day.",
+     "他在忙碌的一整天都無法聯繫。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

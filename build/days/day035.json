@@ -1,0 +1,361 @@
+{
+ "day": 35,
+ "theme": "市場調查",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "questionnaire",
+   "ph": "/ˌkwestʃəˈneər/",
+   "pos": "n. 問卷",
+   "zh": "問卷；意見調查表",
+   "colloc": "distribute a questionnaire 發放問卷 | fill out a questionnaire 填寫問卷",
+   "distinct": "survey 調查 | poll 民意調查",
+   "ex": [
+    [
+     "Please complete the customer feedback questionnaire.",
+     "請填寫這份顧客意見調查問卷。"
+    ],
+    [
+     "We distributed the questionnaire to all visitors.",
+     "我們將問卷發放給所有訪客。"
+    ],
+    [
+     "The questionnaire results provided valuable insights.",
+     "問卷結果提供了有價值的見解。"
+    ]
+   ]
+  },
+  {
+   "word": "respondent",
+   "ph": "/rɪˈspɒndənt/",
+   "pos": "n. 回答者；受訪者",
+   "zh": "受訪者；回應者",
+   "colloc": "survey respondent 調查對象 | majority of respondents 大多數受訪者",
+   "distinct": "participant 參與者 | interviewee 面試者",
+   "ex": [
+    [
+     "Most respondents expressed satisfaction with the service.",
+     "大多數受訪者對服務表示滿意。"
+    ],
+    [
+     "The respondent base includes various age groups.",
+     "受訪者群體包含了不同年齡層。"
+    ],
+    [
+     "We need more respondents for accurate analysis.",
+     "我們需要更多受訪者以進行準確分析。"
+    ]
+   ]
+  },
+  {
+   "word": "qualitative",
+   "ph": "/ˈkwɒlɪtətɪv/",
+   "pos": "adj. 定性的；質化的",
+   "zh": "定性的；性質上的",
+   "colloc": "qualitative research 定性研究 | qualitative analysis 定性分析",
+   "distinct": "quantitative 定量的 | empirical 經驗的",
+   "ex": [
+    [
+     "The team conducted qualitative research on trends.",
+     "團隊針對趨勢進行了定性研究。"
+    ],
+    [
+     "We need qualitative data to understand feelings.",
+     "我們需要定性數據來了解感受。"
+    ],
+    [
+     "Focus groups provide useful qualitative feedback.",
+     "焦點小組提供了有用的定性回饋。"
+    ]
+   ]
+  },
+  {
+   "word": "quantitative",
+   "ph": "/ˈkwɒntɪtətɪv/",
+   "pos": "adj. 定量的；量化的",
+   "zh": "定量的；數量上的",
+   "colloc": "quantitative data 定量數據 | quantitative method 定量方法",
+   "distinct": "qualitative 定性的 | statistical 統計的",
+   "ex": [
+    [
+     "Management requires quantitative evidence for decisions.",
+     "管理層決策需要量化證據支持。"
+    ],
+    [
+     "Our study focuses on quantitative market analysis.",
+     "我們的研究專注於定量市場分析。"
+    ],
+    [
+     "The report includes quantitative sales projections.",
+     "該報告包含量化的銷售預測。"
+    ]
+   ]
+  },
+  {
+   "word": "segmentation",
+   "ph": "/ˌsegmenˈteɪʃn/",
+   "pos": "n. 細分；分割",
+   "zh": "市場細分；分割",
+   "colloc": "market segmentation 市場細分 | customer segmentation 客戶群細分",
+   "distinct": "division 部門 | classification 分類",
+   "ex": [
+    [
+     "Effective market segmentation increases sales revenue.",
+     "有效的市場細分能增加銷售營收。"
+    ],
+    [
+     "We improved targeting through better segmentation.",
+     "我們透過更好的細分改善了目標鎖定。"
+    ],
+    [
+     "Demographic segmentation helps identify core audiences.",
+     "人口統計細分有助於識別核心受眾。"
+    ]
+   ]
+  },
+  {
+   "word": "tabulate",
+   "ph": "/ˈtæbjuleɪt/",
+   "pos": "v. 製表；歸納",
+   "zh": "將...製成表；系統整理",
+   "colloc": "tabulate data 整理數據 | tabulate results 列出結果",
+   "distinct": "calculate 計算 | compile 編纂",
+   "ex": [
+    [
+     "The assistant will tabulate the survey results.",
+     "助理將會把調查結果製成表格。"
+    ],
+    [
+     "We must tabulate all figures for accuracy.",
+     "我們必須為準確性整理所有數據。"
+    ],
+    [
+     "He tabulated the findings in a report.",
+     "他將調查結果整理在報告中。"
+    ]
+   ]
+  },
+  {
+   "word": "correlation",
+   "ph": "/ˌkɒrəˈleɪʃn/",
+   "pos": "n. 相關性；關聯",
+   "zh": "相互關係；關聯",
+   "colloc": "strong correlation 強烈相關 | direct correlation 直接相關",
+   "distinct": "connection 連接 | interaction 互動",
+   "ex": [
+    [
+     "There is a correlation between price and demand.",
+     "價格與需求之間存在相關性。"
+    ],
+    [
+     "The study shows no correlation between them.",
+     "該研究顯示兩者之間並無關聯。"
+    ],
+    [
+     "We found a positive correlation in sales.",
+     "我們發現銷售額呈正相關。"
+    ]
+   ]
+  },
+  {
+   "word": "sampling",
+   "ph": "/ˈsɑːmplɪŋ/",
+   "pos": "n. 取樣；抽樣",
+   "zh": "抽樣；取樣調查",
+   "colloc": "random sampling 隨機抽樣 | sampling method 抽樣方法",
+   "distinct": "selection 選擇 | extraction 提取",
+   "ex": [
+    [
+     "Our sampling method ensures representative data.",
+     "我們的抽樣方法確保了數據的代表性。"
+    ],
+    [
+     "The sampling error remains within acceptable limits.",
+     "抽樣誤差維持在可接受範圍內。"
+    ],
+    [
+     "They used random sampling for the test.",
+     "他們使用隨機抽樣進行測試。"
+    ]
+   ]
+  },
+  {
+   "word": "hypothesis",
+   "ph": "/haɪˈpɒθəsɪs/",
+   "pos": "n. 假設；假說",
+   "zh": "假設；前提",
+   "colloc": "test a hypothesis 驗證假設 | formulate a hypothesis 提出假設",
+   "distinct": "theory 理論 | assumption 推測",
+   "ex": [
+    [
+     "We need to test this market hypothesis.",
+     "我們需要驗證這個市場假設。"
+    ],
+    [
+     "The results support our initial hypothesis.",
+     "結果證實了我們最初的假設。"
+    ],
+    [
+     "They formulated a hypothesis about user behavior.",
+     "他們針對用戶行為提出了假設。"
+    ]
+   ]
+  },
+  {
+   "word": "trend",
+   "ph": "/trend/",
+   "pos": "n. 趨勢；潮流",
+   "zh": "趨勢；傾向",
+   "colloc": "market trend 市場趨勢 | emerging trend 新興趨勢",
+   "distinct": "tendency 傾向 | fashion 時尚",
+   "ex": [
+    [
+     "We analyzed the latest consumer spending trend.",
+     "我們分析了最新的消費者支出趨勢。"
+    ],
+    [
+     "The trend shows growth in this sector.",
+     "該趨勢顯示此領域正在成長。"
+    ],
+    [
+     "Management tracks market trends on quarterly basis.",
+     "管理層按季度追蹤市場趨勢。"
+    ]
+   ]
+  },
+  {
+   "word": "comprehensive",
+   "ph": "/ˌkɒmprɪˈhensɪv/",
+   "pos": "adj. 全面的；綜合的",
+   "zh": "全面的；詳盡的",
+   "colloc": "comprehensive report 全面報告 | comprehensive review 綜合評估",
+   "distinct": "extensive 廣泛的 | detailed 詳細的",
+   "ex": [
+    [
+     "The team provided a comprehensive market report.",
+     "團隊提供了一份全面的市場報告。"
+    ],
+    [
+     "We require a comprehensive analysis of sales.",
+     "我們需要一份全面的銷售分析。"
+    ],
+    [
+     "This is a comprehensive guide for researchers.",
+     "這是研究人員的全面指南。"
+    ]
+   ]
+  },
+  {
+   "word": "insight",
+   "ph": "/ˈɪnsaɪt/",
+   "pos": "n. 洞察力；見解",
+   "zh": "洞察；深刻的見解",
+   "colloc": "valuable insight 寶貴見解 | provide insight 提供洞見",
+   "distinct": "perspective 觀點 | opinion 看法",
+   "ex": [
+    [
+     "The survey offered insightful data for us.",
+     "這項調查為我們提供了有洞察力的數據。"
+    ],
+    [
+     "She shared her insights on the industry.",
+     "她分享了她對該產業的洞見。"
+    ],
+    [
+     "We gained valuable insight from the analysis.",
+     "我們從分析中獲得了寶貴的見解。"
+    ]
+   ]
+  },
+  {
+   "word": "preference",
+   "ph": "/ˈprefrəns/",
+   "pos": "n. 偏好；優先",
+   "zh": "偏好；喜好",
+   "colloc": "consumer preference 消費者偏好 | show a preference 對...有偏好",
+   "distinct": "priority 優先事項 | selection 選擇",
+   "ex": [
+    [
+     "We surveyed user preferences for the product.",
+     "我們調查了使用者對該產品的偏好。"
+    ],
+    [
+     "Market trends reflect changing consumer preferences.",
+     "市場趨勢反映了不斷變化的消費者偏好。"
+    ],
+    [
+     "Designers must consider the client's preference.",
+     "設計師必須考慮客戶的偏好。"
+    ]
+   ]
+  },
+  {
+   "word": "analyze",
+   "ph": "/ˈænəlaɪz/",
+   "pos": "v. 分析",
+   "zh": "分析；解析",
+   "colloc": "analyze data 分析數據 | analyze results 分析結果",
+   "distinct": "examine 檢查 | evaluate 評估",
+   "ex": [
+    [
+     "Analysts need time to analyze the report.",
+     "分析師需要時間來分析這份報告。"
+    ],
+    [
+     "We must analyze the cause of failure.",
+     "我們必須分析失敗的原因。"
+    ],
+    [
+     "She helped analyze the recent sales figures.",
+     "她協助分析了最近的銷售數據。"
+    ]
+   ]
+  },
+  {
+   "word": "projection",
+   "ph": "/prəˈdʒekʃn/",
+   "pos": "n. 預測；推測",
+   "zh": "預測；預估值",
+   "colloc": "sales projection 銷售預測 | growth projection 成長預測",
+   "distinct": "forecast 預報 | estimate 估計",
+   "ex": [
+    [
+     "The sales projection exceeds our initial goals.",
+     "銷售預測超出了我們最初的目標。"
+    ],
+    [
+     "Management updated the financial growth projection.",
+     "管理層更新了財務成長預測。"
+    ],
+    [
+     "These projections are based on current data.",
+     "這些預測是基於當前數據的。"
+    ]
+   ]
+  },
+  {
+   "word": "indicator",
+   "ph": "/ˈɪndɪkeɪtər/",
+   "pos": "n. 指標；跡象",
+   "zh": "指標；顯示器",
+   "colloc": "economic indicator 經濟指標 | key indicator 關鍵指標",
+   "distinct": "index 指數 | signal 信號",
+   "ex": [
+    [
+     "Consumer confidence is a key economic indicator.",
+     "消費者信心是一個關鍵的經濟指標。"
+    ],
+    [
+     "Market stability is a positive indicator.",
+     "市場穩定是一個正面的跡象。"
+    ],
+    [
+     "They monitor several performance indicators daily.",
+     "他們每天監控數項績效指標。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:00"
+}

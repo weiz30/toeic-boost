@@ -1,10 +1,11 @@
 /* =========================================================================
-   TOEIC BOOST — 前端邏輯（無框架、無外部依賴）
-   學習進度存在 localStorage，不會上傳到任何地方。
+   TOEIC BOOST v2 — 100 天 × 20 字（2000 多益單字）＋ 遺忘曲線複習
+   純前端、無框架、無外部依賴。進度存 localStorage，不上傳。
    ========================================================================= */
 'use strict';
 
-const KEY = 'toeic-boost-v1';
+const KEY = 'toeic-boost-v1';                  // 沿用舊 key，舊進度不會消失
+const INTERVALS = [1, 2, 4, 7, 15, 30];        // 遺忘曲線：box 0→5 的複習間隔（天）
 const PARTS = [
   { n: 2, label: 'Part 2', sub: '應答問題' },
   { n: 3, label: 'Part 3', sub: '對話' },
@@ -13,17 +14,16 @@ const PARTS = [
   { n: 6, label: 'Part 6', sub: '段落填空' },
   { n: 7, label: 'Part 7', sub: '閱讀理解' },
 ];
-const TASKS = [
-  { key: 'vocab10', no: '01', title: '暖身單字 10 個', desc: '先聽發音再翻卡，把昨天的字叫回來。', time: '3 分鐘', cta: '開始背' },
-  { key: 'part2', no: '02', title: 'Part 2 應答 5 題', desc: '最短的 Part，練抓疑問詞跟間接答句。', time: '2 分鐘', cta: '開始練' },
-  { key: 'part5', no: '03', title: 'Part 5 文法 6 題', desc: '詞性、時態、被動，一眼看出空格要什麼。', time: '3 分鐘', cta: '開始練' },
-  { key: 'read1', no: '04', title: '閱讀 1 篇', desc: '一篇商用文章配題組，練定位速度。', time: '4 分鐘', cta: '開始讀' },
-  { key: 'quiz5', no: '05', title: '5 題綜合小考', desc: '混合各 Part 抽題，驗收今天的手感。', time: '3 分鐘', cta: '開始考' },
-];
 
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
-const todayISO = () => new Date().toLocaleDateString('sv-SE'); // YYYY-MM-DD
+const pad = (n) => String(n).padStart(2, '0');
+const todayISO = () => new Date().toLocaleDateString('sv-SE');
+const isoPlus = (days) => {
+  const d = new Date();
+  d.setDate(d.getDate() + days);
+  return d.toLocaleDateString('sv-SE');
+};
 const clamp = (n, a, b) => Math.max(a, Math.min(b, n));
 const shuffle = (arr) => {
   const a = arr.slice();
@@ -34,10 +34,13 @@ const esc = (s) => String(s ?? '').replace(/[&<>"]/g, (c) => ({ '&': '&amp;', '<
 
 /* ------------------------------------------------------------------ 狀態 */
 const blankState = () => ({
+  v: 2,
   sound: true,
   streak: { count: 0, last: null },
-  days: {},
-  vocab: {},
+  days: {},          // { 'YYYY-MM-DD': { q, c } }
+  srs: {},           // { word: { box, due, seen, lapses, last, day } }
+  dayDone: {},       // { '1': 'YYYY-MM-DD' }
+  curDay: 1,
   partStats: {},
   exams: [],
 });
@@ -46,38 +49,45 @@ let state = blankState();
 function loadState() {
   try {
     const raw = localStorage.getItem(KEY);
-    if (raw) state = Object.assign(blankState(), JSON.parse(raw));
+    if (!raw) return;
+    const old = JSON.parse(raw);
+    state = Object.assign(blankState(), old);
+    state.srs ||= {};
+    state.dayDone ||= {};
+    // 舊版（150 字字卡）進度搬進遺忘曲線，一個都不丟
+    if (old.vocab && typeof old.vocab === 'object') {
+      const t = todayISO();
+      for (const [w, rec] of Object.entries(old.vocab)) {
+        const k = w.toLowerCase();
+        if (state.srs[k]) continue;
+        state.srs[k] = {
+          box: clamp(rec.box || 0, 0, 3),
+          due: t,
+          seen: rec.seen || 1,
+          lapses: 0,
+          last: t,
+          legacy: true,
+        };
+      }
+    }
+    state.v = 2;
+    saveState();
   } catch (e) { console.warn('讀取進度失敗', e); }
 }
 function saveState() {
   try { localStorage.setItem(KEY, JSON.stringify(state)); } catch (e) { console.warn('儲存失敗', e); }
 }
-function todayRec() {
-  const d = todayISO();
-  state.days[d] ||= { tasks: {}, q: 0, c: 0 };
-  return state.days[d];
-}
 function touchDay() {
   const d = todayISO();
   if (state.streak.last === d) return;
-  const y = new Date(Date.now() - 864e5).toLocaleDateString('sv-SE');
-  state.streak.count = state.streak.last === y ? (state.streak.count || 0) + 1 : 1;
+  state.streak.count = state.streak.last === isoPlus(-1) ? (state.streak.count || 0) + 1 : 1;
   state.streak.last = d;
   saveState();
 }
-function markTask(key) {
-  touchDay();
-  todayRec().tasks[key] = true;
-  saveState();
-  renderToday();
-  renderStats();
-  toast('已記錄：' + (TASKS.find((t) => t.key === key)?.title ?? key));
-}
 function recordAnswer(part, correct) {
   touchDay();
-  const rec = todayRec();
-  rec.q += 1;
-  if (correct) rec.c += 1;
+  const rec = (state.days[todayISO()] ||= { q: 0, c: 0 });
+  rec.q += 1; if (correct) rec.c += 1;
   const p = (state.partStats[part] ||= { n: 0, c: 0 });
   p.n += 1; if (correct) p.c += 1;
   saveState();
@@ -99,32 +109,105 @@ function speak(text, opts = {}) {
   if (v) u.voice = v;
   u.lang = v?.lang || 'en-US';
   u.rate = opts.rate ?? 0.92;
-  u.pitch = 1;
   window.speechSynthesis.speak(u);
   return u;
 }
 
 /* ------------------------------------------------------------------ 資料 */
-let VOCAB = [], DRILLS = [];
+let CURR = { meta: {}, days: [] };
+let INDEX = new Map();        // word(lower) → { day, item, theme, level }
+let LEGACY = new Map();       // 舊字庫（150 字）
+let DRILLS = [];
 
 async function loadData() {
-  const [v, l, r] = await Promise.all([
-    fetch('data/vocab.json').then((x) => x.json()),
+  const [c, v, l, r] = await Promise.all([
+    fetch('data/curriculum.json').then((x) => x.json()),
+    fetch('data/vocab.json').then((x) => x.json()).catch(() => []),
     fetch('data/drills_listen.json').then((x) => x.json()),
     fetch('data/drills_read.json').then((x) => x.json()),
   ]);
-  VOCAB = Array.isArray(v) ? v : v.words || [];
+  CURR = c;
+  (c.days || []).forEach((d) => (d.items || []).forEach((it) => {
+    INDEX.set(it.word.toLowerCase(), { day: d.day, item: it, theme: d.theme, level: d.level });
+  }));
+  (Array.isArray(v) ? v : []).forEach((it) => {
+    const k = String(it.w || '').toLowerCase();
+    if (k && !INDEX.has(k)) {
+      LEGACY.set(k, {
+        day: 0,
+        item: {
+          word: it.w, ph: it.ph ? `/${it.ph}/` : '', pos: it.pos, zh: it.zh,
+          colloc: it.tag || '', distinct: '', ex: it.ex ? [[it.ex, it.ezh || '']] : [],
+        },
+        theme: '舊字庫', level: '前期字卡',
+      });
+    }
+  });
   DRILLS = [...(l.questions || []), ...(r.questions || [])];
 }
+const lookup = (w) => INDEX.get(String(w).toLowerCase()) || LEGACY.get(String(w).toLowerCase()) || null;
+const dayOf = (n) => CURR.days.find((d) => d.day === n) || CURR.days[0];
 const byPart = (n) => DRILLS.filter((q) => q.part === n);
+
+/* ------------------------------------------------------------------ 遺忘曲線 */
+function srsEntry(word, opts = {}) {
+  const k = word.toLowerCase();
+  if (!state.srs[k]) {
+    state.srs[k] = { box: 0, due: isoPlus(1), seen: 0, lapses: 0, last: todayISO(), day: opts.day || 0 };
+  }
+  return state.srs[k];
+}
+function dueWords() {
+  const t = todayISO();
+  return Object.entries(state.srs)
+    .filter(([w, r]) => r && r.due && r.due <= t && lookup(w))
+    .sort((a, b) => (a[1].due < b[1].due ? -1 : a[1].due > b[1].due ? 1 : 0))
+    .map(([w]) => w);
+}
+const learnedCount = () => Object.keys(state.srs).length;
+const masteredCount = () => Object.values(state.srs).filter((r) => (r.box || 0) >= 4).length;
+
+function gradeWord(word, grade) {
+  const r = srsEntry(word);
+  r.seen = (r.seen || 0) + 1;
+  r.last = todayISO();
+  if (grade === 'again') {
+    r.lapses = (r.lapses || 0) + 1;
+    r.box = 0;
+    r.due = isoPlus(INTERVALS[0]);
+  } else if (grade === 'hard') {
+    r.due = isoPlus(Math.max(1, Math.round(INTERVALS[clamp(r.box, 0, 5)] * 0.6)));
+  } else if (grade === 'good') {
+    r.box = clamp((r.box || 0) + 1, 0, 5);
+    r.due = isoPlus(INTERVALS[r.box]);
+  } else if (grade === 'easy') {
+    r.box = clamp((r.box || 0) + 2, 0, 5);
+    r.due = isoPlus(INTERVALS[r.box]);
+  }
+  saveState();
+  return r;
+}
+function upcomingSchedule(n = 6) {
+  const out = [];
+  for (let i = 0; i < n; i++) {
+    const d = isoPlus(i);
+    out.push({
+      d,
+      c: Object.values(state.srs).filter((r) => (i === 0 ? r.due <= d : r.due === d)).length,
+      label: i === 0 ? '今天' : i === 1 ? '明天' : `${i} 天後`,
+    });
+  }
+  return out;
+}
 
 /* ------------------------------------------------------------------ 跑馬燈 */
 function renderTicker() {
-  const words = shuffle(VOCAB).slice(0, 14);
-  const bits = words.map((w) => `<span><b>${esc(w.w)}</b> <i>${esc(w.zh.split('；')[0])}</i></span>`).join('<span aria-hidden="true">·</span>');
+  const pool = [];
+  CURR.days.slice(0, 20).forEach((d) => (d.items || []).slice(0, 3).forEach((it) => pool.push(it)));
+  const words = shuffle(pool).slice(0, 14);
+  const bits = words.map((w) => `<span><b>${esc(w.word)}</b> <i>${esc((w.zh || '').split('；')[0])}</i></span>`).join('<span aria-hidden="true">·</span>');
   const track = $('#tickerTrack');
   track.innerHTML = bits + '<span aria-hidden="true">·</span>' + bits;
-  // 依實際寬度定速：一秒 22px（慢到可以看清楚），內容再長也不會變快
   const retime = () => {
     const half = track.scrollWidth / 2;
     if (half > 0) track.style.setProperty('--ticker-dur', (half / 22).toFixed(1) + 's');
@@ -135,123 +218,273 @@ function renderTicker() {
 }
 
 /* ------------------------------------------------------------------ 今日 */
-function renderToday() {
-  const t = todayRec();
-  const doneN = TASKS.filter((x) => t.tasks[x.key]).length;
-  const pct = Math.round((doneN / TASKS.length) * 100);
+function currentDayNum() {
+  for (let d = 1; d <= CURR.days.length; d++) if (!state.dayDone[d]) return d;
+  return CURR.days.length;
+}
+function dayLearned(n) {
+  const d = dayOf(n);
+  if (!d) return 0;
+  return (d.items || []).filter((it) => state.srs[it.word.toLowerCase()]?.day === n).length;
+}
 
-  $('#planGrid').innerHTML = TASKS.map((task, i) => {
-    const done = !!t.tasks[task.key];
-    const total = parseInt(task.title.match(/(\d+)/)?.[1] ?? '1', 10);
-    const step = Math.min(total, Math.round(((i + 1) / TASKS.length) * total));
-    return `<article class="plan__card ${done ? 'is-done' : ''}">
-      <span class="plan__no">STEP ${task.no} · ${esc(task.time)}</span>
-      <h3>${esc(task.title)}</h3>
-      <p>${esc(task.desc)}</p>
-      <span class="plan__time">${done ? `${step} 題完成` : '未開始'}</span>
-      <button class="btn btn--sm ${done ? 'btn--line' : 'btn--primary'}" data-start="${task.key}">${done ? '再練一次' : task.cta}</button>
-    </article>`;
+function renderToday() {
+  const n = state.curDay || currentDayNum();
+  const d = dayOf(n);
+  $('#todayNum').textContent = n;
+  $('#todayLevel').textContent = d.level || '';
+  $('#todayTheme').textContent = d.theme || '';
+  $('#todayTitle').textContent = `今天的 20 個字 · 第 ${n} 天`;
+  $('#todayWords').innerHTML = (d.items || []).map((it) => {
+    const learned = state.srs[it.word.toLowerCase()]?.day === n;
+    return `<li class="${learned ? 'is-learned' : ''}">${esc(it.word)}</li>`;
   }).join('');
 
-  $('#ringPct').textContent = pct + '%';
-  $('#ringFg').style.strokeDashoffset = String(327 - (327 * pct) / 100);
+  const learned = dayLearned(n);
+  $('#todayDone').textContent = learned;
+  $('#todayBar').style.width = (learned / 20) * 100 + '%';
+  $('#todayState').textContent = state.dayDone[n] ? `已完成（${state.dayDone[n]}）` : learned ? '進行中' : '尚未開始';
+  $('#todayStart').textContent = learned ? '繼續今天的課' : '開始今天的課';
+  $('#todayNext').hidden = n >= CURR.days.length;
+
+  const due = dueWords().length;
+  $('#peekDue').textContent = due;
+  $('#heroDue').textContent = due;
+  $('#heroDay').textContent = n;
+  $('#miniLearned').textContent = learnedCount();
+  $('#miniDue').textContent = due;
   $('#streakNum').textContent = state.streak.last === todayISO() ? state.streak.count : (state.streak.count || 0);
   $('#todayDate').textContent = new Date().toLocaleDateString('zh-TW', { month: 'numeric', day: 'numeric', weekday: 'short' });
-  $('#todayMini').innerHTML = TASKS.map((x) => `<li class="${t.tasks[x.key] ? 'is-done' : ''}"><span>${esc(x.title)}</span><span>${t.tasks[x.key] ? '✓' : '—'}</span></li>`).join('');
 
-  const acc = t.q ? Math.round((t.c / t.q) * 100) + '%' : '—';
-  $('#miniAcc').textContent = acc;
-  $('#miniVocab').textContent = Object.values(state.vocab).filter((v) => (v.box || 0) >= 3).length;
+  const qToday = state.days[todayISO()]?.q || 0;
+  const tasks = [
+    { t: `第 ${n} 天 20 字`, done: !!state.dayDone[n], v: learned + '/20' },
+    { t: '遺忘曲線複習', done: due === 0 && learnedCount() > 0, v: due ? due + ' 字' : '清空' },
+    { t: 'Part 練習', done: qToday > 0, v: qToday + ' 題' },
+  ];
+  $('#todayMini').innerHTML = tasks.map((x) => `<li class="${x.done ? 'is-done' : ''}"><span>${esc(x.t)}</span><span>${esc(x.v)}</span></li>`).join('');
+
+  const pct = Math.round(
+    (state.dayDone[n] ? 55 : (learned / 20) * 45) +
+    (due === 0 && learnedCount() ? 20 : 0) +
+    (qToday > 0 ? 25 : 0)
+  );
+  $('#ringPct').textContent = clamp(pct, 0, 100) + '%';
+  $('#ringFg').style.strokeDashoffset = String(327 - (327 * clamp(pct, 0, 100)) / 100);
+
+  const sched = upcomingSchedule(5);
+  $('#schedList').innerHTML = sched.map((s) => `<li><span>${s.label}</span><b>${s.c} 字</b></li>`).join('');
+  $('#reviewEmptyNote').textContent = `明天有 ${sched[1] ? sched[1].c : 0} 個字會回來找你。先去學新的 20 個字。`;
 }
 
-/* ------------------------------------------------------------------ 單字卡 */
-let deck = [], di = 0, catFilter = '全部', reviewOnly = false, vocabSession = null;
+/* ------------------------------------------------------------------ 每日課程 */
+const dayView = { n: 1, i: 0 };
 
-function buildDeck() {
-  let pool = VOCAB.slice();
-  if (catFilter !== '全部') pool = pool.filter((w) => w.cat === catFilter);
-  if (reviewOnly) pool = pool.filter((w) => (state.vocab[w.w]?.box || 0) < 3);
-  const rank = (w) => state.vocab[w.w]?.box ?? 0;
-  deck = pool.sort((a, b) => rank(a) - rank(b) || Math.random() - 0.5);
-  if (vocabSession) deck = vocabSession.words.slice();
-  di = 0;
-  renderVocab();
+function openDay(n) {
+  dayView.n = clamp(n, 1, CURR.days.length);
+  const d = dayOf(dayView.n);
+  const firstUnlearned = (d.items || []).findIndex((it) => state.srs[it.word.toLowerCase()]?.day !== dayView.n);
+  dayView.i = firstUnlearned >= 0 ? firstUnlearned : 0;
+  $('#day').hidden = false;
+  $('#dayKicker').textContent = `DAY ${dayView.n}`;
+  $('#dayTheme').textContent = d.theme || '';
+  $('#dayNote').textContent = `${d.level || ''} · ${(d.items || []).length} 個字 · 每個字 3 組例句`;
+  $('#dayFinishNum').textContent = dayView.n;
+  renderWord();
+  $('#day').scrollIntoView({ behavior: 'smooth', block: 'start' });
 }
 
-function renderVocab() {
-  const card = $('#flashCard');
-  card.classList.remove('is-flipped');
-  const w = deck[di];
-  const total = vocabSession ? vocabSession.words.length : deck.length;
+function renderWord() {
+  const d = dayOf(dayView.n);
+  const items = d.items || [];
+  const it = items[dayView.i];
+  if (!it) return;
+  const rec = state.srs[it.word.toLowerCase()];
+  const learned = rec?.day === dayView.n;
 
-  $('#vocabIdx').textContent = deck.length ? di + 1 : 0;
-  $('#vocabTotal').textContent = total;
-  $('#vocabBar').style.width = total ? ((di / total) * 100).toFixed(1) + '%' : '0%';
-  $('#vocabMastered').textContent = Object.values(state.vocab).filter((v) => (v.box || 0) >= 3).length;
+  $('#wordIdx').textContent = `${dayView.i + 1} / ${items.length}`;
+  $('#wordCat').textContent = learned ? (rec.box >= 4 ? '已熟練' : '已學過') : '未學';
+  $('#wordText').textContent = it.word;
+  $('#wordPh').textContent = it.ph || '';
+  $('#wordPos').textContent = it.pos || it.zh || '';
+  $('#wordColloc').textContent = it.colloc || '—';
+  $('#wordDistinct').textContent = it.distinct || '—';
+  if (it.root) { $('#wordRootWrap').hidden = false; $('#wordRoot').textContent = it.root; }
+  else $('#wordRootWrap').hidden = true;
 
-  if (!w) {
-    $('#flashWord').textContent = '這個分類沒有單字';
-    $('#flashCat').textContent = '—'; $('#flashCatBack').textContent = '—';
-    $('#flashPh').textContent = ''; $('#flashZh').textContent = '—';
-    $('#flashEx').textContent = ''; $('#flashEzh').textContent = '';
-    return;
+  $('#exList').innerHTML = (it.ex || []).map((p, k) => `
+    <li>
+      <div class="exline">
+        <button class="exspeak" data-ex="${k}" aria-label="播放例句">🔊</button>
+        <div><p class="exline__en">${esc(p[0])}</p><p class="exline__zh">${esc(p[1] || '')}</p></div>
+      </div>
+    </li>`).join('');
+
+  $('#dayPos').textContent = dayView.i + 1;
+  $('#dayBar').style.width = ((dayView.i + 1) / items.length) * 100 + '%';
+  $('#wordPrev').disabled = dayView.i === 0;
+  $('#wordNext').disabled = dayView.i >= items.length - 1;
+  $('#wordDots').innerHTML = items.map((x, k) => {
+    const st = state.srs[x.word.toLowerCase()]?.day === dayView.n ? 'is-learned' : '';
+    return `<button class="dotbtn ${st} ${k === dayView.i ? 'is-cur' : ''}" data-jump="${k}" title="${esc(x.word)}"></button>`;
+  }).join('');
+  $('#dayDoneNote').textContent = state.dayDone[dayView.n]
+    ? `這天已在 ${state.dayDone[dayView.n]} 完成 ✓`
+    : `已學 ${dayLearned(dayView.n)} / ${items.length}`;
+}
+
+function markWord(known) {
+  const d = dayOf(dayView.n);
+  const it = (d.items || [])[dayView.i];
+  if (!it) return;
+  const r = srsEntry(it.word, { day: dayView.n });
+  r.day = dayView.n;
+  if (!r.seen) {
+    r.seen = 1;
+    r.box = known ? 1 : 0;
+    r.due = isoPlus(known ? INTERVALS[1] : INTERVALS[0]);
+  } else {
+    r.box = known ? clamp((r.box || 0) + 1, 0, 5) : 0;
+    r.due = isoPlus(INTERVALS[r.box]);
   }
-  $('#flashCat').textContent = w.cat;
-  $('#flashCatBack').textContent = `${w.cat} · ${w.pos}`;
-  $('#flashWord').textContent = w.w;
-  $('#flashPh').textContent = w.ph ? `/${w.ph}/` : '';
-  $('#flashZh').textContent = w.zh;
-  $('#flashEx').textContent = w.ex;
-  $('#flashEzh').textContent = w.ezh;
-
-  const box = state.vocab[w.w]?.box ?? 0;
-  const boxLabel = ['沒印象', '看過 1 次', '有點熟', '已熟練'][clamp(box, 0, 3)];
-  $('#vocabStats').innerHTML = `
-    <div><span>這個字</span><b>${boxLabel}</b></div>
-    <div><span>分類</span><b>${esc(w.cat)}</b></div>`;
-}
-
-function rateVocab(remember) {
-  const w = deck[di];
-  if (!w) return;
-  const rec = (state.vocab[w.w] ||= { box: 0, seen: 0 });
-  rec.seen += 1;
-  rec.box = remember ? clamp((rec.box || 0) + 1, 0, 3) : 0;
-  if (!remember) deck.push(w);
+  r.last = todayISO();
+  touchDay();
   saveState();
-
-  if (vocabSession) {
-    vocabSession.done += 1;
-    if (vocabSession.done >= vocabSession.target) {
-      const key = vocabSession.taskKey;
-      vocabSession = null;
-      buildDeck();
-      if (key) markTask(key);
-      toast('暖身完成，繼續下一格吧');
-      return;
-    }
-  }
-  di = Math.min(di + 1, deck.length - 1);
-  renderVocab();
+  renderToday();
+  renderStats();
+  if (dayView.i < d.items.length - 1) { dayView.i += 1; renderWord(); }
+  else finishDay(true);
 }
 
-/* ------------------------------------------------------------------ 練習引擎 */
-const session = {
-  queue: [], idx: 0, picked: null, checked: false, taskKey: null, title: '', finished: false,
-};
+function finishDay(auto) {
+  const n = dayView.n;
+  const learned = dayLearned(n);
+  if (!auto && learned < 20 && !confirm(`第 ${n} 天還有 ${20 - learned} 個字沒學，還是要標記完成嗎？`)) return;
+  state.dayDone[n] = todayISO();
+  state.curDay = Math.min(CURR.days.length, Math.max(state.curDay || 1, n + 1));
+  saveState();
+  renderToday(); renderMap(); renderStats();
+  toast(`第 ${n} 天完成！接著是第 ${state.curDay} 天`);
+  $('#dayDoneNote').textContent = `完成於 ${state.dayDone[n]} ✓`;
+  if (dueWords().length) setTimeout(() => openReview(), 800);
+}
 
-function startDrill(part, limit, taskKey, title) {
+/* ------------------------------------------------------------------ 地圖 */
+const STAGES = [
+  { from: 1, to: 30, name: '基礎 600–750', cls: 's1' },
+  { from: 31, to: 60, name: '進階 750–850', cls: 's2' },
+  { from: 61, to: 90, name: '高分 850–900', cls: 's3' },
+  { from: 91, to: 100, name: '片語與總複習', cls: 's4' },
+];
+function renderMap() {
+  $('#stageLegend').innerHTML = STAGES.map((s) => `<span class="stagechip ${s.cls}">第 ${s.from}–${s.to} 天 · ${s.name}</span>`).join('');
+  const cur = state.curDay || currentDayNum();
+  $('#dayGrid').innerHTML = CURR.days.map((d) => {
+    const st = STAGES.find((s) => d.day >= s.from && d.day <= s.to) || STAGES[0];
+    const learned = dayLearned(d.day);
+    const done = !!state.dayDone[d.day];
+    const cls = ['daycell', st.cls, done ? 'is-done' : learned ? 'is-doing' : '', d.day === cur ? 'is-cur' : ''].filter(Boolean).join(' ');
+    return `<button class="${cls}" data-day="${d.day}" title="${esc(d.theme)}">
+      <b>${pad(d.day)}</b><span>${esc((d.theme || '').slice(0, 7))}</span>
+      <i style="width:${(learned / 20) * 100}%"></i></button>`;
+  }).join('');
+}
+function searchWords(q) {
+  const s = q.trim().toLowerCase();
+  if (s.length < 2) return [];
+  const out = [];
+  for (const [w, rec] of INDEX) {
+    if (w.includes(s)) out.push({ w, ...rec });
+    if (out.length >= 12) break;
+  }
+  return out;
+}
+
+/* ------------------------------------------------------------------ 複習 */
+const review = { queue: [], i: 0, shown: false, stats: { again: 0, hard: 0, good: 0, easy: 0 } };
+
+function openReview() {
+  review.queue = dueWords().slice(0, 60);
+  review.i = 0;
+  review.shown = false;
+  review.stats = { again: 0, hard: 0, good: 0, easy: 0 };
+  $('#reviewEmpty').hidden = review.queue.length > 0;
+  $('#reviewDone').hidden = true;
+  $('#reviewRun').hidden = review.queue.length === 0;
+  if (review.queue.length) renderReview();
+  $('#review').scrollIntoView({ behavior: 'smooth', block: 'start' });
+}
+
+function renderReview() {
+  const w = review.queue[review.i];
+  if (!w) return finishReview();
+  const rec = lookup(w);
+  const it = rec.item;
+  const s = state.srs[w] || {};
+  $('#reviewPos').textContent = review.i + 1;
+  $('#reviewLen').textContent = review.queue.length;
+  $('#reviewFrom').textContent = `第 ${rec.day || '—'} 天 · 第 ${clamp((s.box || 0) + 1, 1, 6)} 階`;
+  $('#reviewWord').textContent = it.word;
+  $('#reviewPh').textContent = it.ph || '';
+  $('#reviewPosText').textContent = it.pos || it.zh || '';
+  $('#reviewEx').innerHTML = (it.ex || []).slice(0, 2).map((p) => `
+    <li><p class="exline__en">${esc(p[0])}</p><p class="exline__zh">${esc(p[1] || '')}</p></li>`).join('');
+  $('#reviewMeta').textContent = [it.colloc, it.distinct].filter(Boolean).join('　·　');
+  $('#reviewAnswer').hidden = true;
+  $('#reviewGrade').hidden = true;
+  $('#reviewBtns').hidden = false;
+  review.shown = false;
+}
+
+function showAnswer() {
+  $('#reviewAnswer').hidden = false;
+  $('#reviewGrade').hidden = false;
+  $('#reviewBtns').hidden = true;
+  review.shown = true;
+  const it = lookup(review.queue[review.i])?.item;
+  if (it) speak(`${it.word}. ${(it.ex?.[0]?.[0]) || ''}`);
+}
+
+function grade(which) {
+  if (!review.shown) return;
+  const w = review.queue[review.i];
+  gradeWord(w, which);
+  review.stats[which] = (review.stats[which] || 0) + 1;
+  review.i += 1;
+  renderToday(); renderStats();
+  if (review.i >= review.queue.length) finishReview();
+  else renderReview();
+}
+
+function finishReview() {
+  $('#reviewRun').hidden = true;
+  $('#reviewDone').hidden = false;
+  const s = review.stats;
+  const total = s.again + s.hard + s.good + s.easy;
+  if (!total) return;
+  const sched = upcomingSchedule(6);
+  $('#reviewDone').innerHTML = `
+    <p class="review__icon" aria-hidden="true">🎯</p>
+    <h3>這一輪複習完成：${total} 個字</h3>
+    <p class="muted">忘記 ${s.again}　有點難 ${s.hard}　記得住 ${s.good}　太簡單 ${s.easy}</p>
+    <ul class="schedlist">${sched.map((x) => `<li><span>${x.label}</span><b>${x.c} 字</b></li>`).join('')}</ul>
+    <button class="btn btn--accent btn--sm" id="reviewAgainBtn">再複習一次</button>`;
+  $('#reviewAgainBtn').addEventListener('click', openReview);
+  renderToday(); renderMap(); renderStats();
+}
+
+/* ------------------------------------------------------------------ Part 練習 */
+const session = { queue: [], idx: 0, picked: null, checked: false };
+
+function startDrill(part, limit) {
   let pool = part ? byPart(part) : DRILLS.slice();
   if (part === 6 || part === 7) {
-    // 同組同篇文章保持相鄰
     const groups = {};
     pool.forEach((q) => { (groups[q.group || q.id] ||= []).push(q); });
     pool = shuffle(Object.values(groups)).flat();
-  } else {
-    pool = shuffle(pool);
-  }
+  } else pool = shuffle(pool);
   if (limit) pool = pool.slice(0, limit);
-  Object.assign(session, { queue: pool, idx: 0, picked: null, checked: false, taskKey: taskKey || null, title: title || '', finished: false });
+  Object.assign(session, { queue: pool, idx: 0, picked: null, checked: false });
   $('#practiceEmpty').hidden = true;
   $('#qbox').hidden = false;
   renderQuestion();
@@ -262,42 +495,28 @@ function startDrill(part, limit, taskKey, title) {
 function renderQuestion() {
   const q = session.queue[session.idx];
   if (!q) return finishSession();
-  session.picked = null;
-  session.checked = false;
-
+  session.picked = null; session.checked = false;
   $('#qPart').textContent = 'Part ' + q.part;
   $('#qCat').textContent = q.cat || '綜合';
-  $('#qTally').textContent = `${session.idx + 1} / ${session.queue.length}` + (session.title ? ` · ${session.title}` : '');
+  $('#qTally').textContent = `${session.idx + 1} / ${session.queue.length}`;
   $('#qQuestion').textContent = q.question;
-
   const needsAudio = q.audio && q.audio.trim();
   $('#qAudioWrap').hidden = !needsAudio;
-  if (needsAudio) {
-    $('#qAudioNote').textContent = q.part === 2 ? '點播放聽一次問句，再選最適合的回應' : '點播放聽對話／短講，可重播';
-  }
-
+  if (needsAudio) $('#qAudioNote').textContent = q.part === 2 ? '點播放聽一次問句，再選最適合的回應' : '點播放聽對話／短講，可重播';
   const passage = (q.passage && q.passage.trim()) ? q.passage : '';
   $('#qPassage').hidden = !passage || q.part === 3 || q.part === 4;
   $('#qPassage').textContent = (passage && q.part !== 3 && q.part !== 4) ? passage : '';
-
   $('#qOptions').innerHTML = q.options.map((opt, i) =>
-    `<button class="option" data-opt="${i}"><span class="option__key">${'ABCD'[i]}</span><span>${esc(opt)}</span></button>`
-  ).join('');
-
+    `<button class="option" data-opt="${i}"><span class="option__key">${'ABCD'[i]}</span><span>${esc(opt)}</span></button>`).join('');
   $('#qFeedback').hidden = true;
   $('#qCheck').disabled = true;
   $('#qCheck').hidden = false;
   $('#qNext').hidden = true;
-
   const tr = $('#qTranscript');
-  if ((q.part === 3 || q.part === 4) && q.passage) {
-    tr.hidden = false;
-    $('#qTranscriptBody').textContent = q.passage;
-  } else { tr.hidden = true; }
-
-  if (needsAudio && (q.part === 2 || q.part === 3 || q.part === 4)) autoPlay(q);
+  if ((q.part === 3 || q.part === 4) && q.passage) { tr.hidden = false; $('#qTranscriptBody').textContent = q.passage; }
+  else tr.hidden = true;
+  if (needsAudio && q.part >= 2 && q.part <= 4) autoPlay(q);
 }
-
 function autoPlay(q) {
   const wrap = $('#qAudioWrap');
   if (!wrap || !q.audio) return;
@@ -306,27 +525,22 @@ function autoPlay(q) {
   if (u) u.onend = () => wrap.classList.remove('is-playing');
   else setTimeout(() => wrap.classList.remove('is-playing'), 900);
 }
-
 function pickOption(i) {
   if (session.checked) return;
   session.picked = i;
   $$('#qOptions .option').forEach((b, k) => b.classList.toggle('is-picked', k === i));
   $('#qCheck').disabled = false;
 }
-
 function checkAnswer() {
   const q = session.queue[session.idx];
   if (!q || session.picked == null || session.checked) return;
   session.checked = true;
   const ok = session.picked === q.answer;
-
   $$('#qOptions .option').forEach((b, k) => {
-    b.disabled = true;
-    b.classList.remove('is-picked');
+    b.disabled = true; b.classList.remove('is-picked');
     if (k === q.answer) b.classList.add('is-correct');
     else if (k === session.picked) b.classList.add('is-wrong');
   });
-
   const v = $('#fbVerdict');
   v.textContent = ok ? '答對 ✓' : `答錯 ✗ 正解是 ${'ABCD'[q.answer]}`;
   v.className = 'feedback__verdict ' + (ok ? 'ok' : 'no');
@@ -334,29 +548,20 @@ function checkAnswer() {
   $('#fbTip').textContent = q.tip || '';
   $('#fbTip').hidden = !q.tip;
   $('#qFeedback').hidden = false;
-
-  const tr = $('#qTranscript');
-  if ((q.part === 3 || q.part === 4) && q.passage) { tr.hidden = false; $('#qTranscriptBody').textContent = q.passage; }
-
+  if ((q.part === 3 || q.part === 4) && q.passage) { $('#qTranscript').hidden = false; $('#qTranscriptBody').textContent = q.passage; }
   recordAnswer(q.part, ok);
   if ((q.part === 3 || q.part === 4) && !ok) speak(q.audio, { rate: 0.9 });
-
   $('#qCheck').hidden = true;
   $('#qNext').hidden = false;
   $('#qNext').textContent = session.idx + 1 >= session.queue.length ? '看結果 →' : '下一題 →';
-  renderStats();
-  renderToday();
+  renderStats(); renderToday();
 }
-
 function nextQuestion() {
   session.idx += 1;
   if (session.idx >= session.queue.length) return finishSession();
   renderQuestion();
 }
-
 function finishSession() {
-  const key = session.taskKey;
-  session.taskKey = null;
   $('#qbox').hidden = true;
   $('#practiceEmpty').hidden = false;
   $('#practiceEmpty').innerHTML = `<p class="practice__emptyIcon" aria-hidden="true">🎉</p>
@@ -364,17 +569,13 @@ function finishSession() {
     <p class="muted">再挑一個 Part，或去「我的進度」看看正確率。</p>
     <button class="btn btn--line btn--sm" id="againBtn">再練一輪</button>`;
   $('#againBtn')?.addEventListener('click', () => startDrill(null, 10));
-  if (key) markTask(key);
   renderStats();
 }
-
-/* ------------------------------------------------------------------ Part tabs */
 function renderPartTabs() {
   $('#partTabs').innerHTML = PARTS.map((p) => {
     const st = state.partStats[p.n];
     const acc = st && st.n ? Math.round((st.c / st.n) * 100) + '%' : '未練';
-    return `<button class="parttab" role="tab" data-part="${p.n}" aria-selected="false">
-      ${p.label}<small>${p.sub} · ${acc}</small></button>`;
+    return `<button class="parttab" role="tab" data-part="${p.n}" aria-selected="false">${p.label}<small>${p.sub} · ${acc}</small></button>`;
   }).join('');
 }
 function selectPartTab(n) {
@@ -382,24 +583,19 @@ function selectPartTab(n) {
 }
 
 /* ------------------------------------------------------------------ 模考 */
-const exam = { list: [], idx: 0, ans: [], left: 0, timer: null, running: false };
+const exam = { list: [], idx: 0, ans: [], left: 0, timer: null };
 
 function startExam() {
   exam.list = shuffle(DRILLS).slice(0, 10);
-  exam.idx = 0; exam.ans = []; exam.left = 5 * 60; exam.running = true;
-  $('#examStart').hidden = true;
-  $('#examResult').hidden = true;
-  $('#examRun').hidden = false;
+  exam.idx = 0; exam.ans = []; exam.left = 5 * 60;
+  $('#examStart').hidden = true; $('#examResult').hidden = true; $('#examRun').hidden = false;
   renderExamQ();
   tickExam();
   exam.timer = setInterval(tickExam, 1000);
 }
 function tickExam() {
-  const m = String(Math.floor(exam.left / 60)).padStart(2, '0');
-  const s = String(exam.left % 60).padStart(2, '0');
-  const t = $('#examTimer');
-  t.textContent = `${m}:${s}`;
-  t.classList.toggle('is-low', exam.left <= 30);
+  $('#examTimer').textContent = `${pad(Math.floor(exam.left / 60))}:${pad(exam.left % 60)}`;
+  $('#examTimer').classList.toggle('is-low', exam.left <= 30);
   if (exam.left <= 0) return endExam();
   exam.left -= 1;
 }
@@ -407,11 +603,11 @@ function renderExamQ() {
   const q = exam.list[exam.idx];
   $('#examIdx').textContent = exam.idx + 1;
   $('#examLen').textContent = exam.list.length;
-  $('#examQuestion').textContent = q.question + (q.part >= 6 && q.passage ? '\n\n' + q.passage : '');
-  $('#examQuestion').style.whiteSpace = 'pre-wrap';
+  const el = $('#examQuestion');
+  el.textContent = q.question + (q.part >= 6 && q.passage ? '\n\n' + q.passage : '');
+  el.style.whiteSpace = 'pre-wrap';
   $('#examOptions').innerHTML = q.options.map((o, i) =>
-    `<button class="option" data-eopt="${i}"><span class="option__key">${'ABCD'[i]}</span><span>${esc(o)}</span></button>`
-  ).join('');
+    `<button class="option" data-eopt="${i}"><span class="option__key">${'ABCD'[i]}</span><span>${esc(o)}</span></button>`).join('');
   $$('#examOptions .option').forEach((b) => b.addEventListener('click', () => {
     exam.ans[exam.idx] = +b.dataset.eopt;
     $$('#examOptions .option').forEach((x, k) => x.classList.toggle('is-picked', k === +b.dataset.eopt));
@@ -422,10 +618,8 @@ function renderExamQ() {
 }
 function endExam() {
   clearInterval(exam.timer);
-  exam.running = false;
   $('#examRun').hidden = true;
   $('#examResult').hidden = false;
-
   const byPart = {};
   let correct = 0;
   exam.list.forEach((q, i) => {
@@ -436,54 +630,59 @@ function endExam() {
     recordAnswer(q.part, ok);
   });
   const score = Math.round((correct / exam.list.length) * 100);
-  const rec = { date: todayISO(), score, correct, total: exam.list.length, byPart };
-  state.exams.unshift(rec);
+  state.exams.unshift({ date: todayISO(), score, correct, total: exam.list.length, byPart });
   state.exams = state.exams.slice(0, 12);
   saveState();
-
   const rank = score >= 90 ? '可以直接上考場了' : score >= 70 ? '基礎穩了，再練速度' : score >= 50 ? '有底子，弱點要補' : '先把單字量補起來';
   const partRows = Object.entries(byPart).map(([p, s]) => {
     const acc = Math.round((s.c / s.n) * 100);
     const cls = acc >= 80 ? 'tag--good' : acc < 50 ? 'tag--bad' : '';
     return `<span class="tag ${cls}">Part ${p} ${s.c}/${s.n}</span>`;
   }).join('');
-
   $('#examResult').innerHTML = `
-    <div class="exam__score"><b>${score}</b><div>
-      <span>分 · 答對 ${correct} / ${exam.list.length} 題</span><br/>
-      <span>${rank}</span></div></div>
+    <div class="exam__score"><b>${score}</b><div><span>分 · 答對 ${correct} / ${exam.list.length} 題</span><br/><span>${rank}</span></div></div>
     <div class="exam__weak">${partRows}</div>
     <div class="qbox__foot"><button class="btn btn--accent" id="examAgain">再考一次</button>
     <a class="btn btn--line" href="#progress">看累積進度</a></div>`;
   $('#examAgain').addEventListener('click', startExam);
-  renderStats(); renderToday(); renderExamList(); renderPartTabs();
+  renderStats(); renderToday(); renderPartTabs(); renderExamList();
 }
 
 /* ------------------------------------------------------------------ 進度 */
 function renderStats() {
   const all = Object.values(state.partStats).reduce((a, s) => ({ n: a.n + s.n, c: a.c + s.c }), { n: 0, c: 0 });
   const acc = all.n ? Math.round((all.c / all.n) * 100) : 0;
-  const mastered = Object.values(state.vocab).filter((v) => (v.box || 0) >= 3).length;
-  const seen = Object.keys(state.vocab).length;
+  const doneDays = Object.keys(state.dayDone).length;
+  const boxes = [0, 0, 0, 0, 0, 0];
+  Object.values(state.srs).forEach((r) => { boxes[clamp(r.box || 0, 0, 5)] += 1; });
 
   $('#statGrid').innerHTML = `
     <div class="stat"><span>連續學習</span><b>${state.streak.last === todayISO() ? state.streak.count : 0}</b><small>天</small></div>
-    <div class="stat"><span>累計作答</span><b>${all.n}</b><small>題</small></div>
-    <div class="stat"><span>整體正確率</span><b>${all.n ? acc : '—'}</b><small>%</small></div>
-    <div class="stat"><span>熟練單字</span><b>${mastered}</b><small>/ ${seen || 0} 看過</small></div>
-    <div class="stat"><span>模考次數</span><b>${state.exams.length}</b><small>次</small></div>`;
+    <div class="stat"><span>已完成天數</span><b>${doneDays}</b><small>/ ${CURR.days.length}</small></div>
+    <div class="stat"><span>已學單字</span><b>${learnedCount()}</b><small>/ ${INDEX.size}</small></div>
+    <div class="stat"><span>待複習</span><b>${dueWords().length}</b><small>字</small></div>
+    <div class="stat"><span>熟練（第 5 階以上）</span><b>${masteredCount()}</b><small>字</small></div>
+    <div class="stat"><span>題目正確率</span><b>${all.n ? acc + '%' : '—'}</b><small>${all.n} 題</small></div>`;
 
   $('#partBars').innerHTML = PARTS.map((p) => {
     const s = state.partStats[p.n];
-    const acc2 = s && s.n ? Math.round((s.c / s.n) * 100) : 0;
-    const cls = !s || !s.n ? '' : acc2 >= 80 ? 'high' : acc2 >= 50 ? 'mid' : 'low';
-    return `<div class="bar"><div class="bar__top"><span>${p.label} ${p.sub}</span><span>${s && s.n ? acc2 + '%（' + s.n + ' 題）' : '未練'}</span></div>
-      <div class="bar__track"><i class="bar__fill ${cls}" style="width:${acc2}%"></i></div></div>`;
+    const a = s && s.n ? Math.round((s.c / s.n) * 100) : 0;
+    const cls = !s || !s.n ? '' : a >= 80 ? 'high' : a >= 50 ? 'mid' : 'low';
+    return `<div class="bar"><div class="bar__top"><span>${p.label} ${p.sub}</span><span>${s && s.n ? a + '%（' + s.n + ' 題）' : '未練'}</span></div>
+      <div class="bar__track"><i class="bar__fill ${cls}" style="width:${a}%"></i></div></div>`;
+  }).join('');
+
+  const labels = ['第 1 階（1 天）', '第 2 階（2 天）', '第 3 階（4 天）', '第 4 階（7 天）', '第 5 階（15 天）', '第 6 階（30 天）'];
+  const maxB = Math.max(1, ...boxes);
+  $('#srsBars').innerHTML = boxes.map((c, i) => {
+    const w = Math.round((c / maxB) * 100);
+    const cls = i >= 4 ? 'high' : i >= 2 ? 'mid' : 'low';
+    return `<div class="bar"><div class="bar__top"><span>${labels[i]}</span><span>${c} 字</span></div>
+      <div class="bar__track"><i class="bar__fill ${cls}" style="width:${w}%"></i></div></div>`;
   }).join('');
 
   renderExamList();
 }
-
 function renderExamList() {
   const el = $('#examList');
   if (!state.exams.length) { el.innerHTML = '<li class="empty">還沒考過模考，去上面試一次 5 分鐘的吧。</li>'; return; }
@@ -500,9 +699,8 @@ function toast(msg) {
   t.textContent = msg;
   t.classList.add('is-on');
   clearTimeout(toastTimer);
-  toastTimer = setTimeout(() => t.classList.remove('is-on'), 2200);
+  toastTimer = setTimeout(() => t.classList.remove('is-on'), 2400);
 }
-
 function initNav() {
   const links = $$('.nav a');
   const secs = links.map((a) => $(a.getAttribute('href'))).filter(Boolean);
@@ -515,62 +713,81 @@ function initNav() {
   secs.forEach((s) => io.observe(s));
 }
 
+/* ------------------------------------------------------------------ 事件 */
 function bindEvents() {
-  // 今日課表
-  $('#planGrid').addEventListener('click', (e) => {
-    const btn = e.target.closest('[data-start]');
-    if (!btn) return;
-    const key = btn.dataset.start;
-    if (key === 'vocab10') startVocabSession(10, key);
-    else if (key === 'part2') startDrill(2, 5, key, '今日 Part 2');
-    else if (key === 'part5') startDrill(5, 6, key, '今日 Part 5');
-    else if (key === 'read1') {
-      const g = shuffle(Object.values(byPart(7).reduce((a, q) => ((a[q.group || q.id] ||= []).push(q), a), {})))[0] || [];
-      Object.assign(session, { queue: g, idx: 0, picked: null, checked: false, taskKey: key, title: '今日閱讀', finished: false });
-      $('#practiceEmpty').hidden = true; $('#qbox').hidden = false; renderQuestion();
-      $('#drills').scrollIntoView({ behavior: 'smooth' });
-      selectPartTab(7);
-    } else if (key === 'quiz5') startDrill(null, 5, key, '今日小考');
+  $('#heroStart').addEventListener('click', () => openDay(state.curDay || currentDayNum()));
+  $('#heroReview').addEventListener('click', openReview);
+  $('#todayStart').addEventListener('click', () => openDay(state.curDay || currentDayNum()));
+  $('#todayNext').addEventListener('click', () => openDay(Math.min(CURR.days.length, (state.curDay || 1) + 1)));
+  $('#peekStart').addEventListener('click', openReview);
+  $('#reviewToToday').addEventListener('click', () => $('#today').scrollIntoView({ behavior: 'smooth' }));
+
+  // 每日課程
+  $('#wordSpeak').addEventListener('click', () => {
+    const it = dayOf(dayView.n).items[dayView.i];
+    if (it) speak(`${it.word}. ${(it.ex?.[0]?.[0]) || ''}`, { rate: 0.9 });
+  });
+  $('#exList').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-ex]');
+    if (!b) return;
+    const it = dayOf(dayView.n).items[dayView.i];
+    const p = it?.ex?.[+b.dataset.ex];
+    if (p) speak(p[0], { rate: 0.9 });
+  });
+  $('#wordKnow').addEventListener('click', () => markWord(true));
+  $('#wordHazy').addEventListener('click', () => markWord(false));
+  $('#wordPrev').addEventListener('click', () => { if (dayView.i > 0) { dayView.i -= 1; renderWord(); } });
+  $('#wordNext').addEventListener('click', () => {
+    const items = dayOf(dayView.n).items;
+    if (dayView.i < items.length - 1) { dayView.i += 1; renderWord(); }
+  });
+  $('#wordDots').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-jump]');
+    if (b) { dayView.i = +b.dataset.jump; renderWord(); }
+  });
+  $('#dayFinish').addEventListener('click', () => finishDay(false));
+
+  // 地圖 + 搜尋
+  $('#dayGrid').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-day]');
+    if (b) openDay(+b.dataset.day);
+  });
+  let searchTimer = null;
+  $('#wordSearch').addEventListener('input', (e) => {
+    clearTimeout(searchTimer);
+    const q = e.target.value;
+    searchTimer = setTimeout(() => {
+      const res = searchWords(q);
+      $('#searchResults').innerHTML = res.length
+        ? res.map((r) => `<button class="searchhit" data-goday="${r.day}" data-word="${esc(r.w)}"><b>${esc(r.w)}</b><span>第 ${r.day} 天 · ${esc(r.theme)} · ${esc(r.item.zh)}</span></button>`).join('')
+        : (q.trim().length >= 2 ? '<p class="muted">找不到這個字（目前收錄 2000 字）</p>' : '');
+    }, 160);
+  });
+  $('#searchResults').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-goday]');
+    if (!b) return;
+    const day = +b.dataset.goday;
+    const w = (b.dataset.word || '').toLowerCase();
+    openDay(day);
+    const idx = (dayOf(day).items || []).findIndex((it) => it.word.toLowerCase() === w);
+    if (idx >= 0) { dayView.i = idx; renderWord(); }
   });
 
-  $('#heroStart').addEventListener('click', () => {
-    const t = todayRec();
-    const next = TASKS.find((x) => !t.tasks[x.key]);
-    if (!next) { $('#progress').scrollIntoView({ behavior: 'smooth' }); toast('今天五格都完成了 🎉'); return; }
-    $(`[data-start="${next.key}"]`)?.click();
+  // 複習
+  $('#reviewShow').addEventListener('click', showAnswer);
+  $('#reviewSpeak').addEventListener('click', () => {
+    const it = lookup(review.queue[review.i])?.item;
+    if (it) speak(`${it.word}. ${(it.ex?.[0]?.[0]) || ''}`, { rate: 0.9 });
+  });
+  $('#reviewGrade').addEventListener('click', (e) => {
+    const b = e.target.closest('[data-grade]');
+    if (b) grade(b.dataset.grade);
   });
 
-  // 單字卡
-  $('#flashCard').addEventListener('click', (e) => {
-    if (e.target.closest('.speak')) return;
-    toggleFlip();
-  });
-  $('#flashCard').addEventListener('keydown', (e) => {
-    if (e.key === ' ' || e.key === 'Enter') { e.preventDefault(); toggleFlip(); }
-  });
-  $('#flashSpeak').addEventListener('click', (e) => { e.stopPropagation(); const w = deck[di]; if (w) speak(`${w.w}. ${w.ex}`); });
-  $('#vocabKnow').addEventListener('click', () => rateVocab(true));
-  $('#vocabForget').addEventListener('click', () => rateVocab(false));
-  $('#vocabReviewBtn').addEventListener('click', () => {
-    reviewOnly = !reviewOnly;
-    $('#vocabReviewBtn').textContent = reviewOnly ? '看全部分類' : '只練複習池';
-    vocabSession = null;
-    buildDeck();
-  });
-  $('#vocabCats').addEventListener('click', (e) => {
-    const c = e.target.closest('[data-cat]');
-    if (!c) return;
-    catFilter = c.dataset.cat;
-    vocabSession = null;
-    $$('#vocabCats .chip').forEach((x) => x.setAttribute('aria-selected', String(x.dataset.cat === catFilter)));
-    buildDeck();
-  });
-
-  // 練習
+  // Part 練習
   $('#partTabs').addEventListener('click', (e) => {
     const b = e.target.closest('[data-part]');
-    if (!b) return;
-    startDrill(+b.dataset.part, null, null, '');
+    if (b) startDrill(+b.dataset.part, null);
   });
   $('#qOptions').addEventListener('click', (e) => {
     const b = e.target.closest('[data-opt]');
@@ -581,12 +798,7 @@ function bindEvents() {
   $('#qSkip').addEventListener('click', () => { session.idx = Math.min(session.idx + 1, session.queue.length); nextQuestion(); });
   $('#qPlay').addEventListener('click', () => {
     const q = session.queue[session.idx];
-    if (!q) return;
-    const wrap = $('#qAudioWrap');
-    wrap.classList.add('is-playing');
-    const u = speak(q.audio);
-    if (u) u.onend = () => wrap.classList.remove('is-playing');
-    else setTimeout(() => wrap.classList.remove('is-playing'), 1200);
+    if (q) autoPlay(q);
   });
 
   // 模考
@@ -604,16 +816,14 @@ function bindEvents() {
 
   // 進度
   $('#resetBtn').addEventListener('click', () => {
-    if (!confirm('確定要清空所有學習進度嗎？（單字熟練度、正確率、模考紀錄都會消失）')) return;
+    if (!confirm('確定要清空所有學習進度嗎？（單字熟練度、已完成天數、正確率、模考紀錄都會消失）')) return;
     localStorage.removeItem(KEY);
     state = blankState();
     saveState();
-    vocabSession = null; reviewOnly = false;
-    buildDeck(); renderToday(); renderStats(); renderPartTabs();
+    renderToday(); renderStats(); renderMap(); renderPartTabs();
     toast('進度已重設');
   });
 
-  // 發音開關
   $('#soundToggle').addEventListener('click', (e) => {
     state.sound = !state.sound;
     saveState();
@@ -624,27 +834,18 @@ function bindEvents() {
 
   // 鍵盤
   document.addEventListener('keydown', (e) => {
-    if ($('#drills').contains(document.activeElement) || document.activeElement === document.body) {
-      const q = session.queue[session.idx];
-      if (!q || $('#qbox').hidden) return;
-      if (/^[1-4]$/.test(e.key)) { const i = +e.key - 1; if (i < q.options.length) pickOption(i); }
-      if (e.key === 'Enter') { e.preventDefault(); session.checked ? nextQuestion() : ($('#qCheck').disabled ? null : checkAnswer()); }
+    const typing = /input|textarea/i.test(document.activeElement?.tagName || '');
+    if (typing) return;
+    if (!$('#day').hidden) {
+      const items = dayOf(dayView.n)?.items || [];
+      if (e.key === 'ArrowRight' && dayView.i < items.length - 1) { dayView.i += 1; renderWord(); }
+      if (e.key === 'ArrowLeft' && dayView.i > 0) { dayView.i -= 1; renderWord(); }
+    }
+    if (!$('#reviewRun').hidden) {
+      if ((e.key === ' ' || e.key === 'Enter') && !review.shown) { e.preventDefault(); showAnswer(); }
+      if (review.shown && /^[1-4]$/.test(e.key)) grade(['again', 'hard', 'good', 'easy'][+e.key - 1]);
     }
   });
-}
-
-function toggleFlip() {
-  $('#flashCard').classList.toggle('is-flipped');
-}
-
-function startVocabSession(n, taskKey) {
-  const words = deck.length >= n ? shuffle(deck).slice(0, n) : shuffle(VOCAB).slice(0, n);
-  vocabSession = { words, target: n, done: 0, taskKey };
-  deck = words.slice();
-  di = 0;
-  renderVocab();
-  $('#vocab').scrollIntoView({ behavior: 'smooth' });
-  toast(`開始暖身：${n} 個單字`);
 }
 
 /* ------------------------------------------------------------------ 啟動 */
@@ -655,27 +856,32 @@ async function init() {
     await loadData();
   } catch (err) {
     console.error(err);
-    toast('題庫載入失敗，請重新整理');
+    toast('課程資料載入失敗，請重新整理');
     return;
   }
   if ('speechSynthesis' in window) {
     voices = window.speechSynthesis.getVoices();
     window.speechSynthesis.onvoiceschanged = () => { voices = window.speechSynthesis.getVoices(); };
   }
-
+  state.curDay = state.curDay || currentDayNum();
+  // 數字依實際資料顯示（目前上線天數可能少於規劃的 100 天）
+  const metaB = $$('.hero__meta li b');
+  if (metaB[0]) metaB[0].textContent = INDEX.size + LEGACY.size;
+  if (metaB[1]) metaB[1].textContent = CURR.days.length;
+  const legend = $('#stageLegend');
+  if (legend && CURR.days.length < 100) {
+    legend.insertAdjacentHTML('beforeend',
+      `<span class="stagechip buildnote">目前上線 ${CURR.days.length} 天 · ${INDEX.size} 字，其餘內容產生中</span>`);
+  }
   renderTicker();
   renderPartTabs();
-  renderStats();
+  renderMap();
   renderToday();
-  renderExamList();
+  renderStats();
   initNav();
-
-  const cats = ['全部', ...new Set(VOCAB.map((w) => w.cat))];
-  $('#vocabCats').innerHTML = cats.map((c) =>
-    `<button class="chip" role="tab" data-cat="${esc(c)}" aria-selected="${c === '全部'}">${esc(c)}</button>`).join('');
-  buildDeck();
   bindEvents();
-  renderVocab();
+  const legacyCount = Object.values(state.srs).filter((r) => r.legacy).length;
+  if (legacyCount) setTimeout(() => toast(`已保留你之前的 ${legacyCount} 個單字進度，全部排進複習`), 900);
 }
 
 document.addEventListener('DOMContentLoaded', init);

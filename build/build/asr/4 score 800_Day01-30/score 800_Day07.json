@@ -1,0 +1,642 @@
+{
+ "file": "4 score 800_Day01-30\\score 800_Day07.mp3",
+ "dur": 344.96,
+ "segments": [
+  {
+   "s": 0.05,
+   "e": 4.69,
+   "t": "Day 7"
+  },
+  {
+   "s": 4.69,
+   "e": 7.09,
+   "t": "LC"
+  },
+  {
+   "s": 7.09,
+   "e": 11.59,
+   "t": "A piece of equipment"
+  },
+  {
+   "s": 11.59,
+   "e": 16.63,
+   "t": "All the way"
+  },
+  {
+   "s": 16.63,
+   "e": 21.57,
+   "t": "Appealing"
+  },
+  {
+   "s": 21.57,
+   "e": 25.93,
+   "t": "At once"
+  },
+  {
+   "s": 25.93,
+   "e": 28.01,
+   "t": "Definite"
+  },
+  {
+   "s": 28.01,
+   "e": 33.97,
+   "t": "Distinguished"
+  },
+  {
+   "s": 33.97,
+   "e": 39.67,
+   "t": "Extraordinary"
+  },
+  {
+   "s": 39.67,
+   "e": 44.13,
+   "t": "Good for"
+  },
+  {
+   "s": 44.13,
+   "e": 47.93,
+   "t": "In bloom"
+  },
+  {
+   "s": 47.93,
+   "e": 52.93,
+   "t": "In reference to"
+  },
+  {
+   "s": 52.93,
+   "e": 56.41,
+   "t": "Market stall"
+  },
+  {
+   "s": 56.41,
+   "e": 58.41,
+   "t": "Mechanism"
+  },
+  {
+   "s": 58.41,
+   "e": 60.41,
+   "t": "Mechanism"
+  },
+  {
+   "s": 60.41,
+   "e": 64.41,
+   "t": "Metropolitannaria"
+  },
+  {
+   "s": 64.41,
+   "e": 68.41,
+   "t": "National holiday"
+  },
+  {
+   "s": 68.41,
+   "e": 70.41,
+   "t": "National holiday"
+  },
+  {
+   "s": 70.41,
+   "e": 72.41,
+   "t": "National holiday"
+  },
+  {
+   "s": 72.41,
+   "e": 74.41,
+   "t": "On schedule"
+  },
+  {
+   "s": 74.41,
+   "e": 76.41,
+   "t": "Anzha'o預定時間"
+  },
+  {
+   "s": 76.41,
+   "e": 78.41,
+   "t": "Over the internet"
+  },
+  {
+   "s": 78.41,
+   "e": 80.41,
+   "t": "Over the internet"
+  },
+  {
+   "s": 80.41,
+   "e": 82.41,
+   "t": "In the past"
+  },
+  {
+   "s": 82.41,
+   "e": 84.41,
+   "t": "Preview"
+  },
+  {
+   "s": 84.41,
+   "e": 87.09,
+   "t": "Yilan, Yuzhan, Yuyin,"
+  },
+  {
+   "s": 87.09,
+   "e": 89.37,
+   "t": "電視節目等的預告"
+  },
+  {
+   "s": 90.17,
+   "e": 91.37,
+   "t": "Public display"
+  },
+  {
+   "s": 91.69,
+   "e": 92.97,
+   "t": "Public display"
+  },
+  {
+   "s": 93.37,
+   "e": 94.49,
+   "t": "公開展示"
+  },
+  {
+   "s": 94.49,
+   "e": 95.85,
+   "t": "Run a campaign"
+  },
+  {
+   "s": 96.25,
+   "e": 97.53,
+   "t": "Run a campaign"
+  },
+  {
+   "s": 97.93,
+   "e": 99.49,
+   "t": "進行宣傳活動"
+  },
+  {
+   "s": 100.05,
+   "e": 101.33,
+   "t": "Serve a customer"
+  },
+  {
+   "s": 101.69,
+   "e": 102.93,
+   "t": "Serve a customer"
+  },
+  {
+   "s": 103.25,
+   "e": 104.41,
+   "t": "服務顧客"
+  },
+  {
+   "s": 104.93,
+   "e": 105.69,
+   "t": "Spouse"
+  },
+  {
+   "s": 106.05,
+   "e": 106.93,
+   "t": "Spouse"
+  },
+  {
+   "s": 107.13,
+   "e": 107.93,
+   "t": "Pay-o"
+  },
+  {
+   "s": 108.33,
+   "e": 109.45,
+   "t": "Upside down"
+  },
+  {
+   "s": 109.77,
+   "e": 110.97,
+   "t": "Upside down"
+  },
+  {
+   "s": 111.21,
+   "e": 112.33,
+   "t": "上下顛倒"
+  },
+  {
+   "s": 112.49,
+   "e": 113.21,
+   "t": "導致"
+  },
+  {
+   "s": 113.21,
+   "e": 116.67,
+   "t": "Vending machine"
+  },
+  {
+   "s": 116.67,
+   "e": 118.25,
+   "t": "Vending machine"
+  },
+  {
+   "s": 118.25,
+   "e": 120.39,
+   "t": "Visible"
+  },
+  {
+   "s": 120.39,
+   "e": 124.81,
+   "t": "Part 5 and 6"
+  },
+  {
+   "s": 124.81,
+   "e": 128.89,
+   "t": "As opposed to"
+  },
+  {
+   "s": 128.89,
+   "e": 134.61,
+   "t": "Boldly"
+  },
+  {
+   "s": 134.61,
+   "e": 138.07,
+   "t": "Call on"
+  },
+  {
+   "s": 138.07,
+   "e": 143.07,
+   "t": "excluding"
+  },
+  {
+   "s": 143.07,
+   "e": 145.07,
+   "t": "except"
+  },
+  {
+   "s": 145.07,
+   "e": 149.07,
+   "t": "expectancy"
+  },
+  {
+   "s": 149.07,
+   "e": 151.07,
+   "t": "expectations"
+  },
+  {
+   "s": 151.07,
+   "e": 154.07,
+   "t": "forgetfully"
+  },
+  {
+   "s": 154.07,
+   "e": 158.07,
+   "t": "don't care about the past"
+  },
+  {
+   "s": 158.07,
+   "e": 161.07,
+   "t": "noteworthy"
+  },
+  {
+   "s": 161.07,
+   "e": 165.07,
+   "t": "perception"
+  },
+  {
+   "s": 165.07,
+   "e": 169.07,
+   "t": "Potentially."
+  },
+  {
+   "s": 169.07,
+   "e": 172.07,
+   "t": "Randomly."
+  },
+  {
+   "s": 172.07,
+   "e": 177.07,
+   "t": "Suitable."
+  },
+  {
+   "s": 177.07,
+   "e": 181.07,
+   "t": "Part 7."
+  },
+  {
+   "s": 181.07,
+   "e": 185.07,
+   "t": "A complete line of."
+  },
+  {
+   "s": 185.07,
+   "e": 190.07,
+   "t": "Accept the offer."
+  },
+  {
+   "s": 190.07,
+   "e": 193.07,
+   "t": "Estonishingly."
+  },
+  {
+   "s": 193.07,
+   "e": 195.07,
+   "t": "Estonationally"
+  },
+  {
+   "s": 195.07,
+   "e": 198.07,
+   "t": "Being noted for"
+  },
+  {
+   "s": 198.07,
+   "e": 200.07,
+   "t": "Being noted for"
+  },
+  {
+   "s": 200.07,
+   "e": 202.07,
+   "t": "Claim"
+  },
+  {
+   "s": 202.07,
+   "e": 203.07,
+   "t": "Claim"
+  },
+  {
+   "s": 203.07,
+   "e": 205.07,
+   "t": "Claim"
+  },
+  {
+   "s": 205.07,
+   "e": 207.07,
+   "t": "Classified Add"
+  },
+  {
+   "s": 207.07,
+   "e": 209.07,
+   "t": "Classified Add"
+  },
+  {
+   "s": 209.07,
+   "e": 212.07,
+   "t": "Compilation"
+  },
+  {
+   "s": 212.07,
+   "e": 214.07,
+   "t": "Compilation"
+  },
+  {
+   "s": 214.07,
+   "e": 216.07,
+   "t": "Comparing"
+  },
+  {
+   "s": 216.07,
+   "e": 218.07,
+   "t": "Comprehensible"
+  },
+  {
+   "s": 218.07,
+   "e": 220.07,
+   "t": "Criticize"
+  },
+  {
+   "s": 220.07,
+   "e": 222.07,
+   "t": "Criticize"
+  },
+  {
+   "s": 222.07,
+   "e": 223.79,
+   "t": "P-Ping, P-Pan"
+  },
+  {
+   "s": 223.79,
+   "e": 224.87,
+   "t": "Dumping"
+  },
+  {
+   "s": 224.87,
+   "e": 225.91,
+   "t": "Dumping"
+  },
+  {
+   "s": 225.91,
+   "e": 227.27,
+   "t": "Qing Xiao"
+  },
+  {
+   "s": 227.27,
+   "e": 229.03,
+   "t": "First priority"
+  },
+  {
+   "s": 229.03,
+   "e": 230.75,
+   "t": "First priority"
+  },
+  {
+   "s": 230.75,
+   "e": 232.43,
+   "t": "De-E-U-Sian"
+  },
+  {
+   "s": 232.43,
+   "e": 233.95,
+   "t": "Fixed price"
+  },
+  {
+   "s": 233.95,
+   "e": 235.35,
+   "t": "Fixed price"
+  },
+  {
+   "s": 235.35,
+   "e": 237.03,
+   "t": "Gu-Ding's價格"
+  },
+  {
+   "s": 237.03,
+   "e": 238.75,
+   "t": "Have control over"
+  },
+  {
+   "s": 238.75,
+   "e": 240.55,
+   "t": "Have control over"
+  },
+  {
+   "s": 240.55,
+   "e": 242.67,
+   "t": "Why do you have control over?"
+  },
+  {
+   "s": 242.67,
+   "e": 245.39,
+   "t": "Have little chance of ING"
+  },
+  {
+   "s": 245.39,
+   "e": 248.23,
+   "t": "Have little chance of ING"
+  },
+  {
+   "s": 248.23,
+   "e": 250.43,
+   "t": "Do what's a good idea"
+  },
+  {
+   "s": 250.43,
+   "e": 251.87,
+   "t": "In favor of"
+  },
+  {
+   "s": 251.87,
+   "e": 253.87,
+   "t": "In favor of,"
+  },
+  {
+   "s": 253.87,
+   "e": 258.87,
+   "t": "keep A in form of B."
+  },
+  {
+   "s": 258.87,
+   "e": 263.87,
+   "t": "Make an assessment."
+  },
+  {
+   "s": 263.87,
+   "e": 266.87,
+   "t": "Make an assessment."
+  },
+  {
+   "s": 266.87,
+   "e": 270.87,
+   "t": "Mediate."
+  },
+  {
+   "s": 270.87,
+   "e": 274.87,
+   "t": "Minimize the risk of."
+  },
+  {
+   "s": 274.87,
+   "e": 279.87,
+   "t": "Modestly."
+  },
+  {
+   "s": 279.87,
+   "e": 281.87,
+   "t": "Pursistently."
+  },
+  {
+   "s": 281.87,
+   "e": 283.87,
+   "t": "Persistent."
+  },
+  {
+   "s": 283.87,
+   "e": 285.87,
+   "t": "Persistent."
+  },
+  {
+   "s": 285.87,
+   "e": 287.87,
+   "t": "Pubblicity."
+  },
+  {
+   "s": 287.87,
+   "e": 289.87,
+   "t": "Publicity."
+  },
+  {
+   "s": 289.87,
+   "e": 291.87,
+   "t": "Siong-chan, Meti-da-guan-joo."
+  },
+  {
+   "s": 291.87,
+   "e": 293.87,
+   "t": "Release date."
+  },
+  {
+   "s": 293.87,
+   "e": 295.87,
+   "t": "Release date."
+  },
+  {
+   "s": 295.87,
+   "e": 297.87,
+   "t": "Stake competitive."
+  },
+  {
+   "s": 297.87,
+   "e": 299.87,
+   "t": "Stake competitive."
+  },
+  {
+   "s": 299.87,
+   "e": 301.87,
+   "t": "Wei-chir-jing-jung-li."
+  },
+  {
+   "s": 301.87,
+   "e": 303.87,
+   "t": "Striking difference."
+  },
+  {
+   "s": 303.87,
+   "e": 305.87,
+   "t": "Siong-joo-da-chai."
+  },
+  {
+   "s": 305.87,
+   "e": 307.87,
+   "t": "Take a long time."
+  },
+  {
+   "s": 307.87,
+   "e": 311.23,
+   "t": "Take a long time."
+  },
+  {
+   "s": 311.23,
+   "e": 315.47,
+   "t": "Take action."
+  },
+  {
+   "s": 315.47,
+   "e": 319.07,
+   "t": "Trademark."
+  },
+  {
+   "s": 319.07,
+   "e": 323.51,
+   "t": "Turn to."
+  },
+  {
+   "s": 323.51,
+   "e": 328.15,
+   "t": "Unacceptable."
+  },
+  {
+   "s": 328.15,
+   "e": 332.63,
+   "t": "Verify."
+  },
+  {
+   "s": 332.63,
+   "e": 336.47,
+   "t": "With the exception of."
+  },
+  {
+   "s": 336.47,
+   "e": 338.47,
+   "t": "without notice"
+  },
+  {
+   "s": 338.47,
+   "e": 340.47,
+   "t": "without notice"
+  },
+  {
+   "s": 340.47,
+   "e": 342.47,
+   "t": "without notice"
+  }
+ ],
+ "text": "Day 7 LC A piece of equipment All the way Appealing At once Definite Distinguished Extraordinary Good for In bloom In reference to Market stall Mechanism Mechanism Metropolitannaria National holiday National holiday National holiday On schedule Anzha'o預定時間 Over the internet Over the internet In the past Preview Yilan, Yuzhan, Yuyin, 電視節目等的預告 Public display Public display 公開展示 Run a campaign Run a campaign 進行宣傳活動 Serve a customer Serve a customer 服務顧客 Spouse Spouse Pay-o Upside down Upside down 上下顛倒 導致 Vending machine Vending machine Visible Part 5 and 6 As opposed to Boldly Call on excluding except expectancy expectations forgetfully don't care about the past noteworthy perception Potentially. Randomly. Suitable. Part 7. A complete line of. Accept the offer. Estonishingly. Estonationally Being noted for Being noted for Claim Claim Claim Classified Add Classified Add Compilation Compilation Comparing Comprehensible Criticize Criticize P-Ping, P-Pan Dumping Dumping Qing Xiao First priority First priority De-E-U-Sian Fixed price Fixed price Gu-Ding's價格 Have control over Have control over Why do you have control over? Have little chance of ING Have little chance of ING Do what's a good idea In favor of In favor of, keep A in form of B. Make an assessment. Make an assessment. Mediate. Minimize the risk of. Modestly. Pursistently. Persistent. Persistent. Pubblicity. Publicity. Siong-chan, Meti-da-guan-joo. Release date. Release date. Stake competitive. Stake competitive. Wei-chir-jing-jung-li. Striking difference. Siong-joo-da-chai. Take a long time. Take a long time. Take action. Trademark. Turn to. Unacceptable. Verify. With the exception of. without notice without notice without notice"
+}

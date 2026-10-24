@@ -1,0 +1,405 @@
+{
+ "day": 10,
+ "theme": "請假、出勤與加班",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "absenteeism",
+   "ph": "/ˌæbsənˈtiːɪzəm/",
+   "pos": "n. 曠職；缺席率",
+   "zh": "曠職；缺席",
+   "colloc": "high absenteeism 高缺席率 | reduce absenteeism 減少曠職",
+   "distinct": "absence 缺席 | vacancy 空缺",
+   "ex": [
+    [
+     "High absenteeism affects our overall productivity.",
+     "高曠職率影響了我們的整體生產力。"
+    ],
+    [
+     "Management is concerned about rising absenteeism.",
+     "管理階層對於日益增加的缺席率感到擔憂。"
+    ],
+    [
+     "We need to investigate the cause of absenteeism.",
+     "我們需要調查導致缺席的原因。"
+    ]
+   ]
+  },
+  {
+   "word": "leave",
+   "ph": "/liːv/",
+   "pos": "n. 請假；休假",
+   "zh": "請假；休假",
+   "colloc": "annual leave 年假 | sick leave 病假",
+   "distinct": "vacation 假期 | holiday 節日",
+   "ex": [
+    [
+     "She applied for sick leave this morning.",
+     "她今天早上申請了病假。"
+    ],
+    [
+     "Please submit your leave request online.",
+     "請在線上提交您的請假申請。"
+    ],
+    [
+     "He is currently on unpaid leave.",
+     "他目前正在留職停薪。"
+    ]
+   ]
+  },
+  {
+   "word": "attendance",
+   "ph": "/əˈtendəns/",
+   "pos": "n. 出勤；出席",
+   "zh": "出勤；出席",
+   "colloc": "check attendance 點名 | perfect attendance 全勤",
+   "distinct": "attention 注意力 | tendency 趨勢",
+   "ex": [
+    [
+     "Daily attendance is tracked by the system.",
+     "每日出勤由系統追蹤。"
+    ],
+    [
+     "He has a record of perfect attendance.",
+     "他擁有全勤的出勤紀錄。"
+    ],
+    [
+     "Please confirm your attendance by Friday.",
+     "請在週五前確認您的出席。"
+    ]
+   ]
+  },
+  {
+   "word": "time-off",
+   "ph": "/ˈtaɪm.ɒf/",
+   "pos": "n. 休假時間",
+   "zh": "休假",
+   "colloc": "request time-off 申請休假 | take time-off 請假",
+   "distinct": "break 休息 | leisure 閒暇",
+   "ex": [
+    [
+     "Staff may request time-off for personal reasons.",
+     "員工可因個人理由申請休假。"
+    ],
+    [
+     "He needs some time-off to recover.",
+     "他需要一些休假時間來恢復。"
+    ],
+    [
+     "Management approved her request for time-off.",
+     "管理層核准了她的休假申請。"
+    ]
+   ]
+  },
+  {
+   "word": "compensatory",
+   "ph": "/kəmˈpensətəri/",
+   "pos": "adj. 補償性的",
+   "zh": "補償的",
+   "colloc": "compensatory leave 補休 | compensatory time 補償時間",
+   "distinct": "complementary 補充的 | competitive 競爭的",
+   "ex": [
+    [
+     "She received compensatory leave for working weekends.",
+     "她因週末工作獲得了補休。"
+    ],
+    [
+     "We provide compensatory time for extra hours.",
+     "我們針對加班提供補償時間。"
+    ],
+    [
+     "This policy offers compensatory benefits to staff.",
+     "這項政策提供員工補償性福利。"
+    ]
+   ]
+  },
+  {
+   "word": "roster",
+   "ph": "/ˈrɒstə/",
+   "pos": "n. 名冊；班表",
+   "zh": "值勤表；名冊",
+   "colloc": "duty roster 值勤表 | update the roster 更新名冊",
+   "distinct": "schedule 行程表 | register 登記簿",
+   "ex": [
+    [
+     "Check the duty roster for your shifts.",
+     "請查看值勤表確認您的排班。"
+    ],
+    [
+     "The new staff member is on the roster.",
+     "新進員工已列入名冊中。"
+    ],
+    [
+     "Please post the weekly roster tomorrow.",
+     "請在明天公佈每週排班表。"
+    ]
+   ]
+  },
+  {
+   "word": "shift",
+   "ph": "/ʃɪft/",
+   "pos": "n. 輪班；班次",
+   "zh": "輪班；班次",
+   "colloc": "night shift 夜班 | change shifts 換班",
+   "distinct": "move 移動 | turn 轉彎",
+   "ex": [
+    [
+     "She prefers working the morning shift.",
+     "她比較喜歡上早班。"
+    ],
+    [
+     "The night shift starts at midnight.",
+     "夜班於午夜開始。"
+    ],
+    [
+     "We need to adjust our working shifts.",
+     "我們需要調整工作班次。"
+    ]
+   ]
+  },
+  {
+   "word": "clock-in",
+   "ph": "/klɒk ɪn/",
+   "pos": "v. 打卡上班",
+   "zh": "打卡上班",
+   "colloc": "clock-in time 打卡時間 | clock-in system 打卡系統",
+   "distinct": "clock-out 下班打卡 | login 登入",
+   "ex": [
+    [
+     "Please clock-in upon arriving at work.",
+     "請在抵達公司時打卡。"
+    ],
+    [
+     "The clock-in system is currently malfunctioning.",
+     "打卡系統目前故障。"
+    ],
+    [
+     "He forgot to clock-in this morning.",
+     "他今天早上忘了打卡。"
+    ]
+   ]
+  },
+  {
+   "word": "punctuality",
+   "ph": "/ˌpʌŋktʃuˈæləti/",
+   "pos": "n. 準時；守時",
+   "zh": "準時",
+   "colloc": "maintain punctuality 保持準時 | value punctuality 重視準時",
+   "distinct": "precision 精確 | accuracy 正確",
+   "ex": [
+    [
+     "Punctuality is essential for all employees.",
+     "準時對於所有員工來說至關重要。"
+    ],
+    [
+     "We value punctuality during project meetings.",
+     "我們在專案會議期間很重視準時。"
+    ],
+    [
+     "His punctuality has improved significantly lately.",
+     "他近期的準時表現顯著改善。"
+    ]
+   ]
+  },
+  {
+   "word": "shift-work",
+   "ph": "/ˈʃɪft wɜːk/",
+   "pos": "n. 輪班制工作",
+   "zh": "輪班工作",
+   "colloc": "engage in shift-work 從事輪班 | shift-work schedule 輪班表",
+   "distinct": "part-time 兼職 | freelance 接案",
+   "ex": [
+    [
+     "Many employees prefer flexible shift-work hours.",
+     "許多員工偏好彈性的輪班工作時間。"
+    ],
+    [
+     "Shift-work can be quite demanding physically.",
+     "輪班工作在體力上可能相當吃力。"
+    ],
+    [
+     "The factory operates on a shift-work basis.",
+     "工廠是以輪班制的方式運作。"
+    ]
+   ]
+  },
+  {
+   "word": "flexitime",
+   "ph": "/ˈfleksitaɪm/",
+   "pos": "n. 彈性工時",
+   "zh": "彈性工作時間",
+   "colloc": "adopt flexitime 採用彈性工時 | flexitime policy 彈性工時政策",
+   "distinct": "full-time 全職 | overtime 加班",
+   "ex": [
+    [
+     "Our company recently introduced a flexitime policy.",
+     "我們公司最近引進了彈性工時政策。"
+    ],
+    [
+     "Flexitime helps employees balance their work.",
+     "彈性工時有助於員工平衡工作。"
+    ],
+    [
+     "She takes advantage of the flexitime system.",
+     "她善用了彈性工時制度。"
+    ]
+   ]
+  },
+  {
+   "word": "authorization",
+   "ph": "/ˌɔːθəraɪˈzeɪʃən/",
+   "pos": "n. 授權；批准",
+   "zh": "批准；授權",
+   "colloc": "written authorization 書面批准 | obtain authorization 取得授權",
+   "distinct": "authority 權力 | authentication 驗證",
+   "ex": [
+    [
+     "You need authorization before taking leave.",
+     "你在休假前需要取得批准。"
+    ],
+    [
+     "He did not get authorization for overtime.",
+     "他沒有取得加班的授權。"
+    ],
+    [
+     "Submit the form to gain authorization.",
+     "請提交表格以獲得批准。"
+    ]
+   ]
+  },
+  {
+   "word": "casual",
+   "ph": "/ˈkæʒuəl/",
+   "pos": "n. 臨時工；便服日",
+   "zh": "臨時工；便服",
+   "colloc": "casual labor 臨時勞工 | casual day 便服日",
+   "distinct": "formal 正式的 | regular 規律的",
+   "ex": [
+    [
+     "The company hired several casual workers.",
+     "公司僱用了幾名臨時工。"
+    ],
+    [
+     "Today is casual day at the office.",
+     "今天是辦公室的便服日。"
+    ],
+    [
+     "Casual leave is not provided for interns.",
+     "實習生不提供事假。"
+    ]
+   ]
+  },
+  {
+   "word": "absence",
+   "ph": "/ˈæbsəns/",
+   "pos": "n. 缺席；缺勤",
+   "zh": "缺席；缺勤",
+   "colloc": "leave of absence 請假 | record of absence 缺席紀錄",
+   "distinct": "absent 缺席的 | presence 出席",
+   "ex": [
+    [
+     "Please report your absence to the manager.",
+     "請向經理回報您的缺勤。"
+    ],
+    [
+     "His absence caused a delay in tasks.",
+     "他的缺席導致任務延遲。"
+    ],
+    [
+     "She was granted a brief leave of absence.",
+     "她獲准了一次短暫的休假。"
+    ]
+   ]
+  },
+  {
+   "word": "workload",
+   "ph": "/ˈwɜːkləʊd/",
+   "pos": "n. 工作量",
+   "zh": "工作量",
+   "colloc": "heavy workload 沈重工作量 | manage workload 管理工作量",
+   "distinct": "workforce 勞動力 | workflow 工作流程",
+   "ex": [
+    [
+     "The team is struggling with a heavy workload.",
+     "團隊正為了龐大的工作量而掙扎。"
+    ],
+    [
+     "We must distribute the workload more evenly.",
+     "我們必須更平均地分配工作量。"
+    ],
+    [
+     "Increased tasks result in a larger workload.",
+     "增加的任務導致了更大的工作量。"
+    ]
+   ]
+  },
+  {
+   "word": "prolonged",
+   "ph": "/prəˈlɒŋd/",
+   "pos": "adj. 長時間的；延長的",
+   "zh": "長時間的",
+   "colloc": "prolonged absence 長期缺席 | prolonged exposure 長期接觸",
+   "distinct": "extended 延伸的 | delayed 延遲的",
+   "ex": [
+    [
+     "His prolonged absence affected the project timeline.",
+     "他的長期缺席影響了專案進度。"
+    ],
+    [
+     "They suffered from prolonged working hours.",
+     "他們飽受長時間工作的困擾。"
+    ],
+    [
+     "We need to avoid prolonged downtime.",
+     "我們需要避免長時間的停機。"
+    ]
+   ]
+  },
+  {
+   "word": "exhaustion",
+   "ph": "/ɪɡˈzɔːstʃən/",
+   "pos": "n. 疲憊；精疲力竭",
+   "zh": "疲憊",
+   "colloc": "physical exhaustion 體力耗盡 | mental exhaustion 心力交瘁",
+   "distinct": "fatigue 疲勞 | burnout 職業倦怠",
+   "ex": [
+    [
+     "He took a break due to exhaustion.",
+     "他因為過度疲憊而休息。"
+    ],
+    [
+     "Working overtime leads to mental exhaustion.",
+     "加班會導致心力交瘁。"
+    ],
+    [
+     "The staff showed signs of extreme exhaustion.",
+     "員工顯露出極度疲憊的跡象。"
+    ]
+   ]
+  },
+  {
+   "word": "submission",
+   "ph": "/səbˈmɪʃən/",
+   "pos": "n. 提交；呈遞",
+   "zh": "提交",
+   "colloc": "deadline for submission 提交期限 | submission of reports 報告呈遞",
+   "distinct": "permission 許可 | commission 佣金",
+   "ex": [
+    [
+     "Please ensure the timely submission of reports.",
+     "請確保報告能及時提交。"
+    ],
+    [
+     "The submission date has been postponed again.",
+     "提交日期又被延後了。"
+    ],
+    [
+     "He finished his submission before the deadline.",
+     "他在期限前完成了提交。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

@@ -1,0 +1,339 @@
+{
+ "day": 42,
+ "theme": "成本控制",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "containment",
+   "ph": "/kənˈteɪnmənt/",
+   "pos": "n. 控制；抑制；圍堵",
+   "zh": "控制；抑制",
+   "colloc": "cost containment 成本控制 | containment strategy 抑制策略",
+   "distinct": "restriction 限制 | prevention 預防",
+   "ex": [
+    [
+     "Strict cost containment measures were introduced last month.",
+     "上個月實施了嚴格的成本控制措施。"
+    ],
+    [
+     "The manager proposed a new containment strategy today.",
+     "經理今天提出了一項新的抑制策略。"
+    ],
+    [
+     "Effective containment of expenses is vital for survival.",
+     "有效控制費用對於企業生存至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "austerity",
+   "ph": "/ɔːˈsterəti/",
+   "pos": "n. 緊縮；樸素",
+   "zh": "緊縮；節儉",
+   "colloc": "austerity measure 緊縮措施 | austerity plan 緊縮計劃",
+   "distinct": "economy 經濟 | poverty 貧困",
+   "ex": [
+    [
+     "The company implemented strict austerity measures this year.",
+     "該公司今年實施了嚴格的緊縮措施。"
+    ],
+    [
+     "Employees prepared for the newly announced austerity plan.",
+     "員工們為新宣布的緊縮計劃做好了準備。"
+    ],
+    [
+     "Austerity policies helped the firm reduce its debt.",
+     "緊縮政策幫助該公司減少了債務。"
+    ]
+   ]
+  },
+  {
+   "word": "retrenchment",
+   "ph": "/rɪˈtrentʃmənt/",
+   "pos": "n. 緊縮開支；裁員",
+   "zh": "緊縮開支；裁減",
+   "colloc": "retrenchment policy 緊縮政策 | forced retrenchment 強制裁員",
+   "distinct": "downsizing 精簡規模 | lay-off 解僱",
+   "ex": [
+    [
+     "The firm announced a major retrenchment program today.",
+     "該公司今天宣布了一項重大裁員與緊縮計劃。"
+    ],
+    [
+     "Retrenchment became necessary after several quarters of losses.",
+     "在連續幾個季度虧損後，緊縮開支變得不可避免。"
+    ],
+    [
+     "Many departments faced budget cuts during the retrenchment.",
+     "許多部門在緊縮期間面臨預算削減。"
+    ]
+   ]
+  },
+  {
+   "word": "underbudget",
+   "ph": "/ˌʌndərˈbʌdʒɪt/",
+   "pos": "adj. 低於預算的 | adv. 低於預算地",
+   "zh": "低於預算的",
+   "colloc": "remain underbudget 保持低於預算 | underbudget operation 低於預算運作",
+   "distinct": "overbudget 超出預算 | balanced 預算平衡的",
+   "ex": [
+    [
+     "The renovation project was completed underbudget and on time.",
+     "翻新工程低於預算並按時完成。"
+    ],
+    [
+     "Our team managed to keep operational costs underbudget.",
+     "我們團隊成功將營運成本保持在預算以下。"
+    ],
+    [
+     "She received a bonus for finishing underbudget.",
+     "她因完成項目且低於預算而獲得獎金。"
+    ]
+   ]
+  },
+  {
+   "word": "overrun",
+   "ph": "/ˈoʊvərˌrʌn/",
+   "pos": "n. 超出預算；超支 | v. 超出；泛濫",
+   "zh": "超支；超出預算",
+   "colloc": "cost overrun 成本超支 | budget overrun 預算超支",
+   "distinct": "deficit 赤字 | excess 過量",
+   "ex": [
+    [
+     "Unexpected delays caused a severe cost overrun on site.",
+     "意外的延誤導致現場嚴重的成本超支。"
+    ],
+    [
+     "The board requested an explanation for the budget overrun.",
+     "董事會要求對預算超支作出解釋。"
+    ],
+    [
+     "Careful monitoring can prevent potential cost overruns early.",
+     "仔細的監控可以提早預防潛在的成本超支。"
+    ]
+   ]
+  },
+  {
+   "word": "streamline",
+   "ph": "/ˈstriːmlaɪn/",
+   "pos": "v. 精簡；簡化",
+   "zh": "精簡；簡化",
+   "colloc": "streamline operations 精簡營運 | streamline workflow 簡化工作流程",
+   "distinct": "simplify 簡化 | optimize 最佳化",
+   "ex": [
+    [
+     "We must streamline operations to reduce redundant overhead.",
+     "我們必須精簡營運以減少多餘的經常性費用。"
+    ],
+    [
+     "The new software will streamline our accounting workflow.",
+     "這套新軟體將簡化我們的會計工作流程。"
+    ],
+    [
+     "Consultants advised us to streamline the supply chain.",
+     "顧問建議我們精簡供應鏈。"
+    ]
+   ]
+  },
+  {
+   "word": "economize",
+   "ph": "/ɪˈkɑːnəmaɪz/",
+   "pos": "v. 節約；節省",
+   "zh": "節約；省錢",
+   "colloc": "economize on resources 節約資源 | economize fuel 節省燃料",
+   "distinct": "save 儲蓄 | preserve 保存",
+   "ex": [
+    [
+     "The director asked every department to economize immediately.",
+     "處長要求每個部門立即實行節約。"
+    ],
+    [
+     "We can economize on electricity by using LED lighting.",
+     "我們可以透過使用 LED 照明來節省電費。"
+    ],
+    [
+     "Small businesses must economize during economic downturns.",
+     "小企業在經濟衰退期間必須節約開支。"
+    ]
+   ]
+  },
+  {
+   "word": "curtailment",
+   "ph": "/kərˈteɪlmənt/",
+   "pos": "n. 削減；縮減",
+   "zh": "削減；縮減",
+   "colloc": "curtailment of expenditure 支出削減 | production curtailment 產量縮減",
+   "distinct": "reduction 減少 | termination 終止",
+   "ex": [
+    [
+     "The curtailment of travel expenses saved substantial money.",
+     "差旅費用的削減節省了大幅資金。"
+    ],
+    [
+     "Further curtailment of research funds may hinder innovation.",
+     "研究基金的進一步削減可能會阻礙創新。"
+    ],
+    [
+     "Management announced a temporary curtailment of overtime work.",
+     "管理層宣布暫時縮減加班時間。"
+    ]
+   ]
+  },
+  {
+   "word": "feasibility",
+   "ph": "/ˌfiːzəˈbɪləti/",
+   "pos": "n. 可行性；實行可能性",
+   "zh": "可行性",
+   "colloc": "feasibility study 可行性研究 | financial feasibility 財務可行性",
+   "distinct": "viability 生存能力 | possibility 可能性",
+   "ex": [
+    [
+     "We conducted a feasibility study before committing any funds.",
+     "我們在投入資金前進行了可行性研究。"
+    ],
+    [
+     "The board questioned the financial feasibility of the expansion.",
+     "董事會質疑該擴建案的財務可行性。"
+    ],
+    [
+     "High costs rendered the project's feasibility quite low.",
+     "高昂的成本使得該項目的可行性相當低。"
+    ]
+   ]
+  },
+  {
+   "word": "efficiency",
+   "ph": "/ɪˈfɪʃnsi/",
+   "pos": "n. 效率；效能",
+   "zh": "效率；效能",
+   "colloc": "operational efficiency 營運效率 | energy efficiency 能源效率",
+   "distinct": "effectiveness 效果 | productivity 生產力",
+   "ex": [
+    [
+     "Improving operational efficiency is key to controlling costs.",
+     "提高營運效率是控制成本的關鍵。"
+    ],
+    [
+     "The new automated system boosted overall factory efficiency.",
+     "新的自動化系統提高了工廠的整體效率。"
+    ],
+    [
+     "They are seeking ways to enhance cost efficiency.",
+     "他們正在尋找提高成本效益的方法。"
+    ]
+   ]
+  },
+  {
+   "word": "scrutiny",
+   "ph": "/ˈskruːtəni/",
+   "pos": "n. 審查；細看",
+   "zh": "審查；仔細檢查",
+   "colloc": "financial scrutiny 財務審查 | close scrutiny 嚴格檢查",
+   "distinct": "inspection 檢查 | audit 審計",
+   "ex": [
+    [
+     "All departmental budgets are now under financial scrutiny.",
+     "所有部門預算現在都在接受財務審查。"
+    ],
+    [
+     "The manager subjected every expense claim to close scrutiny.",
+     "經理對每一筆報帳申請都進行了嚴格審查。"
+    ],
+    [
+     "Greater public scrutiny forced the company to cut wasteful spending.",
+     "更嚴格的公眾監督迫使該公司減少浪費性支出。"
+    ]
+   ]
+  },
+  {
+   "word": "rationalize",
+   "ph": "/ˈræʃnəlaɪz/",
+   "pos": "v. 合理化；整頓",
+   "zh": "合理化；整頓",
+   "colloc": "rationalize expenditure 成本合理化 | rationalize structure 結構合理化",
+   "distinct": "justify 正當化 | reorganize 重組",
+   "ex": [
+    [
+     "Management decided to rationalize operating costs across branches.",
+     "管理層決定使各分行的營運成本合理化。"
+    ],
+    [
+     "The company will rationalize its supply chain to save money.",
+     "該公司將整頓其供應鏈以節省資金。"
+    ],
+    [
+     "Efforts to rationalize production processes yielded immediate results.",
+     "使生產流程合理化的努力立即見效。"
+    ]
+   ]
+  },
+  {
+   "word": "misallocation",
+   "ph": "/ˌmɪsˌæləˈkeɪʃn/",
+   "pos": "n. 不當分配；配置錯誤",
+   "zh": "誤配；分配不當",
+   "colloc": "misallocation of resources 資源配置不當 | budget misallocation 預算分配錯誤",
+   "distinct": "maladministration 管理不善 | waste 浪費",
+   "ex": [
+    [
+     "The audit revealed a serious misallocation of capital.",
+     "審計揭露了嚴重的資本配置錯誤。"
+    ],
+    [
+     "Avoiding the misallocation of resources is crucial for managers.",
+     "避免資源分配不當對管理者來說至關重要。"
+    ],
+    [
+     "Misallocation of funds led to project failure last year.",
+     "資金分配不當導致了去年項目的失敗。"
+    ]
+   ]
+  },
+  {
+   "word": "elimination",
+   "ph": "/ɪˌlɪmɪˈneɪʃn/",
+   "pos": "n. 消除；淘汰",
+   "zh": "消除；排除",
+   "colloc": "waste elimination 消除浪費 | cost elimination 成本消除",
+   "distinct": "removal 移除 | reduction 減少",
+   "ex": [
+    [
+     "Waste elimination is the primary goal of lean manufacturing.",
+     "消除浪費是精益製造的首要目標。"
+    ],
+    [
+     "The gradual elimination of redundant positions cut labor costs.",
+     "逐漸消除冗餘職位降低了人力成本。"
+    ],
+    [
+     "Strict quality control leads to the elimination of defects.",
+     "嚴格的品質管制可以消除缺陷。"
+    ]
+   ]
+  },
+  {
+   "word": "prudence",
+   "ph": "/ˈproʊdns/",
+   "pos": "n. 審慎；精明",
+   "zh": "審慎；謹慎",
+   "colloc": "financial prudence 財務審慎 | exercise prudence 保持審慎",
+   "distinct": "caution 謹慎 | economy 節儉",
+   "ex": [
+    [
+     "Financial prudence helped the company survive the market crisis.",
+     "財務上的審慎幫助該公司度過了市場危機。"
+    ],
+    [
+     "Executives must exercise financial prudence when planning next year.",
+     "主管們在規劃明年時必須保持財務審慎。"
+    ],
+    [
+     "Her prudence in budgeting prevented any unwanted expenditure.",
+     "她在預算編列上的審慎避免了不必要的支出。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:04"
+}

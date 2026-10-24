@@ -1,0 +1,387 @@
+{
+ "file": "3 score basic_Day01-30\\score basic_Day17.mp3",
+ "dur": 116.57,
+ "segments": [
+  {
+   "s": 0.0,
+   "e": 2.0,
+   "t": "Day 17"
+  },
+  {
+   "s": 2.0,
+   "e": 4.0,
+   "t": "New Year's Day"
+  },
+  {
+   "s": 4.0,
+   "e": 6.0,
+   "t": "L.C."
+  },
+  {
+   "s": 6.0,
+   "e": 8.0,
+   "t": "Butcher Shop"
+  },
+  {
+   "s": 8.0,
+   "e": 10.0,
+   "t": "Butcher Shop"
+  },
+  {
+   "s": 10.0,
+   "e": 12.0,
+   "t": "Rodeon"
+  },
+  {
+   "s": 12.0,
+   "e": 14.0,
+   "t": "Cargo"
+  },
+  {
+   "s": 14.0,
+   "e": 16.0,
+   "t": "Clinic"
+  },
+  {
+   "s": 16.0,
+   "e": 18.0,
+   "t": "Cranic"
+  },
+  {
+   "s": 18.0,
+   "e": 20.0,
+   "t": "Crate"
+  },
+  {
+   "s": 20.0,
+   "e": 22.0,
+   "t": "Flow"
+  },
+  {
+   "s": 22.0,
+   "e": 24.0,
+   "t": "Liu Dong"
+  },
+  {
+   "s": 24.0,
+   "e": 26.0,
+   "t": "Following Week"
+  },
+  {
+   "s": 26.0,
+   "e": 28.0,
+   "t": "Following Week"
+  },
+  {
+   "s": 28.0,
+   "e": 30.7,
+   "t": "Get a ticket."
+  },
+  {
+   "s": 30.7,
+   "e": 32.0,
+   "t": "Buy a ticket."
+  },
+  {
+   "s": 32.0,
+   "e": 34.5,
+   "t": "In storage."
+  },
+  {
+   "s": 34.5,
+   "e": 37.5,
+   "t": "In storage."
+  },
+  {
+   "s": 37.5,
+   "e": 39.5,
+   "t": "Load."
+  },
+  {
+   "s": 39.5,
+   "e": 42.0,
+   "t": "In storage."
+  },
+  {
+   "s": 42.0,
+   "e": 44.0,
+   "t": "Mail."
+  },
+  {
+   "s": 44.0,
+   "e": 46.0,
+   "t": "You can use it."
+  },
+  {
+   "s": 46.0,
+   "e": 48.0,
+   "t": "Museum."
+  },
+  {
+   "s": 48.0,
+   "e": 49.5,
+   "t": "Museum."
+  },
+  {
+   "s": 49.5,
+   "e": 51.5,
+   "t": "Parcel."
+  },
+  {
+   "s": 51.5,
+   "e": 55.0,
+   "t": "Pick up packages."
+  },
+  {
+   "s": 55.0,
+   "e": 57.0,
+   "t": "Pick up packages."
+  },
+  {
+   "s": 57.0,
+   "e": 58.44,
+   "t": "LingQi BaoGuo"
+  },
+  {
+   "s": 58.44,
+   "e": 59.4,
+   "t": "Pottery"
+  },
+  {
+   "s": 59.4,
+   "e": 60.6,
+   "t": "Pottery"
+  },
+  {
+   "s": 60.6,
+   "e": 61.84,
+   "t": "Poultry"
+  },
+  {
+   "s": 61.84,
+   "e": 63.08,
+   "t": "Public park"
+  },
+  {
+   "s": 63.08,
+   "e": 64.56,
+   "t": "Public park"
+  },
+  {
+   "s": 64.56,
+   "e": 66.24,
+   "t": "公共公園"
+  },
+  {
+   "s": 66.24,
+   "e": 67.16,
+   "t": "Stamp"
+  },
+  {
+   "s": 67.16,
+   "e": 68.2,
+   "t": "Stamp"
+  },
+  {
+   "s": 68.2,
+   "e": 68.92,
+   "t": "蓋章"
+  },
+  {
+   "s": 68.92,
+   "e": 70.0,
+   "t": "油票"
+  },
+  {
+   "s": 70.0,
+   "e": 70.96,
+   "t": "Van"
+  },
+  {
+   "s": 70.96,
+   "e": 71.88,
+   "t": "Van"
+  },
+  {
+   "s": 71.88,
+   "e": 73.28,
+   "t": "相型車"
+  },
+  {
+   "s": 73.28,
+   "e": 74.44,
+   "t": "Venue"
+  },
+  {
+   "s": 74.44,
+   "e": 75.68,
+   "t": "Venue"
+  },
+  {
+   "s": 75.68,
+   "e": 78.04,
+   "t": "活動等進行的場地"
+  },
+  {
+   "s": 78.04,
+   "e": 79.04,
+   "t": "Wait"
+  },
+  {
+   "s": 79.04,
+   "e": 80.08,
+   "t": "Wait"
+  },
+  {
+   "s": 80.08,
+   "e": 82.0,
+   "t": "重量體重"
+  },
+  {
+   "s": 82.0,
+   "e": 83.36,
+   "t": "I'll say"
+  },
+  {
+   "s": 83.36,
+   "e": 84.36,
+   "t": "Barrier"
+  },
+  {
+   "s": 84.36,
+   "e": 85.4,
+   "t": "Barrier"
+  },
+  {
+   "s": 85.4,
+   "e": 87.18,
+   "t": "Zhang Ai, Zhang Ai Wu"
+  },
+  {
+   "s": 87.18,
+   "e": 88.08,
+   "t": "Base"
+  },
+  {
+   "s": 88.08,
+   "e": 88.98,
+   "t": "Base"
+  },
+  {
+   "s": 88.98,
+   "e": 90.0,
+   "t": "基礎"
+  },
+  {
+   "s": 90.0,
+   "e": 91.14,
+   "t": "due date"
+  },
+  {
+   "s": 91.14,
+   "e": 92.22,
+   "t": "due date"
+  },
+  {
+   "s": 92.22,
+   "e": 93.54,
+   "t": "道齊日"
+  },
+  {
+   "s": 93.54,
+   "e": 94.7,
+   "t": "Fashion"
+  },
+  {
+   "s": 94.7,
+   "e": 95.9,
+   "t": "Fashion"
+  },
+  {
+   "s": 95.9,
+   "e": 98.14,
+   "t": "方式作風"
+  },
+  {
+   "s": 98.14,
+   "e": 99.48,
+   "t": "Instructor"
+  },
+  {
+   "s": 99.48,
+   "e": 100.82,
+   "t": "Instructor"
+  },
+  {
+   "s": 100.82,
+   "e": 101.9,
+   "t": "講師"
+  },
+  {
+   "s": 101.9,
+   "e": 103.08,
+   "t": "Offload"
+  },
+  {
+   "s": 103.08,
+   "e": 104.32,
+   "t": "Offload"
+  },
+  {
+   "s": 104.32,
+   "e": 105.52,
+   "t": "謝夏"
+  },
+  {
+   "s": 105.52,
+   "e": 106.8,
+   "t": "Parking pass"
+  },
+  {
+   "s": 106.8,
+   "e": 108.2,
+   "t": "Parking pass"
+  },
+  {
+   "s": 108.2,
+   "e": 109.4,
+   "t": "停車政"
+  },
+  {
+   "s": 109.4,
+   "e": 110.36,
+   "t": "Shipping"
+  },
+  {
+   "s": 110.36,
+   "e": 111.48,
+   "t": "Shipping"
+  },
+  {
+   "s": 111.48,
+   "e": 112.42,
+   "t": "運輸"
+  },
+  {
+   "s": 112.42,
+   "e": 113.38,
+   "t": "或運"
+  },
+  {
+   "s": 113.38,
+   "e": 114.32,
+   "t": "Trade"
+  },
+  {
+   "s": 114.32,
+   "e": 115.36,
+   "t": "Trade"
+  },
+  {
+   "s": 115.36,
+   "e": 117.36,
+   "t": "Moe!"
+  }
+ ],
+ "text": "Day 17 New Year's Day L.C. Butcher Shop Butcher Shop Rodeon Cargo Clinic Cranic Crate Flow Liu Dong Following Week Following Week Get a ticket. Buy a ticket. In storage. In storage. Load. In storage. Mail. You can use it. Museum. Museum. Parcel. Pick up packages. Pick up packages. LingQi BaoGuo Pottery Pottery Poultry Public park Public park 公共公園 Stamp Stamp 蓋章 油票 Van Van 相型車 Venue Venue 活動等進行的場地 Wait Wait 重量體重 I'll say Barrier Barrier Zhang Ai, Zhang Ai Wu Base Base 基礎 due date due date 道齊日 Fashion Fashion 方式作風 Instructor Instructor 講師 Offload Offload 謝夏 Parking pass Parking pass 停車政 Shipping Shipping 運輸 或運 Trade Trade Moe!"
+}

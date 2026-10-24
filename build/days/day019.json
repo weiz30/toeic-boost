@@ -1,0 +1,207 @@
+{
+ "day": 19,
+ "theme": "客訴與售後",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "malfunction",
+   "ph": "/mælˈfʌŋkʃən/",
+   "pos": "n. 故障 | v. 失靈",
+   "zh": "故障；失靈",
+   "colloc": "mechanical malfunction 機械故障 | report a malfunction 回報故障",
+   "distinct": "breakdown 損壞停止運作 | flaw 瑕疵",
+   "ex": [
+    [
+     "The device experienced a sudden malfunction.",
+     "該裝置發生了突發性故障。"
+    ],
+    [
+     "Staff reported a malfunction in the printer.",
+     "員工回報了印表機的故障。"
+    ],
+    [
+     "Constant use may cause system malfunction.",
+     "持續使用可能會導致系統失靈。"
+    ]
+   ]
+  },
+  {
+   "word": "defective",
+   "ph": "/dɪˈfektɪv/",
+   "pos": "adj. 有缺陷的",
+   "zh": "有缺陷的；不完美的",
+   "colloc": "defective product 有瑕疵的產品 | identify defective items 識別瑕疵品",
+   "distinct": "faulty 有毛病的 | deficient 不足的",
+   "ex": [
+    [
+     "We must recall all defective merchandise.",
+     "我們必須召回所有瑕疵商品。"
+    ],
+    [
+     "The customer returned the defective unit.",
+     "客戶退回了有缺陷的裝置。"
+    ],
+    [
+     "She found a defective part inside.",
+     "她在裡面發現了一個瑕疵零件。"
+    ]
+   ]
+  },
+  {
+   "word": "replace",
+   "ph": "/rɪˈpleɪs/",
+   "pos": "v. 更換；替換",
+   "zh": "更換；替換；取代",
+   "colloc": "replace the item 更換項目 | replace the battery 更換電池",
+   "distinct": "substitute 替代 | exchange 交換",
+   "ex": [
+    [
+     "The company will replace the broken unit.",
+     "公司將會更換那個損壞的裝置。"
+    ],
+    [
+     "We need to replace the missing parts.",
+     "我們需要更換缺失的零件。"
+    ],
+    [
+     "They decided to replace the old equipment.",
+     "他們決定更換老舊設備。"
+    ]
+   ]
+  },
+  {
+   "word": "dissatisfied",
+   "ph": "/dɪˈsætɪsfaɪd/",
+   "pos": "adj. 不滿意的",
+   "zh": "不滿意的",
+   "colloc": "dissatisfied customer 不滿的客戶 | express dissatisfaction 表達不滿",
+   "distinct": "discontent 不滿足的 | disgruntled 不悅的",
+   "ex": [
+    [
+     "The client remains dissatisfied with our service.",
+     "客戶對我們的服務仍感到不滿。"
+    ],
+    [
+     "Many dissatisfied users left negative reviews.",
+     "許多不滿意的用戶留下了負評。"
+    ],
+    [
+     "We strive to assist dissatisfied shoppers.",
+     "我們致力於協助不滿意的消費者。"
+    ]
+   ]
+  },
+  {
+   "word": "apology",
+   "ph": "/əˈpɒlədʒi/",
+   "pos": "n. 道歉",
+   "zh": "道歉；認錯",
+   "colloc": "offer an apology 致歉 | accept an apology 接受道歉",
+   "distinct": "excuse 藉口 | regret 後悔",
+   "ex": [
+    [
+     "The manager offered a sincere apology.",
+     "經理表達了誠摯的歉意。"
+    ],
+    [
+     "They sent an apology regarding the delay.",
+     "他們發出了一封關於延誤的道歉信。"
+    ],
+    [
+     "An official apology was issued today.",
+     "官方今日發布了正式道歉。"
+    ]
+   ]
+  },
+  {
+   "word": "guideline",
+   "ph": "/ˈɡaɪdlaɪn/",
+   "pos": "n. 指導方針；準則",
+   "zh": "指導方針；準則",
+   "colloc": "follow the guidelines 遵循準則 | establish guidelines 建立方針",
+   "distinct": "instruction 指示 | standard 標準",
+   "ex": [
+    [
+     "Employees should follow these updated guidelines.",
+     "員工應該遵循這些更新的準則。"
+    ],
+    [
+     "The manual provides clear usage guidelines.",
+     "手冊提供了清晰的使用指導方針。"
+    ],
+    [
+     "We must adhere to safety guidelines.",
+     "我們必須遵守安全準則。"
+    ]
+   ]
+  },
+  {
+   "word": "escalate",
+   "ph": "/ˈeskəleɪt/",
+   "pos": "v. 升級；惡化",
+   "zh": "升級；惡化",
+   "colloc": "escalate a complaint 將投訴升級 | escalate the situation 使情況惡化",
+   "distinct": "increase 增加 | intensify 加劇",
+   "ex": [
+    [
+     "Please escalate this issue to management.",
+     "請將此問題升級給管理層處理。"
+    ],
+    [
+     "The conflict began to escalate rapidly.",
+     "衝突開始迅速升級。"
+    ],
+    [
+     "They decided to escalate the support request.",
+     "他們決定將支援請求升級。"
+    ]
+   ]
+  },
+  {
+   "word": "restoration",
+   "ph": "/ˌrestəˈreɪʃən/",
+   "pos": "n. 修復；恢復",
+   "zh": "修復；恢復",
+   "colloc": "service restoration 服務恢復 | full restoration 完全修復",
+   "distinct": "recovery 復原 | repair 修理",
+   "ex": [
+    [
+     "The restoration of power took hours.",
+     "電力恢復耗費了數小時。"
+    ],
+    [
+     "We completed the restoration of the file.",
+     "我們完成了檔案的修復。"
+    ],
+    [
+     "System restoration is currently in progress.",
+     "系統恢復作業目前正在進行中。"
+    ]
+   ]
+  },
+  {
+   "word": "rectify",
+   "ph": "/ˈrektɪfaɪ/",
+   "pos": "v. 糾正；矯正",
+   "zh": "糾正；矯正",
+   "colloc": "rectify a mistake 糾正錯誤 | rectify the situation 改善情況",
+   "distinct": "correct 改正 | amend 修改",
+   "ex": [
+    [
+     "We must rectify these errors immediately.",
+     "我們必須立即糾正這些錯誤。"
+    ],
+    [
+     "The team worked to rectify the problem.",
+     "團隊致力於糾正該問題。"
+    ],
+    [
+     "Steps were taken to rectify the imbalance.",
+     "當局採取了步驟以糾正失衡。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

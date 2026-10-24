@@ -1,0 +1,273 @@
+{
+ "day": 39,
+ "theme": "定價與促銷",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "undercut",
+   "ph": "/ˌʌndərˈkʌt/",
+   "pos": "v. 低價搶標；削價競爭",
+   "zh": "低價搶標；削價競爭",
+   "colloc": "undercut competitors 削價競爭 | undercut prices 低價賣出",
+   "distinct": "undersell 賤賣 | discount 折扣",
+   "ex": [
+    [
+     "They intend to undercut our prices significantly.",
+     "他們打算大幅削價以低於我們的價格。"
+    ],
+    [
+     "Our company will not undercut the competition.",
+     "我們公司不會進行削價競爭。"
+    ],
+    [
+     "Suppliers often undercut each other to win contracts.",
+     "供應商常互相削價來爭取合約。"
+    ]
+   ]
+  },
+  {
+   "word": "rebate",
+   "ph": "/ˈriːbeɪt/",
+   "pos": "n. 折扣；退款",
+   "zh": "折扣；退款",
+   "colloc": "cash rebate 現金回饋 | claim a rebate 申請退款",
+   "distinct": "refund 全額退費 | reimbursement 費用報銷",
+   "ex": [
+    [
+     "Customers can apply for a mail-in rebate.",
+     "顧客可以申請郵寄退款優惠。"
+    ],
+    [
+     "The manufacturer offers a rebate on appliances.",
+     "製造商提供家電產品的現金回饋。"
+    ],
+    [
+     "Check the eligibility for the special rebate.",
+     "檢查該項特別折扣的資格條件。"
+    ]
+   ]
+  },
+  {
+   "word": "promotional",
+   "ph": "/prəˈmoʊʃənl/",
+   "pos": "adj. 促銷的",
+   "zh": "促銷的",
+   "colloc": "promotional offer 促銷優惠 | promotional budget 促銷預算",
+   "distinct": "advertisement 廣告 | publicity 公關宣傳",
+   "ex": [
+    [
+     "The team finalized the new promotional strategy.",
+     "團隊定案了新的促銷策略。"
+    ],
+    [
+     "All promotional materials are ready for release.",
+     "所有促銷文宣都準備好發布了。"
+    ],
+    [
+     "We increased the promotional budget this quarter.",
+     "我們在本季度增加了促銷預算。"
+    ]
+   ]
+  },
+  {
+   "word": "liquidate",
+   "ph": "/ˈlɪkwɪdeɪt/",
+   "pos": "v. 清算；變現",
+   "zh": "清算；變現",
+   "colloc": "liquidate assets 變賣資產 | liquidate stock 出清庫存",
+   "distinct": "settle 結算 | dissolve 解散",
+   "ex": [
+    [
+     "The store must liquidate stock before closing.",
+     "商店必須在歇業前出清庫存。"
+    ],
+    [
+     "We plan to liquidate assets to pay debts.",
+     "我們計畫變賣資產以償還債務。"
+    ],
+    [
+     "It is difficult to liquidate these items quickly.",
+     "快速變現這些商品相當困難。"
+    ]
+   ]
+  },
+  {
+   "word": "subsidize",
+   "ph": "/ˈsʌbsɪdaɪz/",
+   "pos": "v. 給予補助；補貼",
+   "zh": "給予補助；補貼",
+   "colloc": "government subsidize 政府補助 | heavily subsidized 大幅補貼",
+   "distinct": "finance 資助 | sponsor 贊助",
+   "ex": [
+    [
+     "The government will subsidize the transport costs.",
+     "政府將會補貼運輸費用。"
+    ],
+    [
+     "They subsidize projects that benefit the community.",
+     "他們補貼對社區有利的專案。"
+    ],
+    [
+     "Many industries are subsidized by local authorities.",
+     "許多產業由地方當局給予補貼。"
+    ]
+   ]
+  },
+  {
+   "word": "overprice",
+   "ph": "/ˌoʊvərˈpraɪs/",
+   "pos": "v. 定價過高",
+   "zh": "定價過高",
+   "colloc": "overprice products 商品定價過高 | risk overpricing 定價過高的風險",
+   "distinct": "overcharge 超收費用 | inflate 通膨",
+   "ex": [
+    [
+     "It is easy to overprice items during shortages.",
+     "缺貨期間很容易將商品定價過高。"
+    ],
+    [
+     "Do not overprice the new line of clothing.",
+     "不要將新系列服裝定價過高。"
+    ],
+    [
+     "The company realized they did overprice goods.",
+     "公司意識到他們確實將產品定價過高。"
+    ]
+   ]
+  },
+  {
+   "word": "bundled",
+   "ph": "/ˈbʌndəld/",
+   "pos": "adj. 綑綁銷售的",
+   "zh": "綑綁銷售的",
+   "colloc": "bundled service 組合服務 | bundled software 捆綁軟體",
+   "distinct": "packaged 包裝的 | collective 集體的",
+   "ex": [
+    [
+     "They offer a bundled package for customers.",
+     "他們為顧客提供組合銷售的套裝。"
+    ],
+    [
+     "Bundled products usually cost less than individual.",
+     "組合產品通常比單買便宜。"
+    ],
+    [
+     "Software is often bundled with new hardware.",
+     "軟體常與新硬體一同綑綁銷售。"
+    ]
+   ]
+  },
+  {
+   "word": "competitive",
+   "ph": "/kəmˈpetətɪv/",
+   "pos": "adj. 有競爭力的",
+   "zh": "有競爭力的",
+   "colloc": "competitive pricing 具競爭力的定價 | stay competitive 保持競爭力",
+   "distinct": "competent 勝任的 | comparable 可比較的",
+   "ex": [
+    [
+     "We must maintain a competitive price strategy.",
+     "我們必須維持具競爭力的定價策略。"
+    ],
+    [
+     "The market is highly competitive this year.",
+     "市場今年的競爭非常激烈。"
+    ],
+    [
+     "Our firm offers competitive rates for clients.",
+     "本公司為客戶提供具競爭力的費率。"
+    ]
+   ]
+  },
+  {
+   "word": "wholesale",
+   "ph": "/ˈhoʊlsleɪ/",
+   "pos": "n. 批發",
+   "zh": "批發",
+   "colloc": "wholesale price 批發價 | wholesale distributor 批發商",
+   "distinct": "retail 零售 | bulk 大量",
+   "ex": [
+    [
+     "The firm specializes in wholesale distribution.",
+     "該公司專營批發通路。"
+    ],
+    [
+     "We buy components at a wholesale price.",
+     "我們以批發價購買零組件。"
+    ],
+    [
+     "Wholesale orders require a minimum quantity.",
+     "批發訂單有最低數量要求。"
+    ]
+   ]
+  },
+  {
+   "word": "fixed",
+   "ph": "/fɪkst/",
+   "pos": "adj. 固定的",
+   "zh": "固定的",
+   "colloc": "fixed cost 固定成本 | fixed rate 固定費率",
+   "distinct": "stable 穩定的 | permanent 永久的",
+   "ex": [
+    [
+     "The company has high monthly fixed costs.",
+     "該公司每月有很高的固定成本。"
+    ],
+    [
+     "They prefer a fixed rate for the project.",
+     "他們偏好為專案設定固定費率。"
+    ],
+    [
+     "We need to determine the fixed pricing.",
+     "我們需要確定固定定價。"
+    ]
+   ]
+  },
+  {
+   "word": "margin",
+   "ph": "/ˈmɑːrdʒɪn/",
+   "pos": "n. 利潤空間；邊際",
+   "zh": "利潤空間；邊際",
+   "colloc": "profit margin 利潤率 | thin margin 微薄利潤",
+   "distinct": "markup 加價 | dividend 股利",
+   "ex": [
+    [
+     "We operate on a very thin profit margin.",
+     "我們的利潤空間非常微薄。"
+    ],
+    [
+     "Improving efficiency will increase the margin.",
+     "提升效率將會增加利潤空間。"
+    ],
+    [
+     "The sales team focused on high margin products.",
+     "銷售團隊聚焦於高利潤產品。"
+    ]
+   ]
+  },
+  {
+   "word": "affordability",
+   "ph": "/əˌfɔːrdəˈbɪləti/",
+   "pos": "n. 負擔能力；價格合適性",
+   "zh": "負擔能力；價格合適性",
+   "colloc": "ensure affordability 確保價格合理 | cost affordability 成本負擔力",
+   "distinct": "accessibility 可取得性 | availability 可用性",
+   "ex": [
+    [
+     "Customers prioritize affordability when shopping.",
+     "顧客購物時優先考量價格負擔力。"
+    ],
+    [
+     "We aim to improve the product's affordability.",
+     "我們致力於提升產品的價格合適性。"
+    ],
+    [
+     "The new model focuses on consumer affordability.",
+     "新款式聚焦於消費者的負擔能力。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:00"
+}

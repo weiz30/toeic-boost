@@ -1,0 +1,427 @@
+{
+ "day": 30,
+ "theme": "商務書信",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "enclosure",
+   "ph": "/ɪnˈkloʊʒər/",
+   "pos": "n. 附件；封入物",
+   "zh": "附件；圍欄",
+   "colloc": "find in the enclosure 在附件中找到 | send an enclosure 發送附件",
+   "distinct": "attachment 電子郵件附件 | appendix 書籍附錄",
+   "ex": [
+    [
+     "Please find the signed contract in the enclosure.",
+     "請查閱附件中已簽署的合約。"
+    ],
+    [
+     "The enclosure contains all necessary financial reports.",
+     "附件包含所有必要的財務報告。"
+    ],
+    [
+     "She failed to include the required enclosure.",
+     "她未附上要求的附件。"
+    ]
+   ]
+  },
+  {
+   "word": "correspondent",
+   "ph": "/ˌkɔːrəˈspɑːndənt/",
+   "pos": "n. 通訊記者；通信者",
+   "zh": "通信者；通訊記者",
+   "colloc": "foreign correspondent 外派記者 | maintain a correspondent 保持通信",
+   "distinct": "correspondence 通信；一致性 | correspondent 通信的人",
+   "ex": [
+    [
+     "He is a senior correspondent for the journal.",
+     "他是該期刊的資深通訊記者。"
+    ],
+    [
+     "Our business correspondent covers the Asian market.",
+     "我們的商務記者負責報導亞洲市場。"
+    ],
+    [
+     "They have been correspondents for many years.",
+     "他們已經通信多年了。"
+    ]
+   ]
+  },
+  {
+   "word": "elaboration",
+   "ph": "/ɪˌlæbəˈreɪʃn/",
+   "pos": "n. 詳細說明；詳盡闡述",
+   "zh": "詳盡說明；精心製作",
+   "colloc": "require further elaboration 需要進一步說明 | provide elaboration 提供闡述",
+   "distinct": "explanation 解釋 | clarification 釐清",
+   "ex": [
+    [
+     "The proposal requires some elaboration before approval.",
+     "該提案在批准前需要詳細說明。"
+    ],
+    [
+     "His plan needs more elaboration to be clear.",
+     "他的計畫需要更多細節才清楚。"
+    ],
+    [
+     "She gave an elaboration on the new policy.",
+     "她對新政策做了詳盡說明。"
+    ]
+   ]
+  },
+  {
+   "word": "courtesy",
+   "ph": "/ˈkɜːrtəsi/",
+   "pos": "n. 禮貌；好意；恩惠",
+   "zh": "禮貌；好意",
+   "colloc": "extend the courtesy 給予禮貌 | as a professional courtesy 基於專業禮貌",
+   "distinct": "politeness 禮貌 | manners 舉止",
+   "ex": [
+    [
+     "He extended the courtesy of an early notice.",
+     "他出於禮貌提前通知了我們。"
+    ],
+    [
+     "Please show professional courtesy to all clients.",
+     "請對所有客戶展現專業禮貌。"
+    ],
+    [
+     "The company offered this as a courtesy.",
+     "公司基於好意提供了這項服務。"
+    ]
+   ]
+  },
+  {
+   "word": "concise",
+   "ph": "/kənˈsaɪs/",
+   "pos": "adj. 簡潔的；簡明的",
+   "zh": "簡潔的；扼要的",
+   "colloc": "keep it concise 保持簡潔 | a concise report 簡潔的報告",
+   "distinct": "brief 短暫的；簡短的 | short 短的",
+   "ex": [
+    [
+     "Please write a concise summary of the meeting.",
+     "請為這次會議寫一份簡潔的總結。"
+    ],
+    [
+     "He delivered a concise update to the board.",
+     "他向董事會做了簡明的進度匯報。"
+    ],
+    [
+     "The manual is very concise and helpful.",
+     "這份操作手冊非常簡潔實用。"
+    ]
+   ]
+  },
+  {
+   "word": "reiterate",
+   "ph": "/riˈɪtəreɪt/",
+   "pos": "v. 重申；反覆說明",
+   "zh": "重申；反覆說",
+   "colloc": "reiterate the importance 重申重要性 | reiterate the position 重申立場",
+   "distinct": "repeat 重複 | emphasize 強調",
+   "ex": [
+    [
+     "The manager reiterated the need for punctuality.",
+     "經理重申了守時的重要性。"
+    ],
+    [
+     "Let me reiterate our commitment to quality.",
+     "讓我重申我們對品質的承諾。"
+    ],
+    [
+     "She reiterated her point during the discussion.",
+     "她在討論中重申了自己的觀點。"
+    ]
+   ]
+  },
+  {
+   "word": "omission",
+   "ph": "/oʊˈmɪʃn/",
+   "pos": "n. 省略；遺漏；疏忽",
+   "zh": "省略；遺漏",
+   "colloc": "avoid any omission 避免任何遺漏 | due to an omission 由於遺漏",
+   "distinct": "deletion 刪除 | absence 缺席",
+   "ex": [
+    [
+     "The report contains a serious omission of data.",
+     "報告中遺漏了重要的數據。"
+    ],
+    [
+     "Please check the document for any omission.",
+     "請檢查文件是否有任何遺漏。"
+    ],
+    [
+     "It was an honest omission on my part.",
+     "這是我方無心的疏忽。"
+    ]
+   ]
+  },
+  {
+   "word": "formalize",
+   "ph": "/ˈfɔːrməlaɪz/",
+   "pos": "v. 使正式化；定形",
+   "zh": "使正式化；定案",
+   "colloc": "formalize the agreement 使協議正式化 | formalize a procedure 使流程正式化",
+   "distinct": "confirm 確認 | authorize 授權",
+   "ex": [
+    [
+     "We need to formalize our partnership soon.",
+     "我們需要儘快將合作關係正式化。"
+    ],
+    [
+     "The committee will formalize the new rules.",
+     "委員會將會將新規則正式化。"
+    ],
+    [
+     "They are working to formalize the process.",
+     "他們正致力於將流程正式化。"
+    ]
+   ]
+  },
+  {
+   "word": "persuasive",
+   "ph": "/pərˈsweɪsɪv/",
+   "pos": "adj. 有說服力的",
+   "zh": "有說服力的；令人信服的",
+   "colloc": "a persuasive argument 有說服力的論點 | highly persuasive 極具說服力",
+   "distinct": "convincing 令人信服的 | influential 有影響力的",
+   "ex": [
+    [
+     "He gave a persuasive presentation to investors.",
+     "他對投資人做了場有說服力的簡報。"
+    ],
+    [
+     "The proposal is quite persuasive and logical.",
+     "這份提案相當有說服力且合乎邏輯。"
+    ],
+    [
+     "She is a very persuasive negotiator indeed.",
+     "她確實是一位很有說服力的談判者。"
+    ]
+   ]
+  },
+  {
+   "word": "solicit",
+   "ph": "/səˈlɪsɪt/",
+   "pos": "v. 請求；懇求；徵求",
+   "zh": "請求；徵求；拉客",
+   "colloc": "solicit feedback 徵求回饋 | solicit advice 請求建議",
+   "distinct": "request 請求 | ask 問",
+   "ex": [
+    [
+     "We decided to solicit feedback from employees.",
+     "我們決定徵求員工的回饋。"
+    ],
+    [
+     "The company will solicit bids for the project.",
+     "公司將為該專案公開徵求投標。"
+    ],
+    [
+     "They are soliciting donations for the charity.",
+     "他們正在為慈善機構募款。"
+    ]
+   ]
+  },
+  {
+   "word": "inadvertent",
+   "ph": "/ˌɪnədˈvɜːrtnt/",
+   "pos": "adj. 不注意的；無意的",
+   "zh": "無意的；疏忽的",
+   "colloc": "inadvertent mistake 無意的錯誤 | inadvertent error 不注意的失誤",
+   "distinct": "careless 粗心的 | intentional 故意的",
+   "ex": [
+    [
+     "It was an inadvertent error in the budget.",
+     "預算中出現了無意的誤差。"
+    ],
+    [
+     "Please apologize for the inadvertent delay today.",
+     "請為今天的無意延誤致歉。"
+    ],
+    [
+     "The change was an inadvertent oversight only.",
+     "這個變動僅僅是一個無意的疏忽。"
+    ]
+   ]
+  },
+  {
+   "word": "amend",
+   "ph": "/əˈmend/",
+   "pos": "v. 修訂；修改",
+   "zh": "修訂；修改",
+   "colloc": "amend the contract 修訂合約 | amend the proposal 修改提案",
+   "distinct": "modify 修改 | revise 修訂",
+   "ex": [
+    [
+     "We need to amend the terms of service.",
+     "我們需要修訂服務條款。"
+    ],
+    [
+     "The board decided to amend the bylaws.",
+     "董事會決定修訂組織章程。"
+    ],
+    [
+     "She amended the letter to be clearer.",
+     "她修改了信件使其更清楚。"
+    ]
+   ]
+  },
+  {
+   "word": "protocol",
+   "ph": "/ˈproʊtəkɑːl/",
+   "pos": "n. 禮節；草案；協議",
+   "zh": "禮節；議定書；規範",
+   "colloc": "follow the protocol 遵循規範 | office protocol 辦公室禮儀",
+   "distinct": "procedure 程序 | rule 規則",
+   "ex": [
+    [
+     "You must follow the established security protocol.",
+     "你必須遵守既定的安全規範。"
+    ],
+    [
+     "It is standard protocol to greet guests.",
+     "接待客人是標準的禮儀。"
+    ],
+    [
+     "They signed a new diplomatic protocol today.",
+     "他們今天簽署了一份新的外交議定書。"
+    ]
+   ]
+  },
+  {
+   "word": "clarification",
+   "ph": "/ˌklærəfɪˈkeɪʃn/",
+   "pos": "n. 釐清；說明",
+   "zh": "釐清；闡明",
+   "colloc": "seek clarification 尋求釐清 | provide clarification 提供說明",
+   "distinct": "explanation 解釋 | elaboration 詳細說明",
+   "ex": [
+    [
+     "Please contact me for further clarification today.",
+     "請聯絡我以取得進一步的釐清。"
+    ],
+    [
+     "The email requires clarification on some points.",
+     "這封郵件在某些點上需要說明。"
+    ],
+    [
+     "He provided clarification regarding the new policy.",
+     "他針對新政策提供了說明。"
+    ]
+   ]
+  },
+  {
+   "word": "draft",
+   "ph": "/dræft/",
+   "pos": "n.|v. 草稿；起草",
+   "zh": "草稿；起草",
+   "colloc": "first draft 第一版草稿 | draft a letter 起草信件",
+   "distinct": "outline 大綱 | sketch 素描",
+   "ex": [
+    [
+     "I have finished the first draft already.",
+     "我已經完成初稿了。"
+    ],
+    [
+     "Please draft a memo to all staff.",
+     "請起草一份發給所有員工的備忘錄。"
+    ],
+    [
+     "The draft is subject to further review.",
+     "這份草稿仍需進一步審核。"
+    ]
+   ]
+  },
+  {
+   "word": "confidential",
+   "ph": "/ˌkɑːnfɪˈdenʃl/",
+   "pos": "adj. 機密的",
+   "zh": "機密的；秘密的",
+   "colloc": "strictly confidential 極度機密 | confidential information 機密資訊",
+   "distinct": "private 私人的 | secret 秘密的",
+   "ex": [
+    [
+     "This document is strictly confidential and private.",
+     "這份文件是極度機密且私人的。"
+    ],
+    [
+     "Please keep this information confidential always.",
+     "請務必將此資訊保密。"
+    ],
+    [
+     "They handle confidential files in the office.",
+     "他們在辦公室處理機密檔案。"
+    ]
+   ]
+  },
+  {
+   "word": "recipient",
+   "ph": "/rɪˈsɪpiənt/",
+   "pos": "n. 收件人；領受者",
+   "zh": "收件人；領受者",
+   "colloc": "intended recipient 目標收件人 | notify the recipient 通知收件人",
+   "distinct": "sender 寄件人 | addressee 地址收件人",
+   "ex": [
+    [
+     "Ensure the recipient address is correct now.",
+     "確保收件人地址現在是正確的。"
+    ],
+    [
+     "The intended recipient never received the email.",
+     "預定的收件人從未收到郵件。"
+    ],
+    [
+     "She is the recipient of the award.",
+     "她是該獎項的得主。"
+    ]
+   ]
+  },
+  {
+   "word": "transcribe",
+   "ph": "/trænˈskraɪb/",
+   "pos": "v. 謄寫；記錄；轉錄",
+   "zh": "謄寫；記錄",
+   "colloc": "transcribe the minutes 記錄會議記錄 | transcribe the audio 轉錄音檔",
+   "distinct": "translate 翻譯 | interpret 口譯",
+   "ex": [
+    [
+     "The assistant will transcribe the meeting minutes.",
+     "助理將會把會議記錄騰寫出來。"
+    ],
+    [
+     "Please transcribe the interview from the tape.",
+     "請將採訪內容從錄音帶中謄錄出來。"
+    ],
+    [
+     "She needs to transcribe all the notes.",
+     "她需要將所有的筆記謄寫一遍。"
+    ]
+   ]
+  },
+  {
+   "word": "finalize",
+   "ph": "/ˈfaɪnəlaɪz/",
+   "pos": "v. 完成；敲定",
+   "zh": "完成；定案",
+   "colloc": "finalize the budget 敲定預算 | finalize the plan 完成計畫",
+   "distinct": "finish 結束 | complete 完成",
+   "ex": [
+    [
+     "We need to finalize the schedule today.",
+     "我們今天需要把時間表敲定。"
+    ],
+    [
+     "They will finalize the deal next week.",
+     "他們下週將會完成這筆交易。"
+    ],
+    [
+     "The manager is finalizing the project report.",
+     "經理正在完成專案報告。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

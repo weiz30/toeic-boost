@@ -1,0 +1,389 @@
+{
+ "day": 1,
+ "theme": "職場日常與辦公室",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "schedule",
+   "ph": "/ˈskedʒuːl/",
+   "pos": "n. 行程表 | v. 安排",
+   "zh": "行程表；安排",
+   "colloc": "on schedule 準時 | behind schedule 落後",
+   "distinct": "timetable 時刻表（交通）| agenda 會議議程",
+   "root": "源自拉丁 schedula（小紙條）→ 行程表",
+   "ex": [
+    [
+     "Let's check the schedule for next week.",
+     "我們看一下下週的行程。"
+    ],
+    [
+     "The interview is scheduled for Monday morning.",
+     "面試安排在星期一上午。"
+    ]
+   ]
+  },
+  {
+   "word": "deadline",
+   "ph": "/ˈdedlaɪn/",
+   "pos": "n. 截止期限",
+   "zh": "截止期限",
+   "colloc": "meet a deadline 趕上期限 | miss a deadline 錯過",
+   "distinct": "due date 繳費到期日 | time limit 時間限制（中性）",
+   "root": "dead（死）+ line（線）→ 越線就沒命 → 截止期限",
+   "ex": [
+    [
+     "The deadline for the report is Friday.",
+     "報告的截止期限是星期五。"
+    ],
+    [
+     "We have to meet a tight deadline.",
+     "我們得趕上很緊的期限。"
+    ]
+   ]
+  },
+  {
+   "word": "appointment",
+   "ph": "/əˈpɔɪntmənt/",
+   "pos": "n. 預約 | 約定",
+   "zh": "預約；約定",
+   "colloc": "make an appointment 預約 | cancel an appointment 取消",
+   "distinct": "reservation 餐廳飯店訂位 | appointment 與人約時間",
+   "root": "appoint（指定）+ -ment（名詞字尾）→ 約定",
+   "ex": [
+    [
+     "I have an appointment with the manager at three.",
+     "我三點跟經理有約。"
+    ],
+    [
+     "Please make an appointment in advance.",
+     "請事先預約。"
+    ]
+   ]
+  },
+  {
+   "word": "confirm",
+   "ph": "/kənˈfɜːrm/",
+   "pos": "v. 確認 | 證實",
+   "zh": "確認；證實",
+   "colloc": "confirm a reservation 確認訂位 | confirm in writing 書面確認",
+   "distinct": "verify 查證真偽 | confirm 確認既有的事",
+   "root": "con-（完全）+ firm（牢固）→ 使確定 → 確認",
+   "ex": [
+    [
+     "Please confirm your attendance by Friday.",
+     "請在星期五前確認你是否出席。"
+    ],
+    [
+     "The airline confirmed my reservation.",
+     "航空公司確認了我的訂位。"
+    ]
+   ]
+  },
+  {
+   "word": "postpone",
+   "ph": "/pəˈspoʊn/",
+   "pos": "v. 延期、延後",
+   "zh": "延期、延後",
+   "colloc": "postpone the meeting | postpone it until Friday",
+   "distinct": "delay 多指意外造成的延遲 | put off 口語用法",
+   "root": "post-（向後）+ pone（放）→ 往後放 → 延期",
+   "ex": [
+    [
+     "We postponed the meeting until Friday.",
+     "我們把會議延到星期五。"
+    ],
+    [
+     "The event was postponed because of the storm.",
+     "活動因暴風雨延期。"
+    ]
+   ]
+  },
+  {
+   "word": "attendee",
+   "ph": "/əˌtenˈdiː/",
+   "pos": "n. 出席者",
+   "zh": "出席者",
+   "colloc": "all attendees 所有出席者 | registered attendees 已報名者",
+   "distinct": "-ee 表被動（attendee 出席者、employee 員工）| -er 表主動",
+   "root": "attend（出席）+ -ee（被…的人）→ 出席者",
+   "ex": [
+    [
+     "All attendees must sign in at the front desk.",
+     "所有出席者都要在櫃檯簽到。"
+    ],
+    [
+     "The conference attracted over 500 attendees.",
+     "這場會議吸引了超過五百名與會者。"
+    ]
+   ]
+  },
+  {
+   "word": "agenda",
+   "ph": "/əˈdʒendə/",
+   "pos": "n. 議程",
+   "zh": "議程",
+   "colloc": "on the agenda 列入議程 | top of the agenda 首要議題",
+   "distinct": "itinerary 旅遊行程表 | schedule 一般時間表",
+   "root": "拉丁 agenda（該做的事）→ 議程",
+   "ex": [
+    [
+     "Let's review the agenda before the meeting starts.",
+     "我們在會議開始前先看一次議程。"
+    ],
+    [
+     "Budget planning is at the top of the agenda.",
+     "預算規劃是議程的第一項。"
+    ]
+   ]
+  },
+  {
+   "word": "colleague",
+   "ph": "/ˈkɑːliːɡ/",
+   "pos": "n. 同事",
+   "zh": "同事",
+   "colloc": "a colleague of mine | close colleague 親近同事",
+   "distinct": "coworker 同公司（未必同部門）| colleague 專業同儕，較正式",
+   "root": "col-（共同）+ league（同盟）→ 同一團隊 → 同事",
+   "ex": [
+    [
+     "My colleague is on leave this week.",
+     "我的同事這週休假。"
+    ],
+    [
+     "She discussed the project with her colleagues.",
+     "她和同事們討論了這個專案。"
+    ]
+   ]
+  },
+  {
+   "word": "supervisor",
+   "ph": "/ˈsuːpərvaɪzər/",
+   "pos": "n. 主管、督導",
+   "zh": "主管、督導",
+   "colloc": "report to your supervisor | immediate supervisor 直屬主管",
+   "distinct": "manager 經理（管理職）| supervisor 直接督導你的人",
+   "root": "super-（在上）+ vis（看）+ -or（人）→ 在上面看的人 → 主管",
+   "ex": [
+    [
+     "Please report the issue to your supervisor.",
+     "請把這個問題回報給你的主管。"
+    ],
+    [
+     "The supervisor approved my request.",
+     "主管批准了我的申請。"
+    ]
+   ]
+  },
+  {
+   "word": "inventory",
+   "ph": "/ˈɪnvəntɔːri/",
+   "pos": "n. 庫存 | 盤點",
+   "zh": "庫存；盤點",
+   "colloc": "take inventory 盤點 | inventory control 庫存管理",
+   "distinct": "stock 英式常用（貨品）| inventory 美式（含盤點動作）",
+   "root": "拉丁 inventorium（被發現之物）→ 清點入庫 → 庫存",
+   "ex": [
+    [
+     "We take inventory at the end of every month.",
+     "我們每個月底盤點。"
+    ],
+    [
+     "The store keeps a large inventory of office supplies.",
+     "這家店庫存大量的辦公用品。"
+    ]
+   ]
+  },
+  {
+   "word": "invoice",
+   "ph": "/ˈɪnvɔɪs/",
+   "pos": "n. 發票 | v. 開立發票",
+   "zh": "發票；開立發票",
+   "colloc": "send an invoice 寄請款單 | pay an invoice 付款",
+   "distinct": "receipt 收據（已付款）| invoice 請款單（付款前）",
+   "root": "源自法文 envoyer（寄送）→ 寄給對方的單據 → 請款單",
+   "ex": [
+    [
+     "Please send the invoice to our accounting department.",
+     "請把發票寄給我們的會計部門。"
+    ],
+    [
+     "The company invoices its clients at the end of the month.",
+     "公司在月底向客戶請款。"
+    ]
+   ]
+  },
+  {
+   "word": "shipment",
+   "ph": "/ˈʃɪpmənt/",
+   "pos": "n. 出貨 | 貨物",
+   "zh": "出貨；貨物",
+   "colloc": "a shipment of 一批貨 | delayed shipment 延誤的出貨",
+   "distinct": "delivery 送達（末端）| shipment 出貨託運（物流前段）",
+   "root": "ship（運送）+ -ment（名詞字尾）→ 出貨",
+   "ex": [
+    [
+     "Your shipment will arrive within three days.",
+     "您的貨物會在三天內送達。"
+    ],
+    [
+     "We received a shipment of new printers.",
+     "我們收到一批新的印表機。"
+    ]
+   ]
+  },
+  {
+   "word": "warranty",
+   "ph": "/ˈwɔːrənti/",
+   "pos": "n. 保固",
+   "zh": "保固",
+   "colloc": "under warranty 在保固內 | a two-year warranty 兩年保固",
+   "distinct": "guarantee 保證（泛指承諾）| warranty 商品保固條款",
+   "root": "warrant（保證）+ -y → 保固",
+   "ex": [
+    [
+     "The laptop comes with a two-year warranty.",
+     "這台筆電有兩年保固。"
+    ],
+    [
+     "Is the repair still covered by the warranty?",
+     "這次維修還在保固期內嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "refund",
+   "ph": "/ˈriːfʌnd/ n. | /rɪˈfʌnd/ v.",
+   "pos": "n. 退款 | v. 退還",
+   "zh": "退款；退還",
+   "colloc": "ask for a full refund | get a refund for 就…取得退款",
+   "distinct": "名詞重音在前、動詞重音在後（常考）| reimburse 正式報帳",
+   "root": "re-（回）+ fund（資金）→ 把錢還回去 → 退款",
+   "ex": [
+    [
+     "You can request a full refund within 30 days.",
+     "你可以在三十天內要求全額退款。"
+    ],
+    [
+     "The company refunded the shipping fee.",
+     "公司退還了運費。"
+    ]
+   ]
+  },
+  {
+   "word": "itinerary",
+   "ph": "/aɪˈtɪnəreri/",
+   "pos": "n. 行程表（旅遊）",
+   "zh": "行程表（旅遊）",
+   "colloc": "a detailed itinerary | travel itinerary",
+   "distinct": "schedule 一般時間表 | itinerary 旅遊或出差的行程",
+   "root": "拉丁 itinerarius（旅行的）→ itiner（旅程）+ -ary → 行程表",
+   "ex": [
+    [
+     "Please send me the detailed itinerary.",
+     "請把詳細行程寄給我。"
+    ],
+    [
+     "Our itinerary includes a visit to the factory.",
+     "我們的行程包含參觀工廠。"
+    ]
+   ]
+  },
+  {
+   "word": "reservation",
+   "ph": "/ˌrezərˈveɪʃn/",
+   "pos": "n. 訂位、訂房",
+   "zh": "訂位、訂房",
+   "colloc": "make a reservation | confirm a reservation",
+   "distinct": "appointment 與人約時間 | reservation 座位或房間",
+   "root": "re-（再）+ serv（保留）+ -ation → 保留 → 訂位",
+   "ex": [
+    [
+     "I'd like to confirm my reservation for two nights.",
+     "我想確認我兩晚的訂房。"
+    ],
+    [
+     "We made a reservation for six o'clock.",
+     "我們訂了六點的位子。"
+    ]
+   ]
+  },
+  {
+   "word": "vacancy",
+   "ph": "/ˈveɪkənsi/",
+   "pos": "n. 職缺 | 空房",
+   "zh": "職缺；空房",
+   "colloc": "fill a vacancy 補實職缺 | no vacancies 客滿",
+   "distinct": "position 職位（中性）| vacancy 強調空缺待補",
+   "root": "vacant（空的）+ -cy → 空缺 → 職缺或空房",
+   "ex": [
+    [
+     "There is a vacancy in the marketing department.",
+     "行銷部門有一個職缺。"
+    ],
+    [
+     "The hotel has no vacancies this weekend.",
+     "這家飯店這週末沒有空房。"
+    ]
+   ]
+  },
+  {
+   "word": "applicant",
+   "ph": "/ˈæplɪkənt/",
+   "pos": "n. 應徵者、申請人",
+   "zh": "應徵者、申請人",
+   "colloc": "job applicant 求職者 | qualified applicants 合格人選",
+   "distinct": "candidate 候選人（已進入甄選）| applicant 已投遞申請",
+   "root": "apply（申請）+ -ant（人）→ 申請的人",
+   "ex": [
+    [
+     "There were over 200 applicants for the position.",
+     "這個職位有超過兩百人應徵。"
+    ],
+    [
+     "All applicants will be notified by email.",
+     "所有應徵者都會以電子郵件通知。"
+    ]
+   ]
+  },
+  {
+   "word": "qualified",
+   "ph": "/ˈkwɑːləfaɪd/",
+   "pos": "adj. 合格的、有資格的",
+   "zh": "合格的、有資格的",
+   "colloc": "be qualified for 職位 | well qualified 條件很好",
+   "distinct": "qualified 符合資格 | experienced 有經驗（不保證資格）",
+   "root": "qualify（取得資格）+ -ed → 已具資格的",
+   "ex": [
+    [
+     "She is well qualified for the position.",
+     "她非常符合這個職位的資格。"
+    ],
+    [
+     "We need a qualified technician.",
+     "我們需要一位合格的技術人員。"
+    ]
+   ]
+  },
+  {
+   "word": "negotiate",
+   "ph": "/nɪˈɡoʊʃieɪt/",
+   "pos": "v. 協商、談判",
+   "zh": "協商、談判",
+   "colloc": "negotiate a contract | negotiate with 對方",
+   "distinct": "bargain 討價還價（日常）| negotiate 正式協商",
+   "root": "neg-（不）+ oti（閒暇）→ 忙於交涉 → 協商",
+   "ex": [
+    [
+     "We are negotiating the price with the supplier.",
+     "我們正在跟供應商議價。"
+    ],
+    [
+     "Both sides agreed to negotiate a new contract.",
+     "雙方同意協商一份新合約。"
+    ]
+   ]
+  }
+ ],
+ "generated": "seeded from content/day001.py"
+}

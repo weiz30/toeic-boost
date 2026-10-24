@@ -1,0 +1,449 @@
+{
+ "day": 8,
+ "theme": "面試與履歷",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "strength",
+   "ph": "/streŋθ/",
+   "pos": "n. 強項；優勢",
+   "zh": "強項；長處",
+   "colloc": "core strength 核心優勢 | identify strengths 找出優勢",
+   "distinct": "advantage 優勢 | proficiency 熟練度",
+   "ex": [
+    [
+     "Interviewers often ask candidates about their greatest strengths.",
+     "面試官經常詢問求職者他們最大的長處為何。"
+    ],
+    [
+     "Excellent communication skill is her primary professional strength.",
+     "出色的溝通技巧是她在職場上的主要優勢。"
+    ],
+    [
+     "The assessment helps employees identify their core strengths.",
+     "這項評估有助於員工發掘自身的核心強項。"
+    ]
+   ]
+  },
+  {
+   "word": "weakness",
+   "ph": "/ˈwiːknəs/",
+   "pos": "n. 缺點；弱點",
+   "zh": "缺點；弱處",
+   "colloc": "overcome a weakness 克服弱點 | acknowledge weaknesses 承認缺點",
+   "distinct": "flaw 瑕疵 | shortcoming 短處",
+   "ex": [
+    [
+     "Explain how you actively work to overcome this weakness.",
+     "請說明您如何積極努力克服這項個人弱點。"
+    ],
+    [
+     "Being overly detail-oriented can sometimes be a subtle weakness.",
+     "過於注重細節有時候也可能成為潛在的缺點。"
+    ],
+    [
+     "The candidate honestly acknowledged weaknesses in foreign languages.",
+     "該名候選人坦誠承認自己在語言能力上的弱點。"
+    ]
+   ]
+  },
+  {
+   "word": "achievement",
+   "ph": "/əˈtʃiːvmənt/",
+   "pos": "n. 成就；業績",
+   "zh": "成就；功績",
+   "colloc": "past achievements 過往成就 | notable achievement 顯著成就",
+   "distinct": "accomplishment 成就 | performance 表現",
+   "ex": [
+    [
+     "Highlighting past achievements makes your profile stand out.",
+     "凸顯過往的成就表現能讓您的個人履歷脫穎而出。"
+    ],
+    [
+     "Increasing sales by twenty percent was his notable achievement.",
+     "將銷售額提升百分之二十是他最顯著的成就。"
+    ],
+    [
+     "The interview focused mainly on her recent career achievements.",
+     "面試內容主要集中在她近期所獲得的職業成就。"
+    ]
+   ]
+  },
+  {
+   "word": "skillset",
+   "ph": "/ˈskɪlset/",
+   "pos": "n. 技能組合",
+   "zh": "技能組合",
+   "colloc": "diverse skillset 多元技能組 | required skillset 所需技能組",
+   "distinct": "expertise 專業知識 | talent 天賦",
+   "ex": [
+    [
+     "The position demands a diverse skillset in software development.",
+     "這個職位需要具備軟體開發領域的多元技能。"
+    ],
+    [
+     "Her impressive skillset matches the needs of our team.",
+     "她出色的技能組合完全符合我們團隊目前的需求。"
+    ],
+    [
+     "Employees are encouraged to broaden their existing skillset.",
+     "公司鼓勵全體員工持續擴展他們既有的各項技能。"
+    ]
+   ]
+  },
+  {
+   "word": "competence",
+   "ph": "/ˈkɑːmpɪtəns/",
+   "pos": "n. 能力；勝任",
+   "zh": "能力；勝任度",
+   "colloc": "demonstrate competence 展現能力 | linguistic competence 語言能力",
+   "distinct": "capacity 容量；能力 | capability 才能",
+   "ex": [
+    [
+     "He demonstrated strong competence throughout the practical coding test.",
+     "他在實際程式測試過程中展現出極強的勝任能力。"
+    ],
+    [
+     "The interview will evaluate your professional competence and leadership.",
+     "面試將全面評估您的專業能力以及領導統御潛力。"
+    ],
+    [
+     "Linguistic competence is essential for international client relations.",
+     "優良的語言能力對於處理跨國客戶關係至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "expectation",
+   "ph": "/ˌekspekˈteɪʃn/",
+   "pos": "n. 期望；預期",
+   "zh": "期望；預期",
+   "colloc": "meet expectations 符合預期 | realistic expectation 合理的期望",
+   "distinct": "anticipation 期盼 | requirement 要求",
+   "ex": [
+    [
+     "The hiring manager clearly outlined job expectations and goals.",
+     "招聘經理清楚說明了該職務的期望與工作目標。"
+    ],
+    [
+     "Her performance in the test exceeded our highest expectations.",
+     "她在測驗中的亮眼表現遠遠超出了我們最高預期。"
+    ],
+    [
+     "Candidates must have realistic salary expectations during negotiations.",
+     "求職者在談判薪水時必須抱持合宜現實的預期。"
+    ]
+   ]
+  },
+  {
+   "word": "hire",
+   "ph": "/ˈhaɪər/",
+   "pos": "v. 聘用；僱用 | n. 新進人員",
+   "zh": "聘用；僱用",
+   "colloc": "new hire 新進員工 | hire immediately 立即聘用",
+   "distinct": "employ 僱用 | recruit 招募",
+   "ex": [
+    [
+     "The board decided to hire an external marketing consultant.",
+     "董事會決定從外部聘用一位資深的行銷顧問。"
+    ],
+    [
+     "Every new hire must complete the standard orientation program.",
+     "每位新進員工都必須完成標準的新人培訓課程。"
+    ],
+    [
+     "They plan to hire several software engineers next quarter.",
+     "他們計劃在下個季度聘用幾位資深的軟體工程師。"
+    ]
+   ]
+  },
+  {
+   "word": "interviewer",
+   "ph": "/ˈɪntərvjuːər/",
+   "pos": "n. 面試官",
+   "zh": "面試官",
+   "colloc": "panel of interviewers 面試評審團 | interviewer feedback 面試官回饋",
+   "distinct": "examiner 考官 | interrogator 訊問者",
+   "ex": [
+    [
+     "The interviewer asked several questions regarding teamwork and conflict.",
+     "面試官提出了幾個關於團隊合作與化解衝突的問題。"
+    ],
+    [
+     "She maintained good eye contact with each interviewer present.",
+     "她與在場的每位面試官都保持著良好自然的眼神接觸。"
+    ],
+    [
+     "The lead interviewer took detailed notes during the conversation.",
+     "首席面試官在雙方交談過程中詳細記錄了各項要點。"
+    ]
+   ]
+  },
+  {
+   "word": "impression",
+   "ph": "/ɪmˈpreʃn/",
+   "pos": "n. 印象",
+   "zh": "印象",
+   "colloc": "first impression 第一印象 | leave an impression 留下印象",
+   "distinct": "perception 感知 | opinion 意見",
+   "ex": [
+    [
+     "Dressing professionally helps create a favorable first impression.",
+     "穿著專業得體有助於在初次見面時建立良好印象。"
+    ],
+    [
+     "Her confident demeanor left a positive impression on managers.",
+     "她自信沉穩的舉止給在場主管留下了極佳的印象。"
+    ],
+    [
+     "He was eager to correct any unfavorable impression made earlier.",
+     "他急於修正稍早對談時可能造成的任何不良印象。"
+    ]
+   ]
+  },
+  {
+   "word": "assessment",
+   "ph": "/əˈsesmənt/",
+   "pos": "n. 評估；測驗",
+   "zh": "評估；考核",
+   "colloc": "skill assessment 技能測驗 | initial assessment 初步評估",
+   "distinct": "appraisal 績效評核 | evaluation 評價",
+   "ex": [
+    [
+     "Applicants must complete an online skill assessment beforehand.",
+     "所有應徵者在面試前都必須完成線上技能測驗。"
+    ],
+    [
+     "The assessment accurately measures practical problem-solving abilities.",
+     "這項評估能精準測量出求職者實際解決問題的能力。"
+    ],
+    [
+     "Our initial assessment of her presentation was extremely positive.",
+     "我們對她在簡報過程中的初步評估給予極高肯定。"
+    ]
+   ]
+  },
+  {
+   "word": "hiring",
+   "ph": "/ˈhaɪərɪŋ/",
+   "pos": "n. 雇用",
+   "zh": "雇用；招募",
+   "colloc": "hiring process 招募流程 | hiring manager 聘僱經理",
+   "distinct": "recruitment 徵才計畫 | employment 聘用狀態",
+   "ex": [
+    [
+     "The hiring process will conclude next week.",
+     "招募流程將在下週結束。"
+    ],
+    [
+     "Our hiring manager reviewed your profile.",
+     "我們的聘僱經理檢視了您的簡介。"
+    ],
+    [
+     "We plan to increase hiring this quarter.",
+     "我們計畫本季增加雇用人數。"
+    ]
+   ]
+  },
+  {
+   "word": "interviewee",
+   "ph": "/ˌɪntərvjuˈiː/",
+   "pos": "n. 受訪者；應徵者",
+   "zh": "受訪者；應徵者",
+   "colloc": "prospective interviewee 潛在應徵者 | screen the interviewee 篩選應徵者",
+   "distinct": "interviewer 面試官 | applicant 申請人",
+   "ex": [
+    [
+     "The interviewee appeared quite well prepared.",
+     "這位應徵者看起來準備得相當充分。"
+    ],
+    [
+     "Every interviewee must provide identification documents.",
+     "每位應徵者都必須提供身份證明文件。"
+    ],
+    [
+     "We evaluated each interviewee based on performance.",
+     "我們根據表現評估了每位應徵者。"
+    ]
+   ]
+  },
+  {
+   "word": "aptitude",
+   "ph": "/ˈæptɪtjuːd/",
+   "pos": "n. 天資；性向",
+   "zh": "天資；傾向",
+   "colloc": "aptitude test 性向測驗 | show an aptitude 展現才能",
+   "distinct": "attitude 態度 | ability 能力",
+   "ex": [
+    [
+     "The candidate demonstrated great aptitude for coding.",
+     "該候選人展現了優異的程式天資。"
+    ],
+    [
+     "All applicants must take an aptitude test.",
+     "所有申請人都必須參加性向測驗。"
+    ],
+    [
+     "She shows a natural aptitude for management.",
+     "她展現了管理方面的天生才能。"
+    ]
+   ]
+  },
+  {
+   "word": "biographical",
+   "ph": "/ˌbaɪəˈɡræfɪkl/",
+   "pos": "adj. 傳記的；個人經歷的",
+   "zh": "傳記的；生平的",
+   "colloc": "biographical data 個人資料 | biographical sketch 生平簡介",
+   "distinct": "biological 生物學的 | demographic 人口統計的",
+   "ex": [
+    [
+     "Provide your biographical details in the form.",
+     "請在表格中填寫個人經歷資料。"
+    ],
+    [
+     "The biographical sketch highlighted his previous career.",
+     "這份生平簡介強調了他過去的職業生涯。"
+    ],
+    [
+     "Please include a brief biographical note here.",
+     "請在這裡附上一份簡短的個人背景說明。"
+    ]
+   ]
+  },
+  {
+   "word": "proficiency",
+   "ph": "/prəˈfɪʃnsi/",
+   "pos": "n. 精通；熟練",
+   "zh": "熟練；精通",
+   "colloc": "language proficiency 語言能力 | demonstrate proficiency 證明熟練度",
+   "distinct": "efficiency 效率 | competency 能力",
+   "ex": [
+    [
+     "English proficiency is required for this role.",
+     "此職位要求具備英語熟練度。"
+    ],
+    [
+     "He must prove his proficiency in software.",
+     "他必須證明他在軟體方面的熟練度。"
+    ],
+    [
+     "High proficiency levels are expected from applicants.",
+     "我們對申請人期望有高水準的熟練度。"
+    ]
+   ]
+  },
+  {
+   "word": "personable",
+   "ph": "/ˈpɜːrsənəbl/",
+   "pos": "adj. 品貌兼優的；親切的",
+   "zh": "親切的；討人喜歡的",
+   "colloc": "personable candidate 親切的候選人 | personable manner 親切的態度",
+   "distinct": "personal 個人的 | personnel 人事",
+   "ex": [
+    [
+     "The manager is very personable and kind.",
+     "經理待人非常親切友善。"
+    ],
+    [
+     "We need a personable representative for clients.",
+     "我們需要一位對客戶親切的代表。"
+    ],
+    [
+     "Her personable manner left a good impression.",
+     "她親切的態度留下了好印象。"
+    ]
+   ]
+  },
+  {
+   "word": "hard-working",
+   "ph": "/ˌhɑːrd ˈwɜːrkɪŋ/",
+   "pos": "adj. 勤奮的；刻苦的",
+   "zh": "勤奮的；努力工作的",
+   "colloc": "hard-working employee 勤奮的員工 | hard-working team 努力工作的團隊",
+   "distinct": "industrious 勤勞的 | diligent 勤勉的",
+   "ex": [
+    [
+     "He is a very hard-working individual indeed.",
+     "他確實是一位非常勤奮的人。"
+    ],
+    [
+     "Our hard-working staff deserves a holiday bonus.",
+     "我們勤奮的員工值得拿到年節獎金。"
+    ],
+    [
+     "She remains hard-working despite the pressure.",
+     "儘管面臨壓力，她依然勤奮工作。"
+    ]
+   ]
+  },
+  {
+   "word": "tenure",
+   "ph": "/ˈtenjər/",
+   "pos": "n. 任期；終身職位",
+   "zh": "任期；保有權",
+   "colloc": "length of tenure 任期長度 | during his tenure 在他任職期間",
+   "distinct": "tenant 房客 | territory 領土",
+   "ex": [
+    [
+     "Her tenure as director lasted five years.",
+     "她擔任總監的任期持續了五年。"
+    ],
+    [
+     "He achieved much during his short tenure.",
+     "他在短暫的任期內成就斐然。"
+    ],
+    [
+     "The tenure system encourages long-term commitment.",
+     "終身職制度鼓勵長期的投入。"
+    ]
+   ]
+  },
+  {
+   "word": "strengthen",
+   "ph": "/ˈstreŋθn/",
+   "pos": "v. 加強；增強",
+   "zh": "加強；鞏固",
+   "colloc": "strengthen ties 加強關係 | strengthen position 鞏固地位",
+   "distinct": "strength 力量 | length 長度",
+   "ex": [
+    [
+     "We want to strengthen our market position.",
+     "我們想要鞏固市場地位。"
+    ],
+    [
+     "These workshops will strengthen your negotiation skills.",
+     "這些研討會將加強你的談判技巧。"
+    ],
+    [
+     "The company needs to strengthen its branding.",
+     "公司需要加強品牌形象。"
+    ]
+   ]
+  },
+  {
+   "word": "self-starter",
+   "ph": "/ˌself ˈstɑːrtər/",
+   "pos": "n. 自動自發的人",
+   "zh": "有主動性的人",
+   "colloc": "motivated self-starter 有動力的自發者 | hire a self-starter 聘用自動自發者",
+   "distinct": "initiator 發起者 | volunteer 志願者",
+   "ex": [
+    [
+     "The position requires a motivated self-starter.",
+     "這個職位需要一位自動自發的人。"
+    ],
+    [
+     "As a self-starter, she works independently well.",
+     "作為一個自動自發的人，她獨立作業能力很強。"
+    ],
+    [
+     "They prefer a self-starter for this project.",
+     "他們傾向為此專案尋找有主動性的人。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:55"
+}

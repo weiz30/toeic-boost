@@ -1,0 +1,402 @@
+{
+ "file": "1-2 basic BA accent_Day01-30\\basic BA accent_Day12.mp3",
+ "dur": 199.98,
+ "segments": [
+  {
+   "s": 0.08,
+   "e": 3.86,
+   "t": "Hacker stoic vocabulary. D12."
+  },
+  {
+   "s": 3.86,
+   "e": 6.77,
+   "t": "Equipment."
+  },
+  {
+   "s": 6.77,
+   "e": 7.99,
+   "t": "Equipment."
+  },
+  {
+   "s": 7.99,
+   "e": 9.97,
+   "t": "Serbei裝備."
+  },
+  {
+   "s": 9.97,
+   "e": 11.25,
+   "t": "Automate."
+  },
+  {
+   "s": 11.25,
+   "e": 12.33,
+   "t": "Automate."
+  },
+  {
+   "s": 12.33,
+   "e": 13.79,
+   "t": "自動化."
+  },
+  {
+   "s": 13.79,
+   "e": 15.77,
+   "t": "Specification."
+  },
+  {
+   "s": 15.77,
+   "e": 17.25,
+   "t": "Specification."
+  },
+  {
+   "s": 17.25,
+   "e": 20.65,
+   "t": "明細單說明書規格."
+  },
+  {
+   "s": 20.65,
+   "e": 21.85,
+   "t": "Properly."
+  },
+  {
+   "s": 21.85,
+   "e": 22.77,
+   "t": "Properly."
+  },
+  {
+   "s": 22.77,
+   "e": 25.05,
+   "t": "適當的正確的."
+  },
+  {
+   "s": 25.05,
+   "e": 26.25,
+   "t": "Safety."
+  },
+  {
+   "s": 26.25,
+   "e": 27.27,
+   "t": "Safety."
+  },
+  {
+   "s": 27.27,
+   "e": 28.65,
+   "t": "安全."
+  },
+  {
+   "s": 28.65,
+   "e": 29.99,
+   "t": "precaution."
+  },
+  {
+   "s": 29.99,
+   "e": 31.17,
+   "t": "precaution."
+  },
+  {
+   "s": 31.17,
+   "e": 33.17,
+   "t": "Yufang-tocis"
+  },
+  {
+   "s": 33.17,
+   "e": 35.17,
+   "t": "Operate"
+  },
+  {
+   "s": 35.17,
+   "e": 37.17,
+   "t": "運作,操作"
+  },
+  {
+   "s": 37.17,
+   "e": 39.17,
+   "t": "Processing"
+  },
+  {
+   "s": 39.17,
+   "e": 42.17,
+   "t": "加工,處理"
+  },
+  {
+   "s": 42.17,
+   "e": 44.17,
+   "t": "Capacity"
+  },
+  {
+   "s": 44.17,
+   "e": 49.17,
+   "t": "能力,容量,容納量,職位"
+  },
+  {
+   "s": 49.17,
+   "e": 51.17,
+   "t": "Assemble"
+  },
+  {
+   "s": 51.17,
+   "e": 53.17,
+   "t": "祖裝,焦急"
+  },
+  {
+   "s": 53.17,
+   "e": 55.17,
+   "t": "Utilize"
+  },
+  {
+   "s": 55.17,
+   "e": 57.17,
+   "t": "利用"
+  },
+  {
+   "s": 57.17,
+   "e": 59.17,
+   "t": "Place"
+  },
+  {
+   "s": 59.17,
+   "e": 65.21,
+   "t": "使什么处于某种状态,下只是订单、生情等"
+  },
+  {
+   "s": 65.21,
+   "e": 66.99,
+   "t": "fill"
+  },
+  {
+   "s": 66.99,
+   "e": 70.25,
+   "t": "中版,满足订单需求"
+  },
+  {
+   "s": 70.25,
+   "e": 73.43,
+   "t": "manufacturing"
+  },
+  {
+   "s": 73.43,
+   "e": 74.85,
+   "t": "制造的"
+  },
+  {
+   "s": 74.85,
+   "e": 77.19,
+   "t": "renovate"
+  },
+  {
+   "s": 77.19,
+   "e": 78.25,
+   "t": "翻新"
+  },
+  {
+   "s": 78.25,
+   "e": 79.55,
+   "t": "翻修"
+  },
+  {
+   "s": 79.55,
+   "e": 80.83,
+   "t": "decision"
+  },
+  {
+   "s": 80.83,
+   "e": 81.95,
+   "t": "decision"
+  },
+  {
+   "s": 81.95,
+   "e": 83.27,
+   "t": "决定"
+  },
+  {
+   "s": 83.27,
+   "e": 84.85,
+   "t": "material"
+  },
+  {
+   "s": 84.85,
+   "e": 85.91,
+   "t": "material"
+  },
+  {
+   "s": 85.91,
+   "e": 86.67,
+   "t": "材料"
+  },
+  {
+   "s": 86.67,
+   "e": 88.01,
+   "t": "治料"
+  },
+  {
+   "s": 88.01,
+   "e": 90.01,
+   "t": "success"
+  },
+  {
+   "s": 90.01,
+   "e": 92.01,
+   "t": "success"
+  },
+  {
+   "s": 92.01,
+   "e": 94.01,
+   "t": "attribute"
+  },
+  {
+   "s": 94.01,
+   "e": 96.01,
+   "t": "attribute"
+  },
+  {
+   "s": 96.01,
+   "e": 100.01,
+   "t": "efficiency"
+  },
+  {
+   "s": 100.01,
+   "e": 102.01,
+   "t": "efficiency"
+  },
+  {
+   "s": 102.01,
+   "e": 104.01,
+   "t": "limit"
+  },
+  {
+   "s": 104.01,
+   "e": 106.01,
+   "t": "limit"
+  },
+  {
+   "s": 106.01,
+   "e": 108.01,
+   "t": "tailored"
+  },
+  {
+   "s": 108.01,
+   "e": 110.01,
+   "t": "tailored"
+  },
+  {
+   "s": 112.01,
+   "e": 114.01,
+   "t": "component"
+  },
+  {
+   "s": 114.01,
+   "e": 116.01,
+   "t": "component"
+  },
+  {
+   "s": 116.01,
+   "e": 119.73,
+   "t": "capable, capable,"
+  },
+  {
+   "s": 119.73,
+   "e": 120.65,
+   "t": "you can"
+  },
+  {
+   "s": 120.65,
+   "e": 122.65,
+   "t": "economize,"
+  },
+  {
+   "s": 122.65,
+   "e": 123.65,
+   "t": "economize,"
+  },
+  {
+   "s": 123.65,
+   "e": 126.17,
+   "t": "jieyue, jiexen,"
+  },
+  {
+   "s": 126.17,
+   "e": 127.53,
+   "t": "flexible,"
+  },
+  {
+   "s": 127.53,
+   "e": 128.53,
+   "t": "flexible,"
+  },
+  {
+   "s": 128.53,
+   "e": 129.53,
+   "t": "lingua,"
+  },
+  {
+   "s": 129.53,
+   "e": 130.65,
+   "t": "you can"
+  },
+  {
+   "s": 130.65,
+   "e": 131.73,
+   "t": "be"
+  },
+  {
+   "s": 131.73,
+   "e": 133.77,
+   "t": "comparable,"
+  },
+  {
+   "s": 133.77,
+   "e": 135.09,
+   "t": "comparable,"
+  },
+  {
+   "s": 135.09,
+   "e": 138.85,
+   "t": "produce,"
+  },
+  {
+   "s": 138.85,
+   "e": 139.85,
+   "t": "produce,"
+  },
+  {
+   "s": 169.85,
+   "e": 173.93,
+   "t": "C'mon!"
+  },
+  {
+   "s": 173.93,
+   "e": 176.49,
+   "t": "Coming!"
+  },
+  {
+   "s": 176.49,
+   "e": 179.85,
+   "t": "Damaged!"
+  },
+  {
+   "s": 179.85,
+   "e": 184.45,
+   "t": "Prevent!"
+  },
+  {
+   "s": 184.45,
+   "e": 188.33,
+   "t": "Power!"
+  },
+  {
+   "s": 188.33,
+   "e": 190.57,
+   "t": "Chemical!"
+  },
+  {
+   "s": 190.57,
+   "e": 196.01,
+   "t": "Minimize!"
+  },
+  {
+   "s": 196.01,
+   "e": 199.01,
+   "t": "Time is the least, the least I want to talk about"
+  }
+ ],
+ "text": "Hacker stoic vocabulary. D12. Equipment. Equipment. Serbei裝備. Automate. Automate. 自動化. Specification. Specification. 明細單說明書規格. Properly. Properly. 適當的正確的. Safety. Safety. 安全. precaution. precaution. Yufang-tocis Operate 運作,操作 Processing 加工,處理 Capacity 能力,容量,容納量,職位 Assemble 祖裝,焦急 Utilize 利用 Place 使什么处于某种状态,下只是订单、生情等 fill 中版,满足订单需求 manufacturing 制造的 renovate 翻新 翻修 decision decision 决定 material material 材料 治料 success success attribute attribute efficiency efficiency limit limit tailored tailored component component capable, capable, you can economize, economize, jieyue, jiexen, flexible, flexible, lingua, you can be comparable, comparable, produce, produce, C'mon! Coming! Damaged! Prevent! Power! Chemical! Minimize! Time is the least, the least I want to talk about"
+}

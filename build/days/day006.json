@@ -1,0 +1,449 @@
+{
+ "day": 6,
+ "theme": "辦公設備與用品",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "stapler",
+   "ph": "/ˈsteɪplər/",
+   "pos": "n. 訂書機",
+   "zh": "訂書機",
+   "colloc": "a heavy-duty stapler 強力訂書機 | staple papers 用訂書針裝訂文件",
+   "distinct": "staple 訂書針 | fastener 扣件",
+   "ex": [
+    [
+     "Please use the stapler on the desk.",
+     "請使用桌上的那台訂書機。"
+    ],
+    [
+     "The stapler has run out of staples.",
+     "訂書機的針用完了。"
+    ],
+    [
+     "She fastened the documents with a stapler.",
+     "她用訂書機將文件裝訂好。"
+    ]
+   ]
+  },
+  {
+   "word": "photocopier",
+   "ph": "/ˈfoʊtoʊˌkɑːpiər/",
+   "pos": "n. 影印機",
+   "zh": "影印機",
+   "colloc": "operate a photocopier 操作影印機 | a jammed photocopier 卡紙的影印機",
+   "distinct": "printer 印表機 | scanner 掃描器",
+   "ex": [
+    [
+     "The photocopier in the lobby is broken.",
+     "大廳的影印機故障了。"
+    ],
+    [
+     "He is making copies on the photocopier.",
+     "他正在影印機上影印資料。"
+    ],
+    [
+     "Please do not move the office photocopier.",
+     "請不要移動辦公室的影印機。"
+    ]
+   ]
+  },
+  {
+   "word": "shredder",
+   "ph": "/ˈʃredər/",
+   "pos": "n. 碎紙機",
+   "zh": "碎紙機",
+   "colloc": "use the shredder 使用碎紙機 | confidential documents shredder 機密文件碎紙機",
+   "distinct": "cutter 切割器 | grinder 研磨機",
+   "ex": [
+    [
+     "All private files must go through the shredder.",
+     "所有私人檔案必須經過碎紙機銷毀。"
+    ],
+    [
+     "The shredder is jammed with too much paper.",
+     "碎紙機因為紙張太多而卡住了。"
+    ],
+    [
+     "He emptied the bin under the paper shredder.",
+     "他清空了碎紙機下方的廢紙桶。"
+    ]
+   ]
+  },
+  {
+   "word": "stationery",
+   "ph": "/ˈsteɪʃəneri/",
+   "pos": "n. 文具",
+   "zh": "文具",
+   "colloc": "office stationery 辦公文具 | order stationery 訂購文具",
+   "distinct": "stationary 靜止的 | material 材料",
+   "ex": [
+    [
+     "We need to restock our office stationery.",
+     "我們需要補充辦公文具庫存。"
+    ],
+    [
+     "The company logo is printed on the stationery.",
+     "公司商標印在文具用品上。"
+    ],
+    [
+     "You can find extra pens in the stationery cabinet.",
+     "你可以在文具櫃找到多餘的筆。"
+    ]
+   ]
+  },
+  {
+   "word": "cartridge",
+   "ph": "/ˈkɑːrtrɪdʒ/",
+   "pos": "n. 墨水匣；碳粉匣",
+   "zh": "墨水匣；碳粉匣",
+   "colloc": "replace a cartridge 更換碳粉匣 | ink cartridge 墨水匣",
+   "distinct": "toner 碳粉 | ink 油墨",
+   "ex": [
+    [
+     "The printer needs a new black ink cartridge.",
+     "印表機需要一個新的黑色墨水匣。"
+    ],
+    [
+     "I will order a replacement toner cartridge today.",
+     "我今天會訂購一個替換用的碳粉匣。"
+    ],
+    [
+     "Check if the cartridge is properly installed.",
+     "確認一下墨水匣是否安裝妥當。"
+    ]
+   ]
+  },
+  {
+   "word": "folder",
+   "ph": "/ˈfoʊldər/",
+   "pos": "n. 資料夾",
+   "zh": "資料夾",
+   "colloc": "a Manila folder 牛皮紙資料夾 | organize files in a folder 將檔案整理在資料夾中",
+   "distinct": "binder 活頁夾 | envelope 信封",
+   "ex": [
+    [
+     "Put these reports in the blue folder.",
+     "把這些報告放進藍色的資料夾。"
+    ],
+    [
+     "She opened the folder to check the data.",
+     "她打開資料夾查看數據。"
+    ],
+    [
+     "All project documents are inside this folder.",
+     "所有專案文件都在這個資料夾裡。"
+    ]
+   ]
+  },
+  {
+   "word": "keyboard",
+   "ph": "/ˈkiːbɔːrd/",
+   "pos": "n. 鍵盤",
+   "zh": "鍵盤",
+   "colloc": "a wireless keyboard 無線鍵盤 | keyboard shortcut 鍵盤快捷鍵",
+   "distinct": "keypad 按鍵盤 | mouse 滑鼠",
+   "ex": [
+    [
+     "Spilling coffee on the keyboard is dangerous.",
+     "把咖啡灑在鍵盤上很危險。"
+    ],
+    [
+     "The new keyboard has a very ergonomic design.",
+     "新鍵盤擁有非常符合人體工學的設計。"
+    ],
+    [
+     "He cleaned the dust off his keyboard daily.",
+     "他每天都會清理鍵盤上的灰塵。"
+    ]
+   ]
+  },
+  {
+   "word": "monitor",
+   "ph": "/ˈmɑːnɪtər/",
+   "pos": "n. 螢幕；顯示器 | v. 監控",
+   "zh": "螢幕；顯示器；監控",
+   "colloc": "a high-resolution monitor 高解析度螢幕 | monitor progress 監控進度",
+   "distinct": "screen 螢幕表面 | display 顯示畫面",
+   "ex": [
+    [
+     "The monitor shows the real-time sales data.",
+     "螢幕顯示著即時銷售數據。"
+    ],
+    [
+     "We need to monitor the server performance closely.",
+     "我們需要密切監控伺服器效能。"
+    ],
+    [
+     "She bought a larger monitor for better visibility.",
+     "她買了一個更大的螢幕以增加能見度。"
+    ]
+   ]
+  },
+  {
+   "word": "headset",
+   "ph": "/ˈhedset/",
+   "pos": "n. 耳機麥克風",
+   "zh": "耳機麥克風",
+   "colloc": "wear a headset 戴著耳機麥克風 | noise-canceling headset 降噪耳機",
+   "distinct": "headphones 頭戴式耳機 | earpiece 耳機",
+   "ex": [
+    [
+     "Please put on your headset for the conference.",
+     "請戴上你的耳機麥克風參加會議。"
+    ],
+    [
+     "The headset microphone is not working properly.",
+     "耳機麥克風運作不太正常。"
+    ],
+    [
+     "Customer service agents often use a headset.",
+     "客戶服務人員常使用耳機麥克風。"
+    ]
+   ]
+  },
+  {
+   "word": "bulletin",
+   "ph": "/ˈbʊlətɪn/",
+   "pos": "n. 公告；簡報",
+   "zh": "公告；佈告欄",
+   "colloc": "bulletin board 佈告欄 | post a bulletin 張貼公告",
+   "distinct": "announcement 通告 | notice 通知",
+   "ex": [
+    [
+     "Check the bulletin board for new policies.",
+     "查看佈告欄了解新政策。"
+    ],
+    [
+     "The weekly bulletin was sent to all staff.",
+     "每週簡報已發送給所有員工。"
+    ],
+    [
+     "They posted an urgent bulletin in the lobby.",
+     "他們在大廳張貼了一份緊急公告。"
+    ]
+   ]
+  },
+  {
+   "word": "calculate",
+   "ph": "/ˈkælkjuleɪt/",
+   "pos": "v. 計算",
+   "zh": "計算",
+   "colloc": "calculate the cost 計算成本 | accurately calculate 精確計算",
+   "distinct": "compute 電腦計算 | estimate 估計",
+   "ex": [
+    [
+     "We need to calculate the total expenses.",
+     "我們需要計算總支出。"
+    ],
+    [
+     "Can you calculate the discount for this order?",
+     "你能幫忙計算這筆訂單的折扣嗎？"
+    ],
+    [
+     "The system will calculate the tax automatically.",
+     "系統將會自動計算稅金。"
+    ]
+   ]
+  },
+  {
+   "word": "desktop",
+   "ph": "/ˈdesktɑːp/",
+   "pos": "n. 桌上型電腦；桌面",
+   "zh": "桌上型電腦；桌面",
+   "colloc": "a desktop computer 桌上型電腦 | clear the desktop 清理桌面",
+   "distinct": "laptop 筆記型電腦 | workstation 工作站",
+   "ex": [
+    [
+     "Most employees prefer a fast desktop computer.",
+     "大多數員工偏好速度快的桌上型電腦。"
+    ],
+    [
+     "He saved the file right on his desktop.",
+     "他直接把檔案儲存在桌面上。"
+    ],
+    [
+     "The desktop is cluttered with many icons.",
+     "桌面被許多圖示弄得很雜亂。"
+    ]
+   ]
+  },
+  {
+   "word": "filing",
+   "ph": "/ˈfaɪlɪŋ/",
+   "pos": "n. 歸檔；檔案整理",
+   "zh": "歸檔；整理",
+   "colloc": "filing cabinet 檔案櫃 | filing system 歸檔系統",
+   "distinct": "archiving 存檔 | indexing 索引",
+   "ex": [
+    [
+     "I am busy with the daily filing tasks.",
+     "我正忙於日常的歸檔工作。"
+    ],
+    [
+     "These documents need proper filing by date.",
+     "這些文件需要按日期妥善歸檔。"
+    ],
+    [
+     "She bought a new filing cabinet for the office.",
+     "她為辦公室買了一個新的檔案櫃。"
+    ]
+   ]
+  },
+  {
+   "word": "calculator",
+   "ph": "/ˈkælkjuleɪtər/",
+   "pos": "n. 計算機",
+   "zh": "計算機",
+   "colloc": "a solar-powered calculator 太陽能計算機 | use a calculator 使用計算機",
+   "distinct": "computer 電腦 | abacus 算盤",
+   "ex": [
+    [
+     "Keep a calculator on your desk for convenience.",
+     "為了方便，在桌上放一台計算機。"
+    ],
+    [
+     "She used a calculator to verify the sum.",
+     "她使用計算機驗證加總金額。"
+    ],
+    [
+     "The calculator screen is too dim to read.",
+     "計算機螢幕太暗而難以閱讀。"
+    ]
+   ]
+  },
+  {
+   "word": "receipt",
+   "ph": "/rɪˈsiːt/",
+   "pos": "n. 收據；收到",
+   "zh": "收據；收到",
+   "colloc": "keep the receipt 保留收據 | issue a receipt 開立收據",
+   "distinct": "invoice 發票 | bill 帳單",
+   "ex": [
+    [
+     "Please attach the receipt to your report.",
+     "請將收據附在你的報告上。"
+    ],
+    [
+     "I will confirm the receipt of your package.",
+     "我會確認收到你的包裹。"
+    ],
+    [
+     "The receipt shows the total amount paid.",
+     "收據顯示了支付的總金額。"
+    ]
+   ]
+  },
+  {
+   "word": "peripheral",
+   "ph": "/pəˈrɪfərəl/",
+   "pos": "n. 周邊設備 | adj. 外圍的",
+   "zh": "周邊設備；外圍的",
+   "colloc": "computer peripherals 電腦周邊設備 | connect a peripheral 連接周邊設備",
+   "distinct": "hardware 硬體 | accessory 配件",
+   "ex": [
+    [
+     "The store sells various computer peripherals.",
+     "這家商店販售各式電腦周邊設備。"
+    ],
+    [
+     "Ensure all peripherals are compatible with the PC.",
+     "確保所有周邊設備與電腦相容。"
+    ],
+    [
+     "They upgraded the office with new peripherals.",
+     "他們用新的周邊設備升級了辦公室。"
+    ]
+   ]
+  },
+  {
+   "word": "logbook",
+   "ph": "/ˈlɔːɡbʊk/",
+   "pos": "n. 日誌；記錄簿",
+   "zh": "日誌；記錄簿",
+   "colloc": "visitor logbook 訪客登記簿 | maintain a logbook 維護日誌",
+   "distinct": "notebook 筆記本 | diary 日記",
+   "ex": [
+    [
+     "Please sign your name in the visitor logbook.",
+     "請在訪客登記簿上簽名。"
+    ],
+    [
+     "The maintenance team keeps a detailed logbook.",
+     "維修團隊保留了一份詳細的日誌。"
+    ],
+    [
+     "She checked the logbook for any equipment repairs.",
+     "她檢查了日誌看看是否有設備維修紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "rack",
+   "ph": "/ræk/",
+   "pos": "n. 架子 | v. 放置於架上",
+   "zh": "架子；置物架",
+   "colloc": "a storage rack 置物架 | display rack 展示架",
+   "distinct": "shelf 層架 | stand 立架",
+   "ex": [
+    [
+     "We need more space on the supply rack.",
+     "我們在物資架上需要更多空間。"
+    ],
+    [
+     "The brochures are on the display rack.",
+     "宣傳冊都在展示架上。"
+    ],
+    [
+     "He organized the files neatly on the rack.",
+     "他將檔案整齊地擺放在架子上。"
+    ]
+   ]
+  },
+  {
+   "word": "clipboard",
+   "ph": "/ˈklɪpbɔːrd/",
+   "pos": "n. 寫字板；剪貼簿",
+   "zh": "寫字板",
+   "colloc": "hold a clipboard 拿著寫字板 | fill out a form on a clipboard 在寫字板上填表",
+   "distinct": "board 板子 | tablet 平板電腦",
+   "ex": [
+    [
+     "The inspector carried a clipboard for notes.",
+     "檢查員帶著寫字板記錄事項。"
+    ],
+    [
+     "Please fill out this survey on the clipboard.",
+     "請在寫字板上填寫這份問卷。"
+    ],
+    [
+     "She left her clipboard in the conference room.",
+     "她把寫字板留在會議室了。"
+    ]
+   ]
+  },
+  {
+   "word": "scanner",
+   "ph": "/ˈskænər/",
+   "pos": "n. 掃描器",
+   "zh": "掃描器",
+   "colloc": "use a document scanner 使用文件掃描器 | high-speed scanner 高速掃描器",
+   "distinct": "scanner 掃描器 | printer 印表機",
+   "ex": [
+    [
+     "We use the scanner to digitize paper files.",
+     "我們用掃描器將紙本檔案數位化。"
+    ],
+    [
+     "The scanner is connected to the network.",
+     "這台掃描器已連接到網路上。"
+    ],
+    [
+     "Please clear the glass on the scanner.",
+     "請清潔掃描器上的玻璃。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

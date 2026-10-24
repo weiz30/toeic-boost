@@ -1,0 +1,405 @@
+{
+ "day": 31,
+ "theme": "合約與條款",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "stipulation",
+   "ph": "/ˌstɪpjuˈleɪʃn/",
+   "pos": "n. 規定 | 約定",
+   "zh": "規定；約定；條款",
+   "colloc": "contractual stipulation 合約規定 | fulfill a stipulation 履行約定",
+   "distinct": "provision 條文 | condition 條件",
+   "ex": [
+    [
+     "The contract includes a strict stipulation regarding liability.",
+     "合約包含一項關於責任的嚴格規定。"
+    ],
+    [
+     "We must adhere to every stipulation in the document.",
+     "我們必須遵守文件中的每一項約定。"
+    ],
+    [
+     "His request violates a key stipulation of the agreement.",
+     "他的要求違反了協議中的一項關鍵條款。"
+    ]
+   ]
+  },
+  {
+   "word": "provision",
+   "ph": "/prəˈvɪʒn/",
+   "pos": "n. 條款 | 規定 | 提供",
+   "zh": "條款；供應；準備",
+   "colloc": "termination provision 終止條款 | legal provision 法律規定",
+   "distinct": "stipulation 規定 | clause 子句",
+   "ex": [
+    [
+     "The new provision protects the rights of both parties.",
+     "這項新條款保障了雙方的權利。"
+    ],
+    [
+     "They added a specific provision for emergency repairs.",
+     "他們增加了一項針對緊急維修的特定條款。"
+    ],
+    [
+     "Please review the provision concerning the payment schedule.",
+     "請審閱有關付款進度的條款。"
+    ]
+   ]
+  },
+  {
+   "word": "clause",
+   "ph": "/klɔːz/",
+   "pos": "n. 條款 | 子句",
+   "zh": "條款；子句",
+   "colloc": "confidentiality clause 保密條款 | non-compete clause 競業禁止條款",
+   "distinct": "provision 條文 | paragraph 段落",
+   "ex": [
+    [
+     "This clause prevents employees from sharing trade secrets.",
+     "這項條款禁止員工洩露商業機密。"
+    ],
+    [
+     "The legal team added a renewal clause to the contract.",
+     "法務團隊在合約中加入了一項續約條款。"
+    ],
+    [
+     "Does the clause cover potential losses from accidents?",
+     "該條款是否涵蓋事故造成的潛在損失？"
+    ]
+   ]
+  },
+  {
+   "word": "amendment",
+   "ph": "/əˈmendmənt/",
+   "pos": "n. 修改 | 修訂",
+   "zh": "修改；修訂；修正案",
+   "colloc": "propose an amendment 提出修正案 | sign an amendment 簽署修正案",
+   "distinct": "revision 修訂 | alteration 變更",
+   "ex": [
+    [
+     "We have drafted an amendment to the original lease.",
+     "我們已草擬了一份原始租約的修正案。"
+    ],
+    [
+     "The board approved the amendment to the company policy.",
+     "董事會批准了公司政策的修訂。"
+    ],
+    [
+     "All parties must sign the amendment before it takes effect.",
+     "所有方必須在修正案生效前簽字。"
+    ]
+   ]
+  },
+  {
+   "word": "binding",
+   "ph": "/ˈbaɪndɪŋ/",
+   "pos": "adj. 有約束力的 | 必須遵守的",
+   "zh": "有約束力的；必須遵守的",
+   "colloc": "legally binding 法律上具約束力 | binding agreement 具約束力的協議",
+   "distinct": "mandatory 強制的 | compulsory 義務的",
+   "ex": [
+    [
+     "This document constitutes a legally binding agreement between us.",
+     "這份文件構成了我們之間具法律約束力的協議。"
+    ],
+    [
+     "The decision made by the arbitrator is final and binding.",
+     "仲裁人所做的決定是最終且具約束力的。"
+    ],
+    [
+     "Make sure the terms are binding before you sign.",
+     "簽名之前請確保條款具有約束力。"
+    ]
+   ]
+  },
+  {
+   "word": "breach",
+   "ph": "/briːtʃ/",
+   "pos": "n. 違約 | 違反 | v. 違反",
+   "zh": "違約；破壞；違反",
+   "colloc": "breach of contract 違約 | material breach 重大違約",
+   "distinct": "violation 違反 | infringement 侵權",
+   "ex": [
+    [
+     "Failure to pay on time is a breach of contract.",
+     "未按時付款即構成違約。"
+    ],
+    [
+     "The company sued them for a breach of the agreement.",
+     "公司因他們違反協議而對其提告。"
+    ],
+    [
+     "Such actions could be seen as a breach of trust.",
+     "這類行為可能被視為背信。"
+    ]
+   ]
+  },
+  {
+   "word": "ratify",
+   "ph": "/ˈrætɪfaɪ/",
+   "pos": "v. 批准 | 認可",
+   "zh": "批准；認可；正式核准",
+   "colloc": "ratify a treaty 批准條約 | ratify an agreement 批准協議",
+   "distinct": "approve 贊同 | authorize 授權",
+   "ex": [
+    [
+     "The parliament will ratify the trade deal next week.",
+     "國會將於下週批准該貿易協定。"
+    ],
+    [
+     "Management needs time to ratify the new terms.",
+     "管理層需要時間來核准新條款。"
+    ],
+    [
+     "Both nations must ratify the pact to ensure validity.",
+     "兩國必須批准該公約以確保有效性。"
+    ]
+   ]
+  },
+  {
+   "word": "counterpart",
+   "ph": "/ˈkaʊntərpɑːrt/",
+   "pos": "n. 相對應的人或物 | 對等物",
+   "zh": "對應的人；對等物；副本",
+   "colloc": "business counterpart 商業對口單位 | meet with counterparts 與對等官員會面",
+   "distinct": "colleague 同事 | competitor 競爭對手",
+   "ex": [
+    [
+     "I discussed the project with my counterpart in Tokyo.",
+     "我與東京的對口人員討論了該專案。"
+    ],
+    [
+     "The local manager met his counterpart from the head office.",
+     "當地經理會見了總公司的對等主管。"
+    ],
+    [
+     "Each party signed a counterpart of the contract.",
+     "各方皆簽署了一份合約副本。"
+    ]
+   ]
+  },
+  {
+   "word": "enforce",
+   "ph": "/ɪnˈfɔːrs/",
+   "pos": "v. 執行 | 強制實施",
+   "zh": "執行；強制實施",
+   "colloc": "enforce a rule 執行規則 | enforce the law 執法",
+   "distinct": "implement 實施 | execute 執行",
+   "ex": [
+    [
+     "The courts will enforce the terms of the settlement.",
+     "法院將強制執行和解條款。"
+    ],
+    [
+     "It is difficult to enforce these safety regulations.",
+     "執行這些安全法規相當困難。"
+    ],
+    [
+     "Management decided to enforce a strict dress code.",
+     "管理層決定強制執行嚴格的服裝規定。"
+    ]
+   ]
+  },
+  {
+   "word": "nullify",
+   "ph": "/ˈnʌlɪfaɪ/",
+   "pos": "v. 使無效 | 取消",
+   "zh": "使無效；取消；作廢",
+   "colloc": "nullify a contract 使合約無效 | nullify the results 取消結果",
+   "distinct": "cancel 取消 | void 使空無",
+   "ex": [
+    [
+     "The error was enough to nullify the entire contract.",
+     "該錯誤足以使整份合約無效。"
+    ],
+    [
+     "New evidence may nullify the previous court ruling.",
+     "新證據可能會讓先前的法庭裁決無效。"
+    ],
+    [
+     "They sought to nullify the biased agreement immediately.",
+     "他們試圖立即廢除那份不公平的協議。"
+    ]
+   ]
+  },
+  {
+   "word": "arbitration",
+   "ph": "/ˌɑːrbɪˈtreɪʃn/",
+   "pos": "n. 仲裁 | 公斷",
+   "zh": "仲裁；公斷",
+   "colloc": "submit to arbitration 提交仲裁 | binding arbitration 具約束力的仲裁",
+   "distinct": "mediation 調解 | litigation 訴訟",
+   "ex": [
+    [
+     "The dispute will be settled through independent arbitration.",
+     "爭議將透過獨立仲裁來解決。"
+    ],
+    [
+     "They chose arbitration to avoid a lengthy trial.",
+     "他們選擇仲裁以避免漫長的訴訟。"
+    ],
+    [
+     "Both companies agreed to enter into binding arbitration.",
+     "兩家公司皆同意進入具約束力的仲裁程序。"
+    ]
+   ]
+  },
+  {
+   "word": "terminate",
+   "ph": "/ˈtɜːrmɪneɪt/",
+   "pos": "v. 終止 | 結束",
+   "zh": "終止；結束；解僱",
+   "colloc": "terminate a contract 終止合約 | terminate employment 終止僱傭",
+   "distinct": "finish 完成 | conclude 推論；結束",
+   "ex": [
+    [
+     "Either party may terminate the agreement with written notice.",
+     "任何一方皆可憑書面通知終止協議。"
+    ],
+    [
+     "They decided to terminate the partnership due to losses.",
+     "由於虧損，他們決定終止合作關係。"
+    ],
+    [
+     "The system will automatically terminate the session after inactivity.",
+     "系統將在閒置後自動終止該連線。"
+    ]
+   ]
+  },
+  {
+   "word": "confidentiality",
+   "ph": "/ˌkɑːnfɪˈdenʃiæləti/",
+   "pos": "n. 保密 | 機密性",
+   "zh": "保密；機密性",
+   "colloc": "confidentiality agreement 保密協議 | maintain confidentiality 維持機密",
+   "distinct": "secrecy 秘密 | privacy 隱私",
+   "ex": [
+    [
+     "All employees signed a strict confidentiality agreement.",
+     "所有員工都簽署了嚴格的保密協議。"
+    ],
+    [
+     "The nature of the work requires complete confidentiality.",
+     "這項工作的性質要求絕對保密。"
+    ],
+    [
+     "Please respect the confidentiality of our client data.",
+     "請尊重我們客戶資料的保密性。"
+    ]
+   ]
+  },
+  {
+   "word": "obligate",
+   "ph": "/ˈɑːblɪɡeɪt/",
+   "pos": "v. 使負義務 | 強制",
+   "zh": "使負義務；強制",
+   "colloc": "be obligated to do 必須做... | legally obligated 法律上有義務",
+   "distinct": "oblige 強迫 | require 要求",
+   "ex": [
+    [
+     "The contract does not obligate us to pay immediately.",
+     "合約並未強制要求我們立即付款。"
+    ],
+    [
+     "They are legally obligated to provide full refunds.",
+     "他們在法律上有義務提供全額退款。"
+    ],
+    [
+     "Does the agreement obligate you to work weekends?",
+     "協議是否強制規定你在週末工作？"
+    ]
+   ]
+  },
+  {
+   "word": "indemnity",
+   "ph": "/ɪnˈdemnəti/",
+   "pos": "n. 賠償 | 保障 | 補償",
+   "zh": "賠償；保障；補償",
+   "colloc": "indemnity clause 賠償條款 | provide indemnity 提供保障",
+   "distinct": "compensation 補償 | reimbursement 核銷",
+   "ex": [
+    [
+     "The contract contains an indemnity clause for damages.",
+     "合約中包含一項損害賠償條款。"
+    ],
+    [
+     "They sought indemnity against any potential future losses.",
+     "他們尋求對任何潛在未來損失的補償。"
+    ],
+    [
+     "The insurance company provides indemnity for property damage.",
+     "保險公司為財產損害提供賠償保障。"
+    ]
+   ]
+  },
+  {
+   "word": "jurisdiction",
+   "ph": "/ˌdʒʊərɪsˈdɪkʃn/",
+   "pos": "n. 司法權 | 管轄權",
+   "zh": "司法權；管轄權；權限",
+   "colloc": "legal jurisdiction 法律管轄權 | fall under the jurisdiction 歸...管轄",
+   "distinct": "authority 權威 | territory 領土",
+   "ex": [
+    [
+     "This court does not have jurisdiction over the matter.",
+     "該法庭對此案無管轄權。"
+    ],
+    [
+     "The contract specifies the jurisdiction for any legal disputes.",
+     "合約明確了任何法律爭議的管轄權。"
+    ],
+    [
+     "Tax authorities have jurisdiction in this specific region.",
+     "稅務機關在此特定區域內擁有管轄權。"
+    ]
+   ]
+  },
+  {
+   "word": "proviso",
+   "ph": "/prəˈvaɪzoʊ/",
+   "pos": "n. 但書 | 限制性條款",
+   "zh": "但書；限制條件",
+   "colloc": "with the proviso that 在...的條件下 | add a proviso 增加但書",
+   "distinct": "condition 條件 | exception 例外",
+   "ex": [
+    [
+     "They agreed to the deal with the proviso of early payment.",
+     "他們同意該協議，但有提前付款的但書。"
+    ],
+    [
+     "The grant was approved with the proviso of strict oversight.",
+     "補助金在嚴格監督的條件下獲得核准。"
+    ],
+    [
+     "There is a proviso that limits the total amount.",
+     "有一項限制總金額的但書條款。"
+    ]
+   ]
+  },
+  {
+   "word": "validity",
+   "ph": "/vəˈlɪdəti/",
+   "pos": "n. 有效性 | 正當性",
+   "zh": "有效性；合法性",
+   "colloc": "check the validity 檢查有效性 | legal validity 法律效力",
+   "distinct": "accuracy 準確性 | truth 真實性",
+   "ex": [
+    [
+     "The legal team is questioning the validity of the contract.",
+     "法務團隊正在質疑該合約的有效性。"
+    ],
+    [
+     "Please verify the validity of your passport before booking.",
+     "訂票前請確認您的護照是否在有效期內。"
+    ],
+    [
+     "The argument lacks validity without supporting evidence.",
+     "若無佐證，該論點缺乏正當性。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:59"
+}

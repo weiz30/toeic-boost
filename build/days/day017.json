@@ -1,0 +1,449 @@
+{
+ "day": 17,
+ "theme": "出貨與物流",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "consignee",
+   "ph": "/ˌkɒnsɪˈniː/",
+   "pos": "n. 收貨人",
+   "zh": "收貨人；受託人",
+   "colloc": "notify the consignee 通知收貨人 | consignee details 收貨人詳細資訊",
+   "distinct": "consignor 發貨人 | recipient 收件人",
+   "ex": [
+    [
+     "The consignee must sign for the goods.",
+     "收貨人必須簽收貨物。"
+    ],
+    [
+     "Please verify the consignee address again.",
+     "請再次確認收貨人地址。"
+    ],
+    [
+     "The package was delivered to the consignee.",
+     "包裹已遞送給收貨人。"
+    ]
+   ]
+  },
+  {
+   "word": "freight",
+   "ph": "/freɪt/",
+   "pos": "n. 貨運；運費",
+   "zh": "貨物；運費",
+   "colloc": "air freight 空運 | freight charges 運費",
+   "distinct": "cargo 貨物 | shipment 裝運",
+   "ex": [
+    [
+     "We need to reduce our air freight costs.",
+     "我們需要降低空運成本。"
+    ],
+    [
+     "The freight will arrive by next Tuesday.",
+     "貨物將於下週二抵達。"
+    ],
+    [
+     "Our company handles international freight services.",
+     "我們公司處理國際貨運服務。"
+    ]
+   ]
+  },
+  {
+   "word": "logistics",
+   "ph": "/ləˈdʒɪstɪks/",
+   "pos": "n. 物流；運籌",
+   "zh": "物流；後勤",
+   "colloc": "logistics company 物流公司 | handle logistics 處理物流",
+   "distinct": "transportation 運輸 | supply chain 供應鏈",
+   "ex": [
+    [
+     "The logistics department is currently restructuring.",
+     "物流部門目前正在進行重組。"
+    ],
+    [
+     "Managing global logistics requires careful planning.",
+     "管理全球物流需要縝密的規劃。"
+    ],
+    [
+     "We outsourced the logistics to a partner.",
+     "我們將物流外包給合作夥伴。"
+    ]
+   ]
+  },
+  {
+   "word": "manifest",
+   "ph": "/ˈmænɪfest/",
+   "pos": "n. 載貨清單",
+   "zh": "載貨清單；貨物清單",
+   "colloc": "shipping manifest 裝船清單 | check the manifest 核對載貨清單",
+   "distinct": "inventory 清單 | receipt 收據",
+   "ex": [
+    [
+     "Please cross-check the items with the manifest.",
+     "請將物品與載貨清單交叉核對。"
+    ],
+    [
+     "The captain signed the final shipping manifest.",
+     "船長簽署了最終的載貨清單。"
+    ],
+    [
+     "Any discrepancy must appear on the manifest.",
+     "任何差異都必須列在清單上。"
+    ]
+   ]
+  },
+  {
+   "word": "dispatch",
+   "ph": "/dɪˈspætʃ/",
+   "pos": "v. 派遣；發送",
+   "zh": "派遣；發送",
+   "colloc": "dispatch an order 發送訂單 | prompt dispatch 迅速發貨",
+   "distinct": "deliver 投遞 | distribute 分發",
+   "ex": [
+    [
+     "Our team will dispatch the goods today.",
+     "我們的團隊今天會發送貨物。"
+    ],
+    [
+     "The warehouse will dispatch orders daily.",
+     "倉庫將會每日進行訂單配送。"
+    ],
+    [
+     "They dispatched an expert to the site.",
+     "他們派遣了一位專家前往現場。"
+    ]
+   ]
+  },
+  {
+   "word": "waybill",
+   "ph": "/ˈweɪbɪl/",
+   "pos": "n. 運單；貨運單",
+   "zh": "運單；貨運單",
+   "colloc": "air waybill 空運提單 | issue a waybill 開具運單",
+   "distinct": "invoice 發票 | bill of lading 提單",
+   "ex": [
+    [
+     "You must attach the waybill to the package.",
+     "你必須將運單貼在包裹上。"
+    ],
+    [
+     "The waybill contains detailed tracking information.",
+     "運單包含詳細的追蹤資訊。"
+    ],
+    [
+     "Please ensure the waybill number is correct.",
+     "請確保運單號碼正確無誤。"
+    ]
+   ]
+  },
+  {
+   "word": "bulkhead",
+   "ph": "/ˈbʌlkhed/",
+   "pos": "n. 艙壁；隔板",
+   "zh": "艙壁；隔板",
+   "colloc": "cargo bulkhead 貨艙隔板 | check the bulkhead 檢查隔板",
+   "distinct": "partition 分隔物 | barrier 障礙物",
+   "ex": [
+    [
+     "The bulkhead was damaged during the transit.",
+     "艙壁在運輸過程中受損了。"
+    ],
+    [
+     "Workers installed a new bulkhead in the truck.",
+     "工人在卡車內安裝了新隔板。"
+    ],
+    [
+     "Safety regulations require a reinforced bulkhead.",
+     "安全法規要求安裝加固的隔板。"
+    ]
+   ]
+  },
+  {
+   "word": "conveyance",
+   "ph": "/kənˈveɪəns/",
+   "pos": "n. 運輸；運送工具",
+   "zh": "運輸；運送工具",
+   "colloc": "means of conveyance 運輸工具 | secure conveyance 安全運輸",
+   "distinct": "transport 運輸 | transit 過境",
+   "ex": [
+    [
+     "We chose the fastest mode of conveyance.",
+     "我們選擇了最快的運輸方式。"
+    ],
+    [
+     "The conveyance of hazardous materials is strictly regulated.",
+     "危險品的運輸受到嚴格監管。"
+    ],
+    [
+     "Please confirm the details of your conveyance.",
+     "請確認您的運輸細節。"
+    ]
+   ]
+  },
+  {
+   "word": "distributor",
+   "ph": "/dɪˈstrɪbjətər/",
+   "pos": "n. 經銷商；配銷商",
+   "zh": "經銷商；批發商",
+   "colloc": "exclusive distributor 獨家經銷商 | regional distributor 地區經銷商",
+   "distinct": "retailer 零售商 | wholesaler 批發商",
+   "ex": [
+    [
+     "We are looking for a new regional distributor.",
+     "我們正在尋找新的地區經銷商。"
+    ],
+    [
+     "The distributor ships products to local stores.",
+     "經銷商將產品運送到當地門市。"
+    ],
+    [
+     "This distributor has a wide service network.",
+     "這家經銷商擁有廣大的服務網絡。"
+    ]
+   ]
+  },
+  {
+   "word": "drayage",
+   "ph": "/ˈdreɪɪdʒ/",
+   "pos": "n. 短程運費；搬運",
+   "zh": "短程運費；搬運費",
+   "colloc": "port drayage 港口短程運輸 | calculate drayage fees 計算搬運費",
+   "distinct": "freight 運費 | delivery 遞送",
+   "ex": [
+    [
+     "Drayage costs have increased this quarter.",
+     "本季度的短程運費上漲了。"
+    ],
+    [
+     "The contract covers all drayage and handling.",
+     "合約涵蓋了所有的搬運與處理費用。"
+    ],
+    [
+     "We need to optimize our drayage operations.",
+     "我們需要優化短程運輸作業。"
+    ]
+   ]
+  },
+  {
+   "word": "intermodal",
+   "ph": "/ˌɪntərˈməʊdl/",
+   "pos": "adj. 複合式運輸的",
+   "zh": "複合式運輸的；多式聯運的",
+   "colloc": "intermodal transport 複合式運輸 | intermodal terminal 聯運轉運站",
+   "distinct": "multimodal 多式聯運 | international 國際的",
+   "ex": [
+    [
+     "They specialize in efficient intermodal solutions.",
+     "他們專精於高效的複合式運輸方案。"
+    ],
+    [
+     "Intermodal shipping reduces total transit time.",
+     "複合式運輸縮短了總運送時間。"
+    ],
+    [
+     "The company invested in new intermodal containers.",
+     "公司投資了新型複合式貨櫃。"
+    ]
+   ]
+  },
+  {
+   "word": "consolidate",
+   "ph": "/kənˈsɒlɪdeɪt/",
+   "pos": "v. 合併；鞏固",
+   "zh": "合併；統一",
+   "colloc": "consolidate shipments 合併裝運 | consolidate orders 合併訂單",
+   "distinct": "combine 結合 | integrate 整合",
+   "ex": [
+    [
+     "We can consolidate these small orders together.",
+     "我們可以將這些小訂單合併起來。"
+    ],
+    [
+     "The logistics firm decided to consolidate operations.",
+     "物流公司決定合併營運。"
+    ],
+    [
+     "Consolidate the inventory to save storage space.",
+     "合併庫存以節省儲存空間。"
+    ]
+   ]
+  },
+  {
+   "word": "containerize",
+   "ph": "/kənˈteɪnəraɪz/",
+   "pos": "v. 貨櫃化",
+   "zh": "裝入貨櫃；貨櫃化",
+   "colloc": "containerize the goods 貨物裝櫃 | containerize shipping 貨櫃化運輸",
+   "distinct": "pack 包裝 | load 裝載",
+   "ex": [
+    [
+     "It is cheaper to containerize the cargo.",
+     "將貨物貨櫃化會比較便宜。"
+    ],
+    [
+     "They containerize all export items for safety.",
+     "他們將所有出口商品裝櫃以保安全。"
+    ],
+    [
+     "Standardized steps help to containerize efficiently.",
+     "標準化步驟有助於高效率裝櫃。"
+    ]
+   ]
+  },
+  {
+   "word": "demurrage",
+   "ph": "/dɪˈmɜːrɪdʒ/",
+   "pos": "n. 滯期費；延遲費",
+   "zh": "滯期費；延滯費",
+   "colloc": "avoid demurrage 避免滯期費 | pay demurrage charges 支付延遲費",
+   "distinct": "penalty 罰款 | storage fee 倉儲費",
+   "ex": [
+    [
+     "The company paid a high demurrage fee.",
+     "公司支付了一筆高額滯期費。"
+    ],
+    [
+     "Please unload quickly to avoid extra demurrage.",
+     "請盡快卸貨以避免額外滯期費。"
+    ],
+    [
+     "The demurrage period started after three days.",
+     "滯期期間在三天後開始計算。"
+    ]
+   ]
+  },
+  {
+   "word": "fulfillment",
+   "ph": "/fʊlˈfɪlmənt/",
+   "pos": "n. 完成；履行",
+   "zh": "履行；訂單處理",
+   "colloc": "order fulfillment 訂單履行 | fulfillment center 配送中心",
+   "distinct": "completion 完成 | execution 執行",
+   "ex": [
+    [
+     "Our fulfillment center is fully automated.",
+     "我們的配送中心是全自動化的。"
+    ],
+    [
+     "They aim for rapid order fulfillment.",
+     "他們目標是快速履行訂單。"
+    ],
+    [
+     "The fulfillment process takes two business days.",
+     "訂單處理流程需要兩個工作天。"
+    ]
+   ]
+  },
+  {
+   "word": "transit",
+   "ph": "/ˈtrænsɪt/",
+   "pos": "n. 運輸；過境",
+   "zh": "運輸；運送過程",
+   "colloc": "in transit 運送途中 | goods in transit 運送中的貨物",
+   "distinct": "transport 交通工具 | shipping 裝運",
+   "ex": [
+    [
+     "The items were damaged while in transit.",
+     "這些物品在運送途中受損了。"
+    ],
+    [
+     "We track the package throughout its transit.",
+     "我們在運送過程中全程追蹤包裹。"
+    ],
+    [
+     "Customs clearance occurs during the transit.",
+     "清關作業在過境時進行。"
+    ]
+   ]
+  },
+  {
+   "word": "unloading",
+   "ph": "/ˌʌnˈləʊdɪŋ/",
+   "pos": "n. 卸貨；卸載",
+   "zh": "卸貨；卸載",
+   "colloc": "unloading dock 卸貨碼頭 | start unloading 開始卸貨",
+   "distinct": "loading 裝載 | discharging 卸載",
+   "ex": [
+    [
+     "The unloading process will finish by noon.",
+     "卸貨流程會在中午前結束。"
+    ],
+    [
+     "Please prepare the forklift for unloading.",
+     "請準備堆高機以進行卸貨。"
+    ],
+    [
+     "Safety gear is mandatory during unloading.",
+     "卸貨期間必須穿戴安全裝備。"
+    ]
+   ]
+  },
+  {
+   "word": "carrier",
+   "ph": "/ˈkæriər/",
+   "pos": "n. 運送人；貨運公司",
+   "zh": "運送人；電信業者",
+   "colloc": "shipping carrier 貨運商 | choose a carrier 選擇貨運公司",
+   "distinct": "courier 快遞員 | forwarder 貨運代理",
+   "ex": [
+    [
+     "We need to select a reliable carrier.",
+     "我們需要選擇可靠的貨運公司。"
+    ],
+    [
+     "The carrier confirmed the delivery schedule.",
+     "貨運公司確認了配送行程。"
+    ],
+    [
+     "Contact the carrier regarding the lost box.",
+     "關於遺失的箱子請聯繫貨運商。"
+    ]
+   ]
+  },
+  {
+   "word": "export",
+   "ph": "/ˈekspɔːrt/",
+   "pos": "n. 出口；出口商品",
+   "zh": "出口；輸出",
+   "colloc": "export market 出口市場 | export license 出口許可證",
+   "distinct": "import 進口 | trade 貿易",
+   "ex": [
+    [
+     "Our company focuses on the export market.",
+     "我們公司專注於出口市場。"
+    ],
+    [
+     "They obtained an export license last month.",
+     "他們上個月取得了出口許可證。"
+    ],
+    [
+     "We plan to increase our export volume.",
+     "我們計劃增加出口量。"
+    ]
+   ]
+  },
+  {
+   "word": "documentation",
+   "ph": "/ˌdɒkjuˈmentɪʃn/",
+   "pos": "n. 文件；證明文件",
+   "zh": "文件；文件紀錄",
+   "colloc": "shipping documentation 裝運文件 | provide documentation 提供文件",
+   "distinct": "paperwork 書面作業 | record 紀錄",
+   "ex": [
+    [
+     "All shipping documentation must be accurate.",
+     "所有的裝運文件必須準確無誤。"
+    ],
+    [
+     "Please submit the required documentation today.",
+     "請於今天提交所需文件。"
+    ],
+    [
+     "They checked the documentation for errors.",
+     "他們核對了文件中的錯誤。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:58"
+}

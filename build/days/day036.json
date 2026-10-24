@@ -1,0 +1,295 @@
+{
+ "day": 36,
+ "theme": "品牌與定位",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "reputation",
+   "ph": "/ˌrepjuˈteɪʃn/",
+   "pos": "n. 名譽；聲望",
+   "zh": "名譽；聲望",
+   "colloc": "build a reputation 建立聲譽 | damage one's reputation 損害聲譽",
+   "distinct": "fame 名氣 | prestige 威望",
+   "ex": [
+    [
+     "The firm has a reputation for high quality.",
+     "這家公司以高品質聞名。"
+    ],
+    [
+     "Maintaining a good reputation is crucial for growth.",
+     "維持良好聲譽對成長至關重要。"
+    ],
+    [
+     "Poor customer service can ruin our brand reputation.",
+     "糟糕的客服會毀了我們的品牌形象。"
+    ]
+   ]
+  },
+  {
+   "word": "positioning",
+   "ph": "/pəˈzɪʃənɪŋ/",
+   "pos": "n. 市場定位",
+   "zh": "市場定位",
+   "colloc": "market positioning 市場定位 | strategic positioning 策略性定位",
+   "distinct": "placement 放置 | location 地點",
+   "ex": [
+    [
+     "Our positioning focuses on affordable luxury products.",
+     "我們的定位聚焦在平價奢華產品。"
+    ],
+    [
+     "They analyzed the brand positioning of competitors.",
+     "他們分析了競爭對手的品牌定位。"
+    ],
+    [
+     "Effective positioning helps attract our target audience.",
+     "有效的定位有助於吸引目標客群。"
+    ]
+   ]
+  },
+  {
+   "word": "differentiate",
+   "ph": "/ˌdɪfəˈrenʃieɪt/",
+   "pos": "v. 區分；使產生差異",
+   "zh": "區分；使產生差異",
+   "colloc": "differentiate products 產品差異化 | clearly differentiate 明確區分",
+   "distinct": "distinguish 分辨 | discriminate 歧視",
+   "ex": [
+    [
+     "How do we differentiate ourselves from rivals?",
+     "我們該如何與競爭對手做出區隔？"
+    ],
+    [
+     "Unique features differentiate this model from others.",
+     "獨特功能使此型號與眾不同。"
+    ],
+    [
+     "The company failed to differentiate its services.",
+     "該公司未能使其服務產生差異化。"
+    ]
+   ]
+  },
+  {
+   "word": "loyalty",
+   "ph": "/ˈlɔɪəlti/",
+   "pos": "n. 忠誠度",
+   "zh": "忠誠度",
+   "colloc": "brand loyalty 品牌忠誠度 | customer loyalty 客戶忠誠度",
+   "distinct": "allegiance 效忠 | devotion 奉獻",
+   "ex": [
+    [
+     "They launched a program to boost customer loyalty.",
+     "他們推出計畫以提升客戶忠誠度。"
+    ],
+    [
+     "High loyalty leads to repeat purchases eventually.",
+     "高忠誠度最終會帶來重複購買。"
+    ],
+    [
+     "Building loyalty takes time and consistent quality.",
+     "建立忠誠度需要時間與一致品質。"
+    ]
+   ]
+  },
+  {
+   "word": "recognition",
+   "ph": "/ˌrekəɡˈnɪʃn/",
+   "pos": "n. 辨識度；認可",
+   "zh": "辨識度；認可",
+   "colloc": "brand recognition 品牌辨識度 | gain recognition 獲得認可",
+   "distinct": "awareness 意識 | perception 觀感",
+   "ex": [
+    [
+     "Our logo has high recognition among consumers.",
+     "我們的商標在消費者間有高辨識度。"
+    ],
+    [
+     "The agency gained recognition for creative campaigns.",
+     "該代理商因創意行銷活動獲得認可。"
+    ],
+    [
+     "We aim to improve global brand recognition.",
+     "我們目標是提升全球品牌辨識度。"
+    ]
+   ]
+  },
+  {
+   "word": "niche",
+   "ph": "/niːʃ/",
+   "pos": "n. 利基市場；合適的職位",
+   "zh": "利基市場；合適的職位",
+   "colloc": "niche market 利基市場 | find a niche 找到利基點",
+   "distinct": "sector 部門 | segment 區隔",
+   "ex": [
+    [
+     "The startup found a profitable niche in software.",
+     "這家新創公司在軟體業找到利基市場。"
+    ],
+    [
+     "They specialize in a very specific market niche.",
+     "他們專精於非常特殊的市場區塊。"
+    ],
+    [
+     "Our strategy is to dominate this small niche.",
+     "我們的策略是主導這個小眾市場。"
+    ]
+   ]
+  },
+  {
+   "word": "distinctive",
+   "ph": "/dɪˈstɪŋktɪv/",
+   "pos": "adj. 獨特的；有特色的",
+   "zh": "獨特的；有特色的",
+   "colloc": "distinctive feature 獨特功能 | distinctive style 獨特風格",
+   "distinct": "distinguished 卓越的 | distinct 清晰的",
+   "ex": [
+    [
+     "The brand has a distinctive design identity.",
+     "該品牌擁有獨特的設計識別性。"
+    ],
+    [
+     "They offer a distinctive service to clients.",
+     "他們為客戶提供獨特的服務。"
+    ],
+    [
+     "What is the most distinctive aspect here?",
+     "這裡最獨特的面向是什麼？"
+    ]
+   ]
+  },
+  {
+   "word": "image",
+   "ph": "/ˈɪmɪdʒ/",
+   "pos": "n. 形象；影像",
+   "zh": "形象；影像",
+   "colloc": "corporate image 企業形象 | improve the image 改善形象",
+   "distinct": "impression 印象 | profile 概況",
+   "ex": [
+    [
+     "The campaign aims to boost our corporate image.",
+     "該活動目標是提升我們的企業形象。"
+    ],
+    [
+     "He works hard to maintain a professional image.",
+     "他努力維持專業的形象。"
+    ],
+    [
+     "Our public image impacts sales significantly.",
+     "我們的公眾形象顯著影響銷售。"
+    ]
+   ]
+  },
+  {
+   "word": "tailor",
+   "ph": "/ˈteɪlə(r)/",
+   "pos": "v. 量身訂做；調整",
+   "zh": "量身訂做；調整",
+   "colloc": "tailor made 量身訂做的 | tailor to needs 針對需求調整",
+   "distinct": "adjust 調整 | customize 客製化",
+   "ex": [
+    [
+     "We tailor our strategy to each client.",
+     "我們為每位客戶量身訂做策略。"
+    ],
+    [
+     "The advertisement was tailored for local markets.",
+     "該廣告是為當地市場量身訂做的。"
+    ],
+    [
+     "Can you tailor the presentation to them?",
+     "你能為他們調整簡報內容嗎？"
+    ]
+   ]
+  },
+  {
+   "word": "consistent",
+   "ph": "/kənˈsɪstənt/",
+   "pos": "adj. 一致的；連貫的",
+   "zh": "一致的；連貫的",
+   "colloc": "consistent quality 品質一致 | stay consistent 保持一致",
+   "distinct": "persistent 堅持的 | constant 持續的",
+   "ex": [
+    [
+     "The brand maintains a consistent image globally.",
+     "該品牌在全球保持一致的形象。"
+    ],
+    [
+     "We provide consistent support to all partners.",
+     "我們對所有夥伴提供一致的支援。"
+    ],
+    [
+     "Growth requires consistent effort and focus.",
+     "成長需要持續的努力與專注。"
+    ]
+   ]
+  },
+  {
+   "word": "awareness",
+   "ph": "/əˈweənəs/",
+   "pos": "n. 意識；認識；知名度",
+   "zh": "意識；認識；知名度",
+   "colloc": "brand awareness 品牌知名度 | raise awareness 提升意識",
+   "distinct": "recognition 辨識 | perception 觀感",
+   "ex": [
+    [
+     "The goal is to increase brand awareness.",
+     "目標是提高品牌知名度。"
+    ],
+    [
+     "Social media helps raise consumer awareness.",
+     "社群媒體有助於提升消費者意識。"
+    ],
+    [
+     "Market awareness is vital for our success.",
+     "市場認知對我們的成功至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "perception",
+   "ph": "/pəˈsepʃn/",
+   "pos": "n. 看法；感知；洞察力",
+   "zh": "看法；感知；洞察力",
+   "colloc": "consumer perception 消費者觀感 | change perception 改變看法",
+   "distinct": "opinion 意見 | perspective 觀點",
+   "ex": [
+    [
+     "The public perception of our firm is positive.",
+     "大眾對我們公司的看法是正面的。"
+    ],
+    [
+     "We need to shift the perception of quality.",
+     "我們需要改變對品質的感知。"
+    ],
+    [
+     "This survey measures consumer perception accurately.",
+     "此調查精確地衡量了消費者觀感。"
+    ]
+   ]
+  },
+  {
+   "word": "premium",
+   "ph": "/ˈpriːmiəm/",
+   "pos": "adj. 高級的；優質的",
+   "zh": "高級的；優質的",
+   "colloc": "premium brand 高級品牌 | premium pricing 優質定價",
+   "distinct": "deluxe 豪華的 | superior 上等的",
+   "ex": [
+    [
+     "They focus on selling premium quality goods.",
+     "他們專注於銷售高品質商品。"
+    ],
+    [
+     "The company targets the premium market segment.",
+     "該公司鎖定高端市場區塊。"
+    ],
+    [
+     "We offer a premium experience to customers.",
+     "我們為客戶提供優質的體驗。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:00"
+}

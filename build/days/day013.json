@@ -1,0 +1,295 @@
+{
+ "day": 13,
+ "theme": "報帳與費用",
+ "level": "基礎 600–750",
+ "kind": "word",
+ "items": [
+  {
+   "word": "expense",
+   "ph": "/ɪkˈspens/",
+   "pos": "n. 費用；開支",
+   "zh": "費用；開支",
+   "colloc": "business expense 商務支出 | travel expense 差旅費",
+   "distinct": "expenditure 總支出 | cost 成本",
+   "ex": [
+    [
+     "Please submit your business expense reports.",
+     "請提交您的商務開支報告。"
+    ],
+    [
+     "The company covers all travel expenses.",
+     "公司支付所有差旅費用。"
+    ],
+    [
+     "We need to reduce monthly expenses.",
+     "我們需要減少每月開銷。"
+    ]
+   ]
+  },
+  {
+   "word": "reimburse",
+   "ph": "/ˌriːɪmˈbɜːrs/",
+   "pos": "v. 報銷；償還",
+   "zh": "報銷；償還",
+   "colloc": "reimburse expenses 報銷費用 | fully reimburse 全額補償",
+   "distinct": "refund 退款 | compensate 賠償",
+   "ex": [
+    [
+     "The firm will reimburse your travel costs.",
+     "公司將報銷您的差旅成本。"
+    ],
+    [
+     "You must be reimbursed for these items.",
+     "這些項目必須獲得報銷。"
+    ],
+    [
+     "Submit claims to be reimbursed promptly.",
+     "提交申請以儘速獲得報銷。"
+    ]
+   ]
+  },
+  {
+   "word": "claim",
+   "ph": "/kleɪm/",
+   "pos": "n. 索賠申請；要求",
+   "zh": "索賠申請；要求",
+   "colloc": "submit a claim 提交申請 | insurance claim 保險理賠",
+   "distinct": "request 請求 | demand 要求",
+   "ex": [
+    [
+     "Fill out the claim form correctly.",
+     "正確地填寫索賠申請表。"
+    ],
+    [
+     "She filed an expense claim yesterday.",
+     "她昨天提交了一份費用申請。"
+    ],
+    [
+     "All claims require an authorized signature.",
+     "所有申請皆需主管簽名。"
+    ]
+   ]
+  },
+  {
+   "word": "accounting",
+   "ph": "/əˈkaʊntɪŋ/",
+   "pos": "n. 會計；會計學",
+   "zh": "會計；會計學",
+   "colloc": "accounting department 會計部 | accounting records 會計紀錄",
+   "distinct": "bookkeeping 簿記 | finance 金融",
+   "ex": [
+    [
+     "Please contact the accounting office directly.",
+     "請直接聯繫會計辦公室。"
+    ],
+    [
+     "The accounting system requires an update.",
+     "會計系統需要進行更新。"
+    ],
+    [
+     "Our accounting team manages the budget.",
+     "我們的會計團隊管理預算。"
+    ]
+   ]
+  },
+  {
+   "word": "disbursement",
+   "ph": "/dɪsˈbɜːrsmənt/",
+   "pos": "n. 支出；支付款項",
+   "zh": "支出；支付款項",
+   "colloc": "cash disbursement 現金支出 | approve disbursement 核准撥款",
+   "distinct": "expenditure 總消費 | payment 支付",
+   "ex": [
+    [
+     "Track every cash disbursement this quarter.",
+     "追蹤本季度的每一筆現金支出。"
+    ],
+    [
+     "The director approved the fund disbursement.",
+     "董事核准了資金撥款。"
+    ],
+    [
+     "Review the disbursement report before Friday.",
+     "週五前審閱支付報告。"
+    ]
+   ]
+  },
+  {
+   "word": "ledger",
+   "ph": "/ˈledʒər/",
+   "pos": "n. 分類帳；帳簿",
+   "zh": "分類帳；帳簿",
+   "colloc": "general ledger 總分類帳 | maintain a ledger 維護帳簿",
+   "distinct": "journal 日記帳 | logbook 工作日誌",
+   "ex": [
+    [
+     "The accountant is updating the ledger.",
+     "會計師正在更新分類帳。"
+    ],
+    [
+     "Check the general ledger for errors.",
+     "檢查總分類帳是否有錯誤。"
+    ],
+    [
+     "Every transaction goes into the ledger.",
+     "每筆交易都會進入帳簿。"
+    ]
+   ]
+  },
+  {
+   "word": "petty",
+   "ph": "/ˈpeti/",
+   "pos": "adj. 小額的；瑣碎的",
+   "zh": "小額的；瑣碎的",
+   "colloc": "petty cash 零用金 | petty expense 小額支出",
+   "distinct": "minor 次要的 | trivial 不重要的",
+   "ex": [
+    [
+     "Use petty cash for office supplies.",
+     "使用零用金購買辦公用品。"
+    ],
+    [
+     "There is little petty cash remaining.",
+     "剩下的零用金不多了。"
+    ],
+    [
+     "Keep records for all petty expenses.",
+     "保留所有小額支出的紀錄。"
+    ]
+   ]
+  },
+  {
+   "word": "reconciliation",
+   "ph": "/ˌrekənsɪliˈeɪʃn/",
+   "pos": "n. 對帳；調和",
+   "zh": "對帳；調和",
+   "colloc": "bank reconciliation 銀行對帳 | monthly reconciliation 每月結算",
+   "distinct": "adjustment 調整 | settlement 結算",
+   "ex": [
+    [
+     "The bank reconciliation process takes time.",
+     "銀行對帳流程很花時間。"
+    ],
+    [
+     "We finished the monthly account reconciliation.",
+     "我們完成了每月帳戶對帳。"
+    ],
+    [
+     "Errors were found during the reconciliation.",
+     "對帳過程中發現了錯誤。"
+    ]
+   ]
+  },
+  {
+   "word": "taxation",
+   "ph": "/tækˈseɪʃn/",
+   "pos": "n. 稅務；稅收制度",
+   "zh": "稅務；稅收制度",
+   "colloc": "corporate taxation 公司稅務 | taxation laws 稅法",
+   "distinct": "tariff 關稅 | duty 稅金",
+   "ex": [
+    [
+     "The firm follows strict taxation rules.",
+     "公司遵循嚴格的稅務規則。"
+    ],
+    [
+     "Consult experts regarding international taxation.",
+     "關於國際稅務請諮詢專家。"
+    ],
+    [
+     "Taxation impacts the final net profit.",
+     "稅務會影響最終的淨利。"
+    ]
+   ]
+  },
+  {
+   "word": "overspend",
+   "ph": "/ˌoʊvərˈspend/",
+   "pos": "v. 超支；花費過度",
+   "zh": "超支；花費過度",
+   "colloc": "avoid overspending 避免超支 | limit overspend 限制超支",
+   "distinct": "exceed 超過 | waste 浪費",
+   "ex": [
+    [
+     "Do not overspend the allocated budget.",
+     "不要超出分配的預算。"
+    ],
+    [
+     "The department tended to overspend annually.",
+     "該部門每年都有超支的傾向。"
+    ],
+    [
+     "Tracking expenses helps prevent overspending.",
+     "追蹤支出有助於防止超支。"
+    ]
+   ]
+  },
+  {
+   "word": "payable",
+   "ph": "/ˈpeɪəbl/",
+   "pos": "adj. 應付的；可支付的",
+   "zh": "應付的",
+   "colloc": "accounts payable 應付帳款 | payable amount 應付金額",
+   "distinct": "receivable 應收的 | due 到期的",
+   "ex": [
+    [
+     "Review all outstanding accounts payable.",
+     "審閱所有未結清的應付帳款。"
+    ],
+    [
+     "The total payable amount is stated.",
+     "總應付金額已列出。"
+    ],
+    [
+     "This invoice is payable within thirty days.",
+     "此發票需在三十天內支付。"
+    ]
+   ]
+  },
+  {
+   "word": "budgeting",
+   "ph": "/ˈbʌdʒɪtɪŋ/",
+   "pos": "n. 預算編列；預算制定",
+   "zh": "預算編列",
+   "colloc": "budgeting process 預算流程 | effective budgeting 有效的預算編列",
+   "distinct": "accounting 會計 | planning 規劃",
+   "ex": [
+    [
+     "The budgeting process starts in October.",
+     "預算編列流程於十月開始。"
+    ],
+    [
+     "Effective budgeting ensures company stability.",
+     "有效的預算編列確保公司穩定。"
+    ],
+    [
+     "They improved the budgeting system lately.",
+     "他們近期改善了預算編列系統。"
+    ]
+   ]
+  },
+  {
+   "word": "compliance",
+   "ph": "/kəmˈplaɪəns/",
+   "pos": "n. 合規；遵守",
+   "zh": "合規；遵守",
+   "colloc": "ensure compliance 確保合規 | strict compliance 嚴格遵守",
+   "distinct": "agreement 同意 | obedience 服從",
+   "ex": [
+    [
+     "We must ensure compliance with regulations.",
+     "我們必須確保符合法規。"
+    ],
+    [
+     "The audit confirms our tax compliance.",
+     "審計證實了我們的稅務合規。"
+    ],
+    [
+     "Strict compliance is required for reports.",
+     "報告必須嚴格遵守規範。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 09:57"
+}

@@ -1,0 +1,273 @@
+{
+ "day": 40,
+ "theme": "財務報表",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "accrual",
+   "ph": "/əˈkruːəl/",
+   "pos": "n. 應計項目；累計額",
+   "zh": "應計項目；累計額",
+   "colloc": "accrual basis 應計基礎 | interest accrual 利息累計",
+   "distinct": "cash basis 現金基礎 | provision 準備金",
+   "ex": [
+    [
+     "The accounting department uses the accrual method.",
+     "會計部門使用應計會計法。"
+    ],
+    [
+     "Interest accrual is calculated on a monthly basis.",
+     "利息累計是按月計算的。"
+    ],
+    [
+     "We must record every accrual in the ledger.",
+     "我們必須在帳簿中記錄每一筆應計項目。"
+    ]
+   ]
+  },
+  {
+   "word": "amortization",
+   "ph": "/ˌæmər-təˈzeɪʃən/",
+   "pos": "n. 攤提；分期償還",
+   "zh": "攤提；分期償還",
+   "colloc": "amortization schedule 攤提表 | annual amortization 年度攤提",
+   "distinct": "depreciation 折舊 | write-off 撇帳",
+   "ex": [
+    [
+     "Review the amortization schedule for the loan.",
+     "請檢查該貸款的分期償還表。"
+    ],
+    [
+     "Annual amortization reduces the asset's book value.",
+     "年度攤提降低了資產的帳面價值。"
+    ],
+    [
+     "They finalized the amortization of the intangible asset.",
+     "他們完成了無形資產的攤提計算。"
+    ]
+   ]
+  },
+  {
+   "word": "solvency",
+   "ph": "/ˈsɑːlvənsi/",
+   "pos": "n. 償債能力",
+   "zh": "償債能力",
+   "colloc": "financial solvency 財務償債能力 | maintain solvency 維持償債能力",
+   "distinct": "liquidity 流動性 | profitability 獲利能力",
+   "ex": [
+    [
+     "The firm’s long-term solvency remains quite stable.",
+     "該公司的長期償債能力依然相當穩定。"
+    ],
+    [
+     "Investors are concerned about our current solvency.",
+     "投資人擔憂我們目前的償債能力。"
+    ],
+    [
+     "We must maintain solvency during this crisis.",
+     "我們必須在危機期間維持償債能力。"
+    ]
+   ]
+  },
+  {
+   "word": "consolidated",
+   "ph": "/kənˈsɑːlɪˌdeɪtɪd/",
+   "pos": "adj. 綜合的；合併的",
+   "zh": "綜合的；合併的",
+   "colloc": "consolidated statement 合併報表 | consolidated report 綜合報告",
+   "distinct": "combined 聯合的 | integrated 整合的",
+   "ex": [
+    [
+     "The parent company issued a consolidated statement.",
+     "母公司發布了一份合併報表。"
+    ],
+    [
+     "Review the consolidated report before the meeting.",
+     "開會前請審閱那份綜合報告。"
+    ],
+    [
+     "The figures represent our consolidated financial results.",
+     "這些數字代表了我們的合併財務結果。"
+    ]
+   ]
+  },
+  {
+   "word": "bottom-line",
+   "ph": "/ˈbɑːtəmˌlaɪn/",
+   "pos": "n. 淨利；底線",
+   "zh": "淨利；底線",
+   "colloc": "impact the bottom-line 影響淨利 | improve the bottom-line 改善淨利",
+   "distinct": "gross profit 毛利 | net income 淨收入",
+   "ex": [
+    [
+     "Rising costs will negatively impact our bottom-line.",
+     "成本上升將對我們的淨利造成負面影響。"
+    ],
+    [
+     "We need strategies to improve the bottom-line.",
+     "我們需要能改善淨利的策略。"
+    ],
+    [
+     "Efficiency is essential for the company's bottom-line.",
+     "效率對公司的淨利至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "write-down",
+   "ph": "/ˈraɪtˌdaʊn/",
+   "pos": "n. 資產減值；帳面減值",
+   "zh": "資產減值；帳面減值",
+   "colloc": "significant write-down 重大減值 | inventory write-down 存貨跌價損失",
+   "distinct": "write-off 撇帳 | devaluation 貶值",
+   "ex": [
+    [
+     "The board approved a major inventory write-down.",
+     "董事會批准了一項重大的存貨跌價損失。"
+    ],
+    [
+     "A write-down reflects the lower market value.",
+     "資產減值反映了較低的市場價值。"
+    ],
+    [
+     "Recent losses forced a write-down of assets.",
+     "近期的虧損迫使資產進行減值處理。"
+    ]
+   ]
+  },
+  {
+   "word": "leveraged",
+   "ph": "/ˈlevərɪdʒd/",
+   "pos": "adj. 槓桿的；負債經營的",
+   "zh": "槓桿的；負債經營的",
+   "colloc": "highly leveraged 高度槓桿 | leveraged buyout 槓桿收購",
+   "distinct": "indebted 負債的 | financed 融資的",
+   "ex": [
+    [
+     "The company is too highly leveraged right now.",
+     "該公司目前槓桿操作程度過高。"
+    ],
+    [
+     "They announced a risky leveraged buyout plan.",
+     "他們宣佈了一項高風險的槓桿收購計畫。"
+    ],
+    [
+     "Being heavily leveraged increases our financial risk.",
+     "過度槓桿化增加了我們的財務風險。"
+    ]
+   ]
+  },
+  {
+   "word": "overhead",
+   "ph": "/ˈoʊvərˌhed/",
+   "pos": "n. 經常性支出；營運成本",
+   "zh": "經常性支出；營運成本",
+   "colloc": "reduce overhead 降低營運成本 | fixed overhead 固定成本",
+   "distinct": "operating cost 營運成本 | direct cost 直接成本",
+   "ex": [
+    [
+     "We must find ways to reduce our overhead.",
+     "我們必須想辦法降低經常性支出。"
+    ],
+    [
+     "High overhead is eating into our profit margin.",
+     "高額的營運成本正在侵蝕我們的利潤率。"
+    ],
+    [
+     "The report breaks down all fixed overhead.",
+     "該報告列出了所有固定成本明細。"
+    ]
+   ]
+  },
+  {
+   "word": "receivables",
+   "ph": "/rɪˈsiːvəbəlz/",
+   "pos": "n. 應收帳款",
+   "zh": "應收帳款",
+   "colloc": "accounts receivable 應收帳款 | manage receivables 管理應收帳款",
+   "distinct": "payables 應付帳款 | assets 資產",
+   "ex": [
+    [
+     "Our accounts receivable are higher than expected.",
+     "我們的應收帳款高於預期。"
+    ],
+    [
+     "Please track the outstanding trade receivables.",
+     "請追蹤所有未結清的貿易應收帳款。"
+    ],
+    [
+     "Effective management of receivables improves cash flow.",
+     "有效管理應收帳款能改善現金流。"
+    ]
+   ]
+  },
+  {
+   "word": "volatility",
+   "ph": "/ˌvɑːləˈtɪləti/",
+   "pos": "n. 波動性",
+   "zh": "波動性",
+   "colloc": "market volatility 市場波動 | reduce volatility 降低波動",
+   "distinct": "instability 不穩定 | fluctuation 起伏",
+   "ex": [
+    [
+     "We should prepare for increased market volatility.",
+     "我們應為加劇的市場波動做好準備。"
+    ],
+    [
+     "The stock price shows significant volatility lately.",
+     "股價近期顯示出顯著的波動性。"
+    ],
+    [
+     "High volatility makes long-term planning difficult.",
+     "高波動性讓長期規劃變得困難。"
+    ]
+   ]
+  },
+  {
+   "word": "accrued",
+   "ph": "/əˈkruːd/",
+   "pos": "adj. 應計的；累計的",
+   "zh": "應計的；累計的",
+   "colloc": "accrued interest 應計利息 | accrued expenses 應計費用",
+   "distinct": "accumulated 累積的 | deferred 遞延的",
+   "ex": [
+    [
+     "Check the report for all accrued interest.",
+     "檢查報告中所有的應計利息。"
+    ],
+    [
+     "The accrued expenses must be paid soon.",
+     "那些應計費用必須儘快支付。"
+    ],
+    [
+     "We calculated the total accrued liability today.",
+     "我們今天計算了總應計負債。"
+    ]
+   ]
+  },
+  {
+   "word": "outlay",
+   "ph": "/ˈaʊtˌleɪ/",
+   "pos": "n. 支出；經費",
+   "zh": "支出；經費",
+   "colloc": "capital outlay 資本支出 | initial outlay 初期投入",
+   "distinct": "expenditure 開支 | expense 費用",
+   "ex": [
+    [
+     "The project requires a large capital outlay.",
+     "該專案需要龐大的資本支出。"
+    ],
+    [
+     "We need to justify this initial outlay.",
+     "我們必須說明這筆初期投入的合理性。"
+    ],
+    [
+     "Total outlay exceeded our original budget plan.",
+     "總支出超過了我們原本的預算計畫。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:01"
+}

@@ -1,0 +1,427 @@
+{
+ "day": 38,
+ "theme": "通路與經銷",
+ "level": "進階 750–850",
+ "kind": "word",
+ "items": [
+  {
+   "word": "intermediary",
+   "ph": "/ˌɪntərˈmiːdiəri/",
+   "pos": "n. 中間人 | adj. 中間的",
+   "zh": "中間人；媒介",
+   "colloc": "act as an intermediary 充當中間人 | through an intermediary 透過媒介",
+   "distinct": "agent 代理人 | broker 經紀人",
+   "ex": [
+    [
+     "The company uses an intermediary to handle local distribution.",
+     "該公司利用中間商處理當地的分銷事宜。"
+    ],
+    [
+     "An intermediary helped resolve the conflict between the partners.",
+     "一名中間人協助解決了合夥人之間的衝突。"
+    ],
+    [
+     "We negotiated the deal through a financial intermediary.",
+     "我們透過金融媒介商談成了這筆交易。"
+    ]
+   ]
+  },
+  {
+   "word": "wholesaler",
+   "ph": "/ˈhoʊlseɪlər/",
+   "pos": "n. 批發商",
+   "zh": "批發商",
+   "colloc": "authorized wholesaler 授權批發商 | leading wholesaler 領先的批發商",
+   "distinct": "retailer 零售商 | manufacturer 製造商",
+   "ex": [
+    [
+     "The wholesaler offers significant discounts for bulk orders.",
+     "該批發商為大宗訂單提供顯著的折扣。"
+    ],
+    [
+     "Many small shops buy their stock from this wholesaler.",
+     "許多小商店從這家批發商那裡進貨。"
+    ],
+    [
+     "Our firm acts as a regional wholesaler for electronics.",
+     "我們公司擔任該電子產品的區域批發商。"
+    ]
+   ]
+  },
+  {
+   "word": "franchise",
+   "ph": "/ˈfræntʃaɪz/",
+   "pos": "n. 特許經營權；加盟店",
+   "zh": "特許經營權；加盟權",
+   "colloc": "franchise agreement 加盟協議 | grant a franchise 授予經營權",
+   "distinct": "chain 連鎖店 | branch 分店",
+   "ex": [
+    [
+     "He decided to open a fast-food franchise in Taipei.",
+     "他決定在台北開一家速食加盟店。"
+    ],
+    [
+     "The franchise fee includes training and marketing support.",
+     "加盟費包含了培訓與行銷支援。"
+    ],
+    [
+     "They are looking to expand their franchise network globally.",
+     "他們正尋求在全球擴張其特許經營網絡。"
+    ]
+   ]
+  },
+  {
+   "word": "middleman",
+   "ph": "/ˈmɪdlmæn/",
+   "pos": "n. 中間商",
+   "zh": "中間商；經銷商",
+   "colloc": "eliminate the middleman 除去中間商 | cut out the middleman 省去中間環節",
+   "distinct": "supplier 供應商 | vendor 賣主",
+   "ex": [
+    [
+     "Buying directly from the factory helps eliminate the middleman.",
+     "直接向工廠購買有助於省去中間商的費用。"
+    ],
+    [
+     "The middleman takes a commission for every successful sale.",
+     "中間商會從每筆成功的銷售中抽取佣金。"
+    ],
+    [
+     "Some farmers prefer selling to a middleman for convenience.",
+     "有些農民為了方便，偏好賣給中間商。"
+    ]
+   ]
+  },
+  {
+   "word": "outlet",
+   "ph": "/ˈaʊtlet/",
+   "pos": "n. 銷路；零售點",
+   "zh": "銷售通路；暢貨中心",
+   "colloc": "retail outlet 零售據點 | clearance outlet 清倉中心",
+   "distinct": "store 商店 | shop 小鋪",
+   "ex": [
+    [
+     "The brand opened a new retail outlet downtown yesterday.",
+     "該品牌昨天在市中心開了一家新的零售店。"
+    ],
+    [
+     "This clearance outlet offers products at very low prices.",
+     "這間暢貨中心以極低的價格提供產品。"
+    ],
+    [
+     "They are searching for more outlets to increase sales.",
+     "他們正在尋找更多銷路以增加銷售額。"
+    ]
+   ]
+  },
+  {
+   "word": "canvass",
+   "ph": "/ˈkænvəs/",
+   "pos": "v. 遊說；推銷",
+   "zh": "遊說；徵求（意見）",
+   "colloc": "canvass for customers 向客戶推銷 | canvass opinions 徵求意見",
+   "distinct": "promote 促銷 | solicit 請求",
+   "ex": [
+    [
+     "The sales team will canvass the neighborhood for new clients.",
+     "業務團隊將在鄰近地區遊說潛在客戶。"
+    ],
+    [
+     "We need to canvass opinions before launching the product.",
+     "在產品上市前，我們需要徵求大眾意見。"
+    ],
+    [
+     "They spent weeks canvassing for support from local retailers.",
+     "他們花了數週時間遊說當地零售商的支持。"
+    ]
+   ]
+  },
+  {
+   "word": "commissions",
+   "ph": "/kəˈmɪʃənz/",
+   "pos": "n. 佣金；代辦費",
+   "zh": "佣金；酬勞",
+   "colloc": "earn a commission 賺取佣金 | sales commission 銷售酬勞",
+   "distinct": "salary 薪水 | bonus 獎金",
+   "ex": [
+    [
+     "Sales agents receive high commissions for exceeding their targets.",
+     "業務代表若超過目標將獲得高額佣金。"
+    ],
+    [
+     "The real estate agent earned a commission on the sale.",
+     "房地產經紀人從這筆交易中賺到了佣金。"
+    ],
+    [
+     "Our commission structure is designed to motivate the staff.",
+     "我們的佣金制度旨在激勵全體員工。"
+    ]
+   ]
+  },
+  {
+   "word": "territory",
+   "ph": "/ˈterətɔːri/",
+   "pos": "n. 銷售區域；領土",
+   "zh": "銷售領域；區域",
+   "colloc": "sales territory 銷售區域 | overseas territory 海外領土",
+   "distinct": "region 地區 | district 轄區",
+   "ex": [
+    [
+     "Each representative is assigned a specific sales territory.",
+     "每位代表都被分配到一個特定的銷售區域。"
+    ],
+    [
+     "The company is expanding its territory into Southeast Asia.",
+     "該公司正將其業務版圖擴張至東南亞。"
+    ],
+    [
+     "Exploring new territory is essential for the brand’s growth.",
+     "探索新領域對品牌的成長至關重要。"
+    ]
+   ]
+  },
+  {
+   "word": "exclusive",
+   "ph": "/ɪkˈskluːsɪv/",
+   "pos": "adj. 獨家的；專屬的",
+   "zh": "獨家的；排外的",
+   "colloc": "exclusive rights 獨家代理權 | exclusive distributor 獨家經銷商",
+   "distinct": "sole 唯一的 | unique 獨特的",
+   "ex": [
+    [
+     "They signed a contract for exclusive rights to distribute.",
+     "他們簽署了一份擁有獨家分銷權的合約。"
+    ],
+    [
+     "The agent became the exclusive distributor for the region.",
+     "該代理商成為該地區的獨家經銷商。"
+    ],
+    [
+     "This luxury item is available at an exclusive boutique.",
+     "這款奢侈品僅在一家精品店專賣。"
+    ]
+   ]
+  },
+  {
+   "word": "inventory-level",
+   "ph": "/ˈɪnvəntɔːri ˈlevl/",
+   "pos": "n. 庫存量",
+   "zh": "庫存水位；庫存量",
+   "colloc": "maintain inventory-levels 維持庫存量 | optimal inventory-level 最佳庫存量",
+   "distinct": "stock 存貨 | storage 儲藏",
+   "ex": [
+    [
+     "The manager monitors the inventory-level on a daily basis.",
+     "經理每天監控庫存量以確保供應。"
+    ],
+    [
+     "High inventory-levels can lead to increased storage costs.",
+     "高庫存量可能會導致倉儲成本增加。"
+    ],
+    [
+     "Adjusting the inventory-level helps meet the seasonal demand.",
+     "調整庫存水位有助於滿足季節性需求。"
+    ]
+   ]
+  },
+  {
+   "word": "dealership",
+   "ph": "/ˈdiːlərʃɪp/",
+   "pos": "n. 代理權；經銷商",
+   "zh": "經銷商；代理店",
+   "colloc": "car dealership 汽車經銷店 | authorized dealership 授權經銷",
+   "distinct": "agency 代理處 | retailer 零售商",
+   "ex": [
+    [
+     "The local dealership provides excellent after-sales service.",
+     "當地的經銷商提供了優質的售後服務。"
+    ],
+    [
+     "They applied for a dealership with a major motorcycle brand.",
+     "他們向一家大型摩托車品牌申請了經銷權。"
+    ],
+    [
+     "Visit the dealership to test drive the latest model.",
+     "前往經銷店試駕最新款式的汽車。"
+    ]
+   ]
+  },
+  {
+   "word": "markdown",
+   "ph": "/ˈmɑːrkdaʊn/",
+   "pos": "n. 降價",
+   "zh": "減價；調降價格",
+   "colloc": "seasonal markdown 季節性降價 | price markdown 價格調降",
+   "distinct": "discount 折扣 | reduction 減少",
+   "ex": [
+    [
+     "The store applied a significant markdown on winter coats.",
+     "商店對冬季大衣進行了大幅度的降價。"
+    ],
+    [
+     "Expect further markdowns as the holiday season ends.",
+     "隨著節日結束，預計會有進一步的降價。"
+    ],
+    [
+     "Frequent markdowns can sometimes hurt a brand's image.",
+     "頻繁的降價有時會損害品牌的形象。"
+    ]
+   ]
+  },
+  {
+   "word": "markup",
+   "ph": "/ˈmɑːrkʌp/",
+   "pos": "n. 加價",
+   "zh": "利潤幅度；加價",
+   "colloc": "standard markup 標準加價 | percentage markup 加價百分比",
+   "distinct": "profit 利潤 | margin 毛利",
+   "ex": [
+    [
+     "The retailer typically applies a fifty percent markup.",
+     "零售商通常會加上百分之五十的利潤。"
+    ],
+    [
+     "Some luxury goods have an incredibly high markup.",
+     "某些奢侈品擁有令人難以置信的高加價。"
+    ],
+    [
+     "We must justify the markup by offering superior quality.",
+     "我們必須透過提供優質品質來證明加價合理。"
+    ]
+   ]
+  },
+  {
+   "word": "channel",
+   "ph": "/ˈtʃænl/",
+   "pos": "n. 通路；渠道",
+   "zh": "通路；管道",
+   "colloc": "distribution channel 分銷通路 | marketing channel 行銷渠道",
+   "distinct": "route 路徑 | medium 媒介",
+   "ex": [
+    [
+     "Direct selling is a cost-effective distribution channel.",
+     "直銷是一種具備成本效益的分銷通路。"
+    ],
+    [
+     "The company is exploring online channels for growth.",
+     "該公司正探索線上通路以尋求成長。"
+    ],
+    [
+     "We need to open new channels to reach customers.",
+     "我們需要開闢新管道以接觸更多客戶。"
+    ]
+   ]
+  },
+  {
+   "word": "brokerage",
+   "ph": "/ˈbroʊkərɪdʒ/",
+   "pos": "n. 經紀業務；佣金",
+   "zh": "經紀商；中介費",
+   "colloc": "stock brokerage 股票經紀 | brokerage fee 經紀費",
+   "distinct": "commission 佣金 | agency 代理",
+   "ex": [
+    [
+     "The brokerage firm handles all our international investments.",
+     "這家經紀公司處理我們所有的國際投資。"
+    ],
+    [
+     "She pays a high brokerage fee for every trade.",
+     "她為每一筆交易支付高額的經紀費用。"
+    ],
+    [
+     "He works for a leading real estate brokerage in town.",
+     "他在鎮上一家領先的房地產經紀公司工作。"
+    ]
+   ]
+  },
+  {
+   "word": "merchandising",
+   "ph": "/ˈmɜːrtʃəndaɪzɪŋ/",
+   "pos": "n. 商品推銷",
+   "zh": "銷售規劃；推銷",
+   "colloc": "visual merchandising 視覺陳列 | merchandising strategy 推銷策略",
+   "distinct": "advertising 廣告 | marketing 行銷",
+   "ex": [
+    [
+     "Effective merchandising can significantly increase store traffic.",
+     "有效的商品陳列規劃能顯著增加店內人流。"
+    ],
+    [
+     "The team is working on a new merchandising plan.",
+     "團隊正在制定一項新的商品推銷計劃。"
+    ],
+    [
+     "Visual merchandising attracts customers through creative displays.",
+     "視覺陳列透過創意展示來吸引顧客。"
+    ]
+   ]
+  },
+  {
+   "word": "middle-tier",
+   "ph": "/ˈmɪdl tɪr/",
+   "pos": "adj. 中階的；中層的",
+   "zh": "中階的；中級的",
+   "colloc": "middle-tier market 中階市場 | middle-tier company 中型企業",
+   "distinct": "entry-level 入門級 | high-end 高階",
+   "ex": [
+    [
+     "This product is aimed at the middle-tier consumer segment.",
+     "這款產品針對的是中階消費者族群。"
+    ],
+    [
+     "The brand dominates the middle-tier market in Europe.",
+     "該品牌在歐洲的中階市場佔據主導地位。"
+    ],
+    [
+     "We offer middle-tier solutions for growing small businesses.",
+     "我們為成長中的小企業提供中階解決方案。"
+    ]
+   ]
+  },
+  {
+   "word": "e-commerce",
+   "ph": "/ˈiː kɑːmɜːrs/",
+   "pos": "n. 電子商務",
+   "zh": "電商；電子商務",
+   "colloc": "e-commerce platform 電商平台 | e-commerce site 電商網站",
+   "distinct": "retail 零售 | online-shopping 網購",
+   "ex": [
+    [
+     "The rise of e-commerce has transformed the retail industry.",
+     "電子商務的興起改變了零售產業。"
+    ],
+    [
+     "They are investing heavily in their e-commerce infrastructure.",
+     "他們正大力投資於其電子商務基礎設施。"
+    ],
+    [
+     "Managing an e-commerce site requires constant technical support.",
+     "經營電商網站需要持續的技術支援。"
+    ]
+   ]
+  },
+  {
+   "word": "stockist",
+   "ph": "/ˈstɑːkɪst/",
+   "pos": "n. 備貨商；零售商",
+   "zh": "經銷商；特約商店",
+   "colloc": "local stockist 當地經銷商 | authorized stockist 授權零售商",
+   "distinct": "distributor 分銷商 | supplier 供應商",
+   "ex": [
+    [
+     "Please contact your local stockist for more information.",
+     "請聯繫您當地的經銷商以獲取更多資訊。"
+    ],
+    [
+     "The website lists all the authorized stockists in Taiwan.",
+     "該網站列出了台灣所有授權的特約商店。"
+    ],
+    [
+     "We are looking for a reliable stockist in the north.",
+     "我們正在北部尋找一家可靠的備貨經銷商。"
+    ]
+   ]
+  }
+ ],
+ "generated": "2026-10-24 10:04"
+}
